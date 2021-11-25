@@ -1,348 +1,348 @@
-"","parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"1","myB","suzer̃-vɩn",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","younger siblings"
-"2","myZ","suzer̃-vɩn",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","younger siblings"
-"3","meB","apay-agay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","elder siblings"
-"4","meZ","apay-agay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","elder siblings"
-"5","mG","sestra-brat",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan"
-"6","mG","agay-vɩn",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"7","mG","suzer̃-apay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"8","mB","brat",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan"
-"9","mZ","sestra",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan"
-"10","meB","agay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"11","myB","etʸe,",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","younger (toddler) brother_ also used as addressing term; also  eke"
-"12","myZ","dɩdɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","younger (toddler) sister, also used as addressing term, also used dʸɩdʸɩ"
-"13","mP","anay-atay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","anay-atay is used in southern dialects and in the standard language,"
-"14","mF","dʸadʸay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian-based terms,  the accent is on the last syllable; also used  tʸatʸa, batʸu, papa"
-"15","mF","bubɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","bubɩ is used mostly in middle dialects, it is not used when adressing"
-"16","mM","memi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","also memey"
-"17","mM","mama",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan, the accent is on the last syllable"
-"18","mA","čɩžɩ-vɩžɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","relatives, all relatives including ancestors"
-"19","mPP","peresʸ  mumɩ-bubɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"20","mMM","čužanay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","variants of mother's mother; also čužay, čužayka, čuži, čužmumɩ"
-"21","mFB","nʸunʸu",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","also addressing form of the younger brother to an elder brother in some dialects"
-"22","mFB","dʸdʸa",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan"
-"23","mMB","dʸdʸa",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan"
-"24","mFeB","baӡӡɩm (баӟӟым) agay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","baӡӡɩm is big or elder, pokcʸi (or picʸi) is small or young"
-"25","mFyB","pokcʸi agay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"26","mFeZ","baӡӡɩm (баӟӟым) apay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"27","mFyZ","pokcʸi apay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"28","mMeZ","čužapay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"29","mMyZ","čužapay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"30","mMeB","čužmurt",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"31","mBS","bratezlen piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj brat"
-"32","mBD","bratezlen nɩlɩz",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra"
-"33","mZS","sestrayezlen piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan,  sometimes also the Russian word is used, e.g. dvojurodnoj brat"
-"34","mZD","sestrayezlen  nɩlɩz",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra"
-"35","meBS","agaylen piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"36","myBS","vɩnlen piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"37","meBD","agaylen nɩlɩz",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"38","myBD","vɩnlen nɩlɩz",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"39","meZS","apaylen piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"40","myZS","suzer̃len piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"41","meZD","apaylen nɩlɩz",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"42","mFByS","vɩn, eke",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"43","mFZyS","vɩn, eke",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"44","mMZS","čužodig",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"45","meBW","kenak",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","adressing from to elder brother's wife"
-"46","myBW","icʸimenʸ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"47","meZH","kɩrsʸi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"48","myZH","emespi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","younger sister's husband"
-"49","mWB","varmisʸka",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Also varmespi,  varmaypi"
-"50","mWZ","varmaka",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","wife's elder sister, Fin. Käly; also bultɩr"
-"51","mHeB","agayzɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"52","mHyB","šɩdnar",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","addressing term of the elder brother's wife toward the husband's younger brother"
-"53","mHeZ","apayzɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Also alʸcʸika"
-"54","mHyZ","uzʸɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"55","mFW(notM)","sʸuranay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Also sʸurmumɩ"
-"56","mSW","vɩlʸken",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"57","mSW","ken",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","vɩlʸken lit. Is new+son's wife that means a newcoming wife"
-"58","mySW","icʸimenʸ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","addresing form of elder brother's wifes to younger brother's wife"
-"59","mSWM","tuklʸacʸi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","svatʸtʸa is Russian loan"
-"60","mDH","emespi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"61","mDHM","tuklʸacʸi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","svatʸtʸa is Russian loan"
-"62","mDHF","kudo",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","svat is Russian loan"
-"63","mFZH","kɩrsʸi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"64","mFBW","kenak",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"65","mMZH","kɩrsʸi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"66","mMBW","čužkenak",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"67","mWSH","busʸon",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Also busʸono"
-"68","mMeZS","čužodig",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Inferred;"
-"69","mMyZS","čužodig",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Inferred;"
-"70","mMZeS","čužodig",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Inferred;"
-"71","mMZyS","čužodig",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Inferred;"
-"72","fyB","suzer̃-vɩn",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","younger siblings"
-"73","fyZ","suzer̃-vɩn",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","younger siblings"
-"74","feB","apay-agay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","elder siblings"
-"75","feZ","apay-agay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","elder siblings"
-"76","fG","sestra-brat",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan"
-"77","fG","agay-vɩn",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"78","fG","suzer̃-apay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"79","fB","brat",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan"
-"80","fZ","sestra",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan"
-"81","feB","agay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"82","fyB","etʸe",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","younger (toddler) brother_ also used as addressing term; also  eke"
-"83","fP","anay-atay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","anay-atay is used in southern dialects and in the standard language,"
-"84","fF","dʸadʸay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian-based terms,  the accent is on the last syllable; also used  tʸatʸa, batʸu, papa"
-"85","fF","bubɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","bubɩ is used mostly in middle dialects, it is not used when adressing"
-"86","fM","memi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","also memey"
-"87","fM","mama",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan, the accent is on the last syllable"
-"88","fA","čɩžɩ-vɩžɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","relatives, all relatives including ancestors"
-"89","fPP","peresʸ  mumɩ-bubɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"90","fMM","čužanay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","variants of mother's mother; also čužay, čužayka, čuži, čužmumɩ"
-"91","fFB","nʸunʸu",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","also addressing form of the younger brother to an elder brother in some dialects"
-"92","fFB","dʸdʸa",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan"
-"93","fMB","dʸdʸa",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan"
-"94","fFeB","baӡӡɩm (баӟӟым) agay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","baӡӡɩm is big or elder, pokcʸi (or picʸi) is small or young"
-"95","fFyB","pokcʸi agay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"96","fFeZ","baӡӡɩm (баӟӟым) apay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"97","fFyZ","pokcʸi apay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"98","fMeZ","čužapay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"99","fMyZ","čužapay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"100","fMeB","čužmurt",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"101","fBS","bratezlen piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj brat"
-"102","fBD","bratezlen nɩlɩz",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra"
-"103","fZS","sestrayezlen piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan,  sometimes also the Russian word is used, e.g. dvojurodnoj brat"
-"104","fZD","sestrayezlen  nɩlɩz",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra"
-"105","feBS","agaylen piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"106","fyBS","vɩnlen piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"107","feBD","agaylen nɩlɩz",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"108","fyBD","vɩnlen nɩlɩz",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"109","feZS","apaylen piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"110","fyZS","suzer̃len piyez",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"111","feZD","apaylen nɩlɩz",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"112","fFByS","vɩn, eke",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"113","fFZyS","vɩn, eke",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"114","fMZS","čužodig",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"115","feBW","kenak",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","adressing from to elder brother's wife"
-"116","fyBW","icʸimenʸ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"117","feZH","kɩrsʸi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"118","fyZH","emespi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","younger sister's husband"
-"119","fWB","varmisʸka",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Also varmespi,  varmaypi"
-"120","fWZ","varmaka",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","wife's elder sister, Fin. Käly; also bultɩr"
-"121","fHeB","agayzɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"122","fHyB","šɩdnar",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","addressing term of the elder brother's wife toward the husband's younger brother"
-"123","fHeZ","apayzɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Also alʸcʸika"
-"124","fHyZ","uzʸɩ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"125","fFW(notM)","sʸuranay",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Also sʸurmumɩ"
-"126","fSW","vɩlʸken",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"127","fSW","ken",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","vɩlʸken lit. Is new+son's wife that means a newcoming wife"
-"128","fySW","icʸimenʸ",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","addresing form of elder brother's wifes to younger brother's wife"
-"129","fSWM","tuklʸacʸi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","svatʸtʸa is Russian loan"
-"130","fDH","emespi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"131","fDHF","kudo",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","svat is Russian loan"
-"132","fFZH","kɩrsʸi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"133","fFBW","kenak",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"134","fMZH","kɩrsʸi",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"135","fMBW","čužkenak",NA,NA,NA,"UR17","jedygarova_udmu1245_2020",""
-"136","fMeZS","čužodig",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Inferred;"
-"137","fMyZS","čužodig",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Inferred;"
-"138","fMZeS","čužodig",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Inferred;"
-"139","fMZyS","čužodig",NA,NA,NA,"UR17","jedygarova_udmu1245_2020","Inferred;"
-"140","myB","vɩn",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","younger brother; it is not used in all dialects"
-"141","meB","agay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","elder brother"
-"142","myZ","suzer̃",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","younger sister"
-"143","meZ","apay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","elder sister; in some dialects apa 'elder sister; aunt'"
-"144","mP","mumɩ-bubɩ",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","mumɩ-bubɩ is used mostly in middle dialects"
-"145","mM","mumɩ",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
-"146","mC","nɩlpi",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","a child in southern dialects"
-"147","mC","pinal",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","a child in middle and northern dialects"
-"148","mPP","peresʸ anay-atay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"149","mMF","čužatay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-"150","mDD","nɩlɩzlen nɩlɩz",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"151","mFZ","apay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"152","mMB","čužmurt",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-"153","mMZ","čužapay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"154","mMZ","čužapa, čužaka",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"155","mMBD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"156","mMZD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"157","mE","kuzpaljos",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","for both in plural form"
-"158","mHF","aymurt",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","the form like atay-zɩ means father-PX3PL lit. 'their father' , the 3PL became lexicalized here. The same thing happens with the husband's mother. Also , ayɩmurt, atayzɩ, dʸadʸayzɩ"
-"159","mHM","anayzɩ",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Also  memeyzɩ, nenezɩ"
-"160","mWF","var̃may",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Also var̃matay, var̃mayɩ"
-"161","mWM","var̃mumɩ",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Also var̃manay, var̃nene"
-"162","mMH(notF)","sʸuratay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Also sʸurbubɩ"
-"163","mMeBD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"164","mMyBD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"165","mMeZD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"166","mMyZD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"167","mMBeD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"168","mMByD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"169","mMZeD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"170","mMZyD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"171","fyB","vɩn",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","younger brother; it is not used in all dialects"
-"172","feB","agay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","elder brother"
-"173","fyZ","suzer̃",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","younger sister"
-"174","feZ","apay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","elder sister; in some dialects apa 'elder sister; aunt'"
-"175","fP","mumɩ-bubɩ",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","mumɩ-bubɩ is used mostly in middle dialects"
-"176","fM","mumɩ",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
-"177","fC","nɩlpi",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","a child in southern dialects"
-"178","fC","pinal",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","a child in middle and northern dialects"
-"179","fPP","peresʸ anay-atay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"180","fMF","čužatay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-"181","fDD","nɩlɩzlen nɩlɩz",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"182","fFZ","apay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"183","fMB","čužmurt",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-"184","fMZ","čužapay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"185","fMZ","čužapa, čužaka",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"186","fMBD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"187","fMZD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020",""
-"188","fE","kuzpaljos",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","for both in plural form"
-"189","fHM","anayzɩ",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Also  memeyzɩ, nenezɩ"
-"190","fWF","var̃may",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Also var̃matay, var̃mayɩ"
-"191","fWM","var̃mumɩ",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Also var̃manay, var̃nene"
-"192","fMH(notF)","sʸuratay",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Also sʸurbubɩ"
-"193","fMeBD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"194","fMyBD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"195","fMeZD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"196","fMyZD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"197","fMBeD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"198","fMByD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"199","fMZeD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"200","fMZyD","čužodig",NA,NA,NA,"UR14","jedygarova_udmu1245_2020","Inferred;"
-"201","mF","atay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"202","mF","ayɩ",NA,NA,NA,"UR14","karpova_udmurt_2015","also has meaning male animal e.g. ayi puni 'male dog'"
-"203","mM","anay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"204","mM","nene",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"205","mS","pi",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"206","mD","nɩl",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"207","mFF","pesʸatay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"208","mFM","pesʸanay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"209","mSS","piyezlen piyez",NA,NA,NA,"UR14","karpova_udmurt_2015","here and further both components have the possessive suffix 3SG:  nɩl-ɩz-len pi-yez girl-3SG-GEN boy-3SG. Actually all kin terms in Udmurt are used with possessive suffixes. They are not used only when adressing, e.g. anay! ""Mom!""  Except words nɩl-ɩ girl-1SG 'daughter!' and pi-ye boy-1SG 'Son!'"
-"210","mSD","piyezlen nɩlɩz",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"211","mDS","nɩlɩzlen piyez",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"212","mFB","agay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"213","mMyB","čužmurt",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"214","mBS","agaylen (vɩnlen) piyez",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"215","mBD","agaylen (vɩnlen) nɩlɩz",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"216","mZS","apaylen (suzer̃len) piyez",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"217","mZD","apaylen (suzer̃len) nɩlɩz",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"218","myZD","suzer̃len nɩlɩz",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"219","mFZD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"220","mFBD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"221","mFBeS","agay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"222","mFBeS","dʸdʸay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"223","mFZeS","agay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"224","mFZeS","dʸdʸay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"225","mMBS","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"226","mH","kar̃t",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"227","mH","kuzpal",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"228","mW","kɩšno",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"229","mW","kuzpal",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"230","mSWF","kudo",NA,NA,NA,"UR14","karpova_udmurt_2015","svat is Russian loan"
-"231","mFeBD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"232","mFyBD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"233","mFeZD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"234","mFyZD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"235","mMeBS","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"236","mMyBS","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"237","mFBeD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"238","mFByD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"239","mFZeD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"240","mFZyD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"241","mMBeS","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"242","mMByS","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"243","fF","atay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"244","fF","ayɩ",NA,NA,NA,"UR14","karpova_udmurt_2015","also has meaning male animal e.g. ayi puni 'male dog'"
-"245","fM","anay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"246","fM","nene",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"247","fS","pi",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"248","fD","nɩl",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"249","fFF","pesʸatay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"250","fFM","pesʸanay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"251","fSS","piyezlen piyez",NA,NA,NA,"UR14","karpova_udmurt_2015","here and further both components have the possessive suffix 3SG:  nɩl-ɩz-len pi-yez girl-3SG-GEN boy-3SG. Actually all kin terms in Udmurt are used with possessive suffixes. They are not used only when adressing, e.g. anay! ""Mom!""  Except words nɩl-ɩ girl-1SG 'daughter!' and pi-ye boy-1SG 'Son!'"
-"252","fSD","piyezlen nɩlɩz",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"253","fDS","nɩlɩzlen piyez",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"254","fFB","agay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"255","fMyB","čužmurt",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"256","fBS","agaylen (vɩnlen) piyez",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"257","fBD","agaylen (vɩnlen) nɩlɩz",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"258","fZS","apaylen (suzer̃len) piyez",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"259","fZD","apaylen (suzer̃len) nɩlɩz",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"260","fyZD","suzer̃len nɩlɩz",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"261","fFZD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"262","fFBD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"263","fFBeS","agay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"264","fFBeS","dʸdʸay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"265","fFZeS","agay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"266","fFZeS","dʸdʸay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"267","fMBS","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"268","fH","kar̃t",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"269","fH","kuzpal",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"270","fW","kɩšno",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"271","fW","kuzpal",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"272","fSWF","kudo",NA,NA,NA,"UR14","karpova_udmurt_2015","svat is Russian loan"
-"273","fFeBD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"274","fFyBD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"275","fFeZD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"276","fFyZD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"277","fMeBS","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"278","fMyBS","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"279","fFBeD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"280","fFByD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"281","fFZeD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"282","fFZyD","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"283","fMBeS","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"284","fMByS","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"285","myB","vɩn",NA,NA,NA,"UR14","karpova_udmurt_2015","younger brother; it is not used in all dialects"
-"286","meB","agay",NA,NA,NA,"UR14","karpova_udmurt_2015","elder brother"
-"287","myZ","suzer̃",NA,NA,NA,"UR14","karpova_udmurt_2015","younger sister"
-"288","meZ","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","elder sister; in some dialects apa 'elder sister; aunt'"
-"289","mP","mumɩ-bubɩ",NA,NA,NA,"UR14","karpova_udmurt_2015","mumɩ-bubɩ is used mostly in middle dialects"
-"290","mM","mumɩ",NA,NA,NA,"UR14","karpova_udmurt_2015","also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
-"291","mC","nɩlpi",NA,NA,NA,"UR14","karpova_udmurt_2015","a child in southern dialects"
-"292","mC","pinal",NA,NA,NA,"UR14","karpova_udmurt_2015","a child in middle and northern dialects"
-"293","mPP","peresʸ anay-atay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"294","mMF","čužatay",NA,NA,NA,"UR14","karpova_udmurt_2015","relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-"295","mDD","nɩlɩzlen nɩlɩz",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"296","mFZ","apay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"297","mMB","čužmurt",NA,NA,NA,"UR14","karpova_udmurt_2015","relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-"298","mMZ","čužapay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"299","mMZ","čužapa",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"300","mMZ","čužaka",NA,NA,NA,"UR14","",""
-"301","mMBD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"302","mMZD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"303","mE","kuzpaljos",NA,NA,NA,"UR14","karpova_udmurt_2015","for both in plural form"
-"304","mHF","aymurt",NA,NA,NA,"UR14","karpova_udmurt_2015","the form like atay-zɩ means father-PX3PL lit. 'their father' , the 3PL became lexicalized here. The same thing happens with the husband's mother. Also , ayɩmurt, atayzɩ, dʸadʸayzɩ"
-"305","mHM","anayzɩ",NA,NA,NA,"UR14","karpova_udmurt_2015","Also  memeyzɩ, nenezɩ"
-"306","mWF","var̃may",NA,NA,NA,"UR14","karpova_udmurt_2015","Also var̃matay, var̃mayɩ"
-"307","mWM","var̃mumɩ",NA,NA,NA,"UR14","karpova_udmurt_2015","Also var̃manay, var̃nene"
-"308","mMH(notF)","sʸuratay",NA,NA,NA,"UR14","karpova_udmurt_2015","Also sʸurbubɩ"
-"309","mMeBD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"310","mMyBD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"311","mMeZD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"312","mMyZD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"313","mMBeD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"314","mMByD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"315","mMZeD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"316","mMZyD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"317","fyB","vɩn",NA,NA,NA,"UR14","karpova_udmurt_2015","younger brother; it is not used in all dialects"
-"318","feB","agay",NA,NA,NA,"UR14","karpova_udmurt_2015","elder brother"
-"319","fyZ","suzer̃",NA,NA,NA,"UR14","karpova_udmurt_2015","younger sister"
-"320","feZ","apay",NA,NA,NA,"UR14","karpova_udmurt_2015","elder sister; in some dialects apa 'elder sister; aunt'"
-"321","fP","mumɩ-bubɩ",NA,NA,NA,"UR14","karpova_udmurt_2015","mumɩ-bubɩ is used mostly in middle dialects"
-"322","fM","mumɩ",NA,NA,NA,"UR14","karpova_udmurt_2015","also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
-"323","fC","nɩlpi",NA,NA,NA,"UR14","karpova_udmurt_2015","a child in southern dialects"
-"324","fC","pinal",NA,NA,NA,"UR14","karpova_udmurt_2015","a child in middle and northern dialects"
-"325","fPP","peresʸ anay-atay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"326","fMF","čužatay",NA,NA,NA,"UR14","karpova_udmurt_2015","relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-"327","fDD","nɩlɩzlen nɩlɩz",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"328","fFZ","apay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"329","fMB","čužmurt",NA,NA,NA,"UR14","karpova_udmurt_2015","relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-"330","fMZ","čužapay",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"331","fMZ","čužapa",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"332","fMZ","čužaka",NA,NA,NA,"UR15","karpova_udmurt_2015",""
-"333","fMBD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"334","fMZD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015",""
-"335","fE","kuzpaljos",NA,NA,NA,"UR14","karpova_udmurt_2015","for both in plural form"
-"336","fHM","anayzɩ",NA,NA,NA,"UR14","karpova_udmurt_2015","Also  memeyzɩ, nenezɩ"
-"337","fWF","var̃may",NA,NA,NA,"UR14","karpova_udmurt_2015","Also var̃matay, var̃mayɩ"
-"338","fWM","var̃mumɩ",NA,NA,NA,"UR14","karpova_udmurt_2015","Also var̃manay, var̃nene"
-"339","fMH(notF)","sʸuratay",NA,NA,NA,"UR14","karpova_udmurt_2015","Also sʸurbubɩ"
-"340","fMeBD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"341","fMyBD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"342","fMeZD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"343","fMyZD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"344","fMBeD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"345","fMByD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"346","fMZeD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
-"347","fMZyD","čužodig",NA,NA,NA,"UR14","karpova_udmurt_2015","Inferred;"
+,X,parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+1,1,myB,suzer̃-vɩn,,,,UR17,jedygarova_udmu1245_2020,younger siblings
+2,2,myZ,suzer̃-vɩn,,,,UR17,jedygarova_udmu1245_2020,younger siblings
+3,3,meB,apay-agay,,,,UR17,jedygarova_udmu1245_2020,elder siblings
+4,4,meZ,apay-agay,,,,UR17,jedygarova_udmu1245_2020,elder siblings
+5,5,mG,sestra-brat,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+6,6,mG,agay-vɩn,,,,UR17,jedygarova_udmu1245_2020,
+7,7,mG,suzer̃-apay,,,,UR17,jedygarova_udmu1245_2020,
+8,8,mB,brat,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+9,9,mZ,sestra,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+10,10,meB,agay,,,,UR17,jedygarova_udmu1245_2020,
+11,11,myB,etʸe,,,,,UR17,jedygarova_udmu1245_2020,younger (toddler) brother_ also used as addressing term; also  eke
+12,12,myZ,dɩdɩ,,,,UR17,jedygarova_udmu1245_2020,younger (toddler) sister, also used as addressing term, also used dʸɩdʸɩ
+13,13,mP,anay-atay,,,,UR17,jedygarova_udmu1245_2020,anay-atay is used in southern dialects and in the standard language,
+14,14,mF,dʸadʸay,,,,UR17,jedygarova_udmu1245_2020,Russian-based terms,  the accent is on the last syllable; also used  tʸatʸa, batʸu, papa
+15,15,mF,bubɩ,,,,UR17,jedygarova_udmu1245_2020,bubɩ is used mostly in middle dialects, it is not used when adressing
+16,16,mM,memi,,,,UR17,jedygarova_udmu1245_2020,also memey
+17,17,mM,mama,,,,UR17,jedygarova_udmu1245_2020,Russian loan, the accent is on the last syllable
+18,18,mA,čɩžɩ-vɩžɩ,,,,UR17,jedygarova_udmu1245_2020,relatives, all relatives including ancestors
+19,19,mPP,peresʸ  mumɩ-bubɩ,,,,UR17,jedygarova_udmu1245_2020,
+20,20,mMM,čužanay,,,,UR17,jedygarova_udmu1245_2020,variants of mother's mother; also čužay, čužayka, čuži, čužmumɩ
+21,21,mFB,nʸunʸu,,,,UR17,jedygarova_udmu1245_2020,also addressing form of the younger brother to an elder brother in some dialects
+22,22,mFB,dʸdʸa,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+23,23,mMB,dʸdʸa,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+24,24,mFeB,baӡӡɩm (баӟӟым) agay,,,,UR17,jedygarova_udmu1245_2020,baӡӡɩm is big or elder, pokcʸi (or picʸi) is small or young
+25,25,mFyB,pokcʸi agay,,,,UR17,jedygarova_udmu1245_2020,
+26,26,mFeZ,baӡӡɩm (баӟӟым) apay,,,,UR17,jedygarova_udmu1245_2020,
+27,27,mFyZ,pokcʸi apay,,,,UR17,jedygarova_udmu1245_2020,
+28,28,mMeZ,čužapay,,,,UR17,jedygarova_udmu1245_2020,
+29,29,mMyZ,čužapay,,,,UR17,jedygarova_udmu1245_2020,
+30,30,mMeB,čužmurt,,,,UR17,jedygarova_udmu1245_2020,
+31,31,mBS,bratezlen piyez,,,,UR17,jedygarova_udmu1245_2020,Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj brat
+32,32,mBD,bratezlen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra
+33,33,mZS,sestrayezlen piyez,,,,UR17,jedygarova_udmu1245_2020,Russian loan,  sometimes also the Russian word is used, e.g. dvojurodnoj brat
+34,34,mZD,sestrayezlen  nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra
+35,35,meBS,agaylen piyez,,,,UR17,jedygarova_udmu1245_2020,
+36,36,myBS,vɩnlen piyez,,,,UR17,jedygarova_udmu1245_2020,
+37,37,meBD,agaylen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+38,38,myBD,vɩnlen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+39,39,meZS,apaylen piyez,,,,UR17,jedygarova_udmu1245_2020,
+40,40,myZS,suzer̃len piyez,,,,UR17,jedygarova_udmu1245_2020,
+41,41,meZD,apaylen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+42,42,mFByS,vɩn, eke,,,,UR17,jedygarova_udmu1245_2020,
+43,43,mFZyS,vɩn, eke,,,,UR17,jedygarova_udmu1245_2020,
+44,44,mMZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,
+45,45,meBW,kenak,,,,UR17,jedygarova_udmu1245_2020,adressing from to elder brother's wife
+46,46,myBW,icʸimenʸ,,,,UR17,jedygarova_udmu1245_2020,
+47,47,meZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+48,48,myZH,emespi,,,,UR17,jedygarova_udmu1245_2020,younger sister's husband
+49,49,mWB,varmisʸka,,,,UR17,jedygarova_udmu1245_2020,Also varmespi,  varmaypi
+50,50,mWZ,varmaka,,,,UR17,jedygarova_udmu1245_2020,wife's elder sister, Fin. Käly; also bultɩr
+51,51,mHeB,agayzɩ,,,,UR17,jedygarova_udmu1245_2020,
+52,52,mHyB,šɩdnar,,,,UR17,jedygarova_udmu1245_2020,addressing term of the elder brother's wife toward the husband's younger brother
+53,53,mHeZ,apayzɩ,,,,UR17,jedygarova_udmu1245_2020,Also alʸcʸika
+54,54,mHyZ,uzʸɩ,,,,UR17,jedygarova_udmu1245_2020,
+55,55,mFW(notM),sʸuranay,,,,UR17,jedygarova_udmu1245_2020,Also sʸurmumɩ
+56,56,mSW,vɩlʸken,,,,UR17,jedygarova_udmu1245_2020,
+57,57,mSW,ken,,,,UR17,jedygarova_udmu1245_2020,vɩlʸken lit. Is new+son's wife that means a newcoming wife
+58,58,mySW,icʸimenʸ,,,,UR17,jedygarova_udmu1245_2020,addresing form of elder brother's wifes to younger brother's wife
+59,59,mSWM,tuklʸacʸi,,,,UR17,jedygarova_udmu1245_2020,svatʸtʸa is Russian loan
+60,60,mDH,emespi,,,,UR17,jedygarova_udmu1245_2020,
+61,61,mDHM,tuklʸacʸi,,,,UR17,jedygarova_udmu1245_2020,svatʸtʸa is Russian loan
+62,62,mDHF,kudo,,,,UR17,jedygarova_udmu1245_2020,svat is Russian loan
+63,63,mFZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+64,64,mFBW,kenak,,,,UR17,jedygarova_udmu1245_2020,
+65,65,mMZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+66,66,mMBW,čužkenak,,,,UR17,jedygarova_udmu1245_2020,
+67,67,mWSH,busʸon,,,,UR17,jedygarova_udmu1245_2020,Also busʸono
+68,68,mMeZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+69,69,mMyZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+70,70,mMZeS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+71,71,mMZyS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+72,72,fyB,suzer̃-vɩn,,,,UR17,jedygarova_udmu1245_2020,younger siblings
+73,73,fyZ,suzer̃-vɩn,,,,UR17,jedygarova_udmu1245_2020,younger siblings
+74,74,feB,apay-agay,,,,UR17,jedygarova_udmu1245_2020,elder siblings
+75,75,feZ,apay-agay,,,,UR17,jedygarova_udmu1245_2020,elder siblings
+76,76,fG,sestra-brat,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+77,77,fG,agay-vɩn,,,,UR17,jedygarova_udmu1245_2020,
+78,78,fG,suzer̃-apay,,,,UR17,jedygarova_udmu1245_2020,
+79,79,fB,brat,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+80,80,fZ,sestra,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+81,81,feB,agay,,,,UR17,jedygarova_udmu1245_2020,
+82,82,fyB,etʸe,,,,UR17,jedygarova_udmu1245_2020,younger (toddler) brother_ also used as addressing term; also  eke
+83,83,fP,anay-atay,,,,UR17,jedygarova_udmu1245_2020,anay-atay is used in southern dialects and in the standard language,
+84,84,fF,dʸadʸay,,,,UR17,jedygarova_udmu1245_2020,Russian-based terms,  the accent is on the last syllable; also used  tʸatʸa, batʸu, papa
+85,85,fF,bubɩ,,,,UR17,jedygarova_udmu1245_2020,bubɩ is used mostly in middle dialects, it is not used when adressing
+86,86,fM,memi,,,,UR17,jedygarova_udmu1245_2020,also memey
+87,87,fM,mama,,,,UR17,jedygarova_udmu1245_2020,Russian loan, the accent is on the last syllable
+88,88,fA,čɩžɩ-vɩžɩ,,,,UR17,jedygarova_udmu1245_2020,relatives, all relatives including ancestors
+89,89,fPP,peresʸ  mumɩ-bubɩ,,,,UR17,jedygarova_udmu1245_2020,
+90,90,fMM,čužanay,,,,UR17,jedygarova_udmu1245_2020,variants of mother's mother; also čužay, čužayka, čuži, čužmumɩ
+91,91,fFB,nʸunʸu,,,,UR17,jedygarova_udmu1245_2020,also addressing form of the younger brother to an elder brother in some dialects
+92,92,fFB,dʸdʸa,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+93,93,fMB,dʸdʸa,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+94,94,fFeB,baӡӡɩm (баӟӟым) agay,,,,UR17,jedygarova_udmu1245_2020,baӡӡɩm is big or elder, pokcʸi (or picʸi) is small or young
+95,95,fFyB,pokcʸi agay,,,,UR17,jedygarova_udmu1245_2020,
+96,96,fFeZ,baӡӡɩm (баӟӟым) apay,,,,UR17,jedygarova_udmu1245_2020,
+97,97,fFyZ,pokcʸi apay,,,,UR17,jedygarova_udmu1245_2020,
+98,98,fMeZ,čužapay,,,,UR17,jedygarova_udmu1245_2020,
+99,99,fMyZ,čužapay,,,,UR17,jedygarova_udmu1245_2020,
+100,100,fMeB,čužmurt,,,,UR17,jedygarova_udmu1245_2020,
+101,101,fBS,bratezlen piyez,,,,UR17,jedygarova_udmu1245_2020,Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj brat
+102,102,fBD,bratezlen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra
+103,103,fZS,sestrayezlen piyez,,,,UR17,jedygarova_udmu1245_2020,Russian loan,  sometimes also the Russian word is used, e.g. dvojurodnoj brat
+104,104,fZD,sestrayezlen  nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra
+105,105,feBS,agaylen piyez,,,,UR17,jedygarova_udmu1245_2020,
+106,106,fyBS,vɩnlen piyez,,,,UR17,jedygarova_udmu1245_2020,
+107,107,feBD,agaylen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+108,108,fyBD,vɩnlen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+109,109,feZS,apaylen piyez,,,,UR17,jedygarova_udmu1245_2020,
+110,110,fyZS,suzer̃len piyez,,,,UR17,jedygarova_udmu1245_2020,
+111,111,feZD,apaylen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+112,112,fFByS,vɩn, eke,,,,UR17,jedygarova_udmu1245_2020,
+113,113,fFZyS,vɩn, eke,,,,UR17,jedygarova_udmu1245_2020,
+114,114,fMZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,
+115,115,feBW,kenak,,,,UR17,jedygarova_udmu1245_2020,adressing from to elder brother's wife
+116,116,fyBW,icʸimenʸ,,,,UR17,jedygarova_udmu1245_2020,
+117,117,feZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+118,118,fyZH,emespi,,,,UR17,jedygarova_udmu1245_2020,younger sister's husband
+119,119,fWB,varmisʸka,,,,UR17,jedygarova_udmu1245_2020,Also varmespi,  varmaypi
+120,120,fWZ,varmaka,,,,UR17,jedygarova_udmu1245_2020,wife's elder sister, Fin. Käly; also bultɩr
+121,121,fHeB,agayzɩ,,,,UR17,jedygarova_udmu1245_2020,
+122,122,fHyB,šɩdnar,,,,UR17,jedygarova_udmu1245_2020,addressing term of the elder brother's wife toward the husband's younger brother
+123,123,fHeZ,apayzɩ,,,,UR17,jedygarova_udmu1245_2020,Also alʸcʸika
+124,124,fHyZ,uzʸɩ,,,,UR17,jedygarova_udmu1245_2020,
+125,125,fFW(notM),sʸuranay,,,,UR17,jedygarova_udmu1245_2020,Also sʸurmumɩ
+126,126,fSW,vɩlʸken,,,,UR17,jedygarova_udmu1245_2020,
+127,127,fSW,ken,,,,UR17,jedygarova_udmu1245_2020,vɩlʸken lit. Is new+son's wife that means a newcoming wife
+128,128,fySW,icʸimenʸ,,,,UR17,jedygarova_udmu1245_2020,addresing form of elder brother's wifes to younger brother's wife
+129,129,fSWM,tuklʸacʸi,,,,UR17,jedygarova_udmu1245_2020,svatʸtʸa is Russian loan
+130,130,fDH,emespi,,,,UR17,jedygarova_udmu1245_2020,
+131,131,fDHF,kudo,,,,UR17,jedygarova_udmu1245_2020,svat is Russian loan
+132,132,fFZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+133,133,fFBW,kenak,,,,UR17,jedygarova_udmu1245_2020,
+134,134,fMZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+135,135,fMBW,čužkenak,,,,UR17,jedygarova_udmu1245_2020,
+136,136,fMeZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+137,137,fMyZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+138,138,fMZeS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+139,139,fMZyS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+140,140,myB,vɩn,,,,UR14,jedygarova_udmu1245_2020,younger brother; it is not used in all dialects
+141,141,meB,agay,,,,UR14,jedygarova_udmu1245_2020,elder brother
+142,142,myZ,suzer̃,,,,UR14,jedygarova_udmu1245_2020,younger sister
+143,143,meZ,apay,,,,UR14,jedygarova_udmu1245_2020,elder sister; in some dialects apa 'elder sister; aunt'
+144,144,mP,mumɩ-bubɩ,,,,UR14,jedygarova_udmu1245_2020,mumɩ-bubɩ is used mostly in middle dialects
+145,145,mM,mumɩ,,,,UR14,jedygarova_udmu1245_2020,also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing
+146,146,mC,nɩlpi,,,,UR14,jedygarova_udmu1245_2020,a child in southern dialects
+147,147,mC,pinal,,,,UR14,jedygarova_udmu1245_2020,a child in middle and northern dialects
+148,148,mPP,peresʸ anay-atay,,,,UR14,jedygarova_udmu1245_2020,
+149,149,mMF,čužatay,,,,UR14,jedygarova_udmu1245_2020,relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'
+150,150,mDD,nɩlɩzlen nɩlɩz,,,,UR14,jedygarova_udmu1245_2020,
+151,151,mFZ,apay,,,,UR14,jedygarova_udmu1245_2020,
+152,152,mMB,čužmurt,,,,UR14,jedygarova_udmu1245_2020,relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'
+153,153,mMZ,čužapay,,,,UR14,jedygarova_udmu1245_2020,
+154,154,mMZ,čužapa, čužaka,,,,UR14,jedygarova_udmu1245_2020,
+155,155,mMBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,
+156,156,mMZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,
+157,157,mE,kuzpaljos,,,,UR14,jedygarova_udmu1245_2020,for both in plural form
+158,158,mHF,aymurt,,,,UR14,jedygarova_udmu1245_2020,the form like atay-zɩ means father-PX3PL lit. 'their father' , the 3PL became lexicalized here. The same thing happens with the husband's mother. Also , ayɩmurt, atayzɩ, dʸadʸayzɩ
+159,159,mHM,anayzɩ,,,,UR14,jedygarova_udmu1245_2020,Also  memeyzɩ, nenezɩ
+160,160,mWF,var̃may,,,,UR14,jedygarova_udmu1245_2020,Also var̃matay, var̃mayɩ
+161,161,mWM,var̃mumɩ,,,,UR14,jedygarova_udmu1245_2020,Also var̃manay, var̃nene
+162,162,mMH(notF),sʸuratay,,,,UR14,jedygarova_udmu1245_2020,Also sʸurbubɩ
+163,163,mMeBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+164,164,mMyBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+165,165,mMeZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+166,166,mMyZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+167,167,mMBeD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+168,168,mMByD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+169,169,mMZeD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+170,170,mMZyD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+171,171,fyB,vɩn,,,,UR14,jedygarova_udmu1245_2020,younger brother; it is not used in all dialects
+172,172,feB,agay,,,,UR14,jedygarova_udmu1245_2020,elder brother
+173,173,fyZ,suzer̃,,,,UR14,jedygarova_udmu1245_2020,younger sister
+174,174,feZ,apay,,,,UR14,jedygarova_udmu1245_2020,elder sister; in some dialects apa 'elder sister; aunt'
+175,175,fP,mumɩ-bubɩ,,,,UR14,jedygarova_udmu1245_2020,mumɩ-bubɩ is used mostly in middle dialects
+176,176,fM,mumɩ,,,,UR14,jedygarova_udmu1245_2020,also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing
+177,177,fC,nɩlpi,,,,UR14,jedygarova_udmu1245_2020,a child in southern dialects
+178,178,fC,pinal,,,,UR14,jedygarova_udmu1245_2020,a child in middle and northern dialects
+179,179,fPP,peresʸ anay-atay,,,,UR14,jedygarova_udmu1245_2020,
+180,180,fMF,čužatay,,,,UR14,jedygarova_udmu1245_2020,relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'
+181,181,fDD,nɩlɩzlen nɩlɩz,,,,UR14,jedygarova_udmu1245_2020,
+182,182,fFZ,apay,,,,UR14,jedygarova_udmu1245_2020,
+183,183,fMB,čužmurt,,,,UR14,jedygarova_udmu1245_2020,relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'
+184,184,fMZ,čužapay,,,,UR14,jedygarova_udmu1245_2020,
+185,185,fMZ,čužapa, čužaka,,,,UR14,jedygarova_udmu1245_2020,
+186,186,fMBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,
+187,187,fMZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,
+188,188,fE,kuzpaljos,,,,UR14,jedygarova_udmu1245_2020,for both in plural form
+189,189,fHM,anayzɩ,,,,UR14,jedygarova_udmu1245_2020,Also  memeyzɩ, nenezɩ
+190,190,fWF,var̃may,,,,UR14,jedygarova_udmu1245_2020,Also var̃matay, var̃mayɩ
+191,191,fWM,var̃mumɩ,,,,UR14,jedygarova_udmu1245_2020,Also var̃manay, var̃nene
+192,192,fMH(notF),sʸuratay,,,,UR14,jedygarova_udmu1245_2020,Also sʸurbubɩ
+193,193,fMeBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+194,194,fMyBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+195,195,fMeZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+196,196,fMyZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+197,197,fMBeD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+198,198,fMByD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+199,199,fMZeD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+200,200,fMZyD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+201,201,mF,atay,,,,UR14,karpova_udmurt_2015,
+202,202,mF,ayɩ,,,,UR14,karpova_udmurt_2015,also has meaning male animal e.g. ayi puni 'male dog'
+203,203,mM,anay,,,,UR14,karpova_udmurt_2015,
+204,204,mM,nene,,,,UR14,karpova_udmurt_2015,
+205,205,mS,pi,,,,UR14,karpova_udmurt_2015,
+206,206,mD,nɩl,,,,UR14,karpova_udmurt_2015,
+207,207,mFF,pesʸatay,,,,UR14,karpova_udmurt_2015,
+208,208,mFM,pesʸanay,,,,UR14,karpova_udmurt_2015,
+209,209,mSS,piyezlen piyez,,,,UR14,karpova_udmurt_2015,here and further both components have the possessive suffix 3SG:  nɩl-ɩz-len pi-yez girl-3SG-GEN boy-3SG. Actually all kin terms in Udmurt are used with possessive suffixes. They are not used only when adressing, e.g. anay! "Mom!"  Except words nɩl-ɩ girl-1SG 'daughter!' and pi-ye boy-1SG 'Son!'
+210,210,mSD,piyezlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
+211,211,mDS,nɩlɩzlen piyez,,,,UR14,karpova_udmurt_2015,
+212,212,mFB,agay,,,,UR14,karpova_udmurt_2015,
+213,213,mMyB,čužmurt,,,,UR14,karpova_udmurt_2015,
+214,214,mBS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,
+215,215,mBD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,
+216,216,mZS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,
+217,217,mZD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,
+218,218,myZD,suzer̃len nɩlɩz,,,,UR14,karpova_udmurt_2015,
+219,219,mFZD,apay,,,,UR14,karpova_udmurt_2015,
+220,220,mFBD,apay,,,,UR14,karpova_udmurt_2015,
+221,221,mFBeS,agay,,,,UR14,karpova_udmurt_2015,
+222,222,mFBeS,dʸdʸay,,,,UR14,karpova_udmurt_2015,
+223,223,mFZeS,agay,,,,UR14,karpova_udmurt_2015,
+224,224,mFZeS,dʸdʸay,,,,UR14,karpova_udmurt_2015,
+225,225,mMBS,čužodig,,,,UR14,karpova_udmurt_2015,
+226,226,mH,kar̃t,,,,UR14,karpova_udmurt_2015,
+227,227,mH,kuzpal,,,,UR14,karpova_udmurt_2015,
+228,228,mW,kɩšno,,,,UR14,karpova_udmurt_2015,
+229,229,mW,kuzpal,,,,UR14,karpova_udmurt_2015,
+230,230,mSWF,kudo,,,,UR14,karpova_udmurt_2015,svat is Russian loan
+231,231,mFeBD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+232,232,mFyBD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+233,233,mFeZD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+234,234,mFyZD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+235,235,mMeBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+236,236,mMyBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+237,237,mFBeD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+238,238,mFByD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+239,239,mFZeD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+240,240,mFZyD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+241,241,mMBeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+242,242,mMByS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+243,243,fF,atay,,,,UR14,karpova_udmurt_2015,
+244,244,fF,ayɩ,,,,UR14,karpova_udmurt_2015,also has meaning male animal e.g. ayi puni 'male dog'
+245,245,fM,anay,,,,UR14,karpova_udmurt_2015,
+246,246,fM,nene,,,,UR14,karpova_udmurt_2015,
+247,247,fS,pi,,,,UR14,karpova_udmurt_2015,
+248,248,fD,nɩl,,,,UR14,karpova_udmurt_2015,
+249,249,fFF,pesʸatay,,,,UR14,karpova_udmurt_2015,
+250,250,fFM,pesʸanay,,,,UR14,karpova_udmurt_2015,
+251,251,fSS,piyezlen piyez,,,,UR14,karpova_udmurt_2015,here and further both components have the possessive suffix 3SG:  nɩl-ɩz-len pi-yez girl-3SG-GEN boy-3SG. Actually all kin terms in Udmurt are used with possessive suffixes. They are not used only when adressing, e.g. anay! "Mom!"  Except words nɩl-ɩ girl-1SG 'daughter!' and pi-ye boy-1SG 'Son!'
+252,252,fSD,piyezlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
+253,253,fDS,nɩlɩzlen piyez,,,,UR14,karpova_udmurt_2015,
+254,254,fFB,agay,,,,UR14,karpova_udmurt_2015,
+255,255,fMyB,čužmurt,,,,UR14,karpova_udmurt_2015,
+256,256,fBS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,
+257,257,fBD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,
+258,258,fZS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,
+259,259,fZD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,
+260,260,fyZD,suzer̃len nɩlɩz,,,,UR14,karpova_udmurt_2015,
+261,261,fFZD,apay,,,,UR14,karpova_udmurt_2015,
+262,262,fFBD,apay,,,,UR14,karpova_udmurt_2015,
+263,263,fFBeS,agay,,,,UR14,karpova_udmurt_2015,
+264,264,fFBeS,dʸdʸay,,,,UR14,karpova_udmurt_2015,
+265,265,fFZeS,agay,,,,UR14,karpova_udmurt_2015,
+266,266,fFZeS,dʸdʸay,,,,UR14,karpova_udmurt_2015,
+267,267,fMBS,čužodig,,,,UR14,karpova_udmurt_2015,
+268,268,fH,kar̃t,,,,UR14,karpova_udmurt_2015,
+269,269,fH,kuzpal,,,,UR14,karpova_udmurt_2015,
+270,270,fW,kɩšno,,,,UR14,karpova_udmurt_2015,
+271,271,fW,kuzpal,,,,UR14,karpova_udmurt_2015,
+272,272,fSWF,kudo,,,,UR14,karpova_udmurt_2015,svat is Russian loan
+273,273,fFeBD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+274,274,fFyBD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+275,275,fFeZD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+276,276,fFyZD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+277,277,fMeBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+278,278,fMyBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+279,279,fFBeD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+280,280,fFByD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+281,281,fFZeD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+282,282,fFZyD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+283,283,fMBeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+284,284,fMByS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+285,285,myB,vɩn,,,,UR14,karpova_udmurt_2015,younger brother; it is not used in all dialects
+286,286,meB,agay,,,,UR14,karpova_udmurt_2015,elder brother
+287,287,myZ,suzer̃,,,,UR14,karpova_udmurt_2015,younger sister
+288,288,meZ,apay,,,,UR14,karpova_udmurt_2015,elder sister; in some dialects apa 'elder sister; aunt'
+289,289,mP,mumɩ-bubɩ,,,,UR14,karpova_udmurt_2015,mumɩ-bubɩ is used mostly in middle dialects
+290,290,mM,mumɩ,,,,UR14,karpova_udmurt_2015,also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing
+291,291,mC,nɩlpi,,,,UR14,karpova_udmurt_2015,a child in southern dialects
+292,292,mC,pinal,,,,UR14,karpova_udmurt_2015,a child in middle and northern dialects
+293,293,mPP,peresʸ anay-atay,,,,UR14,karpova_udmurt_2015,
+294,294,mMF,čužatay,,,,UR14,karpova_udmurt_2015,relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'
+295,295,mDD,nɩlɩzlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
+296,296,mFZ,apay,,,,UR14,karpova_udmurt_2015,
+297,297,mMB,čužmurt,,,,UR14,karpova_udmurt_2015,relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'
+298,298,mMZ,čužapay,,,,UR14,karpova_udmurt_2015,
+299,299,mMZ,čužapa,,,,UR14,karpova_udmurt_2015,
+300,300,mMZ,čužaka,,,,UR14,,
+301,301,mMBD,čužodig,,,,UR14,karpova_udmurt_2015,
+302,302,mMZD,čužodig,,,,UR14,karpova_udmurt_2015,
+303,303,mE,kuzpaljos,,,,UR14,karpova_udmurt_2015,for both in plural form
+304,304,mHF,aymurt,,,,UR14,karpova_udmurt_2015,the form like atay-zɩ means father-PX3PL lit. 'their father' , the 3PL became lexicalized here. The same thing happens with the husband's mother. Also , ayɩmurt, atayzɩ, dʸadʸayzɩ
+305,305,mHM,anayzɩ,,,,UR14,karpova_udmurt_2015,Also  memeyzɩ, nenezɩ
+306,306,mWF,var̃may,,,,UR14,karpova_udmurt_2015,Also var̃matay, var̃mayɩ
+307,307,mWM,var̃mumɩ,,,,UR14,karpova_udmurt_2015,Also var̃manay, var̃nene
+308,308,mMH(notF),sʸuratay,,,,UR14,karpova_udmurt_2015,Also sʸurbubɩ
+309,309,mMeBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+310,310,mMyBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+311,311,mMeZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+312,312,mMyZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+313,313,mMBeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+314,314,mMByD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+315,315,mMZeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+316,316,mMZyD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+317,317,fyB,vɩn,,,,UR14,karpova_udmurt_2015,younger brother; it is not used in all dialects
+318,318,feB,agay,,,,UR14,karpova_udmurt_2015,elder brother
+319,319,fyZ,suzer̃,,,,UR14,karpova_udmurt_2015,younger sister
+320,320,feZ,apay,,,,UR14,karpova_udmurt_2015,elder sister; in some dialects apa 'elder sister; aunt'
+321,321,fP,mumɩ-bubɩ,,,,UR14,karpova_udmurt_2015,mumɩ-bubɩ is used mostly in middle dialects
+322,322,fM,mumɩ,,,,UR14,karpova_udmurt_2015,also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing
+323,323,fC,nɩlpi,,,,UR14,karpova_udmurt_2015,a child in southern dialects
+324,324,fC,pinal,,,,UR14,karpova_udmurt_2015,a child in middle and northern dialects
+325,325,fPP,peresʸ anay-atay,,,,UR14,karpova_udmurt_2015,
+326,326,fMF,čužatay,,,,UR14,karpova_udmurt_2015,relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'
+327,327,fDD,nɩlɩzlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
+328,328,fFZ,apay,,,,UR14,karpova_udmurt_2015,
+329,329,fMB,čužmurt,,,,UR14,karpova_udmurt_2015,relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'
+330,330,fMZ,čužapay,,,,UR14,karpova_udmurt_2015,
+331,331,fMZ,čužapa,,,,UR14,karpova_udmurt_2015,
+332,332,fMZ,čužaka,,,,UR15,karpova_udmurt_2015,
+333,333,fMBD,čužodig,,,,UR14,karpova_udmurt_2015,
+334,334,fMZD,čužodig,,,,UR14,karpova_udmurt_2015,
+335,335,fE,kuzpaljos,,,,UR14,karpova_udmurt_2015,for both in plural form
+336,336,fHM,anayzɩ,,,,UR14,karpova_udmurt_2015,Also  memeyzɩ, nenezɩ
+337,337,fWF,var̃may,,,,UR14,karpova_udmurt_2015,Also var̃matay, var̃mayɩ
+338,338,fWM,var̃mumɩ,,,,UR14,karpova_udmurt_2015,Also var̃manay, var̃nene
+339,339,fMH(notF),sʸuratay,,,,UR14,karpova_udmurt_2015,Also sʸurbubɩ
+340,340,fMeBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+341,341,fMyBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+342,342,fMeZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+343,343,fMyZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+344,344,fMBeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+345,345,fMByD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+346,346,fMZeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+347,347,fMZyD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;

@@ -1,301 +1,301 @@
-"","parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"1","mG","yiwpux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"2","mG","yiwewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"3","mB","yiwpux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"4","mZ","yiwewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"5","myB","apsʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"6","myB","apal",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"7","myZ","apsʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"8","myZ","apalne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"9","mF","asʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"10","mM","aŋki",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"11","mC","yultɨ xasʸtɨ ewi-pux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"12","mS","pux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"13","mD","ewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"14","mFF","aŋksʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"15","mFF","sʸatsʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"16","mFM","aŋkaŋkʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"17","mFM","sʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"18","mMF","aŋksʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"19","mMF","sʸatsʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"20","mMM","aŋkaŋkʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"21","mMM","sʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"22","mSS","xilɨ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"23","mSD","xilne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"24","mDS","xilɨ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"25","mDD","xilne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"26","mFB","aki",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"27","mFB","yay",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"28","mFZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"29","mFZ","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"30","mMB","wər̃tɨ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"31","mMZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"32","mMZ","nɨy",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"33","mBS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"34","mBD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"35","mZS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"36","mZD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"37","mFZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"38","mFZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"39","mFBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"40","mFBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"41","mMBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"42","mMBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"43","mMZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"44","mMZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"45","mFBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"46","mFBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"47","mFZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"48","mFZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"49","mMBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"50","mMBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"51","mMZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"52","mMZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"53","mH","iki ~ xə",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"54","mW","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"55","mHF","kʸilɨ ikʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"56","mHM","kʸilɨ imʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"57","mWF","kʸilɨ ikʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"58","mWM","kʸilɨ imʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"59","mSW","mʸenʸ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"60","mSW","mʸenʸ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"61","mDH","wʸeŋ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"62","mDH","ur̃ti wʸeŋ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"63","meB","yiwpux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"64","meZ","yiwewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"65","mFeB","aki",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"66","mFeB","yay",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"67","mFyB","aki",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"68","mFyB","yay",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"69","mFeZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"70","mFeZ","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"71","mFyZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"72","mFyZ","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"73","mMeZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"74","mMeZ","nɨy",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"75","mMyZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"76","mMyZ","nɨy",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"77","mMeB","wər̃tɨ",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"78","mMyB","wər̃tɨ",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"79","meBS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"80","myBS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"81","meBD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"82","myBD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"83","meZS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"84","myZS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"85","meZD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"86","myZD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"87","mFeBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"88","mFeBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"89","mFyBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"90","mFyBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"91","mFeZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"92","mFeZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"93","mFyZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"94","mFyZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"95","mFeBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"96","mFeBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"97","mFyBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"98","mFyBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"99","mFeZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"100","mFeZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"101","mFyZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"102","mFyZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"103","mMeBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"104","mMeBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"105","mMyBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"106","mMyBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"107","mMeZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"108","mMeZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"109","mMyZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"110","mMyZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"111","mMeBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"112","mMeBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"113","mMyBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"114","mMyBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"115","mMeZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"116","mMeZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"117","mMyZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"118","mMyZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"119","mFBeS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"120","mFBeS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"121","mFByS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"122","mFByS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"123","mFZeS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"124","mFZeS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"125","mFZyS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"126","mFZyS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"127","mFBeD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"128","mFBeD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"129","mFByD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"130","mFByD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"131","mFZeD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"132","mFZeD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"133","mFZyD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"134","mFZyD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"135","mMBeS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"136","mMBeS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"137","mMByS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"138","mMByS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"139","mMZeS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"140","mMZeS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"141","mMZyS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"142","mMZyS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"143","mMBeD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"144","mMBeD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"145","mMByD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"146","mMByD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"147","mMZeD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"148","mMZeD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"149","mMZyD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"150","mMZyD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"151","fG","yiwpux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"152","fG","yiwewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"153","fB","yiwpux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"154","fZ","yiwewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"155","fyB","apsʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"156","fyB","apal",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"157","fyZ","apsʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"158","fyZ","apalne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"159","fF","asʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"160","fM","aŋki",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"161","fC","yultɨ xasʸtɨ ewi-pux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"162","fS","pux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"163","fD","ewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"164","fFF","aŋksʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"165","fFF","sʸatsʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"166","fFM","aŋkaŋkʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"167","fFM","sʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"168","fMF","aŋksʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"169","fMF","sʸatsʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"170","fMM","aŋkaŋkʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"171","fMM","sʸasʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"172","fSS","xilɨ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"173","fSD","xilne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"174","fDS","xilɨ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"175","fDD","xilne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"176","fFB","aki",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"177","fFB","yay",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"178","fFZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"179","fFZ","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"180","fMB","wər̃tɨ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"181","fMZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"182","fMZ","nɨy",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"183","fBS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"184","fBD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"185","fZS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"186","fZD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"187","fFZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"188","fFZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"189","fFBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"190","fFBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"191","fMBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"192","fMBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"193","fMZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"194","fMZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"195","fFBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"196","fFBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"197","fFZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"198","fFZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"199","fMBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"200","fMBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"201","fMZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"202","fMZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"203","fH","iki ~ xə",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"204","fW","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"205","fHF","kʸilɨ ikʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"206","fHM","kʸilɨ imʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"207","fWF","kʸilɨ ikʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"208","fWM","kʸilɨ imʸi",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"209","fSW","mʸenʸ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"210","fSW","mʸenʸ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"211","fDH","wʸeŋ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"212","fDH","ur̃ti wʸeŋ",NA,NA,NA,"UR10","kochkareva_khanty_2015",""
-"213","feB","yiwpux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"214","feZ","yiwewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"215","fFeB","aki",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"216","fFeB","yay",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"217","fFyB","aki",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"218","fFyB","yay",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"219","fFeZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"220","fFeZ","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"221","fFyZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"222","fFyZ","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"223","fMeZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"224","fMeZ","nɨy",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"225","fMyZ","imi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"226","fMyZ","nɨy",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"227","fMeB","wər̃tɨ",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"228","fMyB","wər̃tɨ",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"229","feBS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"230","fyBS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"231","feBD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"232","fyBD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"233","feZS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"234","fyZS","lexə",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"235","feZD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"236","fyZD","or̃tne",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"237","fFeBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"238","fFeBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"239","fFyBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"240","fFyBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"241","fFeZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"242","fFeZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"243","fFyZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"244","fFyZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"245","fFeBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"246","fFeBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"247","fFyBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"248","fFyBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"249","fFeZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"250","fFeZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"251","fFyZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"252","fFyZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"253","fMeBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"254","fMeBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"255","fMyBS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"256","fMyBS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"257","fMeZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"258","fMeZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"259","fMyZS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"260","fMyZS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"261","fMeBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"262","fMeBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"263","fMyBD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"264","fMyBD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"265","fMeZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"266","fMeZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"267","fMyZD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"268","fMyZD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"269","fFBeS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"270","fFBeS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"271","fFByS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"272","fFByS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"273","fFZeS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"274","fFZeS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"275","fFZyS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"276","fFZyS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"277","fFBeD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"278","fFBeD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"279","fFByD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"280","fFByD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"281","fFZeD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"282","fFZeD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"283","fFZyD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"284","fFZyD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"285","fMBeS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"286","fMBeS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"287","fMByS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"288","fMByS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"289","fMZeS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"290","fMZeS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"291","fMZyS","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"292","fMZyS","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"293","fMBeD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"294","fMBeD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"295","fMByD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"296","fMByD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"297","fMZeD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"298","fMZeD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"299","fMZyD","aspux",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
-"300","fMZyD","asewi",NA,NA,NA,"UR10","kochkareva_khanty_2015","Inferred; NA"
+,X,parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+1,1,mG,yiwpux,,,,UR10,kochkareva_khanty_2015,
+2,2,mG,yiwewi,,,,UR10,kochkareva_khanty_2015,
+3,3,mB,yiwpux,,,,UR10,kochkareva_khanty_2015,
+4,4,mZ,yiwewi,,,,UR10,kochkareva_khanty_2015,
+5,5,myB,apsʸi,,,,UR10,kochkareva_khanty_2015,
+6,6,myB,apal,,,,UR10,kochkareva_khanty_2015,
+7,7,myZ,apsʸi,,,,UR10,kochkareva_khanty_2015,
+8,8,myZ,apalne,,,,UR10,kochkareva_khanty_2015,
+9,9,mF,asʸi,,,,UR10,kochkareva_khanty_2015,
+10,10,mM,aŋki,,,,UR10,kochkareva_khanty_2015,
+11,11,mC,yultɨ xasʸtɨ ewi-pux,,,,UR10,kochkareva_khanty_2015,
+12,12,mS,pux,,,,UR10,kochkareva_khanty_2015,
+13,13,mD,ewi,,,,UR10,kochkareva_khanty_2015,
+14,14,mFF,aŋksʸasʸi,,,,UR10,kochkareva_khanty_2015,
+15,15,mFF,sʸatsʸasʸi,,,,UR10,kochkareva_khanty_2015,
+16,16,mFM,aŋkaŋkʸi,,,,UR10,kochkareva_khanty_2015,
+17,17,mFM,sʸasʸi,,,,UR10,kochkareva_khanty_2015,
+18,18,mMF,aŋksʸasʸi,,,,UR10,kochkareva_khanty_2015,
+19,19,mMF,sʸatsʸasʸi,,,,UR10,kochkareva_khanty_2015,
+20,20,mMM,aŋkaŋkʸi,,,,UR10,kochkareva_khanty_2015,
+21,21,mMM,sʸasʸi,,,,UR10,kochkareva_khanty_2015,
+22,22,mSS,xilɨ,,,,UR10,kochkareva_khanty_2015,
+23,23,mSD,xilne,,,,UR10,kochkareva_khanty_2015,
+24,24,mDS,xilɨ,,,,UR10,kochkareva_khanty_2015,
+25,25,mDD,xilne,,,,UR10,kochkareva_khanty_2015,
+26,26,mFB,aki,,,,UR10,kochkareva_khanty_2015,
+27,27,mFB,yay,,,,UR10,kochkareva_khanty_2015,
+28,28,mFZ,imi,,,,UR10,kochkareva_khanty_2015,
+29,29,mFZ,or̃tne,,,,UR10,kochkareva_khanty_2015,
+30,30,mMB,wər̃tɨ,,,,UR10,kochkareva_khanty_2015,
+31,31,mMZ,imi,,,,UR10,kochkareva_khanty_2015,
+32,32,mMZ,nɨy,,,,UR10,kochkareva_khanty_2015,
+33,33,mBS,lexə,,,,UR10,kochkareva_khanty_2015,
+34,34,mBD,or̃tne,,,,UR10,kochkareva_khanty_2015,
+35,35,mZS,lexə,,,,UR10,kochkareva_khanty_2015,
+36,36,mZD,or̃tne,,,,UR10,kochkareva_khanty_2015,
+37,37,mFZD,aspux,,,,UR10,kochkareva_khanty_2015,
+38,38,mFZD,asewi,,,,UR10,kochkareva_khanty_2015,
+39,39,mFBD,aspux,,,,UR10,kochkareva_khanty_2015,
+40,40,mFBD,asewi,,,,UR10,kochkareva_khanty_2015,
+41,41,mMBD,aspux,,,,UR10,kochkareva_khanty_2015,
+42,42,mMBD,asewi,,,,UR10,kochkareva_khanty_2015,
+43,43,mMZD,aspux,,,,UR10,kochkareva_khanty_2015,
+44,44,mMZD,asewi,,,,UR10,kochkareva_khanty_2015,
+45,45,mFBS,aspux,,,,UR10,kochkareva_khanty_2015,
+46,46,mFBS,asewi,,,,UR10,kochkareva_khanty_2015,
+47,47,mFZS,aspux,,,,UR10,kochkareva_khanty_2015,
+48,48,mFZS,asewi,,,,UR10,kochkareva_khanty_2015,
+49,49,mMBS,aspux,,,,UR10,kochkareva_khanty_2015,
+50,50,mMBS,asewi,,,,UR10,kochkareva_khanty_2015,
+51,51,mMZS,aspux,,,,UR10,kochkareva_khanty_2015,
+52,52,mMZS,asewi,,,,UR10,kochkareva_khanty_2015,
+53,53,mH,iki ~ xə,,,,UR10,kochkareva_khanty_2015,
+54,54,mW,imi,,,,UR10,kochkareva_khanty_2015,
+55,55,mHF,kʸilɨ ikʸi,,,,UR10,kochkareva_khanty_2015,
+56,56,mHM,kʸilɨ imʸi,,,,UR10,kochkareva_khanty_2015,
+57,57,mWF,kʸilɨ ikʸi,,,,UR10,kochkareva_khanty_2015,
+58,58,mWM,kʸilɨ imʸi,,,,UR10,kochkareva_khanty_2015,
+59,59,mSW,mʸenʸ,,,,UR10,kochkareva_khanty_2015,
+60,60,mSW,mʸenʸ,,,,UR10,kochkareva_khanty_2015,
+61,61,mDH,wʸeŋ,,,,UR10,kochkareva_khanty_2015,
+62,62,mDH,ur̃ti wʸeŋ,,,,UR10,kochkareva_khanty_2015,
+63,63,meB,yiwpux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+64,64,meZ,yiwewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+65,65,mFeB,aki,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+66,66,mFeB,yay,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+67,67,mFyB,aki,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+68,68,mFyB,yay,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+69,69,mFeZ,imi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+70,70,mFeZ,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+71,71,mFyZ,imi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+72,72,mFyZ,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+73,73,mMeZ,imi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+74,74,mMeZ,nɨy,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+75,75,mMyZ,imi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+76,76,mMyZ,nɨy,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+77,77,mMeB,wər̃tɨ,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+78,78,mMyB,wər̃tɨ,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+79,79,meBS,lexə,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+80,80,myBS,lexə,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+81,81,meBD,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+82,82,myBD,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+83,83,meZS,lexə,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+84,84,myZS,lexə,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+85,85,meZD,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+86,86,myZD,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+87,87,mFeBS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+88,88,mFeBS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+89,89,mFyBS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+90,90,mFyBS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+91,91,mFeZS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+92,92,mFeZS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+93,93,mFyZS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+94,94,mFyZS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+95,95,mFeBD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+96,96,mFeBD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+97,97,mFyBD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+98,98,mFyBD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+99,99,mFeZD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+100,100,mFeZD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+101,101,mFyZD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+102,102,mFyZD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+103,103,mMeBS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+104,104,mMeBS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+105,105,mMyBS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+106,106,mMyBS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+107,107,mMeZS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+108,108,mMeZS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+109,109,mMyZS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+110,110,mMyZS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+111,111,mMeBD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+112,112,mMeBD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+113,113,mMyBD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+114,114,mMyBD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+115,115,mMeZD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+116,116,mMeZD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+117,117,mMyZD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+118,118,mMyZD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+119,119,mFBeS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+120,120,mFBeS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+121,121,mFByS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+122,122,mFByS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+123,123,mFZeS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+124,124,mFZeS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+125,125,mFZyS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+126,126,mFZyS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+127,127,mFBeD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+128,128,mFBeD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+129,129,mFByD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+130,130,mFByD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+131,131,mFZeD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+132,132,mFZeD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+133,133,mFZyD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+134,134,mFZyD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+135,135,mMBeS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+136,136,mMBeS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+137,137,mMByS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+138,138,mMByS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+139,139,mMZeS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+140,140,mMZeS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+141,141,mMZyS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+142,142,mMZyS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+143,143,mMBeD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+144,144,mMBeD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+145,145,mMByD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+146,146,mMByD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+147,147,mMZeD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+148,148,mMZeD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+149,149,mMZyD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+150,150,mMZyD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+151,151,fG,yiwpux,,,,UR10,kochkareva_khanty_2015,
+152,152,fG,yiwewi,,,,UR10,kochkareva_khanty_2015,
+153,153,fB,yiwpux,,,,UR10,kochkareva_khanty_2015,
+154,154,fZ,yiwewi,,,,UR10,kochkareva_khanty_2015,
+155,155,fyB,apsʸi,,,,UR10,kochkareva_khanty_2015,
+156,156,fyB,apal,,,,UR10,kochkareva_khanty_2015,
+157,157,fyZ,apsʸi,,,,UR10,kochkareva_khanty_2015,
+158,158,fyZ,apalne,,,,UR10,kochkareva_khanty_2015,
+159,159,fF,asʸi,,,,UR10,kochkareva_khanty_2015,
+160,160,fM,aŋki,,,,UR10,kochkareva_khanty_2015,
+161,161,fC,yultɨ xasʸtɨ ewi-pux,,,,UR10,kochkareva_khanty_2015,
+162,162,fS,pux,,,,UR10,kochkareva_khanty_2015,
+163,163,fD,ewi,,,,UR10,kochkareva_khanty_2015,
+164,164,fFF,aŋksʸasʸi,,,,UR10,kochkareva_khanty_2015,
+165,165,fFF,sʸatsʸasʸi,,,,UR10,kochkareva_khanty_2015,
+166,166,fFM,aŋkaŋkʸi,,,,UR10,kochkareva_khanty_2015,
+167,167,fFM,sʸasʸi,,,,UR10,kochkareva_khanty_2015,
+168,168,fMF,aŋksʸasʸi,,,,UR10,kochkareva_khanty_2015,
+169,169,fMF,sʸatsʸasʸi,,,,UR10,kochkareva_khanty_2015,
+170,170,fMM,aŋkaŋkʸi,,,,UR10,kochkareva_khanty_2015,
+171,171,fMM,sʸasʸi,,,,UR10,kochkareva_khanty_2015,
+172,172,fSS,xilɨ,,,,UR10,kochkareva_khanty_2015,
+173,173,fSD,xilne,,,,UR10,kochkareva_khanty_2015,
+174,174,fDS,xilɨ,,,,UR10,kochkareva_khanty_2015,
+175,175,fDD,xilne,,,,UR10,kochkareva_khanty_2015,
+176,176,fFB,aki,,,,UR10,kochkareva_khanty_2015,
+177,177,fFB,yay,,,,UR10,kochkareva_khanty_2015,
+178,178,fFZ,imi,,,,UR10,kochkareva_khanty_2015,
+179,179,fFZ,or̃tne,,,,UR10,kochkareva_khanty_2015,
+180,180,fMB,wər̃tɨ,,,,UR10,kochkareva_khanty_2015,
+181,181,fMZ,imi,,,,UR10,kochkareva_khanty_2015,
+182,182,fMZ,nɨy,,,,UR10,kochkareva_khanty_2015,
+183,183,fBS,lexə,,,,UR10,kochkareva_khanty_2015,
+184,184,fBD,or̃tne,,,,UR10,kochkareva_khanty_2015,
+185,185,fZS,lexə,,,,UR10,kochkareva_khanty_2015,
+186,186,fZD,or̃tne,,,,UR10,kochkareva_khanty_2015,
+187,187,fFZD,aspux,,,,UR10,kochkareva_khanty_2015,
+188,188,fFZD,asewi,,,,UR10,kochkareva_khanty_2015,
+189,189,fFBD,aspux,,,,UR10,kochkareva_khanty_2015,
+190,190,fFBD,asewi,,,,UR10,kochkareva_khanty_2015,
+191,191,fMBD,aspux,,,,UR10,kochkareva_khanty_2015,
+192,192,fMBD,asewi,,,,UR10,kochkareva_khanty_2015,
+193,193,fMZD,aspux,,,,UR10,kochkareva_khanty_2015,
+194,194,fMZD,asewi,,,,UR10,kochkareva_khanty_2015,
+195,195,fFBS,aspux,,,,UR10,kochkareva_khanty_2015,
+196,196,fFBS,asewi,,,,UR10,kochkareva_khanty_2015,
+197,197,fFZS,aspux,,,,UR10,kochkareva_khanty_2015,
+198,198,fFZS,asewi,,,,UR10,kochkareva_khanty_2015,
+199,199,fMBS,aspux,,,,UR10,kochkareva_khanty_2015,
+200,200,fMBS,asewi,,,,UR10,kochkareva_khanty_2015,
+201,201,fMZS,aspux,,,,UR10,kochkareva_khanty_2015,
+202,202,fMZS,asewi,,,,UR10,kochkareva_khanty_2015,
+203,203,fH,iki ~ xə,,,,UR10,kochkareva_khanty_2015,
+204,204,fW,imi,,,,UR10,kochkareva_khanty_2015,
+205,205,fHF,kʸilɨ ikʸi,,,,UR10,kochkareva_khanty_2015,
+206,206,fHM,kʸilɨ imʸi,,,,UR10,kochkareva_khanty_2015,
+207,207,fWF,kʸilɨ ikʸi,,,,UR10,kochkareva_khanty_2015,
+208,208,fWM,kʸilɨ imʸi,,,,UR10,kochkareva_khanty_2015,
+209,209,fSW,mʸenʸ,,,,UR10,kochkareva_khanty_2015,
+210,210,fSW,mʸenʸ,,,,UR10,kochkareva_khanty_2015,
+211,211,fDH,wʸeŋ,,,,UR10,kochkareva_khanty_2015,
+212,212,fDH,ur̃ti wʸeŋ,,,,UR10,kochkareva_khanty_2015,
+213,213,feB,yiwpux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+214,214,feZ,yiwewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+215,215,fFeB,aki,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+216,216,fFeB,yay,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+217,217,fFyB,aki,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+218,218,fFyB,yay,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+219,219,fFeZ,imi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+220,220,fFeZ,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+221,221,fFyZ,imi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+222,222,fFyZ,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+223,223,fMeZ,imi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+224,224,fMeZ,nɨy,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+225,225,fMyZ,imi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+226,226,fMyZ,nɨy,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+227,227,fMeB,wər̃tɨ,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+228,228,fMyB,wər̃tɨ,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+229,229,feBS,lexə,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+230,230,fyBS,lexə,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+231,231,feBD,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+232,232,fyBD,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+233,233,feZS,lexə,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+234,234,fyZS,lexə,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+235,235,feZD,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+236,236,fyZD,or̃tne,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+237,237,fFeBS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+238,238,fFeBS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+239,239,fFyBS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+240,240,fFyBS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+241,241,fFeZS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+242,242,fFeZS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+243,243,fFyZS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+244,244,fFyZS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+245,245,fFeBD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+246,246,fFeBD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+247,247,fFyBD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+248,248,fFyBD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+249,249,fFeZD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+250,250,fFeZD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+251,251,fFyZD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+252,252,fFyZD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+253,253,fMeBS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+254,254,fMeBS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+255,255,fMyBS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+256,256,fMyBS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+257,257,fMeZS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+258,258,fMeZS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+259,259,fMyZS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+260,260,fMyZS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+261,261,fMeBD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+262,262,fMeBD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+263,263,fMyBD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+264,264,fMyBD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+265,265,fMeZD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+266,266,fMeZD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+267,267,fMyZD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+268,268,fMyZD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+269,269,fFBeS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+270,270,fFBeS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+271,271,fFByS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+272,272,fFByS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+273,273,fFZeS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+274,274,fFZeS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+275,275,fFZyS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+276,276,fFZyS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+277,277,fFBeD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+278,278,fFBeD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+279,279,fFByD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+280,280,fFByD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+281,281,fFZeD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+282,282,fFZeD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+283,283,fFZyD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+284,284,fFZyD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+285,285,fMBeS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+286,286,fMBeS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+287,287,fMByS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+288,288,fMByS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+289,289,fMZeS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+290,290,fMZeS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+291,291,fMZyS,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+292,292,fMZyS,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+293,293,fMBeD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+294,294,fMBeD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+295,295,fMByD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+296,296,fMByD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+297,297,fMZeD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+298,298,fMZeD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+299,299,fMZyD,aspux,,,,UR10,kochkareva_khanty_2015,Inferred; NA
+300,300,fMZyD,asewi,,,,UR10,kochkareva_khanty_2015,Inferred; NA

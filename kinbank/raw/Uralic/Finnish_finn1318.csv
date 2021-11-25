@@ -1,185 +1,185 @@
-"","parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"1","mG","sisarukset",NA,"male ego's sibling",NA,NA,NA,"used commonly in plural"
-"2","fG","sisarukset",NA,"female ego's sibling",NA,NA,NA,"used commonly in plural"
-"3","mB","veli",NA,"male ego's brother",NA,NA,NA,""
-"4","fB","veli",NA,"female ego's brother",NA,NA,NA,""
-"5","mZ","sisko",NA,"male ego's sister",NA,NA,NA,""
-"6","fZ","sisko",NA,"female ego's sister",NA,NA,NA,""
-"7","meB","veli",NA,"male ego's older brother",NA,NA,NA,""
-"8","myB","veli",NA,"male ego's younger brother",NA,NA,NA,""
-"9","feB","veli",NA,"female ego's older brother",NA,NA,NA,""
-"10","fyB","veli",NA,"female ego's younger brother",NA,NA,NA,""
-"11","meZ","sisko",NA,"male ego's older sister",NA,NA,NA,""
-"12","myZ","sisko",NA,"male ego's younger sister",NA,NA,NA,""
-"13","feZ","sisko",NA,"female ego's older sister",NA,NA,NA,""
-"14","fyZ","sisko",NA,"female ego's younger sister",NA,NA,NA,""
-"15","mP","vanhemmat",NA,"male ego's parents",NA,NA,NA,"used commonly in plural"
-"16","fP","vanhemmat",NA,"female ego's parents",NA,NA,NA,"used commonly in plural"
-"17","mF","isä",NA,"male ego's father",NA,NA,NA,""
-"18","mM","äiti",NA,"male ego's mother",NA,NA,NA,""
-"19","fF","isä",NA,"female ego's father",NA,NA,NA,""
-"20","fM","äiti",NA,"female ego's mother",NA,NA,NA,""
-"21","mC","lapsi",NA,"male ego's child",NA,NA,NA,""
-"22","fC","lapsi",NA,"female ego's child",NA,NA,NA,""
-"23","mS","poika",NA,"male ego's son",NA,NA,NA,""
-"24","fS","poika",NA,"female ego's son",NA,NA,NA,""
-"25","mD","tytär",NA,"male ego's daughter",NA,NA,NA,""
-"26","fD","tytär",NA,"female ego's daughter",NA,NA,NA,""
-"27","mCC","lapsenlapsi",NA,"male ego's grandchild",NA,NA,NA,""
-"28","fCC","lapsenlapsi",NA,"female ego's grandchild",NA,NA,NA,""
-"29","mSS","pojanpoika",NA,"male ego's son's son",NA,NA,NA,""
-"30","mSD","pojantytär",NA,"male ego's son's daughter",NA,NA,NA,""
-"31","mDS","tyttärenpoika",NA,"male ego's daughter's son",NA,NA,NA,""
-"32","mDD","tyttärentytär",NA,"male ego's daughter's daughter",NA,NA,NA,""
-"33","fSS","pojanpoika",NA,"female ego's son's son",NA,NA,NA,""
-"34","fSD","pojantytär",NA,"female ego's son's daughter",NA,NA,NA,""
-"35","fDS","tyttärenpoika",NA,"female ego's daughter's son",NA,NA,NA,""
-"36","fDD","tyttärentytär",NA,"female ego's daugher's daughter",NA,NA,NA,""
-"37","mA","esi-isä",NA,"male ego's ancestor",NA,NA,NA,""
-"38","fA","esi-isä",NA,"female ego's ancestor",NA,NA,NA,""
-"39","mPP","isovanhempi",NA,"male ego's grandparent",NA,NA,NA,""
-"40","fPP","isovanhempi",NA,"female ego's grandparent",NA,NA,NA,""
-"41","mFF","isänisä",NA,"male ego's father‘s father",NA,NA,NA,"grandparents usually decide themselves how they should be called: male can be e.g. isoisä, pappa, ukki or vaari."
-"42","mFM","isänäiti",NA,"male ego's father's mother",NA,NA,NA,"same for females, alternatives: eg. mummu,  mummi, mummo, isu"
-"43","mMF","äidinisä",NA,"male ego's mother's father",NA,NA,NA,""
-"44","mMM","äidinäiti",NA,"male ego's mother's mother",NA,NA,NA,""
-"45","fFF","isänisä",NA,"female ego's father's father",NA,NA,NA,""
-"46","fFM","isänäiti",NA,"female ego's father's mother",NA,NA,NA,""
-"47","fMF","äidinisä",NA,"female ego's mother's father",NA,NA,NA,""
-"48","fMM","äidinäiti",NA,"female ego's mother's mother",NA,NA,NA,""
-"49","meBS","veljenpoika",NA,"male ego's older brother's son",NA,NA,NA,"poika=boy"
-"50","myBS","veljenpoika",NA,"male ego's younger brother's son",NA,NA,NA,"tytär=daughter"
-"51","meZS","siskonpoika",NA,"male ego's older sister's son",NA,NA,NA,"veli=brother"
-"52","myZS","siskonpoika",NA,"male ego's younger sister's son",NA,NA,NA,"sisko=sister"
-"53","meBD","veljentytär",NA,"male ego's older brother's daughter",NA,NA,NA,"serkku=cousin"
-"54","myBD","veljentytär",NA,"male ego's younger brother's daughter",NA,NA,NA,""
-"55","meZD","siskontytär",NA,"male ego's older sister's daughter",NA,NA,NA,""
-"56","myZD","siskontytär",NA,"male ego's younger sister's daughter",NA,NA,NA,"tyttö, tytär"
-"57","feBS","veljenpoika",NA,"female ego's older brother's son",NA,NA,NA,""
-"58","fyBS","veljenpoika",NA,"female ego's younger brother's son",NA,NA,NA,""
-"59","feZS","siskonpoika",NA,"female ego's older sister's son",NA,NA,NA,""
-"60","fyZS","siskonpoika",NA,"female ego's younger sister's son",NA,NA,NA,""
-"61","feBD","veljentytär",NA,"female ego's older brother's daughter",NA,NA,NA,""
-"62","fyBD","veljentytär",NA,"female ego's younger brother's daughter",NA,NA,NA,""
-"63","feZD","siskontytär",NA,"female ego's older sister's daughter",NA,NA,NA,""
-"64","fyZD","siskontytär",NA,"female ego's younger sister's daughter",NA,NA,NA,""
-"65","mFeB","setä",NA,"male ego's father's older brother",NA,NA,NA,""
-"66","mFyB","setä",NA,"male ego's father's younger brother",NA,NA,NA,""
-"67","mFeZ","täti",NA,"male ego's father's older sister",NA,NA,NA,""
-"68","mFyZ","täti",NA,"male ego's father's younger sister",NA,NA,NA,""
-"69","mMeB","eno",NA,"male ego's mother's older brother",NA,NA,NA,""
-"70","mMyB","eno",NA,"male ego's mother's younger brother",NA,NA,NA,""
-"71","mMeZ","täti",NA,"male ego's mother's older sister",NA,NA,NA,""
-"72","mMyZ","täti",NA,"male ego's mother's younger sister",NA,NA,NA,""
-"73","fFeB","setä",NA,"female ego's father's older brother",NA,NA,NA,""
-"74","fFyB","setä",NA,"female ego's father's younger brother",NA,NA,NA,""
-"75","fFeZ","täti",NA,"female ego's father's older sister",NA,NA,NA,""
-"76","fFyZ","täti",NA,"female ego's father's younger sister",NA,NA,NA,""
-"77","fMeB","eno",NA,"female ego's mother's older brother",NA,NA,NA,""
-"78","fMyB","eno",NA,"female ego's mother's younger brother",NA,NA,NA,""
-"79","fMeZ","täti",NA,"female ego's mother's older sister",NA,NA,NA,""
-"80","fMyZ","täti",NA,"female ego's mother's younger sister",NA,NA,NA,""
-"81","mE","puoliso",NA,"male ego's spouse",NA,NA,NA,""
-"82","fE","puoliso",NA,"female ego's spouse",NA,NA,NA,""
-"83","mW","vaimo",NA,"male ego's wife",NA,NA,NA,""
-"84","fH","aviomies",NA,"female ego‘s husband",NA,NA,NA,""
-"85","mDH","vävy",NA,"male ego's daughter's husband",NA,NA,NA,""
-"86","fDH","vävy",NA,"female ego's daughter's husband",NA,NA,NA,""
-"87","mSW","miniä",NA,"male ego's son's wife",NA,NA,NA,""
-"88","fSW","miniä",NA,"female ego's son's wife",NA,NA,NA,""
-"89","mWF","appi",NA,"male ego's wife's father",NA,NA,NA,""
-"90","mWM","anoppi",NA,"male ego's wife's mother",NA,NA,NA,""
-"91","mWB","lanko",NA,"male ego's wife's brother",NA,NA,NA,"From here on maybe a more finescaled explanation is needed."
-"92","mWZ","käly",NA,"male ego's wife's sister",NA,NA,NA,""
-"93","fHF","appi",NA,"female ego's husband's father",NA,NA,NA,""
-"94","fHM","anoppi",NA,"female ego's husband's mother",NA,NA,NA,""
-"95","fHB","lanko",NA,"female ego's husband's brother",NA,NA,NA,""
-"96","fHZ","käly, nato",NA,"female ego's husband's sister",NA,NA,NA,""
-"97","mBW","käly, nato",NA,"male ego's brother's wife",NA,NA,NA,""
-"98","fBW","käly, nato",NA,"female ego's brother's wife",NA,NA,NA,""
-"99","mZH","lanko",NA,"male ego's sister's husband",NA,NA,NA,""
-"100","fZH","lanko",NA,"female ego's sister's husband",NA,NA,NA,""
-"101","mFW(notM)","äitipuoli",NA,"male ego's father's wife (not mother)",NA,NA,NA,""
-"102","fFW(notM)","äitipuoli",NA,"female ego's father's wife (not mother)",NA,NA,NA,""
-"103","mMH(notF)","isäpuoli",NA,"male ego's mother's husband (not father)",NA,NA,NA,""
-"104","fMH(notF)","isäpuoli",NA,"female ego's mother's husband (not father)",NA,NA,NA,""
-"105","mFBS","serkku",NA,"male ego's father's brother's son",NA,NA,NA,""
-"106","mFZS","serkku",NA,"male ego's father's sister's son",NA,NA,NA,""
-"107","mMBS","serkku",NA,"male ego's mother's brother's son",NA,NA,NA,""
-"108","mMZS","serkku",NA,"male ego's mother's sister's son",NA,NA,NA,""
-"109","mFBD","serkku",NA,"male ego's father's brother's daughter",NA,NA,NA,""
-"110","mFZD","serkku",NA,"male ego's father's sister's daughter",NA,NA,NA,""
-"111","mMBD","serkku",NA,"male ego's mother's brother's daughter",NA,NA,NA,""
-"112","mMZD","serkku",NA,"male ego's mother's sister's daughter",NA,NA,NA,""
-"113","fFBS","serkku",NA,"female ego's father's brother's son",NA,NA,NA,""
-"114","fFZS","serkku",NA,"female ego's father's sister's son",NA,NA,NA,""
-"115","fMBS","serkku",NA,"female ego's mother's brother's son",NA,NA,NA,""
-"116","fMZS","serkku",NA,"female ego's mother's sister's son",NA,NA,NA,""
-"117","fFBD","serkku",NA,"female ego's father's brother's daughter",NA,NA,NA,""
-"118","fFZD","serkku",NA,"female ego's father's sister's daughter",NA,NA,NA,""
-"119","fMBD","serkku",NA,"female ego's mother's brother's daughter",NA,NA,NA,""
-"120","fMZD","serkku",NA,"female ego's mother's sister's daughter",NA,NA,NA,""
-"1051","mFeBS","serkku",NA,"male ego's father's brother's son",NA,NA,NA,"Inferred; "
-"1052","mFyBS","serkku",NA,"male ego's father's brother's son",NA,NA,NA,"Inferred; "
-"1061","mFeZS","serkku",NA,"male ego's father's sister's son",NA,NA,NA,"Inferred; "
-"1062","mFyZS","serkku",NA,"male ego's father's sister's son",NA,NA,NA,"Inferred; "
-"1091","mFeBD","serkku",NA,"male ego's father's brother's daughter",NA,NA,NA,"Inferred; "
-"1092","mFyBD","serkku",NA,"male ego's father's brother's daughter",NA,NA,NA,"Inferred; "
-"1101","mFeZD","serkku",NA,"male ego's father's sister's daughter",NA,NA,NA,"Inferred; "
-"1102","mFyZD","serkku",NA,"male ego's father's sister's daughter",NA,NA,NA,"Inferred; "
-"1071","mMeBS","serkku",NA,"male ego's mother's brother's son",NA,NA,NA,"Inferred; "
-"1072","mMyBS","serkku",NA,"male ego's mother's brother's son",NA,NA,NA,"Inferred; "
-"1081","mMeZS","serkku",NA,"male ego's mother's sister's son",NA,NA,NA,"Inferred; "
-"1082","mMyZS","serkku",NA,"male ego's mother's sister's son",NA,NA,NA,"Inferred; "
-"1111","mMeBD","serkku",NA,"male ego's mother's brother's daughter",NA,NA,NA,"Inferred; "
-"1112","mMyBD","serkku",NA,"male ego's mother's brother's daughter",NA,NA,NA,"Inferred; "
-"1121","mMeZD","serkku",NA,"male ego's mother's sister's daughter",NA,NA,NA,"Inferred; "
-"1122","mMyZD","serkku",NA,"male ego's mother's sister's daughter",NA,NA,NA,"Inferred; "
-"1053","mFBeS","serkku",NA,"male ego's father's brother's son",NA,NA,NA,"Inferred; "
-"1054","mFByS","serkku",NA,"male ego's father's brother's son",NA,NA,NA,"Inferred; "
-"1063","mFZeS","serkku",NA,"male ego's father's sister's son",NA,NA,NA,"Inferred; "
-"1064","mFZyS","serkku",NA,"male ego's father's sister's son",NA,NA,NA,"Inferred; "
-"1093","mFBeD","serkku",NA,"male ego's father's brother's daughter",NA,NA,NA,"Inferred; "
-"1094","mFByD","serkku",NA,"male ego's father's brother's daughter",NA,NA,NA,"Inferred; "
-"1103","mFZeD","serkku",NA,"male ego's father's sister's daughter",NA,NA,NA,"Inferred; "
-"1104","mFZyD","serkku",NA,"male ego's father's sister's daughter",NA,NA,NA,"Inferred; "
-"1073","mMBeS","serkku",NA,"male ego's mother's brother's son",NA,NA,NA,"Inferred; "
-"1074","mMByS","serkku",NA,"male ego's mother's brother's son",NA,NA,NA,"Inferred; "
-"1083","mMZeS","serkku",NA,"male ego's mother's sister's son",NA,NA,NA,"Inferred; "
-"1084","mMZyS","serkku",NA,"male ego's mother's sister's son",NA,NA,NA,"Inferred; "
-"1113","mMBeD","serkku",NA,"male ego's mother's brother's daughter",NA,NA,NA,"Inferred; "
-"1114","mMByD","serkku",NA,"male ego's mother's brother's daughter",NA,NA,NA,"Inferred; "
-"1123","mMZeD","serkku",NA,"male ego's mother's sister's daughter",NA,NA,NA,"Inferred; "
-"1124","mMZyD","serkku",NA,"male ego's mother's sister's daughter",NA,NA,NA,"Inferred; "
-"1131","fFeBS","serkku",NA,"female ego's father's brother's son",NA,NA,NA,"Inferred; "
-"1132","fFyBS","serkku",NA,"female ego's father's brother's son",NA,NA,NA,"Inferred; "
-"1141","fFeZS","serkku",NA,"female ego's father's sister's son",NA,NA,NA,"Inferred; "
-"1142","fFyZS","serkku",NA,"female ego's father's sister's son",NA,NA,NA,"Inferred; "
-"1171","fFeBD","serkku",NA,"female ego's father's brother's daughter",NA,NA,NA,"Inferred; "
-"1172","fFyBD","serkku",NA,"female ego's father's brother's daughter",NA,NA,NA,"Inferred; "
-"1181","fFeZD","serkku",NA,"female ego's father's sister's daughter",NA,NA,NA,"Inferred; "
-"1182","fFyZD","serkku",NA,"female ego's father's sister's daughter",NA,NA,NA,"Inferred; "
-"1151","fMeBS","serkku",NA,"female ego's mother's brother's son",NA,NA,NA,"Inferred; "
-"1152","fMyBS","serkku",NA,"female ego's mother's brother's son",NA,NA,NA,"Inferred; "
-"1161","fMeZS","serkku",NA,"female ego's mother's sister's son",NA,NA,NA,"Inferred; "
-"1162","fMyZS","serkku",NA,"female ego's mother's sister's son",NA,NA,NA,"Inferred; "
-"1191","fMeBD","serkku",NA,"female ego's mother's brother's daughter",NA,NA,NA,"Inferred; "
-"1192","fMyBD","serkku",NA,"female ego's mother's brother's daughter",NA,NA,NA,"Inferred; "
-"1201","fMeZD","serkku",NA,"female ego's mother's sister's daughter",NA,NA,NA,"Inferred; "
-"1202","fMyZD","serkku",NA,"female ego's mother's sister's daughter",NA,NA,NA,"Inferred; "
-"1133","fFBeS","serkku",NA,"female ego's father's brother's son",NA,NA,NA,"Inferred; "
-"1134","fFByS","serkku",NA,"female ego's father's brother's son",NA,NA,NA,"Inferred; "
-"1143","fFZeS","serkku",NA,"female ego's father's sister's son",NA,NA,NA,"Inferred; "
-"1144","fFZyS","serkku",NA,"female ego's father's sister's son",NA,NA,NA,"Inferred; "
-"1173","fFBeD","serkku",NA,"female ego's father's brother's daughter",NA,NA,NA,"Inferred; "
-"1174","fFByD","serkku",NA,"female ego's father's brother's daughter",NA,NA,NA,"Inferred; "
-"1183","fFZeD","serkku",NA,"female ego's father's sister's daughter",NA,NA,NA,"Inferred; "
-"1184","fFZyD","serkku",NA,"female ego's father's sister's daughter",NA,NA,NA,"Inferred; "
-"1153","fMBeS","serkku",NA,"female ego's mother's brother's son",NA,NA,NA,"Inferred; "
-"1154","fMByS","serkku",NA,"female ego's mother's brother's son",NA,NA,NA,"Inferred; "
-"1163","fMZeS","serkku",NA,"female ego's mother's sister's son",NA,NA,NA,"Inferred; "
-"1164","fMZyS","serkku",NA,"female ego's mother's sister's son",NA,NA,NA,"Inferred; "
-"1193","fMBeD","serkku",NA,"female ego's mother's brother's daughter",NA,NA,NA,"Inferred; "
-"1194","fMByD","serkku",NA,"female ego's mother's brother's daughter",NA,NA,NA,"Inferred; "
-"1203","fMZeD","serkku",NA,"female ego's mother's sister's daughter",NA,NA,NA,"Inferred; "
-"1204","fMZyD","serkku",NA,"female ego's mother's sister's daughter",NA,NA,NA,"Inferred; "
+,X,parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+1,1,mG,sisarukset,,male ego's sibling,,,,used commonly in plural
+2,2,fG,sisarukset,,female ego's sibling,,,,used commonly in plural
+3,3,mB,veli,,male ego's brother,,,,
+4,4,fB,veli,,female ego's brother,,,,
+5,5,mZ,sisko,,male ego's sister,,,,
+6,6,fZ,sisko,,female ego's sister,,,,
+7,7,meB,veli,,male ego's older brother,,,,
+8,8,myB,veli,,male ego's younger brother,,,,
+9,9,feB,veli,,female ego's older brother,,,,
+10,10,fyB,veli,,female ego's younger brother,,,,
+11,11,meZ,sisko,,male ego's older sister,,,,
+12,12,myZ,sisko,,male ego's younger sister,,,,
+13,13,feZ,sisko,,female ego's older sister,,,,
+14,14,fyZ,sisko,,female ego's younger sister,,,,
+15,15,mP,vanhemmat,,male ego's parents,,,,used commonly in plural
+16,16,fP,vanhemmat,,female ego's parents,,,,used commonly in plural
+17,17,mF,isä,,male ego's father,,,,
+18,18,mM,äiti,,male ego's mother,,,,
+19,19,fF,isä,,female ego's father,,,,
+20,20,fM,äiti,,female ego's mother,,,,
+21,21,mC,lapsi,,male ego's child,,,,
+22,22,fC,lapsi,,female ego's child,,,,
+23,23,mS,poika,,male ego's son,,,,
+24,24,fS,poika,,female ego's son,,,,
+25,25,mD,tytär,,male ego's daughter,,,,
+26,26,fD,tytär,,female ego's daughter,,,,
+27,27,mCC,lapsenlapsi,,male ego's grandchild,,,,
+28,28,fCC,lapsenlapsi,,female ego's grandchild,,,,
+29,29,mSS,pojanpoika,,male ego's son's son,,,,
+30,30,mSD,pojantytär,,male ego's son's daughter,,,,
+31,31,mDS,tyttärenpoika,,male ego's daughter's son,,,,
+32,32,mDD,tyttärentytär,,male ego's daughter's daughter,,,,
+33,33,fSS,pojanpoika,,female ego's son's son,,,,
+34,34,fSD,pojantytär,,female ego's son's daughter,,,,
+35,35,fDS,tyttärenpoika,,female ego's daughter's son,,,,
+36,36,fDD,tyttärentytär,,female ego's daugher's daughter,,,,
+37,37,mA,esi-isä,,male ego's ancestor,,,,
+38,38,fA,esi-isä,,female ego's ancestor,,,,
+39,39,mPP,isovanhempi,,male ego's grandparent,,,,
+40,40,fPP,isovanhempi,,female ego's grandparent,,,,
+41,41,mFF,isänisä,,male ego's father‘s father,,,,grandparents usually decide themselves how they should be called: male can be e.g. isoisä, pappa, ukki or vaari.
+42,42,mFM,isänäiti,,male ego's father's mother,,,,same for females, alternatives: eg. mummu,  mummi, mummo, isu
+43,43,mMF,äidinisä,,male ego's mother's father,,,,
+44,44,mMM,äidinäiti,,male ego's mother's mother,,,,
+45,45,fFF,isänisä,,female ego's father's father,,,,
+46,46,fFM,isänäiti,,female ego's father's mother,,,,
+47,47,fMF,äidinisä,,female ego's mother's father,,,,
+48,48,fMM,äidinäiti,,female ego's mother's mother,,,,
+49,49,meBS,veljenpoika,,male ego's older brother's son,,,,poika=boy
+50,50,myBS,veljenpoika,,male ego's younger brother's son,,,,tytär=daughter
+51,51,meZS,siskonpoika,,male ego's older sister's son,,,,veli=brother
+52,52,myZS,siskonpoika,,male ego's younger sister's son,,,,sisko=sister
+53,53,meBD,veljentytär,,male ego's older brother's daughter,,,,serkku=cousin
+54,54,myBD,veljentytär,,male ego's younger brother's daughter,,,,
+55,55,meZD,siskontytär,,male ego's older sister's daughter,,,,
+56,56,myZD,siskontytär,,male ego's younger sister's daughter,,,,tyttö, tytär
+57,57,feBS,veljenpoika,,female ego's older brother's son,,,,
+58,58,fyBS,veljenpoika,,female ego's younger brother's son,,,,
+59,59,feZS,siskonpoika,,female ego's older sister's son,,,,
+60,60,fyZS,siskonpoika,,female ego's younger sister's son,,,,
+61,61,feBD,veljentytär,,female ego's older brother's daughter,,,,
+62,62,fyBD,veljentytär,,female ego's younger brother's daughter,,,,
+63,63,feZD,siskontytär,,female ego's older sister's daughter,,,,
+64,64,fyZD,siskontytär,,female ego's younger sister's daughter,,,,
+65,65,mFeB,setä,,male ego's father's older brother,,,,
+66,66,mFyB,setä,,male ego's father's younger brother,,,,
+67,67,mFeZ,täti,,male ego's father's older sister,,,,
+68,68,mFyZ,täti,,male ego's father's younger sister,,,,
+69,69,mMeB,eno,,male ego's mother's older brother,,,,
+70,70,mMyB,eno,,male ego's mother's younger brother,,,,
+71,71,mMeZ,täti,,male ego's mother's older sister,,,,
+72,72,mMyZ,täti,,male ego's mother's younger sister,,,,
+73,73,fFeB,setä,,female ego's father's older brother,,,,
+74,74,fFyB,setä,,female ego's father's younger brother,,,,
+75,75,fFeZ,täti,,female ego's father's older sister,,,,
+76,76,fFyZ,täti,,female ego's father's younger sister,,,,
+77,77,fMeB,eno,,female ego's mother's older brother,,,,
+78,78,fMyB,eno,,female ego's mother's younger brother,,,,
+79,79,fMeZ,täti,,female ego's mother's older sister,,,,
+80,80,fMyZ,täti,,female ego's mother's younger sister,,,,
+81,81,mE,puoliso,,male ego's spouse,,,,
+82,82,fE,puoliso,,female ego's spouse,,,,
+83,83,mW,vaimo,,male ego's wife,,,,
+84,84,fH,aviomies,,female ego‘s husband,,,,
+85,85,mDH,vävy,,male ego's daughter's husband,,,,
+86,86,fDH,vävy,,female ego's daughter's husband,,,,
+87,87,mSW,miniä,,male ego's son's wife,,,,
+88,88,fSW,miniä,,female ego's son's wife,,,,
+89,89,mWF,appi,,male ego's wife's father,,,,
+90,90,mWM,anoppi,,male ego's wife's mother,,,,
+91,91,mWB,lanko,,male ego's wife's brother,,,,From here on maybe a more finescaled explanation is needed.
+92,92,mWZ,käly,,male ego's wife's sister,,,,
+93,93,fHF,appi,,female ego's husband's father,,,,
+94,94,fHM,anoppi,,female ego's husband's mother,,,,
+95,95,fHB,lanko,,female ego's husband's brother,,,,
+96,96,fHZ,käly, nato,,female ego's husband's sister,,,,
+97,97,mBW,käly, nato,,male ego's brother's wife,,,,
+98,98,fBW,käly, nato,,female ego's brother's wife,,,,
+99,99,mZH,lanko,,male ego's sister's husband,,,,
+100,100,fZH,lanko,,female ego's sister's husband,,,,
+101,101,mFW(notM),äitipuoli,,male ego's father's wife (not mother),,,,
+102,102,fFW(notM),äitipuoli,,female ego's father's wife (not mother),,,,
+103,103,mMH(notF),isäpuoli,,male ego's mother's husband (not father),,,,
+104,104,fMH(notF),isäpuoli,,female ego's mother's husband (not father),,,,
+105,105,mFBS,serkku,,male ego's father's brother's son,,,,
+106,106,mFZS,serkku,,male ego's father's sister's son,,,,
+107,107,mMBS,serkku,,male ego's mother's brother's son,,,,
+108,108,mMZS,serkku,,male ego's mother's sister's son,,,,
+109,109,mFBD,serkku,,male ego's father's brother's daughter,,,,
+110,110,mFZD,serkku,,male ego's father's sister's daughter,,,,
+111,111,mMBD,serkku,,male ego's mother's brother's daughter,,,,
+112,112,mMZD,serkku,,male ego's mother's sister's daughter,,,,
+113,113,fFBS,serkku,,female ego's father's brother's son,,,,
+114,114,fFZS,serkku,,female ego's father's sister's son,,,,
+115,115,fMBS,serkku,,female ego's mother's brother's son,,,,
+116,116,fMZS,serkku,,female ego's mother's sister's son,,,,
+117,117,fFBD,serkku,,female ego's father's brother's daughter,,,,
+118,118,fFZD,serkku,,female ego's father's sister's daughter,,,,
+119,119,fMBD,serkku,,female ego's mother's brother's daughter,,,,
+120,120,fMZD,serkku,,female ego's mother's sister's daughter,,,,
+121,1051,mFeBS,serkku,,male ego's father's brother's son,,,,Inferred; 
+122,1052,mFyBS,serkku,,male ego's father's brother's son,,,,Inferred; 
+123,1061,mFeZS,serkku,,male ego's father's sister's son,,,,Inferred; 
+124,1062,mFyZS,serkku,,male ego's father's sister's son,,,,Inferred; 
+125,1091,mFeBD,serkku,,male ego's father's brother's daughter,,,,Inferred; 
+126,1092,mFyBD,serkku,,male ego's father's brother's daughter,,,,Inferred; 
+127,1101,mFeZD,serkku,,male ego's father's sister's daughter,,,,Inferred; 
+128,1102,mFyZD,serkku,,male ego's father's sister's daughter,,,,Inferred; 
+129,1071,mMeBS,serkku,,male ego's mother's brother's son,,,,Inferred; 
+130,1072,mMyBS,serkku,,male ego's mother's brother's son,,,,Inferred; 
+131,1081,mMeZS,serkku,,male ego's mother's sister's son,,,,Inferred; 
+132,1082,mMyZS,serkku,,male ego's mother's sister's son,,,,Inferred; 
+133,1111,mMeBD,serkku,,male ego's mother's brother's daughter,,,,Inferred; 
+134,1112,mMyBD,serkku,,male ego's mother's brother's daughter,,,,Inferred; 
+135,1121,mMeZD,serkku,,male ego's mother's sister's daughter,,,,Inferred; 
+136,1122,mMyZD,serkku,,male ego's mother's sister's daughter,,,,Inferred; 
+137,1053,mFBeS,serkku,,male ego's father's brother's son,,,,Inferred; 
+138,1054,mFByS,serkku,,male ego's father's brother's son,,,,Inferred; 
+139,1063,mFZeS,serkku,,male ego's father's sister's son,,,,Inferred; 
+140,1064,mFZyS,serkku,,male ego's father's sister's son,,,,Inferred; 
+141,1093,mFBeD,serkku,,male ego's father's brother's daughter,,,,Inferred; 
+142,1094,mFByD,serkku,,male ego's father's brother's daughter,,,,Inferred; 
+143,1103,mFZeD,serkku,,male ego's father's sister's daughter,,,,Inferred; 
+144,1104,mFZyD,serkku,,male ego's father's sister's daughter,,,,Inferred; 
+145,1073,mMBeS,serkku,,male ego's mother's brother's son,,,,Inferred; 
+146,1074,mMByS,serkku,,male ego's mother's brother's son,,,,Inferred; 
+147,1083,mMZeS,serkku,,male ego's mother's sister's son,,,,Inferred; 
+148,1084,mMZyS,serkku,,male ego's mother's sister's son,,,,Inferred; 
+149,1113,mMBeD,serkku,,male ego's mother's brother's daughter,,,,Inferred; 
+150,1114,mMByD,serkku,,male ego's mother's brother's daughter,,,,Inferred; 
+151,1123,mMZeD,serkku,,male ego's mother's sister's daughter,,,,Inferred; 
+152,1124,mMZyD,serkku,,male ego's mother's sister's daughter,,,,Inferred; 
+153,1131,fFeBS,serkku,,female ego's father's brother's son,,,,Inferred; 
+154,1132,fFyBS,serkku,,female ego's father's brother's son,,,,Inferred; 
+155,1141,fFeZS,serkku,,female ego's father's sister's son,,,,Inferred; 
+156,1142,fFyZS,serkku,,female ego's father's sister's son,,,,Inferred; 
+157,1171,fFeBD,serkku,,female ego's father's brother's daughter,,,,Inferred; 
+158,1172,fFyBD,serkku,,female ego's father's brother's daughter,,,,Inferred; 
+159,1181,fFeZD,serkku,,female ego's father's sister's daughter,,,,Inferred; 
+160,1182,fFyZD,serkku,,female ego's father's sister's daughter,,,,Inferred; 
+161,1151,fMeBS,serkku,,female ego's mother's brother's son,,,,Inferred; 
+162,1152,fMyBS,serkku,,female ego's mother's brother's son,,,,Inferred; 
+163,1161,fMeZS,serkku,,female ego's mother's sister's son,,,,Inferred; 
+164,1162,fMyZS,serkku,,female ego's mother's sister's son,,,,Inferred; 
+165,1191,fMeBD,serkku,,female ego's mother's brother's daughter,,,,Inferred; 
+166,1192,fMyBD,serkku,,female ego's mother's brother's daughter,,,,Inferred; 
+167,1201,fMeZD,serkku,,female ego's mother's sister's daughter,,,,Inferred; 
+168,1202,fMyZD,serkku,,female ego's mother's sister's daughter,,,,Inferred; 
+169,1133,fFBeS,serkku,,female ego's father's brother's son,,,,Inferred; 
+170,1134,fFByS,serkku,,female ego's father's brother's son,,,,Inferred; 
+171,1143,fFZeS,serkku,,female ego's father's sister's son,,,,Inferred; 
+172,1144,fFZyS,serkku,,female ego's father's sister's son,,,,Inferred; 
+173,1173,fFBeD,serkku,,female ego's father's brother's daughter,,,,Inferred; 
+174,1174,fFByD,serkku,,female ego's father's brother's daughter,,,,Inferred; 
+175,1183,fFZeD,serkku,,female ego's father's sister's daughter,,,,Inferred; 
+176,1184,fFZyD,serkku,,female ego's father's sister's daughter,,,,Inferred; 
+177,1153,fMBeS,serkku,,female ego's mother's brother's son,,,,Inferred; 
+178,1154,fMByS,serkku,,female ego's mother's brother's son,,,,Inferred; 
+179,1163,fMZeS,serkku,,female ego's mother's sister's son,,,,Inferred; 
+180,1164,fMZyS,serkku,,female ego's mother's sister's son,,,,Inferred; 
+181,1193,fMBeD,serkku,,female ego's mother's brother's daughter,,,,Inferred; 
+182,1194,fMByD,serkku,,female ego's mother's brother's daughter,,,,Inferred; 
+183,1203,fMZeD,serkku,,female ego's mother's sister's daughter,,,,Inferred; 
+184,1204,fMZyD,serkku,,female ego's mother's sister's daughter,,,,Inferred; 

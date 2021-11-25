@@ -1,325 +1,325 @@
-"","parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"1","mG","əed-wennad",NA,NA,"əwed; ənnaksed","UR4","kunnap_estonian_2015",""
-"2","mB","wend",NA,NA,"weli","UR4","kunnap_estonian_2015",""
-"3","mZ","əde",NA,NA,"səsar","UR4","kunnap_estonian_2015",""
-"4","myB","noor̃em wend",NA,NA,"","UR4","kunnap_estonian_2015",""
-"5","myZ","noor̃em əde",NA,NA,"","UR4","kunnap_estonian_2015",""
-"6","mF","isa",NA,NA,"","UR4","kunnap_estonian_2015",""
-"7","mM","ema",NA,NA,"","UR4","kunnap_estonian_2015",""
-"8","mC","yær̃eltuliya",NA,NA,"","UR4","kunnap_estonian_2015",""
-"9","mS","poeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"10","mD","tütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"11","mFF","wanaisa",NA,NA,"mamma; memm","UR4","kunnap_estonian_2015",""
-"12","mFM","wanaema",NA,NA,"papa; taat","UR4","kunnap_estonian_2015",""
-"13","mMF","wanaisa",NA,NA,"mamma; memm","UR4","kunnap_estonian_2015",""
-"14","mMM","wanaema",NA,NA,"","UR4","kunnap_estonian_2015",""
-"15","mSS","poyapoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"16","mSS","tütr̃epoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"17","mSD","poyatütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"18","mSD","tütr̃etütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"19","mDS","poyapoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"20","mDS","tütr̃epoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"21","mDD","poyatütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"22","mDD","tütr̃etütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"23","mFB","lell",NA,NA,"","UR4","kunnap_estonian_2015",""
-"24","mFZ","sətse",NA,NA,"","UR4","kunnap_estonian_2015",""
-"25","mMB","onu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"26","mMZ","tædi",NA,NA,"","UR4","kunnap_estonian_2015",""
-"27","mBS","wennapoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"28","mBS","əepoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"29","mBD","wennatütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"30","mBD","əetütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"31","mZS","wennapoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"32","mZS","əepoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"33","mZD","wennatütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"34","mZD","əetütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"35","mFZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"36","mFBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"37","mMBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"38","mMZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"39","mFBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"40","mFZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"41","mMBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"42","mMZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"43","mH","mees",NA,NA,"","UR4","kunnap_estonian_2015",""
-"44","mH","abikaasa",NA,NA,"","UR4","kunnap_estonian_2015",""
-"45","mW","naine",NA,NA,"","UR4","kunnap_estonian_2015",""
-"46","mW","abikaasa",NA,NA,"","UR4","kunnap_estonian_2015",""
-"47","mHF","æi",NA,NA,"","UR4","kunnap_estonian_2015",""
-"48","mHM","æmm",NA,NA,"","UR4","kunnap_estonian_2015",""
-"49","mWF","æi",NA,NA,"","UR4","kunnap_estonian_2015",""
-"50","mWM","æmm",NA,NA,"","UR4","kunnap_estonian_2015",""
-"51","mSW","minia",NA,NA,"","UR4","kunnap_estonian_2015",""
-"52","mSW","minia",NA,NA,"","UR4","kunnap_estonian_2015",""
-"53","mDH","wæimees",NA,NA,"","UR4","kunnap_estonian_2015",""
-"54","mDH","wæimees",NA,NA,"","UR4","kunnap_estonian_2015",""
-"55","fG","əed-wennad",NA,NA,"əwed; ənnaksed","UR4","kunnap_estonian_2015",""
-"56","fB","wend",NA,NA,"weli","UR4","kunnap_estonian_2015",""
-"57","fZ","əde",NA,NA,"səsar","UR4","kunnap_estonian_2015",""
-"58","fyB","noor̃em wend",NA,NA,"","UR4","kunnap_estonian_2015",""
-"59","fyZ","noor̃em əde",NA,NA,"","UR4","kunnap_estonian_2015",""
-"60","fF","isa",NA,NA,"","UR4","kunnap_estonian_2015",""
-"61","fM","ema",NA,NA,"","UR4","kunnap_estonian_2015",""
-"62","fC","yær̃eltuliya",NA,NA,"","UR4","kunnap_estonian_2015",""
-"63","fS","poeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"64","fD","tütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"65","fFF","wanaisa",NA,NA,"mamma; memm","UR4","kunnap_estonian_2015",""
-"66","fFM","wanaema",NA,NA,"papa; taat","UR4","kunnap_estonian_2015",""
-"67","fMF","wanaisa",NA,NA,"mamma; memm","UR4","kunnap_estonian_2015",""
-"68","fMM","wanaema",NA,NA,"","UR4","kunnap_estonian_2015",""
-"69","fSS","poyapoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"70","fSS","tütr̃epoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"71","fSD","poyatütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"72","fSD","tütr̃etütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"73","fDS","poyapoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"74","fDS","tütr̃epoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"75","fDD","poyatütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"76","fDD","tütr̃etütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"77","fFB","lell",NA,NA,"","UR4","kunnap_estonian_2015",""
-"78","fFZ","sətse",NA,NA,"","UR4","kunnap_estonian_2015",""
-"79","fMB","onu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"80","fMZ","tædi",NA,NA,"","UR4","kunnap_estonian_2015",""
-"81","fBS","wennapoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"82","fBS","əepoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"83","fBD","wennatütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"84","fBD","əetütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"85","fZS","wennapoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"86","fZS","əepoeg",NA,NA,"","UR4","kunnap_estonian_2015",""
-"87","fZD","wennatütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"88","fZD","əetütar̃",NA,NA,"","UR4","kunnap_estonian_2015",""
-"89","fFZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"90","fFBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"91","fMBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"92","fMZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"93","fFBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"94","fFZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"95","fMBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"96","fMZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015",""
-"97","fH","mees",NA,NA,"","UR4","kunnap_estonian_2015",""
-"98","fH","abikaasa",NA,NA,"","UR4","kunnap_estonian_2015",""
-"99","fW","naine",NA,NA,"","UR4","kunnap_estonian_2015",""
-"100","fW","abikaasa",NA,NA,"","UR4","kunnap_estonian_2015",""
-"101","fHF","æi",NA,NA,"","UR4","kunnap_estonian_2015",""
-"102","fHM","æmm",NA,NA,"","UR4","kunnap_estonian_2015",""
-"103","fWF","æi",NA,NA,"","UR4","kunnap_estonian_2015",""
-"104","fWM","æmm",NA,NA,"","UR4","kunnap_estonian_2015",""
-"105","fSW","minia",NA,NA,"","UR4","kunnap_estonian_2015",""
-"106","fSW","minia",NA,NA,"","UR4","kunnap_estonian_2015",""
-"107","fDH","wæimees",NA,NA,"","UR4","kunnap_estonian_2015",""
-"108","fDH","wæimees",NA,NA,"","UR4","kunnap_estonian_2015",""
-"109","mP","(lapse)wanem",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"110","mC","laps",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"111","mA","esiwanem",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"112","mPP","wanawanem",NA,NA,"papa; taat","UR20","pajusalu_esto1258_2020",""
-"113","mCC","lapselaps",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"114","mFZD","sətsetütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"115","mFBD","lelletütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"116","mMBD","onutütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"117","mMZD","tæditütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"118","mFBS","lellepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"119","mFZS","sətsepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"120","mMBS","onupoeg",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"121","mMZS","tædipoeg",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"122","mE","abikaasa",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"123","mBW","wennanaine",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"124","mZH","əemees",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"125","mWB","naisewend",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Nææl’ less used by younger generation of language speakers"
-"126","mWZ","naiseəde",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Kæli’ less used by younger generation of language speakers"
-"127","mHB","mehewend",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Küdi’ less used by younger generation of language speakers"
-"128","mHZ","meheəde",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Nadu’ less used by younger generation of language speakers"
-"129","mWB","nææl",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Nææl’ less used by younger generation of language speakers"
-"130","mWZ","kæli",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Kæli’ less used by younger generation of language speakers"
-"131","mHB","küdi",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Küdi’ less used by younger generation of language speakers"
-"132","mHZ","nadu",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Nadu’ less used by younger generation of language speakers"
-"133","mFW(notM)","kasuema",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"134","mMH(notF)","kasuisa",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"135","mSWM","minia ema",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Lang’ less used by younger generation of language speakers"
-"136","mSWF","minia isa",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Lang’ less used by younger generation of language speakers"
-"137","mDHM","wæimehe ema",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Lang’ less used by younger generation of language speakers"
-"138","mDHF","wæimehe isa",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Lang’ less used by younger generation of language speakers"
-"139","mFZH","isa əemees",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"140","mFZH","sətsemees",NA,NA,"","UR20","pajusalu_esto1258_2020","‘sətse’ also occasionally replaced with ‘tædi’"
-"141","mFBW","isa wennanaine",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"142","mFBW","lellenaine",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"143","mMZH","tädimees",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"144","mMBW","onunaine",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"145","fP","(lapse)wanem",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"146","fC","laps",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"147","fA","esiwanem",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"148","fPP","wanawanem",NA,NA,"papa; taat","UR20","pajusalu_esto1258_2020",""
-"149","fCC","lapselaps",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"150","fFZD","sətsetütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"151","fFBD","lelletütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"152","fMBD","onutütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"153","fMZD","tæditütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"154","fFBS","lellepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"155","fFZS","sətsepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"156","fMBS","onupoeg",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"157","fMZS","tædipoeg",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"158","fE","abikaasa",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"159","fBW","wennanaine",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"160","fZH","əemees",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"161","fWB","naisewend",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Nææl’ less used by younger generation of language speakers"
-"162","fWZ","naiseəde",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Kæli’ less used by younger generation of language speakers"
-"163","fHB","mehewend",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Küdi’ less used by younger generation of language speakers"
-"164","fHZ","meheəde",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Nadu’ less used by younger generation of language speakers"
-"165","fWB","nææl",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Nææl’ less used by younger generation of language speakers"
-"166","fWZ","kæli",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Kæli’ less used by younger generation of language speakers"
-"167","fHB","küdi",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Küdi’ less used by younger generation of language speakers"
-"168","fHZ","nadu",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Nadu’ less used by younger generation of language speakers"
-"169","fFW(notM)","kasuema",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"170","fMH(notF)","kasuisa",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"171","fSWM","minia ema",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Lang’ less used by younger generation of language speakers"
-"172","fSWF","minia isa",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Lang’ less used by younger generation of language speakers"
-"173","fDHM","wæimehe ema",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Lang’ less used by younger generation of language speakers"
-"174","fDHF","wæimehe isa",NA,NA,"","UR20","pajusalu_esto1258_2020","‘Lang’ less used by younger generation of language speakers"
-"175","fFZH","isa əemees",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"176","fFZH","sətsemees",NA,NA,"","UR20","pajusalu_esto1258_2020","‘sətse’ also occasionally replaced with ‘tædi’"
-"177","fFBW","isa wennanaine",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"178","fFBW","lellenaine",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"179","fMZH","tädimees",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"180","fMBW","onunaine",NA,NA,"","UR20","pajusalu_esto1258_2020",""
-"231","mFeB","lell",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"232","mFyB","lell",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"241","mFeZ","sətse",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"242","mFyZ","sətse",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"261","mMeZ","tædi",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"262","mMyZ","tædi",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"251","mMeB","onu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"252","mMyB","onu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"391","mFeBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1181","mFeBS","lellepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"392","mFyBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1182","mFyBS","lellepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"401","mFeZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1191","mFeZS","sətsepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"402","mFyZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1192","mFyZS","sətsepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"361","mFeBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1151","mFeBD","lelletütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"362","mFyBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1152","mFyBD","lelletütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"351","mFeZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1141","mFeZD","sətsetütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"352","mFyZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1142","mFyZD","sətsetütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"411","mMeBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1201","mMeBS","onupoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"412","mMyBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1202","mMyBS","onupoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"421","mMeZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1211","mMeZS","tædipoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"422","mMyZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1212","mMyZS","tædipoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"371","mMeBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1161","mMeBD","onutütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"372","mMyBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1162","mMyBD","onutütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"381","mMeZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1171","mMeZD","tæditütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"382","mMyZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1172","mMyZD","tæditütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"393","mFBeS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1183","mFBeS","lellepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"394","mFByS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1184","mFByS","lellepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"403","mFZeS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1193","mFZeS","sətsepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"404","mFZyS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1194","mFZyS","sətsepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"363","mFBeD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1153","mFBeD","lelletütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"364","mFByD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1154","mFByD","lelletütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"353","mFZeD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1143","mFZeD","sətsetütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"354","mFZyD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1144","mFZyD","sətsetütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"413","mMBeS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1203","mMBeS","onupoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"414","mMByS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1204","mMByS","onupoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"423","mMZeS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1213","mMZeS","tædipoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"424","mMZyS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1214","mMZyS","tædipoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"373","mMBeD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1163","mMBeD","onutütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"374","mMByD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1164","mMByD","onutütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"383","mMZeD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1173","mMZeD","tæditütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"384","mMZyD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1174","mMZyD","tæditütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"771","fFeB","lell",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"772","fFyB","lell",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"781","fFeZ","sətse",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"782","fFyZ","sətse",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"801","fMeZ","tædi",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"802","fMyZ","tædi",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"791","fMeB","onu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"792","fMyB","onu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"931","fFeBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1541","fFeBS","lellepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"932","fFyBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1542","fFyBS","lellepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"941","fFeZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1551","fFeZS","sətsepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"942","fFyZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1552","fFyZS","sətsepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"901","fFeBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1511","fFeBD","lelletütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"902","fFyBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1512","fFyBD","lelletütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"891","fFeZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1501","fFeZD","sətsetütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"892","fFyZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1502","fFyZD","sətsetütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"951","fMeBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1561","fMeBS","onupoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"952","fMyBS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1562","fMyBS","onupoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"961","fMeZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1571","fMeZS","tædipoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"962","fMyZS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1572","fMyZS","tædipoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"911","fMeBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1521","fMeBD","onutütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"912","fMyBD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1522","fMyBD","onutütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"921","fMeZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1531","fMeZD","tæditütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"922","fMyZD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1532","fMyZD","tæditütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"933","fFBeS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1543","fFBeS","lellepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"934","fFByS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1544","fFByS","lellepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"943","fFZeS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1553","fFZeS","sətsepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"944","fFZyS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1554","fFZyS","sətsepoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"903","fFBeD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1513","fFBeD","lelletütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"904","fFByD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1514","fFByD","lelletütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"893","fFZeD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1503","fFZeD","sətsetütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"894","fFZyD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1504","fFZyD","sətsetütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"953","fMBeS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1563","fMBeS","onupoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"954","fMByS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1564","fMByS","onupoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"963","fMZeS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1573","fMZeS","tædipoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"964","fMZyS","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1574","fMZyS","tædipoeg",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"913","fMBeD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1523","fMBeD","onutütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"914","fMByD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1524","fMByD","onutütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"923","fMZeD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1533","fMZeD","tæditütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
-"924","fMZyD","nəbu",NA,NA,"","UR4","kunnap_estonian_2015","Inferred; "
-"1534","fMZyD","tæditütar̃",NA,NA,"","UR20","pajusalu_esto1258_2020","Inferred; "
+,X,parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+1,1,mG,əed-wennad,,,əwed; ənnaksed,UR4,kunnap_estonian_2015,
+2,2,mB,wend,,,weli,UR4,kunnap_estonian_2015,
+3,3,mZ,əde,,,səsar,UR4,kunnap_estonian_2015,
+4,4,myB,noor̃em wend,,,,UR4,kunnap_estonian_2015,
+5,5,myZ,noor̃em əde,,,,UR4,kunnap_estonian_2015,
+6,6,mF,isa,,,,UR4,kunnap_estonian_2015,
+7,7,mM,ema,,,,UR4,kunnap_estonian_2015,
+8,8,mC,yær̃eltuliya,,,,UR4,kunnap_estonian_2015,
+9,9,mS,poeg,,,,UR4,kunnap_estonian_2015,
+10,10,mD,tütar̃,,,,UR4,kunnap_estonian_2015,
+11,11,mFF,wanaisa,,,mamma; memm,UR4,kunnap_estonian_2015,
+12,12,mFM,wanaema,,,papa; taat,UR4,kunnap_estonian_2015,
+13,13,mMF,wanaisa,,,mamma; memm,UR4,kunnap_estonian_2015,
+14,14,mMM,wanaema,,,,UR4,kunnap_estonian_2015,
+15,15,mSS,poyapoeg,,,,UR4,kunnap_estonian_2015,
+16,16,mSS,tütr̃epoeg,,,,UR4,kunnap_estonian_2015,
+17,17,mSD,poyatütar̃,,,,UR4,kunnap_estonian_2015,
+18,18,mSD,tütr̃etütar̃,,,,UR4,kunnap_estonian_2015,
+19,19,mDS,poyapoeg,,,,UR4,kunnap_estonian_2015,
+20,20,mDS,tütr̃epoeg,,,,UR4,kunnap_estonian_2015,
+21,21,mDD,poyatütar̃,,,,UR4,kunnap_estonian_2015,
+22,22,mDD,tütr̃etütar̃,,,,UR4,kunnap_estonian_2015,
+23,23,mFB,lell,,,,UR4,kunnap_estonian_2015,
+24,24,mFZ,sətse,,,,UR4,kunnap_estonian_2015,
+25,25,mMB,onu,,,,UR4,kunnap_estonian_2015,
+26,26,mMZ,tædi,,,,UR4,kunnap_estonian_2015,
+27,27,mBS,wennapoeg,,,,UR4,kunnap_estonian_2015,
+28,28,mBS,əepoeg,,,,UR4,kunnap_estonian_2015,
+29,29,mBD,wennatütar̃,,,,UR4,kunnap_estonian_2015,
+30,30,mBD,əetütar̃,,,,UR4,kunnap_estonian_2015,
+31,31,mZS,wennapoeg,,,,UR4,kunnap_estonian_2015,
+32,32,mZS,əepoeg,,,,UR4,kunnap_estonian_2015,
+33,33,mZD,wennatütar̃,,,,UR4,kunnap_estonian_2015,
+34,34,mZD,əetütar̃,,,,UR4,kunnap_estonian_2015,
+35,35,mFZD,nəbu,,,,UR4,kunnap_estonian_2015,
+36,36,mFBD,nəbu,,,,UR4,kunnap_estonian_2015,
+37,37,mMBD,nəbu,,,,UR4,kunnap_estonian_2015,
+38,38,mMZD,nəbu,,,,UR4,kunnap_estonian_2015,
+39,39,mFBS,nəbu,,,,UR4,kunnap_estonian_2015,
+40,40,mFZS,nəbu,,,,UR4,kunnap_estonian_2015,
+41,41,mMBS,nəbu,,,,UR4,kunnap_estonian_2015,
+42,42,mMZS,nəbu,,,,UR4,kunnap_estonian_2015,
+43,43,mH,mees,,,,UR4,kunnap_estonian_2015,
+44,44,mH,abikaasa,,,,UR4,kunnap_estonian_2015,
+45,45,mW,naine,,,,UR4,kunnap_estonian_2015,
+46,46,mW,abikaasa,,,,UR4,kunnap_estonian_2015,
+47,47,mHF,æi,,,,UR4,kunnap_estonian_2015,
+48,48,mHM,æmm,,,,UR4,kunnap_estonian_2015,
+49,49,mWF,æi,,,,UR4,kunnap_estonian_2015,
+50,50,mWM,æmm,,,,UR4,kunnap_estonian_2015,
+51,51,mSW,minia,,,,UR4,kunnap_estonian_2015,
+52,52,mSW,minia,,,,UR4,kunnap_estonian_2015,
+53,53,mDH,wæimees,,,,UR4,kunnap_estonian_2015,
+54,54,mDH,wæimees,,,,UR4,kunnap_estonian_2015,
+55,55,fG,əed-wennad,,,əwed; ənnaksed,UR4,kunnap_estonian_2015,
+56,56,fB,wend,,,weli,UR4,kunnap_estonian_2015,
+57,57,fZ,əde,,,səsar,UR4,kunnap_estonian_2015,
+58,58,fyB,noor̃em wend,,,,UR4,kunnap_estonian_2015,
+59,59,fyZ,noor̃em əde,,,,UR4,kunnap_estonian_2015,
+60,60,fF,isa,,,,UR4,kunnap_estonian_2015,
+61,61,fM,ema,,,,UR4,kunnap_estonian_2015,
+62,62,fC,yær̃eltuliya,,,,UR4,kunnap_estonian_2015,
+63,63,fS,poeg,,,,UR4,kunnap_estonian_2015,
+64,64,fD,tütar̃,,,,UR4,kunnap_estonian_2015,
+65,65,fFF,wanaisa,,,mamma; memm,UR4,kunnap_estonian_2015,
+66,66,fFM,wanaema,,,papa; taat,UR4,kunnap_estonian_2015,
+67,67,fMF,wanaisa,,,mamma; memm,UR4,kunnap_estonian_2015,
+68,68,fMM,wanaema,,,,UR4,kunnap_estonian_2015,
+69,69,fSS,poyapoeg,,,,UR4,kunnap_estonian_2015,
+70,70,fSS,tütr̃epoeg,,,,UR4,kunnap_estonian_2015,
+71,71,fSD,poyatütar̃,,,,UR4,kunnap_estonian_2015,
+72,72,fSD,tütr̃etütar̃,,,,UR4,kunnap_estonian_2015,
+73,73,fDS,poyapoeg,,,,UR4,kunnap_estonian_2015,
+74,74,fDS,tütr̃epoeg,,,,UR4,kunnap_estonian_2015,
+75,75,fDD,poyatütar̃,,,,UR4,kunnap_estonian_2015,
+76,76,fDD,tütr̃etütar̃,,,,UR4,kunnap_estonian_2015,
+77,77,fFB,lell,,,,UR4,kunnap_estonian_2015,
+78,78,fFZ,sətse,,,,UR4,kunnap_estonian_2015,
+79,79,fMB,onu,,,,UR4,kunnap_estonian_2015,
+80,80,fMZ,tædi,,,,UR4,kunnap_estonian_2015,
+81,81,fBS,wennapoeg,,,,UR4,kunnap_estonian_2015,
+82,82,fBS,əepoeg,,,,UR4,kunnap_estonian_2015,
+83,83,fBD,wennatütar̃,,,,UR4,kunnap_estonian_2015,
+84,84,fBD,əetütar̃,,,,UR4,kunnap_estonian_2015,
+85,85,fZS,wennapoeg,,,,UR4,kunnap_estonian_2015,
+86,86,fZS,əepoeg,,,,UR4,kunnap_estonian_2015,
+87,87,fZD,wennatütar̃,,,,UR4,kunnap_estonian_2015,
+88,88,fZD,əetütar̃,,,,UR4,kunnap_estonian_2015,
+89,89,fFZD,nəbu,,,,UR4,kunnap_estonian_2015,
+90,90,fFBD,nəbu,,,,UR4,kunnap_estonian_2015,
+91,91,fMBD,nəbu,,,,UR4,kunnap_estonian_2015,
+92,92,fMZD,nəbu,,,,UR4,kunnap_estonian_2015,
+93,93,fFBS,nəbu,,,,UR4,kunnap_estonian_2015,
+94,94,fFZS,nəbu,,,,UR4,kunnap_estonian_2015,
+95,95,fMBS,nəbu,,,,UR4,kunnap_estonian_2015,
+96,96,fMZS,nəbu,,,,UR4,kunnap_estonian_2015,
+97,97,fH,mees,,,,UR4,kunnap_estonian_2015,
+98,98,fH,abikaasa,,,,UR4,kunnap_estonian_2015,
+99,99,fW,naine,,,,UR4,kunnap_estonian_2015,
+100,100,fW,abikaasa,,,,UR4,kunnap_estonian_2015,
+101,101,fHF,æi,,,,UR4,kunnap_estonian_2015,
+102,102,fHM,æmm,,,,UR4,kunnap_estonian_2015,
+103,103,fWF,æi,,,,UR4,kunnap_estonian_2015,
+104,104,fWM,æmm,,,,UR4,kunnap_estonian_2015,
+105,105,fSW,minia,,,,UR4,kunnap_estonian_2015,
+106,106,fSW,minia,,,,UR4,kunnap_estonian_2015,
+107,107,fDH,wæimees,,,,UR4,kunnap_estonian_2015,
+108,108,fDH,wæimees,,,,UR4,kunnap_estonian_2015,
+109,109,mP,(lapse)wanem,,,,UR20,pajusalu_esto1258_2020,
+110,110,mC,laps,,,,UR20,pajusalu_esto1258_2020,
+111,111,mA,esiwanem,,,,UR20,pajusalu_esto1258_2020,
+112,112,mPP,wanawanem,,,papa; taat,UR20,pajusalu_esto1258_2020,
+113,113,mCC,lapselaps,,,,UR20,pajusalu_esto1258_2020,
+114,114,mFZD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,
+115,115,mFBD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,
+116,116,mMBD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,
+117,117,mMZD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,
+118,118,mFBS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,
+119,119,mFZS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,
+120,120,mMBS,onupoeg,,,,UR20,pajusalu_esto1258_2020,
+121,121,mMZS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,
+122,122,mE,abikaasa,,,,UR20,pajusalu_esto1258_2020,
+123,123,mBW,wennanaine,,,,UR20,pajusalu_esto1258_2020,
+124,124,mZH,əemees,,,,UR20,pajusalu_esto1258_2020,
+125,125,mWB,naisewend,,,,UR20,pajusalu_esto1258_2020,‘Nææl’ less used by younger generation of language speakers
+126,126,mWZ,naiseəde,,,,UR20,pajusalu_esto1258_2020,‘Kæli’ less used by younger generation of language speakers
+127,127,mHB,mehewend,,,,UR20,pajusalu_esto1258_2020,‘Küdi’ less used by younger generation of language speakers
+128,128,mHZ,meheəde,,,,UR20,pajusalu_esto1258_2020,‘Nadu’ less used by younger generation of language speakers
+129,129,mWB,nææl,,,,UR20,pajusalu_esto1258_2020,‘Nææl’ less used by younger generation of language speakers
+130,130,mWZ,kæli,,,,UR20,pajusalu_esto1258_2020,‘Kæli’ less used by younger generation of language speakers
+131,131,mHB,küdi,,,,UR20,pajusalu_esto1258_2020,‘Küdi’ less used by younger generation of language speakers
+132,132,mHZ,nadu,,,,UR20,pajusalu_esto1258_2020,‘Nadu’ less used by younger generation of language speakers
+133,133,mFW(notM),kasuema,,,,UR20,pajusalu_esto1258_2020,
+134,134,mMH(notF),kasuisa,,,,UR20,pajusalu_esto1258_2020,
+135,135,mSWM,minia ema,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+136,136,mSWF,minia isa,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+137,137,mDHM,wæimehe ema,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+138,138,mDHF,wæimehe isa,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+139,139,mFZH,isa əemees,,,,UR20,pajusalu_esto1258_2020,
+140,140,mFZH,sətsemees,,,,UR20,pajusalu_esto1258_2020,‘sətse’ also occasionally replaced with ‘tædi’
+141,141,mFBW,isa wennanaine,,,,UR20,pajusalu_esto1258_2020,
+142,142,mFBW,lellenaine,,,,UR20,pajusalu_esto1258_2020,
+143,143,mMZH,tädimees,,,,UR20,pajusalu_esto1258_2020,
+144,144,mMBW,onunaine,,,,UR20,pajusalu_esto1258_2020,
+145,145,fP,(lapse)wanem,,,,UR20,pajusalu_esto1258_2020,
+146,146,fC,laps,,,,UR20,pajusalu_esto1258_2020,
+147,147,fA,esiwanem,,,,UR20,pajusalu_esto1258_2020,
+148,148,fPP,wanawanem,,,papa; taat,UR20,pajusalu_esto1258_2020,
+149,149,fCC,lapselaps,,,,UR20,pajusalu_esto1258_2020,
+150,150,fFZD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,
+151,151,fFBD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,
+152,152,fMBD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,
+153,153,fMZD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,
+154,154,fFBS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,
+155,155,fFZS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,
+156,156,fMBS,onupoeg,,,,UR20,pajusalu_esto1258_2020,
+157,157,fMZS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,
+158,158,fE,abikaasa,,,,UR20,pajusalu_esto1258_2020,
+159,159,fBW,wennanaine,,,,UR20,pajusalu_esto1258_2020,
+160,160,fZH,əemees,,,,UR20,pajusalu_esto1258_2020,
+161,161,fWB,naisewend,,,,UR20,pajusalu_esto1258_2020,‘Nææl’ less used by younger generation of language speakers
+162,162,fWZ,naiseəde,,,,UR20,pajusalu_esto1258_2020,‘Kæli’ less used by younger generation of language speakers
+163,163,fHB,mehewend,,,,UR20,pajusalu_esto1258_2020,‘Küdi’ less used by younger generation of language speakers
+164,164,fHZ,meheəde,,,,UR20,pajusalu_esto1258_2020,‘Nadu’ less used by younger generation of language speakers
+165,165,fWB,nææl,,,,UR20,pajusalu_esto1258_2020,‘Nææl’ less used by younger generation of language speakers
+166,166,fWZ,kæli,,,,UR20,pajusalu_esto1258_2020,‘Kæli’ less used by younger generation of language speakers
+167,167,fHB,küdi,,,,UR20,pajusalu_esto1258_2020,‘Küdi’ less used by younger generation of language speakers
+168,168,fHZ,nadu,,,,UR20,pajusalu_esto1258_2020,‘Nadu’ less used by younger generation of language speakers
+169,169,fFW(notM),kasuema,,,,UR20,pajusalu_esto1258_2020,
+170,170,fMH(notF),kasuisa,,,,UR20,pajusalu_esto1258_2020,
+171,171,fSWM,minia ema,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+172,172,fSWF,minia isa,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+173,173,fDHM,wæimehe ema,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+174,174,fDHF,wæimehe isa,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+175,175,fFZH,isa əemees,,,,UR20,pajusalu_esto1258_2020,
+176,176,fFZH,sətsemees,,,,UR20,pajusalu_esto1258_2020,‘sətse’ also occasionally replaced with ‘tædi’
+177,177,fFBW,isa wennanaine,,,,UR20,pajusalu_esto1258_2020,
+178,178,fFBW,lellenaine,,,,UR20,pajusalu_esto1258_2020,
+179,179,fMZH,tädimees,,,,UR20,pajusalu_esto1258_2020,
+180,180,fMBW,onunaine,,,,UR20,pajusalu_esto1258_2020,
+181,231,mFeB,lell,,,,UR4,kunnap_estonian_2015,Inferred; 
+182,232,mFyB,lell,,,,UR4,kunnap_estonian_2015,Inferred; 
+183,241,mFeZ,sətse,,,,UR4,kunnap_estonian_2015,Inferred; 
+184,242,mFyZ,sətse,,,,UR4,kunnap_estonian_2015,Inferred; 
+185,261,mMeZ,tædi,,,,UR4,kunnap_estonian_2015,Inferred; 
+186,262,mMyZ,tædi,,,,UR4,kunnap_estonian_2015,Inferred; 
+187,251,mMeB,onu,,,,UR4,kunnap_estonian_2015,Inferred; 
+188,252,mMyB,onu,,,,UR4,kunnap_estonian_2015,Inferred; 
+189,391,mFeBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+190,1181,mFeBS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+191,392,mFyBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+192,1182,mFyBS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+193,401,mFeZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+194,1191,mFeZS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+195,402,mFyZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+196,1192,mFyZS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+197,361,mFeBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+198,1151,mFeBD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+199,362,mFyBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+200,1152,mFyBD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+201,351,mFeZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+202,1141,mFeZD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+203,352,mFyZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+204,1142,mFyZD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+205,411,mMeBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+206,1201,mMeBS,onupoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+207,412,mMyBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+208,1202,mMyBS,onupoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+209,421,mMeZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+210,1211,mMeZS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+211,422,mMyZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+212,1212,mMyZS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+213,371,mMeBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+214,1161,mMeBD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+215,372,mMyBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+216,1162,mMyBD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+217,381,mMeZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+218,1171,mMeZD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+219,382,mMyZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+220,1172,mMyZD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+221,393,mFBeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+222,1183,mFBeS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+223,394,mFByS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+224,1184,mFByS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+225,403,mFZeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+226,1193,mFZeS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+227,404,mFZyS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+228,1194,mFZyS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+229,363,mFBeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+230,1153,mFBeD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+231,364,mFByD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+232,1154,mFByD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+233,353,mFZeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+234,1143,mFZeD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+235,354,mFZyD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+236,1144,mFZyD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+237,413,mMBeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+238,1203,mMBeS,onupoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+239,414,mMByS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+240,1204,mMByS,onupoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+241,423,mMZeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+242,1213,mMZeS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+243,424,mMZyS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+244,1214,mMZyS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+245,373,mMBeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+246,1163,mMBeD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+247,374,mMByD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+248,1164,mMByD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+249,383,mMZeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+250,1173,mMZeD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+251,384,mMZyD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+252,1174,mMZyD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+253,771,fFeB,lell,,,,UR4,kunnap_estonian_2015,Inferred; 
+254,772,fFyB,lell,,,,UR4,kunnap_estonian_2015,Inferred; 
+255,781,fFeZ,sətse,,,,UR4,kunnap_estonian_2015,Inferred; 
+256,782,fFyZ,sətse,,,,UR4,kunnap_estonian_2015,Inferred; 
+257,801,fMeZ,tædi,,,,UR4,kunnap_estonian_2015,Inferred; 
+258,802,fMyZ,tædi,,,,UR4,kunnap_estonian_2015,Inferred; 
+259,791,fMeB,onu,,,,UR4,kunnap_estonian_2015,Inferred; 
+260,792,fMyB,onu,,,,UR4,kunnap_estonian_2015,Inferred; 
+261,931,fFeBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+262,1541,fFeBS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+263,932,fFyBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+264,1542,fFyBS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+265,941,fFeZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+266,1551,fFeZS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+267,942,fFyZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+268,1552,fFyZS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+269,901,fFeBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+270,1511,fFeBD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+271,902,fFyBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+272,1512,fFyBD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+273,891,fFeZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+274,1501,fFeZD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+275,892,fFyZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+276,1502,fFyZD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+277,951,fMeBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+278,1561,fMeBS,onupoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+279,952,fMyBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+280,1562,fMyBS,onupoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+281,961,fMeZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+282,1571,fMeZS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+283,962,fMyZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+284,1572,fMyZS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+285,911,fMeBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+286,1521,fMeBD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+287,912,fMyBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+288,1522,fMyBD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+289,921,fMeZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+290,1531,fMeZD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+291,922,fMyZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+292,1532,fMyZD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+293,933,fFBeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+294,1543,fFBeS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+295,934,fFByS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+296,1544,fFByS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+297,943,fFZeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+298,1553,fFZeS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+299,944,fFZyS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+300,1554,fFZyS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+301,903,fFBeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+302,1513,fFBeD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+303,904,fFByD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+304,1514,fFByD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+305,893,fFZeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+306,1503,fFZeD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+307,894,fFZyD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+308,1504,fFZyD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+309,953,fMBeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+310,1563,fMBeS,onupoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+311,954,fMByS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+312,1564,fMByS,onupoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+313,963,fMZeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+314,1573,fMZeS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+315,964,fMZyS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+316,1574,fMZyS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+317,913,fMBeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+318,1523,fMBeD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+319,914,fMByD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+320,1524,fMByD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+321,923,fMZeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+322,1533,fMZeD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 
+323,924,fMZyD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; 
+324,1534,fMZyD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,Inferred; 

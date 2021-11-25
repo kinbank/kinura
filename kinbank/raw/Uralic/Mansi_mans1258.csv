@@ -1,663 +1,663 @@
-"","parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"1","mG","yaɣpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"2","mG","yaɣaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"3","mB","yaɣpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"4","mZ","yaɣaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"5","myB","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"6","myZ","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"7","mF","asʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"8","mM","aŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"9","mM","oma",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"10","mM","sʸanʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"11","mC","yuw-xulʸtne aɣi-pɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"12","mS","pɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"13","mD","aɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"14","mFF","opa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"15","mFF","asʸoyka",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"16","mFM","anʸekwa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"17","mFM","sʸasʸekwa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"18","mMF","opa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"19","mMF","asʸoyka",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"20","mMM","anʸekwa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"21","mMM","sʸasʸekwa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"22","mSS","apɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"23","mSD","apɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"24","mDS","apɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"25","mDD","apɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"26","mFB","akʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"27","mFB","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"28","mFZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"29","mFZ","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"30","mMB","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"31","mMZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"32","mMZ","nɨy",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"33","mBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"34","mBS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"35","mBS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"36","mBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"37","mBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"38","mBD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"39","mZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"40","mZS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"41","mZS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"42","mZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"43","mZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"44","mZD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"45","mFZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"46","mFZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"47","mFZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"48","mFZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"49","mFZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"50","mFZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"51","mFBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"52","mFBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"53","mFBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"54","mFBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"55","mFBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"56","mFBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"57","mMBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"58","mMBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"59","mMBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"60","mMBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"61","mMBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"62","mMBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"63","mMZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"64","mMZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"65","mMZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"66","mMZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"67","mMZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"68","mMZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"69","mFBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"70","mFBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"71","mFBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"72","mFBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"73","mFBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"74","mFBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"75","mFZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"76","mFZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"77","mFZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"78","mFZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"79","mFZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"80","mFZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"81","mMBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"82","mMBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"83","mMBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"84","mMBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"85","mMBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"86","mMBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"87","mMZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"88","mMZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"89","mMZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"90","mMZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"91","mMZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"92","mMZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"93","mH","oyka",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"94","mH","xum",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"95","mW","ekwa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"96","mSW","mʸenʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"97","mSW","mʸenʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"98","mDH","waps",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"99","mDH","waps",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"100","meB","yaɣpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"101","meZ","yaɣaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"102","mFeB","akʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"103","mFeB","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"104","mFyB","akʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"105","mFyB","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"106","mFeZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"107","mFeZ","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"108","mFyZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"109","mFyZ","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"110","mMeZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"111","mMeZ","nɨy",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"112","mMyZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"113","mMyZ","nɨy",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"114","mMeB","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"115","mMyB","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"116","meBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"117","meBS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"118","meBS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"119","myBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"120","myBS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"121","myBS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"122","meBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"123","meBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"124","meBD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"125","myBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"126","myBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"127","myBD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"128","meZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"129","meZS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"130","meZS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"131","myZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"132","myZS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"133","myZS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"134","meZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"135","meZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"136","meZD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"137","myZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"138","myZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"139","myZD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"140","mFeBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"141","mFeBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"142","mFeBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"143","mFeBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"144","mFeBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"145","mFeBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"146","mFyBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"147","mFyBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"148","mFyBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"149","mFyBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"150","mFyBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"151","mFyBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"152","mFeZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"153","mFeZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"154","mFeZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"155","mFeZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"156","mFeZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"157","mFeZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"158","mFyZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"159","mFyZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"160","mFyZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"161","mFyZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"162","mFyZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"163","mFyZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"164","mFeBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"165","mFeBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"166","mFeBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"167","mFeBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"168","mFeBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"169","mFeBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"170","mFyBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"171","mFyBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"172","mFyBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"173","mFyBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"174","mFyBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"175","mFyBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"176","mFeZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"177","mFeZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"178","mFeZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"179","mFeZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"180","mFeZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"181","mFeZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"182","mFyZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"183","mFyZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"184","mFyZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"185","mFyZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"186","mFyZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"187","mFyZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"188","mMeBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"189","mMeBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"190","mMeBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"191","mMeBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"192","mMeBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"193","mMeBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"194","mMyBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"195","mMyBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"196","mMyBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"197","mMyBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"198","mMyBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"199","mMyBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"200","mMeZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"201","mMeZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"202","mMeZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"203","mMeZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"204","mMeZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"205","mMeZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"206","mMyZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"207","mMyZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"208","mMyZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"209","mMyZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"210","mMyZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"211","mMyZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"212","mMeBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"213","mMeBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"214","mMeBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"215","mMeBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"216","mMeBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"217","mMeBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"218","mMyBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"219","mMyBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"220","mMyBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"221","mMyBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"222","mMyBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"223","mMyBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"224","mMeZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"225","mMeZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"226","mMeZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"227","mMeZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"228","mMeZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"229","mMeZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"230","mMyZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"231","mMyZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"232","mMyZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"233","mMyZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"234","mMyZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"235","mMyZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"236","mFBeS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"237","mFBeS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"238","mFBeS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"239","mFBeS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"240","mFBeS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"241","mFBeS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"242","mFByS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"243","mFByS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"244","mFByS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"245","mFByS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"246","mFByS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"247","mFByS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"248","mFZeS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"249","mFZeS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"250","mFZeS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"251","mFZeS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"252","mFZeS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"253","mFZeS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"254","mFZyS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"255","mFZyS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"256","mFZyS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"257","mFZyS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"258","mFZyS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"259","mFZyS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"260","mFBeD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"261","mFBeD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"262","mFBeD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"263","mFBeD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"264","mFBeD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"265","mFBeD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"266","mFByD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"267","mFByD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"268","mFByD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"269","mFByD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"270","mFByD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"271","mFByD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"272","mFZeD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"273","mFZeD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"274","mFZeD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"275","mFZeD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"276","mFZeD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"277","mFZeD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"278","mFZyD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"279","mFZyD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"280","mFZyD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"281","mFZyD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"282","mFZyD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"283","mFZyD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"284","mMBeS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"285","mMBeS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"286","mMBeS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"287","mMBeS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"288","mMBeS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"289","mMBeS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"290","mMByS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"291","mMByS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"292","mMByS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"293","mMByS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"294","mMByS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"295","mMByS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"296","mMZeS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"297","mMZeS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"298","mMZeS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"299","mMZeS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"300","mMZeS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"301","mMZeS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"302","mMZyS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"303","mMZyS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"304","mMZyS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"305","mMZyS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"306","mMZyS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"307","mMZyS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"308","mMBeD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"309","mMBeD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"310","mMBeD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"311","mMBeD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"312","mMBeD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"313","mMBeD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"314","mMByD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"315","mMByD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"316","mMByD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"317","mMByD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"318","mMByD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"319","mMByD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"320","mMZeD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"321","mMZeD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"322","mMZeD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"323","mMZeD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"324","mMZeD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"325","mMZeD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"326","mMZyD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"327","mMZyD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"328","mMZyD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"329","mMZyD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"330","mMZyD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"331","mMZyD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"332","fG","yaɣpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"333","fG","yaɣaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"334","fB","yaɣpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"335","fZ","yaɣaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"336","fyB","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"337","fyZ","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"338","fF","asʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"339","fM","aŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"340","fM","oma",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"341","fM","sʸanʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"342","fC","yuw-xulʸtne aɣi-pɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"343","fS","pɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"344","fD","aɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"345","fFF","opa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"346","fFF","asʸoyka",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"347","fFM","anʸekwa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"348","fFM","sʸasʸekwa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"349","fMF","opa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"350","fMF","asʸoyka",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"351","fMM","anʸekwa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"352","fMM","sʸasʸekwa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"353","fSS","apɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"354","fSD","apɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"355","fDS","apɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"356","fDD","apɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"357","fFB","akʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"358","fFB","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"359","fFZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"360","fFZ","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"361","fMB","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"362","fMZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"363","fMZ","nɨy",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"364","fBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"365","fBS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"366","fBS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"367","fBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"368","fBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"369","fBD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"370","fZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"371","fZS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"372","fZS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"373","fZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"374","fZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"375","fZD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"376","fFZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"377","fFZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"378","fFZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"379","fFZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"380","fFZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"381","fFZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"382","fFBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"383","fFBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"384","fFBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"385","fFBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"386","fFBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"387","fFBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"388","fMBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"389","fMBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"390","fMBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"391","fMBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"392","fMBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"393","fMBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"394","fMZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"395","fMZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"396","fMZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"397","fMZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"398","fMZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"399","fMZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"400","fFBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"401","fFBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"402","fFBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"403","fFBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"404","fFBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"405","fFBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"406","fFZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"407","fFZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"408","fFZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"409","fFZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"410","fFZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"411","fFZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"412","fMBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"413","fMBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"414","fMBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"415","fMBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"416","fMBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"417","fMBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"418","fMZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"419","fMZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"420","fMZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"421","fMZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"422","fMZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"423","fMZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"424","fH","oyka",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"425","fH","xum",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"426","fW","ekwa",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"427","fSW","mʸenʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"428","fSW","mʸenʸ",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"429","fDH","waps",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"430","fDH","waps",NA,NA,NA,"UR6","lyskova_mansi_2015",""
-"431","feB","yaɣpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"432","feZ","yaɣaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"433","fFeB","akʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"434","fFeB","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"435","fFyB","akʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"436","fFyB","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"437","fFeZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"438","fFeZ","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"439","fFyZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"440","fFyZ","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"441","fMeZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"442","fMeZ","nɨy",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"443","fMyZ","akw",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"444","fMyZ","nɨy",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"445","fMeB","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"446","fMyB","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"447","feBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"448","feBS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"449","feBS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"450","fyBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"451","fyBS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"452","fyBS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"453","feBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"454","feBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"455","feBD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"456","fyBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"457","fyBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"458","fyBD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"459","feZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"460","feZS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"461","feZS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"462","fyZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"463","fyZS","apsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"464","fyZS","kaŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"465","feZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"466","feZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"467","feZD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"468","fyZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"469","fyZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"470","fyZD","uwsʸi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"471","fFeBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"472","fFeBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"473","fFeBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"474","fFeBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"475","fFeBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"476","fFeBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"477","fFyBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"478","fFyBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"479","fFyBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"480","fFyBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"481","fFyBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"482","fFyBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"483","fFeZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"484","fFeZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"485","fFeZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"486","fFeZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"487","fFeZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"488","fFeZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"489","fFyZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"490","fFyZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"491","fFyZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"492","fFyZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"493","fFyZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"494","fFyZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"495","fFeBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"496","fFeBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"497","fFeBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"498","fFeBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"499","fFeBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"500","fFeBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"501","fFyBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"502","fFyBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"503","fFyBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"504","fFyBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"505","fFyBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"506","fFyBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"507","fFeZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"508","fFeZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"509","fFeZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"510","fFeZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"511","fFeZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"512","fFeZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"513","fFyZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"514","fFyZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"515","fFyZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"516","fFyZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"517","fFyZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"518","fFyZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"519","fMeBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"520","fMeBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"521","fMeBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"522","fMeBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"523","fMeBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"524","fMeBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"525","fMyBS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"526","fMyBS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"527","fMyBS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"528","fMyBS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"529","fMyBS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"530","fMyBS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"531","fMeZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"532","fMeZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"533","fMeZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"534","fMeZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"535","fMeZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"536","fMeZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"537","fMyZS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"538","fMyZS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"539","fMyZS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"540","fMyZS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"541","fMyZS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"542","fMyZS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"543","fMeBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"544","fMeBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"545","fMeBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"546","fMeBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"547","fMeBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"548","fMeBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"549","fMyBD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"550","fMyBD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"551","fMyBD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"552","fMyBD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"553","fMyBD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"554","fMyBD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"555","fMeZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"556","fMeZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"557","fMeZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"558","fMeZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"559","fMeZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"560","fMeZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"561","fMyZD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"562","fMyZD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"563","fMyZD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"564","fMyZD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"565","fMyZD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"566","fMyZD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"567","fFBeS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"568","fFBeS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"569","fFBeS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"570","fFBeS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"571","fFBeS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"572","fFBeS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"573","fFByS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"574","fFByS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"575","fFByS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"576","fFByS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"577","fFByS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"578","fFByS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"579","fFZeS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"580","fFZeS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"581","fFZeS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"582","fFZeS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"583","fFZeS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"584","fFZeS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"585","fFZyS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"586","fFZyS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"587","fFZyS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"588","fFZyS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"589","fFZyS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"590","fFZyS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"591","fFBeD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"592","fFBeD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"593","fFBeD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"594","fFBeD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"595","fFBeD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"596","fFBeD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"597","fFByD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"598","fFByD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"599","fFByD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"600","fFByD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"601","fFByD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"602","fFByD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"603","fFZeD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"604","fFZeD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"605","fFZeD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"606","fFZeD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"607","fFZeD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"608","fFZeD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"609","fFZyD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"610","fFZyD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"611","fFZyD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"612","fFZyD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"613","fFZyD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"614","fFZyD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"615","fMBeS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"616","fMBeS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"617","fMBeS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"618","fMBeS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"619","fMBeS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"620","fMBeS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"621","fMByS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"622","fMByS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"623","fMByS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"624","fMByS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"625","fMByS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"626","fMByS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"627","fMZeS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"628","fMZeS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"629","fMZeS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"630","fMZeS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"631","fMZeS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"632","fMZeS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"633","fMZyS","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"634","fMZyS","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"635","fMZyS","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"636","fMZyS","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"637","fMZyS","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"638","fMZyS","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"639","fMBeD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"640","fMBeD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"641","fMBeD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"642","fMBeD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"643","fMBeD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"644","fMBeD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"645","fMByD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"646","fMByD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"647","fMByD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"648","fMByD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"649","fMByD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"650","fMByD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"651","fMZeD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"652","fMZeD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"653","fMZeD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"654","fMZeD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"655","fMZeD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"656","fMZeD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"657","fMZyD","sasɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"658","fMZyD","aŋkwpɨɣ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"659","fMZyD","pant",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"660","fMZyD","aŋkwaɣi",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"661","fMZyD","esʸ",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
-"662","fMZyD","eŋk",NA,NA,NA,"UR6","lyskova_mansi_2015","Inferred; NA"
+,X,parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+1,1,mG,yaɣpɨɣ,,,,UR6,lyskova_mansi_2015,
+2,2,mG,yaɣaɣi,,,,UR6,lyskova_mansi_2015,
+3,3,mB,yaɣpɨɣ,,,,UR6,lyskova_mansi_2015,
+4,4,mZ,yaɣaɣi,,,,UR6,lyskova_mansi_2015,
+5,5,myB,apsʸi,,,,UR6,lyskova_mansi_2015,
+6,6,myZ,esʸ,,,,UR6,lyskova_mansi_2015,
+7,7,mF,asʸ,,,,UR6,lyskova_mansi_2015,
+8,8,mM,aŋk,,,,UR6,lyskova_mansi_2015,
+9,9,mM,oma,,,,UR6,lyskova_mansi_2015,
+10,10,mM,sʸanʸ,,,,UR6,lyskova_mansi_2015,
+11,11,mC,yuw-xulʸtne aɣi-pɨɣ,,,,UR6,lyskova_mansi_2015,
+12,12,mS,pɨɣ,,,,UR6,lyskova_mansi_2015,
+13,13,mD,aɣi,,,,UR6,lyskova_mansi_2015,
+14,14,mFF,opa,,,,UR6,lyskova_mansi_2015,
+15,15,mFF,asʸoyka,,,,UR6,lyskova_mansi_2015,
+16,16,mFM,anʸekwa,,,,UR6,lyskova_mansi_2015,
+17,17,mFM,sʸasʸekwa,,,,UR6,lyskova_mansi_2015,
+18,18,mMF,opa,,,,UR6,lyskova_mansi_2015,
+19,19,mMF,asʸoyka,,,,UR6,lyskova_mansi_2015,
+20,20,mMM,anʸekwa,,,,UR6,lyskova_mansi_2015,
+21,21,mMM,sʸasʸekwa,,,,UR6,lyskova_mansi_2015,
+22,22,mSS,apɨɣ,,,,UR6,lyskova_mansi_2015,
+23,23,mSD,apɨɣ,,,,UR6,lyskova_mansi_2015,
+24,24,mDS,apɨɣ,,,,UR6,lyskova_mansi_2015,
+25,25,mDD,apɨɣ,,,,UR6,lyskova_mansi_2015,
+26,26,mFB,akʸi,,,,UR6,lyskova_mansi_2015,
+27,27,mFB,kaŋk,,,,UR6,lyskova_mansi_2015,
+28,28,mFZ,akw,,,,UR6,lyskova_mansi_2015,
+29,29,mFZ,uwsʸi,,,,UR6,lyskova_mansi_2015,
+30,30,mMB,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+31,31,mMZ,akw,,,,UR6,lyskova_mansi_2015,
+32,32,mMZ,nɨy,,,,UR6,lyskova_mansi_2015,
+33,33,mBS,pant,,,,UR6,lyskova_mansi_2015,
+34,34,mBS,apsʸi,,,,UR6,lyskova_mansi_2015,
+35,35,mBS,kaŋk,,,,UR6,lyskova_mansi_2015,
+36,36,mBD,eŋk,,,,UR6,lyskova_mansi_2015,
+37,37,mBD,esʸ,,,,UR6,lyskova_mansi_2015,
+38,38,mBD,uwsʸi,,,,UR6,lyskova_mansi_2015,
+39,39,mZS,pant,,,,UR6,lyskova_mansi_2015,
+40,40,mZS,apsʸi,,,,UR6,lyskova_mansi_2015,
+41,41,mZS,kaŋk,,,,UR6,lyskova_mansi_2015,
+42,42,mZD,eŋk,,,,UR6,lyskova_mansi_2015,
+43,43,mZD,esʸ,,,,UR6,lyskova_mansi_2015,
+44,44,mZD,uwsʸi,,,,UR6,lyskova_mansi_2015,
+45,45,mFZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+46,46,mFZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+47,47,mFZD,pant,,,,UR6,lyskova_mansi_2015,
+48,48,mFZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+49,49,mFZD,esʸ,,,,UR6,lyskova_mansi_2015,
+50,50,mFZD,eŋk,,,,UR6,lyskova_mansi_2015,
+51,51,mFBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+52,52,mFBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+53,53,mFBD,pant,,,,UR6,lyskova_mansi_2015,
+54,54,mFBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+55,55,mFBD,esʸ,,,,UR6,lyskova_mansi_2015,
+56,56,mFBD,eŋk,,,,UR6,lyskova_mansi_2015,
+57,57,mMBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+58,58,mMBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+59,59,mMBD,pant,,,,UR6,lyskova_mansi_2015,
+60,60,mMBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+61,61,mMBD,esʸ,,,,UR6,lyskova_mansi_2015,
+62,62,mMBD,eŋk,,,,UR6,lyskova_mansi_2015,
+63,63,mMZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+64,64,mMZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+65,65,mMZD,pant,,,,UR6,lyskova_mansi_2015,
+66,66,mMZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+67,67,mMZD,esʸ,,,,UR6,lyskova_mansi_2015,
+68,68,mMZD,eŋk,,,,UR6,lyskova_mansi_2015,
+69,69,mFBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+70,70,mFBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+71,71,mFBS,pant,,,,UR6,lyskova_mansi_2015,
+72,72,mFBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+73,73,mFBS,esʸ,,,,UR6,lyskova_mansi_2015,
+74,74,mFBS,eŋk,,,,UR6,lyskova_mansi_2015,
+75,75,mFZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+76,76,mFZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+77,77,mFZS,pant,,,,UR6,lyskova_mansi_2015,
+78,78,mFZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+79,79,mFZS,esʸ,,,,UR6,lyskova_mansi_2015,
+80,80,mFZS,eŋk,,,,UR6,lyskova_mansi_2015,
+81,81,mMBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+82,82,mMBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+83,83,mMBS,pant,,,,UR6,lyskova_mansi_2015,
+84,84,mMBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+85,85,mMBS,esʸ,,,,UR6,lyskova_mansi_2015,
+86,86,mMBS,eŋk,,,,UR6,lyskova_mansi_2015,
+87,87,mMZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+88,88,mMZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+89,89,mMZS,pant,,,,UR6,lyskova_mansi_2015,
+90,90,mMZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+91,91,mMZS,esʸ,,,,UR6,lyskova_mansi_2015,
+92,92,mMZS,eŋk,,,,UR6,lyskova_mansi_2015,
+93,93,mH,oyka,,,,UR6,lyskova_mansi_2015,
+94,94,mH,xum,,,,UR6,lyskova_mansi_2015,
+95,95,mW,ekwa,,,,UR6,lyskova_mansi_2015,
+96,96,mSW,mʸenʸ,,,,UR6,lyskova_mansi_2015,
+97,97,mSW,mʸenʸ,,,,UR6,lyskova_mansi_2015,
+98,98,mDH,waps,,,,UR6,lyskova_mansi_2015,
+99,99,mDH,waps,,,,UR6,lyskova_mansi_2015,
+100,100,meB,yaɣpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+101,101,meZ,yaɣaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+102,102,mFeB,akʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+103,103,mFeB,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+104,104,mFyB,akʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+105,105,mFyB,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+106,106,mFeZ,akw,,,,UR6,lyskova_mansi_2015,Inferred; NA
+107,107,mFeZ,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+108,108,mFyZ,akw,,,,UR6,lyskova_mansi_2015,Inferred; NA
+109,109,mFyZ,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+110,110,mMeZ,akw,,,,UR6,lyskova_mansi_2015,Inferred; NA
+111,111,mMeZ,nɨy,,,,UR6,lyskova_mansi_2015,Inferred; NA
+112,112,mMyZ,akw,,,,UR6,lyskova_mansi_2015,Inferred; NA
+113,113,mMyZ,nɨy,,,,UR6,lyskova_mansi_2015,Inferred; NA
+114,114,mMeB,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+115,115,mMyB,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+116,116,meBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+117,117,meBS,apsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+118,118,meBS,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+119,119,myBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+120,120,myBS,apsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+121,121,myBS,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+122,122,meBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+123,123,meBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+124,124,meBD,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+125,125,myBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+126,126,myBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+127,127,myBD,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+128,128,meZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+129,129,meZS,apsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+130,130,meZS,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+131,131,myZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+132,132,myZS,apsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+133,133,myZS,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+134,134,meZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+135,135,meZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+136,136,meZD,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+137,137,myZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+138,138,myZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+139,139,myZD,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+140,140,mFeBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+141,141,mFeBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+142,142,mFeBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+143,143,mFeBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+144,144,mFeBS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+145,145,mFeBS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+146,146,mFyBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+147,147,mFyBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+148,148,mFyBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+149,149,mFyBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+150,150,mFyBS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+151,151,mFyBS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+152,152,mFeZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+153,153,mFeZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+154,154,mFeZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+155,155,mFeZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+156,156,mFeZS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+157,157,mFeZS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+158,158,mFyZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+159,159,mFyZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+160,160,mFyZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+161,161,mFyZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+162,162,mFyZS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+163,163,mFyZS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+164,164,mFeBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+165,165,mFeBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+166,166,mFeBD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+167,167,mFeBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+168,168,mFeBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+169,169,mFeBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+170,170,mFyBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+171,171,mFyBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+172,172,mFyBD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+173,173,mFyBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+174,174,mFyBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+175,175,mFyBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+176,176,mFeZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+177,177,mFeZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+178,178,mFeZD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+179,179,mFeZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+180,180,mFeZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+181,181,mFeZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+182,182,mFyZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+183,183,mFyZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+184,184,mFyZD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+185,185,mFyZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+186,186,mFyZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+187,187,mFyZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+188,188,mMeBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+189,189,mMeBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+190,190,mMeBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+191,191,mMeBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+192,192,mMeBS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+193,193,mMeBS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+194,194,mMyBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+195,195,mMyBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+196,196,mMyBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+197,197,mMyBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+198,198,mMyBS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+199,199,mMyBS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+200,200,mMeZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+201,201,mMeZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+202,202,mMeZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+203,203,mMeZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+204,204,mMeZS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+205,205,mMeZS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+206,206,mMyZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+207,207,mMyZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+208,208,mMyZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+209,209,mMyZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+210,210,mMyZS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+211,211,mMyZS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+212,212,mMeBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+213,213,mMeBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+214,214,mMeBD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+215,215,mMeBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+216,216,mMeBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+217,217,mMeBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+218,218,mMyBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+219,219,mMyBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+220,220,mMyBD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+221,221,mMyBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+222,222,mMyBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+223,223,mMyBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+224,224,mMeZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+225,225,mMeZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+226,226,mMeZD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+227,227,mMeZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+228,228,mMeZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+229,229,mMeZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+230,230,mMyZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+231,231,mMyZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+232,232,mMyZD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+233,233,mMyZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+234,234,mMyZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+235,235,mMyZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+236,236,mFBeS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+237,237,mFBeS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+238,238,mFBeS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+239,239,mFBeS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+240,240,mFBeS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+241,241,mFBeS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+242,242,mFByS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+243,243,mFByS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+244,244,mFByS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+245,245,mFByS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+246,246,mFByS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+247,247,mFByS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+248,248,mFZeS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+249,249,mFZeS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+250,250,mFZeS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+251,251,mFZeS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+252,252,mFZeS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+253,253,mFZeS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+254,254,mFZyS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+255,255,mFZyS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+256,256,mFZyS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+257,257,mFZyS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+258,258,mFZyS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+259,259,mFZyS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+260,260,mFBeD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+261,261,mFBeD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+262,262,mFBeD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+263,263,mFBeD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+264,264,mFBeD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+265,265,mFBeD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+266,266,mFByD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+267,267,mFByD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+268,268,mFByD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+269,269,mFByD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+270,270,mFByD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+271,271,mFByD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+272,272,mFZeD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+273,273,mFZeD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+274,274,mFZeD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+275,275,mFZeD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+276,276,mFZeD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+277,277,mFZeD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+278,278,mFZyD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+279,279,mFZyD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+280,280,mFZyD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+281,281,mFZyD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+282,282,mFZyD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+283,283,mFZyD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+284,284,mMBeS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+285,285,mMBeS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+286,286,mMBeS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+287,287,mMBeS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+288,288,mMBeS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+289,289,mMBeS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+290,290,mMByS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+291,291,mMByS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+292,292,mMByS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+293,293,mMByS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+294,294,mMByS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+295,295,mMByS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+296,296,mMZeS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+297,297,mMZeS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+298,298,mMZeS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+299,299,mMZeS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+300,300,mMZeS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+301,301,mMZeS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+302,302,mMZyS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+303,303,mMZyS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+304,304,mMZyS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+305,305,mMZyS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+306,306,mMZyS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+307,307,mMZyS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+308,308,mMBeD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+309,309,mMBeD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+310,310,mMBeD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+311,311,mMBeD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+312,312,mMBeD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+313,313,mMBeD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+314,314,mMByD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+315,315,mMByD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+316,316,mMByD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+317,317,mMByD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+318,318,mMByD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+319,319,mMByD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+320,320,mMZeD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+321,321,mMZeD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+322,322,mMZeD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+323,323,mMZeD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+324,324,mMZeD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+325,325,mMZeD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+326,326,mMZyD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+327,327,mMZyD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+328,328,mMZyD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+329,329,mMZyD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+330,330,mMZyD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+331,331,mMZyD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+332,332,fG,yaɣpɨɣ,,,,UR6,lyskova_mansi_2015,
+333,333,fG,yaɣaɣi,,,,UR6,lyskova_mansi_2015,
+334,334,fB,yaɣpɨɣ,,,,UR6,lyskova_mansi_2015,
+335,335,fZ,yaɣaɣi,,,,UR6,lyskova_mansi_2015,
+336,336,fyB,apsʸi,,,,UR6,lyskova_mansi_2015,
+337,337,fyZ,esʸ,,,,UR6,lyskova_mansi_2015,
+338,338,fF,asʸ,,,,UR6,lyskova_mansi_2015,
+339,339,fM,aŋk,,,,UR6,lyskova_mansi_2015,
+340,340,fM,oma,,,,UR6,lyskova_mansi_2015,
+341,341,fM,sʸanʸ,,,,UR6,lyskova_mansi_2015,
+342,342,fC,yuw-xulʸtne aɣi-pɨɣ,,,,UR6,lyskova_mansi_2015,
+343,343,fS,pɨɣ,,,,UR6,lyskova_mansi_2015,
+344,344,fD,aɣi,,,,UR6,lyskova_mansi_2015,
+345,345,fFF,opa,,,,UR6,lyskova_mansi_2015,
+346,346,fFF,asʸoyka,,,,UR6,lyskova_mansi_2015,
+347,347,fFM,anʸekwa,,,,UR6,lyskova_mansi_2015,
+348,348,fFM,sʸasʸekwa,,,,UR6,lyskova_mansi_2015,
+349,349,fMF,opa,,,,UR6,lyskova_mansi_2015,
+350,350,fMF,asʸoyka,,,,UR6,lyskova_mansi_2015,
+351,351,fMM,anʸekwa,,,,UR6,lyskova_mansi_2015,
+352,352,fMM,sʸasʸekwa,,,,UR6,lyskova_mansi_2015,
+353,353,fSS,apɨɣ,,,,UR6,lyskova_mansi_2015,
+354,354,fSD,apɨɣ,,,,UR6,lyskova_mansi_2015,
+355,355,fDS,apɨɣ,,,,UR6,lyskova_mansi_2015,
+356,356,fDD,apɨɣ,,,,UR6,lyskova_mansi_2015,
+357,357,fFB,akʸi,,,,UR6,lyskova_mansi_2015,
+358,358,fFB,kaŋk,,,,UR6,lyskova_mansi_2015,
+359,359,fFZ,akw,,,,UR6,lyskova_mansi_2015,
+360,360,fFZ,uwsʸi,,,,UR6,lyskova_mansi_2015,
+361,361,fMB,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+362,362,fMZ,akw,,,,UR6,lyskova_mansi_2015,
+363,363,fMZ,nɨy,,,,UR6,lyskova_mansi_2015,
+364,364,fBS,pant,,,,UR6,lyskova_mansi_2015,
+365,365,fBS,apsʸi,,,,UR6,lyskova_mansi_2015,
+366,366,fBS,kaŋk,,,,UR6,lyskova_mansi_2015,
+367,367,fBD,eŋk,,,,UR6,lyskova_mansi_2015,
+368,368,fBD,esʸ,,,,UR6,lyskova_mansi_2015,
+369,369,fBD,uwsʸi,,,,UR6,lyskova_mansi_2015,
+370,370,fZS,pant,,,,UR6,lyskova_mansi_2015,
+371,371,fZS,apsʸi,,,,UR6,lyskova_mansi_2015,
+372,372,fZS,kaŋk,,,,UR6,lyskova_mansi_2015,
+373,373,fZD,eŋk,,,,UR6,lyskova_mansi_2015,
+374,374,fZD,esʸ,,,,UR6,lyskova_mansi_2015,
+375,375,fZD,uwsʸi,,,,UR6,lyskova_mansi_2015,
+376,376,fFZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+377,377,fFZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+378,378,fFZD,pant,,,,UR6,lyskova_mansi_2015,
+379,379,fFZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+380,380,fFZD,esʸ,,,,UR6,lyskova_mansi_2015,
+381,381,fFZD,eŋk,,,,UR6,lyskova_mansi_2015,
+382,382,fFBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+383,383,fFBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+384,384,fFBD,pant,,,,UR6,lyskova_mansi_2015,
+385,385,fFBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+386,386,fFBD,esʸ,,,,UR6,lyskova_mansi_2015,
+387,387,fFBD,eŋk,,,,UR6,lyskova_mansi_2015,
+388,388,fMBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+389,389,fMBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+390,390,fMBD,pant,,,,UR6,lyskova_mansi_2015,
+391,391,fMBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+392,392,fMBD,esʸ,,,,UR6,lyskova_mansi_2015,
+393,393,fMBD,eŋk,,,,UR6,lyskova_mansi_2015,
+394,394,fMZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+395,395,fMZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+396,396,fMZD,pant,,,,UR6,lyskova_mansi_2015,
+397,397,fMZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+398,398,fMZD,esʸ,,,,UR6,lyskova_mansi_2015,
+399,399,fMZD,eŋk,,,,UR6,lyskova_mansi_2015,
+400,400,fFBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+401,401,fFBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+402,402,fFBS,pant,,,,UR6,lyskova_mansi_2015,
+403,403,fFBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+404,404,fFBS,esʸ,,,,UR6,lyskova_mansi_2015,
+405,405,fFBS,eŋk,,,,UR6,lyskova_mansi_2015,
+406,406,fFZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+407,407,fFZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+408,408,fFZS,pant,,,,UR6,lyskova_mansi_2015,
+409,409,fFZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+410,410,fFZS,esʸ,,,,UR6,lyskova_mansi_2015,
+411,411,fFZS,eŋk,,,,UR6,lyskova_mansi_2015,
+412,412,fMBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+413,413,fMBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+414,414,fMBS,pant,,,,UR6,lyskova_mansi_2015,
+415,415,fMBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+416,416,fMBS,esʸ,,,,UR6,lyskova_mansi_2015,
+417,417,fMBS,eŋk,,,,UR6,lyskova_mansi_2015,
+418,418,fMZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,
+419,419,fMZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,
+420,420,fMZS,pant,,,,UR6,lyskova_mansi_2015,
+421,421,fMZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,
+422,422,fMZS,esʸ,,,,UR6,lyskova_mansi_2015,
+423,423,fMZS,eŋk,,,,UR6,lyskova_mansi_2015,
+424,424,fH,oyka,,,,UR6,lyskova_mansi_2015,
+425,425,fH,xum,,,,UR6,lyskova_mansi_2015,
+426,426,fW,ekwa,,,,UR6,lyskova_mansi_2015,
+427,427,fSW,mʸenʸ,,,,UR6,lyskova_mansi_2015,
+428,428,fSW,mʸenʸ,,,,UR6,lyskova_mansi_2015,
+429,429,fDH,waps,,,,UR6,lyskova_mansi_2015,
+430,430,fDH,waps,,,,UR6,lyskova_mansi_2015,
+431,431,feB,yaɣpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+432,432,feZ,yaɣaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+433,433,fFeB,akʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+434,434,fFeB,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+435,435,fFyB,akʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+436,436,fFyB,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+437,437,fFeZ,akw,,,,UR6,lyskova_mansi_2015,Inferred; NA
+438,438,fFeZ,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+439,439,fFyZ,akw,,,,UR6,lyskova_mansi_2015,Inferred; NA
+440,440,fFyZ,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+441,441,fMeZ,akw,,,,UR6,lyskova_mansi_2015,Inferred; NA
+442,442,fMeZ,nɨy,,,,UR6,lyskova_mansi_2015,Inferred; NA
+443,443,fMyZ,akw,,,,UR6,lyskova_mansi_2015,Inferred; NA
+444,444,fMyZ,nɨy,,,,UR6,lyskova_mansi_2015,Inferred; NA
+445,445,fMeB,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+446,446,fMyB,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+447,447,feBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+448,448,feBS,apsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+449,449,feBS,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+450,450,fyBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+451,451,fyBS,apsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+452,452,fyBS,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+453,453,feBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+454,454,feBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+455,455,feBD,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+456,456,fyBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+457,457,fyBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+458,458,fyBD,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+459,459,feZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+460,460,feZS,apsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+461,461,feZS,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+462,462,fyZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+463,463,fyZS,apsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+464,464,fyZS,kaŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+465,465,feZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+466,466,feZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+467,467,feZD,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+468,468,fyZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+469,469,fyZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+470,470,fyZD,uwsʸi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+471,471,fFeBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+472,472,fFeBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+473,473,fFeBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+474,474,fFeBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+475,475,fFeBS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+476,476,fFeBS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+477,477,fFyBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+478,478,fFyBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+479,479,fFyBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+480,480,fFyBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+481,481,fFyBS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+482,482,fFyBS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+483,483,fFeZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+484,484,fFeZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+485,485,fFeZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+486,486,fFeZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+487,487,fFeZS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+488,488,fFeZS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+489,489,fFyZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+490,490,fFyZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+491,491,fFyZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+492,492,fFyZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+493,493,fFyZS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+494,494,fFyZS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+495,495,fFeBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+496,496,fFeBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+497,497,fFeBD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+498,498,fFeBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+499,499,fFeBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+500,500,fFeBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+501,501,fFyBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+502,502,fFyBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+503,503,fFyBD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+504,504,fFyBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+505,505,fFyBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+506,506,fFyBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+507,507,fFeZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+508,508,fFeZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+509,509,fFeZD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+510,510,fFeZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+511,511,fFeZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+512,512,fFeZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+513,513,fFyZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+514,514,fFyZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+515,515,fFyZD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+516,516,fFyZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+517,517,fFyZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+518,518,fFyZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+519,519,fMeBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+520,520,fMeBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+521,521,fMeBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+522,522,fMeBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+523,523,fMeBS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+524,524,fMeBS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+525,525,fMyBS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+526,526,fMyBS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+527,527,fMyBS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+528,528,fMyBS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+529,529,fMyBS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+530,530,fMyBS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+531,531,fMeZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+532,532,fMeZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+533,533,fMeZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+534,534,fMeZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+535,535,fMeZS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+536,536,fMeZS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+537,537,fMyZS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+538,538,fMyZS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+539,539,fMyZS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+540,540,fMyZS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+541,541,fMyZS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+542,542,fMyZS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+543,543,fMeBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+544,544,fMeBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+545,545,fMeBD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+546,546,fMeBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+547,547,fMeBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+548,548,fMeBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+549,549,fMyBD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+550,550,fMyBD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+551,551,fMyBD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+552,552,fMyBD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+553,553,fMyBD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+554,554,fMyBD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+555,555,fMeZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+556,556,fMeZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+557,557,fMeZD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+558,558,fMeZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+559,559,fMeZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+560,560,fMeZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+561,561,fMyZD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+562,562,fMyZD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+563,563,fMyZD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+564,564,fMyZD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+565,565,fMyZD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+566,566,fMyZD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+567,567,fFBeS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+568,568,fFBeS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+569,569,fFBeS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+570,570,fFBeS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+571,571,fFBeS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+572,572,fFBeS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+573,573,fFByS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+574,574,fFByS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+575,575,fFByS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+576,576,fFByS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+577,577,fFByS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+578,578,fFByS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+579,579,fFZeS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+580,580,fFZeS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+581,581,fFZeS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+582,582,fFZeS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+583,583,fFZeS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+584,584,fFZeS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+585,585,fFZyS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+586,586,fFZyS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+587,587,fFZyS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+588,588,fFZyS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+589,589,fFZyS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+590,590,fFZyS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+591,591,fFBeD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+592,592,fFBeD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+593,593,fFBeD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+594,594,fFBeD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+595,595,fFBeD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+596,596,fFBeD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+597,597,fFByD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+598,598,fFByD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+599,599,fFByD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+600,600,fFByD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+601,601,fFByD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+602,602,fFByD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+603,603,fFZeD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+604,604,fFZeD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+605,605,fFZeD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+606,606,fFZeD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+607,607,fFZeD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+608,608,fFZeD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+609,609,fFZyD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+610,610,fFZyD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+611,611,fFZyD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+612,612,fFZyD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+613,613,fFZyD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+614,614,fFZyD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+615,615,fMBeS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+616,616,fMBeS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+617,617,fMBeS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+618,618,fMBeS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+619,619,fMBeS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+620,620,fMBeS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+621,621,fMByS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+622,622,fMByS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+623,623,fMByS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+624,624,fMByS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+625,625,fMByS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+626,626,fMByS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+627,627,fMZeS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+628,628,fMZeS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+629,629,fMZeS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+630,630,fMZeS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+631,631,fMZeS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+632,632,fMZeS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+633,633,fMZyS,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+634,634,fMZyS,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+635,635,fMZyS,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+636,636,fMZyS,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+637,637,fMZyS,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+638,638,fMZyS,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+639,639,fMBeD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+640,640,fMBeD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+641,641,fMBeD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+642,642,fMBeD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+643,643,fMBeD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+644,644,fMBeD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+645,645,fMByD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+646,646,fMByD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+647,647,fMByD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+648,648,fMByD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+649,649,fMByD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+650,650,fMByD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+651,651,fMZeD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+652,652,fMZeD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+653,653,fMZeD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+654,654,fMZeD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+655,655,fMZeD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+656,656,fMZeD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA
+657,657,fMZyD,sasɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+658,658,fMZyD,aŋkwpɨɣ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+659,659,fMZyD,pant,,,,UR6,lyskova_mansi_2015,Inferred; NA
+660,660,fMZyD,aŋkwaɣi,,,,UR6,lyskova_mansi_2015,Inferred; NA
+661,661,fMZyD,esʸ,,,,UR6,lyskova_mansi_2015,Inferred; NA
+662,662,fMZyD,eŋk,,,,UR6,lyskova_mansi_2015,Inferred; NA

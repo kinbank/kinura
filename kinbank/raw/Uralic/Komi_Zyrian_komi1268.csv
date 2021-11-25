@@ -1,373 +1,373 @@
-"","parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"1","mG","čoya-voka",NA,NA,NA,"UR11","turkin_komi_2015",""
-"2","mB","vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"3","mZ","čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"4","myB","ičötdžɩk vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"5","myZ","ičötdžɩk čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"6","mF","batʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"7","mF","ay",NA,NA,NA,"UR11","turkin_komi_2015",""
-"8","mM","mam",NA,NA,NA,"UR11","turkin_komi_2015",""
-"9","mC","yɩlöm",NA,NA,NA,"UR11","turkin_komi_2015",""
-"10","mS","pi",NA,NA,NA,"UR11","turkin_komi_2015",""
-"11","mD","nɩv",NA,NA,NA,"UR11","turkin_komi_2015",""
-"12","mFF","ɩdžɩd ay",NA,NA,NA,"UR11","turkin_komi_2015",""
-"13","mFF","pölʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"14","mFM","pöč",NA,NA,NA,"UR11","turkin_komi_2015",""
-"15","mFM","ɩdžɩd mam",NA,NA,NA,"UR11","turkin_komi_2015",""
-"16","mMF","ɩdžɩd ay",NA,NA,NA,"UR11","turkin_komi_2015",""
-"17","mMF","pölʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"18","mMM","pöč",NA,NA,NA,"UR11","turkin_komi_2015",""
-"19","mMM","ɩdžɩd mam",NA,NA,NA,"UR11","turkin_komi_2015",""
-"20","mSS","pölʸön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"21","mSS","pögön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"22","mSD","pölʸön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"23","mSD","pögön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"24","mDS","pölʸön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"25","mDS","pögön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"26","mDD","pölʸön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"27","mDD","pögön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"28","mFB","dyadʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"29","mFZ","ob",NA,NA,NA,"UR11","turkin_komi_2015",""
-"30","mMB","čož",NA,NA,NA,"UR11","turkin_komi_2015",""
-"31","mMZ","ičinʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"32","mBS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015",""
-"33","mBD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015",""
-"34","mZS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015",""
-"35","mZD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015",""
-"36","mFZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"37","mFZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"38","mFZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"39","mFBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"40","mFBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"41","mFBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"42","mMBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"43","mMBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"44","mMBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"45","mMZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"46","mMZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"47","mMZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"48","mFBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"49","mFBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"50","mFBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"51","mFZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"52","mFZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"53","mFZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"54","mMBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"55","mMBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"56","mMBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"57","mMZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"58","mMZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"59","mMZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"60","mH","ver̃ös",NA,NA,NA,"UR11","turkin_komi_2015",""
-"61","mW","götɩr̃",NA,NA,NA,"UR11","turkin_komi_2015",""
-"62","mHF","testʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"63","mHM","tʸöšʸa",NA,NA,NA,"UR11","turkin_komi_2015",""
-"64","mWF","ayka",NA,NA,NA,"UR11","turkin_komi_2015",""
-"65","mWM","enʸka",NA,NA,NA,"UR11","turkin_komi_2015",""
-"66","mWM","inʸka",NA,NA,NA,"UR11","turkin_komi_2015",""
-"67","mSW","monʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"68","mSW","kev",NA,NA,NA,"UR11","turkin_komi_2015",""
-"69","mSW","monʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"70","mSW","kev",NA,NA,NA,"UR11","turkin_komi_2015",""
-"71","mDH","zyatʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"72","mDH","zyatʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"73","meB","vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"74","meZ","čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"75","mFeB","dyadʸ",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"76","mFyB","dyadʸ",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"77","mFeZ","ob",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"78","mFyZ","ob",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"79","mMeZ","ičinʸ",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"80","mMyZ","ičinʸ",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"81","mMeB","čož",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"82","mMyB","čož",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"83","meBS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"84","myBS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"85","meBD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"86","myBD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"87","meZS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"88","myZS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"89","meZD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"90","myZD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"91","mFeBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"92","mFeBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"93","mFeBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"94","mFyBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"95","mFyBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"96","mFyBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"97","mFeZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"98","mFeZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"99","mFeZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"100","mFyZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"101","mFyZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"102","mFyZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"103","mFeBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"104","mFeBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"105","mFeBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"106","mFyBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"107","mFyBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"108","mFyBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"109","mFeZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"110","mFeZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"111","mFeZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"112","mFyZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"113","mFyZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"114","mFyZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"115","mMeBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"116","mMeBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"117","mMeBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"118","mMyBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"119","mMyBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"120","mMyBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"121","mMeZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"122","mMeZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"123","mMeZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"124","mMyZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"125","mMyZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"126","mMyZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"127","mMeBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"128","mMeBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"129","mMeBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"130","mMyBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"131","mMyBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"132","mMyBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"133","mMeZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"134","mMeZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"135","mMeZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"136","mMyZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"137","mMyZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"138","mMyZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"139","mFBeS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"140","mFBeS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"141","mFBeS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"142","mFByS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"143","mFByS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"144","mFByS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"145","mFZeS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"146","mFZeS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"147","mFZeS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"148","mFZyS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"149","mFZyS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"150","mFZyS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"151","mFBeD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"152","mFBeD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"153","mFBeD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"154","mFByD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"155","mFByD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"156","mFByD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"157","mFZeD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"158","mFZeD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"159","mFZeD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"160","mFZyD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"161","mFZyD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"162","mFZyD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"163","mMBeS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"164","mMBeS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"165","mMBeS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"166","mMByS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"167","mMByS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"168","mMByS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"169","mMZeS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"170","mMZeS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"171","mMZeS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"172","mMZyS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"173","mMZyS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"174","mMZyS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"175","mMBeD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"176","mMBeD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"177","mMBeD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"178","mMByD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"179","mMByD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"180","mMByD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"181","mMZeD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"182","mMZeD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"183","mMZeD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"184","mMZyD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"185","mMZyD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"186","mMZyD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"187","fG","čoya-voka",NA,NA,NA,"UR11","turkin_komi_2015",""
-"188","fB","vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"189","fZ","čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"190","fyB","ičötdžɩk vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"191","fyZ","ičötdžɩk čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"192","fF","batʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"193","fF","ay",NA,NA,NA,"UR11","turkin_komi_2015",""
-"194","fM","mam",NA,NA,NA,"UR11","turkin_komi_2015",""
-"195","fC","yɩlöm",NA,NA,NA,"UR11","turkin_komi_2015",""
-"196","fS","pi",NA,NA,NA,"UR11","turkin_komi_2015",""
-"197","fD","nɩv",NA,NA,NA,"UR11","turkin_komi_2015",""
-"198","fFF","ɩdžɩd ay",NA,NA,NA,"UR11","turkin_komi_2015",""
-"199","fFF","pölʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"200","fFM","pöč",NA,NA,NA,"UR11","turkin_komi_2015",""
-"201","fFM","ɩdžɩd mam",NA,NA,NA,"UR11","turkin_komi_2015",""
-"202","fMF","ɩdžɩd ay",NA,NA,NA,"UR11","turkin_komi_2015",""
-"203","fMF","pölʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"204","fMM","pöč",NA,NA,NA,"UR11","turkin_komi_2015",""
-"205","fMM","ɩdžɩd mam",NA,NA,NA,"UR11","turkin_komi_2015",""
-"206","fSS","pölʸön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"207","fSS","pögön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"208","fSD","pölʸön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"209","fSD","pögön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"210","fDS","pölʸön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"211","fDS","pögön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"212","fDD","pölʸön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"213","fDD","pögön šuɩsʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"214","fFB","dyadʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"215","fFZ","ob",NA,NA,NA,"UR11","turkin_komi_2015",""
-"216","fMB","čož",NA,NA,NA,"UR11","turkin_komi_2015",""
-"217","fMZ","ičinʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"218","fBS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015",""
-"219","fBD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015",""
-"220","fZS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015",""
-"221","fZD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015",""
-"222","fFZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"223","fFZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"224","fFZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"225","fFBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"226","fFBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"227","fFBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"228","fMBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"229","fMBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"230","fMBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"231","fMZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"232","fMZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"233","fMZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"234","fFBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"235","fFBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"236","fFBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"237","fFZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"238","fFZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"239","fFZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"240","fMBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"241","fMBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"242","fMBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"243","fMZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015",""
-"244","fMZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015",""
-"245","fMZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015",""
-"246","fH","ver̃ös",NA,NA,NA,"UR11","turkin_komi_2015",""
-"247","fW","götɩr̃",NA,NA,NA,"UR11","turkin_komi_2015",""
-"248","fHF","testʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"249","fHM","tʸöšʸa",NA,NA,NA,"UR11","turkin_komi_2015",""
-"250","fWF","ayka",NA,NA,NA,"UR11","turkin_komi_2015",""
-"251","fWM","enʸka",NA,NA,NA,"UR11","turkin_komi_2015",""
-"252","fWM","inʸka",NA,NA,NA,"UR11","turkin_komi_2015",""
-"253","fSW","monʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"254","fSW","kev",NA,NA,NA,"UR11","turkin_komi_2015",""
-"255","fSW","monʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"256","fSW","kev",NA,NA,NA,"UR11","turkin_komi_2015",""
-"257","fDH","zyatʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"258","fDH","zyatʸ",NA,NA,NA,"UR11","turkin_komi_2015",""
-"259","feB","vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"260","feZ","čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"261","fFeB","dyadʸ",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"262","fFyB","dyadʸ",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"263","fFeZ","ob",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"264","fFyZ","ob",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"265","fMeZ","ičinʸ",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"266","fMyZ","ičinʸ",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"267","fMeB","čož",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"268","fMyB","čož",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"269","feBS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"270","fyBS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"271","feBD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"272","fyBD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"273","feZS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"274","fyZS","plemyannik",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"275","feZD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"276","fyZD","plemyannic̷a",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"277","fFeBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"278","fFeBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"279","fFeBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"280","fFyBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"281","fFyBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"282","fFyBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"283","fFeZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"284","fFeZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"285","fFeZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"286","fFyZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"287","fFyZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"288","fFyZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"289","fFeBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"290","fFeBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"291","fFeBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"292","fFyBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"293","fFyBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"294","fFyBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"295","fFeZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"296","fFeZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"297","fFeZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"298","fFyZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"299","fFyZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"300","fFyZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"301","fMeBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"302","fMeBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"303","fMeBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"304","fMyBS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"305","fMyBS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"306","fMyBS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"307","fMeZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"308","fMeZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"309","fMeZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"310","fMyZS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"311","fMyZS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"312","fMyZS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"313","fMeBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"314","fMeBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"315","fMeBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"316","fMyBD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"317","fMyBD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"318","fMyBD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"319","fMeZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"320","fMeZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"321","fMeZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"322","fMyZD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"323","fMyZD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"324","fMyZD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"325","fFBeS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"326","fFBeS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"327","fFBeS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"328","fFByS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"329","fFByS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"330","fFByS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"331","fFZeS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"332","fFZeS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"333","fFZeS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"334","fFZyS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"335","fFZyS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"336","fFZyS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"337","fFBeD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"338","fFBeD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"339","fFBeD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"340","fFByD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"341","fFByD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"342","fFByD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"343","fFZeD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"344","fFZeD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"345","fFZeD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"346","fFZyD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"347","fFZyD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"348","fFZyD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"349","fMBeS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"350","fMBeS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"351","fMBeS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"352","fMByS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"353","fMByS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"354","fMByS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"355","fMZeS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"356","fMZeS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"357","fMZeS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"358","fMZyS","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"359","fMZyS","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"360","fMZyS","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"361","fMBeD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"362","fMBeD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"363","fMBeD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"364","fMByD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"365","fMByD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"366","fMByD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"367","fMZeD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"368","fMZeD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"369","fMZeD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"370","fMZyD","voga vok",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"371","fMZyD","bratan",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
-"372","fMZyD","voga čoy",NA,NA,NA,"UR11","turkin_komi_2015","Inferred; NA"
+,X,parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+1,1,mG,čoya-voka,,,,UR11,turkin_komi_2015,
+2,2,mB,vok,,,,UR11,turkin_komi_2015,
+3,3,mZ,čoy,,,,UR11,turkin_komi_2015,
+4,4,myB,ičötdžɩk vok,,,,UR11,turkin_komi_2015,
+5,5,myZ,ičötdžɩk čoy,,,,UR11,turkin_komi_2015,
+6,6,mF,batʸ,,,,UR11,turkin_komi_2015,
+7,7,mF,ay,,,,UR11,turkin_komi_2015,
+8,8,mM,mam,,,,UR11,turkin_komi_2015,
+9,9,mC,yɩlöm,,,,UR11,turkin_komi_2015,
+10,10,mS,pi,,,,UR11,turkin_komi_2015,
+11,11,mD,nɩv,,,,UR11,turkin_komi_2015,
+12,12,mFF,ɩdžɩd ay,,,,UR11,turkin_komi_2015,
+13,13,mFF,pölʸ,,,,UR11,turkin_komi_2015,
+14,14,mFM,pöč,,,,UR11,turkin_komi_2015,
+15,15,mFM,ɩdžɩd mam,,,,UR11,turkin_komi_2015,
+16,16,mMF,ɩdžɩd ay,,,,UR11,turkin_komi_2015,
+17,17,mMF,pölʸ,,,,UR11,turkin_komi_2015,
+18,18,mMM,pöč,,,,UR11,turkin_komi_2015,
+19,19,mMM,ɩdžɩd mam,,,,UR11,turkin_komi_2015,
+20,20,mSS,pölʸön šuɩsʸ,,,,UR11,turkin_komi_2015,
+21,21,mSS,pögön šuɩsʸ,,,,UR11,turkin_komi_2015,
+22,22,mSD,pölʸön šuɩsʸ,,,,UR11,turkin_komi_2015,
+23,23,mSD,pögön šuɩsʸ,,,,UR11,turkin_komi_2015,
+24,24,mDS,pölʸön šuɩsʸ,,,,UR11,turkin_komi_2015,
+25,25,mDS,pögön šuɩsʸ,,,,UR11,turkin_komi_2015,
+26,26,mDD,pölʸön šuɩsʸ,,,,UR11,turkin_komi_2015,
+27,27,mDD,pögön šuɩsʸ,,,,UR11,turkin_komi_2015,
+28,28,mFB,dyadʸ,,,,UR11,turkin_komi_2015,
+29,29,mFZ,ob,,,,UR11,turkin_komi_2015,
+30,30,mMB,čož,,,,UR11,turkin_komi_2015,
+31,31,mMZ,ičinʸ,,,,UR11,turkin_komi_2015,
+32,32,mBS,plemyannik,,,,UR11,turkin_komi_2015,
+33,33,mBD,plemyannic̷a,,,,UR11,turkin_komi_2015,
+34,34,mZS,plemyannik,,,,UR11,turkin_komi_2015,
+35,35,mZD,plemyannic̷a,,,,UR11,turkin_komi_2015,
+36,36,mFZD,voga vok,,,,UR11,turkin_komi_2015,
+37,37,mFZD,bratan,,,,UR11,turkin_komi_2015,
+38,38,mFZD,voga čoy,,,,UR11,turkin_komi_2015,
+39,39,mFBD,voga vok,,,,UR11,turkin_komi_2015,
+40,40,mFBD,bratan,,,,UR11,turkin_komi_2015,
+41,41,mFBD,voga čoy,,,,UR11,turkin_komi_2015,
+42,42,mMBD,voga vok,,,,UR11,turkin_komi_2015,
+43,43,mMBD,bratan,,,,UR11,turkin_komi_2015,
+44,44,mMBD,voga čoy,,,,UR11,turkin_komi_2015,
+45,45,mMZD,voga vok,,,,UR11,turkin_komi_2015,
+46,46,mMZD,bratan,,,,UR11,turkin_komi_2015,
+47,47,mMZD,voga čoy,,,,UR11,turkin_komi_2015,
+48,48,mFBS,voga vok,,,,UR11,turkin_komi_2015,
+49,49,mFBS,bratan,,,,UR11,turkin_komi_2015,
+50,50,mFBS,voga čoy,,,,UR11,turkin_komi_2015,
+51,51,mFZS,voga vok,,,,UR11,turkin_komi_2015,
+52,52,mFZS,bratan,,,,UR11,turkin_komi_2015,
+53,53,mFZS,voga čoy,,,,UR11,turkin_komi_2015,
+54,54,mMBS,voga vok,,,,UR11,turkin_komi_2015,
+55,55,mMBS,bratan,,,,UR11,turkin_komi_2015,
+56,56,mMBS,voga čoy,,,,UR11,turkin_komi_2015,
+57,57,mMZS,voga vok,,,,UR11,turkin_komi_2015,
+58,58,mMZS,bratan,,,,UR11,turkin_komi_2015,
+59,59,mMZS,voga čoy,,,,UR11,turkin_komi_2015,
+60,60,mH,ver̃ös,,,,UR11,turkin_komi_2015,
+61,61,mW,götɩr̃,,,,UR11,turkin_komi_2015,
+62,62,mHF,testʸ,,,,UR11,turkin_komi_2015,
+63,63,mHM,tʸöšʸa,,,,UR11,turkin_komi_2015,
+64,64,mWF,ayka,,,,UR11,turkin_komi_2015,
+65,65,mWM,enʸka,,,,UR11,turkin_komi_2015,
+66,66,mWM,inʸka,,,,UR11,turkin_komi_2015,
+67,67,mSW,monʸ,,,,UR11,turkin_komi_2015,
+68,68,mSW,kev,,,,UR11,turkin_komi_2015,
+69,69,mSW,monʸ,,,,UR11,turkin_komi_2015,
+70,70,mSW,kev,,,,UR11,turkin_komi_2015,
+71,71,mDH,zyatʸ,,,,UR11,turkin_komi_2015,
+72,72,mDH,zyatʸ,,,,UR11,turkin_komi_2015,
+73,73,meB,vok,,,,UR11,turkin_komi_2015,Inferred; NA
+74,74,meZ,čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+75,75,mFeB,dyadʸ,,,,UR11,turkin_komi_2015,Inferred; NA
+76,76,mFyB,dyadʸ,,,,UR11,turkin_komi_2015,Inferred; NA
+77,77,mFeZ,ob,,,,UR11,turkin_komi_2015,Inferred; NA
+78,78,mFyZ,ob,,,,UR11,turkin_komi_2015,Inferred; NA
+79,79,mMeZ,ičinʸ,,,,UR11,turkin_komi_2015,Inferred; NA
+80,80,mMyZ,ičinʸ,,,,UR11,turkin_komi_2015,Inferred; NA
+81,81,mMeB,čož,,,,UR11,turkin_komi_2015,Inferred; NA
+82,82,mMyB,čož,,,,UR11,turkin_komi_2015,Inferred; NA
+83,83,meBS,plemyannik,,,,UR11,turkin_komi_2015,Inferred; NA
+84,84,myBS,plemyannik,,,,UR11,turkin_komi_2015,Inferred; NA
+85,85,meBD,plemyannic̷a,,,,UR11,turkin_komi_2015,Inferred; NA
+86,86,myBD,plemyannic̷a,,,,UR11,turkin_komi_2015,Inferred; NA
+87,87,meZS,plemyannik,,,,UR11,turkin_komi_2015,Inferred; NA
+88,88,myZS,plemyannik,,,,UR11,turkin_komi_2015,Inferred; NA
+89,89,meZD,plemyannic̷a,,,,UR11,turkin_komi_2015,Inferred; NA
+90,90,myZD,plemyannic̷a,,,,UR11,turkin_komi_2015,Inferred; NA
+91,91,mFeBS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+92,92,mFeBS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+93,93,mFeBS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+94,94,mFyBS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+95,95,mFyBS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+96,96,mFyBS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+97,97,mFeZS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+98,98,mFeZS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+99,99,mFeZS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+100,100,mFyZS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+101,101,mFyZS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+102,102,mFyZS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+103,103,mFeBD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+104,104,mFeBD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+105,105,mFeBD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+106,106,mFyBD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+107,107,mFyBD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+108,108,mFyBD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+109,109,mFeZD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+110,110,mFeZD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+111,111,mFeZD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+112,112,mFyZD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+113,113,mFyZD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+114,114,mFyZD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+115,115,mMeBS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+116,116,mMeBS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+117,117,mMeBS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+118,118,mMyBS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+119,119,mMyBS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+120,120,mMyBS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+121,121,mMeZS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+122,122,mMeZS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+123,123,mMeZS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+124,124,mMyZS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+125,125,mMyZS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+126,126,mMyZS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+127,127,mMeBD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+128,128,mMeBD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+129,129,mMeBD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+130,130,mMyBD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+131,131,mMyBD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+132,132,mMyBD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+133,133,mMeZD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+134,134,mMeZD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+135,135,mMeZD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+136,136,mMyZD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+137,137,mMyZD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+138,138,mMyZD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+139,139,mFBeS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+140,140,mFBeS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+141,141,mFBeS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+142,142,mFByS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+143,143,mFByS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+144,144,mFByS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+145,145,mFZeS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+146,146,mFZeS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+147,147,mFZeS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+148,148,mFZyS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+149,149,mFZyS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+150,150,mFZyS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+151,151,mFBeD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+152,152,mFBeD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+153,153,mFBeD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+154,154,mFByD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+155,155,mFByD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+156,156,mFByD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+157,157,mFZeD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+158,158,mFZeD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+159,159,mFZeD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+160,160,mFZyD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+161,161,mFZyD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+162,162,mFZyD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+163,163,mMBeS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+164,164,mMBeS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+165,165,mMBeS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+166,166,mMByS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+167,167,mMByS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+168,168,mMByS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+169,169,mMZeS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+170,170,mMZeS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+171,171,mMZeS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+172,172,mMZyS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+173,173,mMZyS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+174,174,mMZyS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+175,175,mMBeD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+176,176,mMBeD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+177,177,mMBeD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+178,178,mMByD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+179,179,mMByD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+180,180,mMByD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+181,181,mMZeD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+182,182,mMZeD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+183,183,mMZeD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+184,184,mMZyD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+185,185,mMZyD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+186,186,mMZyD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+187,187,fG,čoya-voka,,,,UR11,turkin_komi_2015,
+188,188,fB,vok,,,,UR11,turkin_komi_2015,
+189,189,fZ,čoy,,,,UR11,turkin_komi_2015,
+190,190,fyB,ičötdžɩk vok,,,,UR11,turkin_komi_2015,
+191,191,fyZ,ičötdžɩk čoy,,,,UR11,turkin_komi_2015,
+192,192,fF,batʸ,,,,UR11,turkin_komi_2015,
+193,193,fF,ay,,,,UR11,turkin_komi_2015,
+194,194,fM,mam,,,,UR11,turkin_komi_2015,
+195,195,fC,yɩlöm,,,,UR11,turkin_komi_2015,
+196,196,fS,pi,,,,UR11,turkin_komi_2015,
+197,197,fD,nɩv,,,,UR11,turkin_komi_2015,
+198,198,fFF,ɩdžɩd ay,,,,UR11,turkin_komi_2015,
+199,199,fFF,pölʸ,,,,UR11,turkin_komi_2015,
+200,200,fFM,pöč,,,,UR11,turkin_komi_2015,
+201,201,fFM,ɩdžɩd mam,,,,UR11,turkin_komi_2015,
+202,202,fMF,ɩdžɩd ay,,,,UR11,turkin_komi_2015,
+203,203,fMF,pölʸ,,,,UR11,turkin_komi_2015,
+204,204,fMM,pöč,,,,UR11,turkin_komi_2015,
+205,205,fMM,ɩdžɩd mam,,,,UR11,turkin_komi_2015,
+206,206,fSS,pölʸön šuɩsʸ,,,,UR11,turkin_komi_2015,
+207,207,fSS,pögön šuɩsʸ,,,,UR11,turkin_komi_2015,
+208,208,fSD,pölʸön šuɩsʸ,,,,UR11,turkin_komi_2015,
+209,209,fSD,pögön šuɩsʸ,,,,UR11,turkin_komi_2015,
+210,210,fDS,pölʸön šuɩsʸ,,,,UR11,turkin_komi_2015,
+211,211,fDS,pögön šuɩsʸ,,,,UR11,turkin_komi_2015,
+212,212,fDD,pölʸön šuɩsʸ,,,,UR11,turkin_komi_2015,
+213,213,fDD,pögön šuɩsʸ,,,,UR11,turkin_komi_2015,
+214,214,fFB,dyadʸ,,,,UR11,turkin_komi_2015,
+215,215,fFZ,ob,,,,UR11,turkin_komi_2015,
+216,216,fMB,čož,,,,UR11,turkin_komi_2015,
+217,217,fMZ,ičinʸ,,,,UR11,turkin_komi_2015,
+218,218,fBS,plemyannik,,,,UR11,turkin_komi_2015,
+219,219,fBD,plemyannic̷a,,,,UR11,turkin_komi_2015,
+220,220,fZS,plemyannik,,,,UR11,turkin_komi_2015,
+221,221,fZD,plemyannic̷a,,,,UR11,turkin_komi_2015,
+222,222,fFZD,voga vok,,,,UR11,turkin_komi_2015,
+223,223,fFZD,bratan,,,,UR11,turkin_komi_2015,
+224,224,fFZD,voga čoy,,,,UR11,turkin_komi_2015,
+225,225,fFBD,voga vok,,,,UR11,turkin_komi_2015,
+226,226,fFBD,bratan,,,,UR11,turkin_komi_2015,
+227,227,fFBD,voga čoy,,,,UR11,turkin_komi_2015,
+228,228,fMBD,voga vok,,,,UR11,turkin_komi_2015,
+229,229,fMBD,bratan,,,,UR11,turkin_komi_2015,
+230,230,fMBD,voga čoy,,,,UR11,turkin_komi_2015,
+231,231,fMZD,voga vok,,,,UR11,turkin_komi_2015,
+232,232,fMZD,bratan,,,,UR11,turkin_komi_2015,
+233,233,fMZD,voga čoy,,,,UR11,turkin_komi_2015,
+234,234,fFBS,voga vok,,,,UR11,turkin_komi_2015,
+235,235,fFBS,bratan,,,,UR11,turkin_komi_2015,
+236,236,fFBS,voga čoy,,,,UR11,turkin_komi_2015,
+237,237,fFZS,voga vok,,,,UR11,turkin_komi_2015,
+238,238,fFZS,bratan,,,,UR11,turkin_komi_2015,
+239,239,fFZS,voga čoy,,,,UR11,turkin_komi_2015,
+240,240,fMBS,voga vok,,,,UR11,turkin_komi_2015,
+241,241,fMBS,bratan,,,,UR11,turkin_komi_2015,
+242,242,fMBS,voga čoy,,,,UR11,turkin_komi_2015,
+243,243,fMZS,voga vok,,,,UR11,turkin_komi_2015,
+244,244,fMZS,bratan,,,,UR11,turkin_komi_2015,
+245,245,fMZS,voga čoy,,,,UR11,turkin_komi_2015,
+246,246,fH,ver̃ös,,,,UR11,turkin_komi_2015,
+247,247,fW,götɩr̃,,,,UR11,turkin_komi_2015,
+248,248,fHF,testʸ,,,,UR11,turkin_komi_2015,
+249,249,fHM,tʸöšʸa,,,,UR11,turkin_komi_2015,
+250,250,fWF,ayka,,,,UR11,turkin_komi_2015,
+251,251,fWM,enʸka,,,,UR11,turkin_komi_2015,
+252,252,fWM,inʸka,,,,UR11,turkin_komi_2015,
+253,253,fSW,monʸ,,,,UR11,turkin_komi_2015,
+254,254,fSW,kev,,,,UR11,turkin_komi_2015,
+255,255,fSW,monʸ,,,,UR11,turkin_komi_2015,
+256,256,fSW,kev,,,,UR11,turkin_komi_2015,
+257,257,fDH,zyatʸ,,,,UR11,turkin_komi_2015,
+258,258,fDH,zyatʸ,,,,UR11,turkin_komi_2015,
+259,259,feB,vok,,,,UR11,turkin_komi_2015,Inferred; NA
+260,260,feZ,čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+261,261,fFeB,dyadʸ,,,,UR11,turkin_komi_2015,Inferred; NA
+262,262,fFyB,dyadʸ,,,,UR11,turkin_komi_2015,Inferred; NA
+263,263,fFeZ,ob,,,,UR11,turkin_komi_2015,Inferred; NA
+264,264,fFyZ,ob,,,,UR11,turkin_komi_2015,Inferred; NA
+265,265,fMeZ,ičinʸ,,,,UR11,turkin_komi_2015,Inferred; NA
+266,266,fMyZ,ičinʸ,,,,UR11,turkin_komi_2015,Inferred; NA
+267,267,fMeB,čož,,,,UR11,turkin_komi_2015,Inferred; NA
+268,268,fMyB,čož,,,,UR11,turkin_komi_2015,Inferred; NA
+269,269,feBS,plemyannik,,,,UR11,turkin_komi_2015,Inferred; NA
+270,270,fyBS,plemyannik,,,,UR11,turkin_komi_2015,Inferred; NA
+271,271,feBD,plemyannic̷a,,,,UR11,turkin_komi_2015,Inferred; NA
+272,272,fyBD,plemyannic̷a,,,,UR11,turkin_komi_2015,Inferred; NA
+273,273,feZS,plemyannik,,,,UR11,turkin_komi_2015,Inferred; NA
+274,274,fyZS,plemyannik,,,,UR11,turkin_komi_2015,Inferred; NA
+275,275,feZD,plemyannic̷a,,,,UR11,turkin_komi_2015,Inferred; NA
+276,276,fyZD,plemyannic̷a,,,,UR11,turkin_komi_2015,Inferred; NA
+277,277,fFeBS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+278,278,fFeBS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+279,279,fFeBS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+280,280,fFyBS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+281,281,fFyBS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+282,282,fFyBS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+283,283,fFeZS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+284,284,fFeZS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+285,285,fFeZS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+286,286,fFyZS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+287,287,fFyZS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+288,288,fFyZS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+289,289,fFeBD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+290,290,fFeBD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+291,291,fFeBD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+292,292,fFyBD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+293,293,fFyBD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+294,294,fFyBD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+295,295,fFeZD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+296,296,fFeZD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+297,297,fFeZD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+298,298,fFyZD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+299,299,fFyZD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+300,300,fFyZD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+301,301,fMeBS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+302,302,fMeBS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+303,303,fMeBS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+304,304,fMyBS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+305,305,fMyBS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+306,306,fMyBS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+307,307,fMeZS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+308,308,fMeZS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+309,309,fMeZS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+310,310,fMyZS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+311,311,fMyZS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+312,312,fMyZS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+313,313,fMeBD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+314,314,fMeBD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+315,315,fMeBD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+316,316,fMyBD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+317,317,fMyBD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+318,318,fMyBD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+319,319,fMeZD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+320,320,fMeZD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+321,321,fMeZD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+322,322,fMyZD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+323,323,fMyZD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+324,324,fMyZD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+325,325,fFBeS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+326,326,fFBeS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+327,327,fFBeS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+328,328,fFByS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+329,329,fFByS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+330,330,fFByS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+331,331,fFZeS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+332,332,fFZeS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+333,333,fFZeS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+334,334,fFZyS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+335,335,fFZyS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+336,336,fFZyS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+337,337,fFBeD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+338,338,fFBeD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+339,339,fFBeD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+340,340,fFByD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+341,341,fFByD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+342,342,fFByD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+343,343,fFZeD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+344,344,fFZeD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+345,345,fFZeD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+346,346,fFZyD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+347,347,fFZyD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+348,348,fFZyD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+349,349,fMBeS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+350,350,fMBeS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+351,351,fMBeS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+352,352,fMByS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+353,353,fMByS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+354,354,fMByS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+355,355,fMZeS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+356,356,fMZeS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+357,357,fMZeS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+358,358,fMZyS,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+359,359,fMZyS,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+360,360,fMZyS,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+361,361,fMBeD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+362,362,fMBeD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+363,363,fMBeD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+364,364,fMByD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+365,365,fMByD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+366,366,fMByD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+367,367,fMZeD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+368,368,fMZeD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+369,369,fMZeD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA
+370,370,fMZyD,voga vok,,,,UR11,turkin_komi_2015,Inferred; NA
+371,371,fMZyD,bratan,,,,UR11,turkin_komi_2015,Inferred; NA
+372,372,fMZyD,voga čoy,,,,UR11,turkin_komi_2015,Inferred; NA

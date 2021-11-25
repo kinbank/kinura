@@ -1,193 +1,193 @@
-"","parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"1","mG","testvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","teštweer"
-"2","mB","fivér",NA,NA,NA,"UR5","pomozi_hungarian_2015","fiweer ~ fiuuteštweer"
-"3","mB","fiútestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015",""
-"4","mZ","nővér",NA,NA,NA,"UR5","pomozi_hungarian_2015","nööweer"
-"5","myB","öcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","öč"
-"6","myZ","húg",NA,NA,NA,"UR5","pomozi_hungarian_2015","huug"
-"7","mF","apa",NA,NA,NA,"UR5","pomozi_hungarian_2015","apa"
-"8","mM","anya",NA,NA,NA,"UR5","pomozi_hungarian_2015","aɲa"
-"9","mC","utód",NA,NA,NA,"UR5","pomozi_hungarian_2015","utood"
-"10","mS","fiú",NA,NA,NA,"UR5","pomozi_hungarian_2015","fiuu"
-"11","mD","l(e)ány",NA,NA,NA,"UR5","pomozi_hungarian_2015","l(e)aaɲ"
-"12","mFF","nagyapa",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸapa"
-"13","mFM","nagyanya",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸaɲa"
-"14","mMF","nagyapa",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸapa"
-"15","mMM","nagyanya",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸaɲa"
-"16","mSS","(fiú)unoka",NA,NA,NA,"UR5","pomozi_hungarian_2015","(fiuu)unoka"
-"17","mSD","(leány)unoka",NA,NA,NA,"UR5","pomozi_hungarian_2015","(leaaɲ)unoka"
-"18","mDS","(fiú)unoka",NA,NA,NA,"UR5","pomozi_hungarian_2015","(fiuu)unoka"
-"19","mDD","(leány)unoka",NA,NA,NA,"UR5","pomozi_hungarian_2015","(leaaɲ)unoka"
-"20","mFB","apai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","apai nadʸbaači"
-"21","mFZ","nagynéni (apai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸneeni (apai)"
-"22","mMB","anyai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","aɲai nadʸbaači"
-"23","mMZ","nagynéni (anyai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸneeni (aɲai)"
-"24","mBS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokaöč"
-"25","mBD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokahuug"
-"26","mZS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokaöč"
-"27","mZD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokahuug"
-"28","mFZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"29","mFBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"30","mMBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"31","mMZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"32","mFBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"33","mFZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"34","mMBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"35","mMZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"36","mH","féry",NA,NA,NA,"UR5","pomozi_hungarian_2015","feery"
-"37","mW","feleség",NA,NA,NA,"UR5","pomozi_hungarian_2015","felešeeg"
-"38","mHF","após",NA,NA,NA,"UR5","pomozi_hungarian_2015","apooš"
-"39","mHM","anyós",NA,NA,NA,"UR5","pomozi_hungarian_2015","aɲooš"
-"40","mWF","após",NA,NA,NA,"UR5","pomozi_hungarian_2015","apooš"
-"41","mWM","anyós",NA,NA,NA,"UR5","pomozi_hungarian_2015","aɲooš"
-"42","mSW","meny",NA,NA,NA,"UR5","pomozi_hungarian_2015","meɲ"
-"43","mSW","meny",NA,NA,NA,"UR5","pomozi_hungarian_2015","meɲ"
-"44","mDH","vő",NA,NA,NA,"UR5","pomozi_hungarian_2015","wöö"
-"45","mDH","vő",NA,NA,NA,"UR5","pomozi_hungarian_2015","wöö"
-"46","meB","fivér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; fiweer ~ fiuuteštweer"
-"47","meB","fiútestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; NA"
-"48","meZ","nővér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; nööweer"
-"49","mFeB","apai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; apai nadʸbaači"
-"50","mFyB","apai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; apai nadʸbaači"
-"51","mFeZ","nagynéni (apai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; nadʸneeni (apai)"
-"52","mFyZ","nagynéni (apai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; nadʸneeni (apai)"
-"53","mMeZ","nagynéni (anyai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; nadʸneeni (aɲai)"
-"54","mMyZ","nagynéni (anyai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; nadʸneeni (aɲai)"
-"55","mMeB","anyai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; aɲai nadʸbaači"
-"56","mMyB","anyai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; aɲai nadʸbaači"
-"57","meBS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokaöč"
-"58","myBS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokaöč"
-"59","meBD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokahuug"
-"60","myBD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokahuug"
-"61","meZS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokaöč"
-"62","myZS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokaöč"
-"63","meZD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokahuug"
-"64","myZD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokahuug"
-"65","mFeBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"66","mFyBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"67","mFeZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"68","mFyZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"69","mFeBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"70","mFyBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"71","mFeZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"72","mFyZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"73","mMeBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"74","mMyBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"75","mMeZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"76","mMyZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"77","mMeBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"78","mMyBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"79","mMeZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"80","mMyZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"81","mFBeS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"82","mFByS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"83","mFZeS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"84","mFZyS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"85","mFBeD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"86","mFByD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"87","mFZeD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"88","mFZyD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"89","mMBeS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"90","mMByS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"91","mMZeS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"92","mMZyS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"93","mMBeD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"94","mMByD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"95","mMZeD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"96","mMZyD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"97","fG","testvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","teštweer"
-"98","fB","fivér",NA,NA,NA,"UR5","pomozi_hungarian_2015","fiweer ~ fiuuteštweer"
-"99","fB","fiútestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015",""
-"100","fZ","nővér",NA,NA,NA,"UR5","pomozi_hungarian_2015","nööweer"
-"101","fyB","öcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","öč"
-"102","fyZ","húg",NA,NA,NA,"UR5","pomozi_hungarian_2015","huug"
-"103","fF","apa",NA,NA,NA,"UR5","pomozi_hungarian_2015","apa"
-"104","fM","anya",NA,NA,NA,"UR5","pomozi_hungarian_2015","aɲa"
-"105","fC","utód",NA,NA,NA,"UR5","pomozi_hungarian_2015","utood"
-"106","fS","fiú",NA,NA,NA,"UR5","pomozi_hungarian_2015","fiuu"
-"107","fD","l(e)ány",NA,NA,NA,"UR5","pomozi_hungarian_2015","l(e)aaɲ"
-"108","fFF","nagyapa",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸapa"
-"109","fFM","nagyanya",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸaɲa"
-"110","fMF","nagyapa",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸapa"
-"111","fMM","nagyanya",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸaɲa"
-"112","fSS","(fiú)unoka",NA,NA,NA,"UR5","pomozi_hungarian_2015","(fiuu)unoka"
-"113","fSD","(leány)unoka",NA,NA,NA,"UR5","pomozi_hungarian_2015","(leaaɲ)unoka"
-"114","fDS","(fiú)unoka",NA,NA,NA,"UR5","pomozi_hungarian_2015","(fiuu)unoka"
-"115","fDD","(leány)unoka",NA,NA,NA,"UR5","pomozi_hungarian_2015","(leaaɲ)unoka"
-"116","fFB","apai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","apai nadʸbaači"
-"117","fFZ","nagynéni (apai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸneeni (apai)"
-"118","fMB","anyai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","aɲai nadʸbaači"
-"119","fMZ","nagynéni (anyai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","nadʸneeni (aɲai)"
-"120","fBS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokaöč"
-"121","fBD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokahuug"
-"122","fZS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokaöč"
-"123","fZD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokahuug"
-"124","fFZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"125","fFBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"126","fMBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"127","fMZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"128","fFBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"129","fFZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"130","fMBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"131","fMZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","unokateštweer"
-"132","fH","féry",NA,NA,NA,"UR5","pomozi_hungarian_2015","feery"
-"133","fW","feleség",NA,NA,NA,"UR5","pomozi_hungarian_2015","felešeeg"
-"134","fHF","após",NA,NA,NA,"UR5","pomozi_hungarian_2015","apooš"
-"135","fHM","anyós",NA,NA,NA,"UR5","pomozi_hungarian_2015","aɲooš"
-"136","fWF","após",NA,NA,NA,"UR5","pomozi_hungarian_2015","apooš"
-"137","fWM","anyós",NA,NA,NA,"UR5","pomozi_hungarian_2015","aɲooš"
-"138","fSW","meny",NA,NA,NA,"UR5","pomozi_hungarian_2015","meɲ"
-"139","fSW","meny",NA,NA,NA,"UR5","pomozi_hungarian_2015","meɲ"
-"140","fDH","vő",NA,NA,NA,"UR5","pomozi_hungarian_2015","wöö"
-"141","fDH","vő",NA,NA,NA,"UR5","pomozi_hungarian_2015","wöö"
-"142","feB","fivér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; fiweer ~ fiuuteštweer"
-"143","feB","fiútestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; NA"
-"144","feZ","nővér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; nööweer"
-"145","fFeB","apai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; apai nadʸbaači"
-"146","fFyB","apai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; apai nadʸbaači"
-"147","fFeZ","nagynéni (apai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; nadʸneeni (apai)"
-"148","fFyZ","nagynéni (apai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; nadʸneeni (apai)"
-"149","fMeZ","nagynéni (anyai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; nadʸneeni (aɲai)"
-"150","fMyZ","nagynéni (anyai)",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; nadʸneeni (aɲai)"
-"151","fMeB","anyai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; aɲai nadʸbaači"
-"152","fMyB","anyai nagybáczi",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; aɲai nadʸbaači"
-"153","feBS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokaöč"
-"154","fyBS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokaöč"
-"155","feBD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokahuug"
-"156","fyBD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokahuug"
-"157","feZS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokaöč"
-"158","fyZS","unokaöcz",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokaöč"
-"159","feZD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokahuug"
-"160","fyZD","unokahúg",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokahuug"
-"161","fFeBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"162","fFyBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"163","fFeZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"164","fFyZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"165","fFeBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"166","fFyBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"167","fFeZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"168","fFyZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"169","fMeBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"170","fMyBS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"171","fMeZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"172","fMyZS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"173","fMeBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"174","fMyBD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"175","fMeZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"176","fMyZD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"177","fFBeS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"178","fFByS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"179","fFZeS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"180","fFZyS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"181","fFBeD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"182","fFByD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"183","fFZeD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"184","fFZyD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"185","fMBeS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"186","fMByS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"187","fMZeS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"188","fMZyS","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"189","fMBeD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"190","fMByD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"191","fMZeD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
-"192","fMZyD","unokatestvér",NA,NA,NA,"UR5","pomozi_hungarian_2015","Inferred; unokateštweer"
+,X,parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+1,1,mG,testvér,,,,UR5,pomozi_hungarian_2015,teštweer
+2,2,mB,fivér,,,,UR5,pomozi_hungarian_2015,fiweer ~ fiuuteštweer
+3,3,mB,fiútestvér,,,,UR5,pomozi_hungarian_2015,
+4,4,mZ,nővér,,,,UR5,pomozi_hungarian_2015,nööweer
+5,5,myB,öcz,,,,UR5,pomozi_hungarian_2015,öč
+6,6,myZ,húg,,,,UR5,pomozi_hungarian_2015,huug
+7,7,mF,apa,,,,UR5,pomozi_hungarian_2015,apa
+8,8,mM,anya,,,,UR5,pomozi_hungarian_2015,aɲa
+9,9,mC,utód,,,,UR5,pomozi_hungarian_2015,utood
+10,10,mS,fiú,,,,UR5,pomozi_hungarian_2015,fiuu
+11,11,mD,l(e)ány,,,,UR5,pomozi_hungarian_2015,l(e)aaɲ
+12,12,mFF,nagyapa,,,,UR5,pomozi_hungarian_2015,nadʸapa
+13,13,mFM,nagyanya,,,,UR5,pomozi_hungarian_2015,nadʸaɲa
+14,14,mMF,nagyapa,,,,UR5,pomozi_hungarian_2015,nadʸapa
+15,15,mMM,nagyanya,,,,UR5,pomozi_hungarian_2015,nadʸaɲa
+16,16,mSS,(fiú)unoka,,,,UR5,pomozi_hungarian_2015,(fiuu)unoka
+17,17,mSD,(leány)unoka,,,,UR5,pomozi_hungarian_2015,(leaaɲ)unoka
+18,18,mDS,(fiú)unoka,,,,UR5,pomozi_hungarian_2015,(fiuu)unoka
+19,19,mDD,(leány)unoka,,,,UR5,pomozi_hungarian_2015,(leaaɲ)unoka
+20,20,mFB,apai nagybáczi,,,,UR5,pomozi_hungarian_2015,apai nadʸbaači
+21,21,mFZ,nagynéni (apai),,,,UR5,pomozi_hungarian_2015,nadʸneeni (apai)
+22,22,mMB,anyai nagybáczi,,,,UR5,pomozi_hungarian_2015,aɲai nadʸbaači
+23,23,mMZ,nagynéni (anyai),,,,UR5,pomozi_hungarian_2015,nadʸneeni (aɲai)
+24,24,mBS,unokaöcz,,,,UR5,pomozi_hungarian_2015,unokaöč
+25,25,mBD,unokahúg,,,,UR5,pomozi_hungarian_2015,unokahuug
+26,26,mZS,unokaöcz,,,,UR5,pomozi_hungarian_2015,unokaöč
+27,27,mZD,unokahúg,,,,UR5,pomozi_hungarian_2015,unokahuug
+28,28,mFZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+29,29,mFBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+30,30,mMBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+31,31,mMZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+32,32,mFBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+33,33,mFZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+34,34,mMBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+35,35,mMZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+36,36,mH,féry,,,,UR5,pomozi_hungarian_2015,feery
+37,37,mW,feleség,,,,UR5,pomozi_hungarian_2015,felešeeg
+38,38,mHF,após,,,,UR5,pomozi_hungarian_2015,apooš
+39,39,mHM,anyós,,,,UR5,pomozi_hungarian_2015,aɲooš
+40,40,mWF,após,,,,UR5,pomozi_hungarian_2015,apooš
+41,41,mWM,anyós,,,,UR5,pomozi_hungarian_2015,aɲooš
+42,42,mSW,meny,,,,UR5,pomozi_hungarian_2015,meɲ
+43,43,mSW,meny,,,,UR5,pomozi_hungarian_2015,meɲ
+44,44,mDH,vő,,,,UR5,pomozi_hungarian_2015,wöö
+45,45,mDH,vő,,,,UR5,pomozi_hungarian_2015,wöö
+46,46,meB,fivér,,,,UR5,pomozi_hungarian_2015,Inferred; fiweer ~ fiuuteštweer
+47,47,meB,fiútestvér,,,,UR5,pomozi_hungarian_2015,Inferred; NA
+48,48,meZ,nővér,,,,UR5,pomozi_hungarian_2015,Inferred; nööweer
+49,49,mFeB,apai nagybáczi,,,,UR5,pomozi_hungarian_2015,Inferred; apai nadʸbaači
+50,50,mFyB,apai nagybáczi,,,,UR5,pomozi_hungarian_2015,Inferred; apai nadʸbaači
+51,51,mFeZ,nagynéni (apai),,,,UR5,pomozi_hungarian_2015,Inferred; nadʸneeni (apai)
+52,52,mFyZ,nagynéni (apai),,,,UR5,pomozi_hungarian_2015,Inferred; nadʸneeni (apai)
+53,53,mMeZ,nagynéni (anyai),,,,UR5,pomozi_hungarian_2015,Inferred; nadʸneeni (aɲai)
+54,54,mMyZ,nagynéni (anyai),,,,UR5,pomozi_hungarian_2015,Inferred; nadʸneeni (aɲai)
+55,55,mMeB,anyai nagybáczi,,,,UR5,pomozi_hungarian_2015,Inferred; aɲai nadʸbaači
+56,56,mMyB,anyai nagybáczi,,,,UR5,pomozi_hungarian_2015,Inferred; aɲai nadʸbaači
+57,57,meBS,unokaöcz,,,,UR5,pomozi_hungarian_2015,Inferred; unokaöč
+58,58,myBS,unokaöcz,,,,UR5,pomozi_hungarian_2015,Inferred; unokaöč
+59,59,meBD,unokahúg,,,,UR5,pomozi_hungarian_2015,Inferred; unokahuug
+60,60,myBD,unokahúg,,,,UR5,pomozi_hungarian_2015,Inferred; unokahuug
+61,61,meZS,unokaöcz,,,,UR5,pomozi_hungarian_2015,Inferred; unokaöč
+62,62,myZS,unokaöcz,,,,UR5,pomozi_hungarian_2015,Inferred; unokaöč
+63,63,meZD,unokahúg,,,,UR5,pomozi_hungarian_2015,Inferred; unokahuug
+64,64,myZD,unokahúg,,,,UR5,pomozi_hungarian_2015,Inferred; unokahuug
+65,65,mFeBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+66,66,mFyBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+67,67,mFeZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+68,68,mFyZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+69,69,mFeBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+70,70,mFyBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+71,71,mFeZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+72,72,mFyZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+73,73,mMeBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+74,74,mMyBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+75,75,mMeZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+76,76,mMyZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+77,77,mMeBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+78,78,mMyBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+79,79,mMeZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+80,80,mMyZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+81,81,mFBeS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+82,82,mFByS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+83,83,mFZeS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+84,84,mFZyS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+85,85,mFBeD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+86,86,mFByD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+87,87,mFZeD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+88,88,mFZyD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+89,89,mMBeS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+90,90,mMByS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+91,91,mMZeS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+92,92,mMZyS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+93,93,mMBeD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+94,94,mMByD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+95,95,mMZeD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+96,96,mMZyD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+97,97,fG,testvér,,,,UR5,pomozi_hungarian_2015,teštweer
+98,98,fB,fivér,,,,UR5,pomozi_hungarian_2015,fiweer ~ fiuuteštweer
+99,99,fB,fiútestvér,,,,UR5,pomozi_hungarian_2015,
+100,100,fZ,nővér,,,,UR5,pomozi_hungarian_2015,nööweer
+101,101,fyB,öcz,,,,UR5,pomozi_hungarian_2015,öč
+102,102,fyZ,húg,,,,UR5,pomozi_hungarian_2015,huug
+103,103,fF,apa,,,,UR5,pomozi_hungarian_2015,apa
+104,104,fM,anya,,,,UR5,pomozi_hungarian_2015,aɲa
+105,105,fC,utód,,,,UR5,pomozi_hungarian_2015,utood
+106,106,fS,fiú,,,,UR5,pomozi_hungarian_2015,fiuu
+107,107,fD,l(e)ány,,,,UR5,pomozi_hungarian_2015,l(e)aaɲ
+108,108,fFF,nagyapa,,,,UR5,pomozi_hungarian_2015,nadʸapa
+109,109,fFM,nagyanya,,,,UR5,pomozi_hungarian_2015,nadʸaɲa
+110,110,fMF,nagyapa,,,,UR5,pomozi_hungarian_2015,nadʸapa
+111,111,fMM,nagyanya,,,,UR5,pomozi_hungarian_2015,nadʸaɲa
+112,112,fSS,(fiú)unoka,,,,UR5,pomozi_hungarian_2015,(fiuu)unoka
+113,113,fSD,(leány)unoka,,,,UR5,pomozi_hungarian_2015,(leaaɲ)unoka
+114,114,fDS,(fiú)unoka,,,,UR5,pomozi_hungarian_2015,(fiuu)unoka
+115,115,fDD,(leány)unoka,,,,UR5,pomozi_hungarian_2015,(leaaɲ)unoka
+116,116,fFB,apai nagybáczi,,,,UR5,pomozi_hungarian_2015,apai nadʸbaači
+117,117,fFZ,nagynéni (apai),,,,UR5,pomozi_hungarian_2015,nadʸneeni (apai)
+118,118,fMB,anyai nagybáczi,,,,UR5,pomozi_hungarian_2015,aɲai nadʸbaači
+119,119,fMZ,nagynéni (anyai),,,,UR5,pomozi_hungarian_2015,nadʸneeni (aɲai)
+120,120,fBS,unokaöcz,,,,UR5,pomozi_hungarian_2015,unokaöč
+121,121,fBD,unokahúg,,,,UR5,pomozi_hungarian_2015,unokahuug
+122,122,fZS,unokaöcz,,,,UR5,pomozi_hungarian_2015,unokaöč
+123,123,fZD,unokahúg,,,,UR5,pomozi_hungarian_2015,unokahuug
+124,124,fFZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+125,125,fFBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+126,126,fMBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+127,127,fMZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+128,128,fFBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+129,129,fFZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+130,130,fMBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+131,131,fMZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,unokateštweer
+132,132,fH,féry,,,,UR5,pomozi_hungarian_2015,feery
+133,133,fW,feleség,,,,UR5,pomozi_hungarian_2015,felešeeg
+134,134,fHF,após,,,,UR5,pomozi_hungarian_2015,apooš
+135,135,fHM,anyós,,,,UR5,pomozi_hungarian_2015,aɲooš
+136,136,fWF,após,,,,UR5,pomozi_hungarian_2015,apooš
+137,137,fWM,anyós,,,,UR5,pomozi_hungarian_2015,aɲooš
+138,138,fSW,meny,,,,UR5,pomozi_hungarian_2015,meɲ
+139,139,fSW,meny,,,,UR5,pomozi_hungarian_2015,meɲ
+140,140,fDH,vő,,,,UR5,pomozi_hungarian_2015,wöö
+141,141,fDH,vő,,,,UR5,pomozi_hungarian_2015,wöö
+142,142,feB,fivér,,,,UR5,pomozi_hungarian_2015,Inferred; fiweer ~ fiuuteštweer
+143,143,feB,fiútestvér,,,,UR5,pomozi_hungarian_2015,Inferred; NA
+144,144,feZ,nővér,,,,UR5,pomozi_hungarian_2015,Inferred; nööweer
+145,145,fFeB,apai nagybáczi,,,,UR5,pomozi_hungarian_2015,Inferred; apai nadʸbaači
+146,146,fFyB,apai nagybáczi,,,,UR5,pomozi_hungarian_2015,Inferred; apai nadʸbaači
+147,147,fFeZ,nagynéni (apai),,,,UR5,pomozi_hungarian_2015,Inferred; nadʸneeni (apai)
+148,148,fFyZ,nagynéni (apai),,,,UR5,pomozi_hungarian_2015,Inferred; nadʸneeni (apai)
+149,149,fMeZ,nagynéni (anyai),,,,UR5,pomozi_hungarian_2015,Inferred; nadʸneeni (aɲai)
+150,150,fMyZ,nagynéni (anyai),,,,UR5,pomozi_hungarian_2015,Inferred; nadʸneeni (aɲai)
+151,151,fMeB,anyai nagybáczi,,,,UR5,pomozi_hungarian_2015,Inferred; aɲai nadʸbaači
+152,152,fMyB,anyai nagybáczi,,,,UR5,pomozi_hungarian_2015,Inferred; aɲai nadʸbaači
+153,153,feBS,unokaöcz,,,,UR5,pomozi_hungarian_2015,Inferred; unokaöč
+154,154,fyBS,unokaöcz,,,,UR5,pomozi_hungarian_2015,Inferred; unokaöč
+155,155,feBD,unokahúg,,,,UR5,pomozi_hungarian_2015,Inferred; unokahuug
+156,156,fyBD,unokahúg,,,,UR5,pomozi_hungarian_2015,Inferred; unokahuug
+157,157,feZS,unokaöcz,,,,UR5,pomozi_hungarian_2015,Inferred; unokaöč
+158,158,fyZS,unokaöcz,,,,UR5,pomozi_hungarian_2015,Inferred; unokaöč
+159,159,feZD,unokahúg,,,,UR5,pomozi_hungarian_2015,Inferred; unokahuug
+160,160,fyZD,unokahúg,,,,UR5,pomozi_hungarian_2015,Inferred; unokahuug
+161,161,fFeBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+162,162,fFyBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+163,163,fFeZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+164,164,fFyZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+165,165,fFeBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+166,166,fFyBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+167,167,fFeZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+168,168,fFyZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+169,169,fMeBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+170,170,fMyBS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+171,171,fMeZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+172,172,fMyZS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+173,173,fMeBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+174,174,fMyBD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+175,175,fMeZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+176,176,fMyZD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+177,177,fFBeS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+178,178,fFByS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+179,179,fFZeS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+180,180,fFZyS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+181,181,fFBeD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+182,182,fFByD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+183,183,fFZeD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+184,184,fFZyD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+185,185,fMBeS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+186,186,fMByS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+187,187,fMZeS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+188,188,fMZyS,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+189,189,fMBeD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+190,190,fMByD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+191,191,fMZeD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
+192,192,fMZyD,unokatestvér,,,,UR5,pomozi_hungarian_2015,Inferred; unokateštweer
