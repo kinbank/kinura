@@ -1,157 +1,157 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,iza,,,izai,UR7(46),soviet_mari_research_institute__1966,
-myB,shol'o,,,sholjash,UR7(46),soviet_mari_research_institute__1966,
-meZ,shӱzhar,,,,UR7(689),soviet_mari_research_institute__1966,
-myZ,aka,,,,UR7(689),soviet_mari_research_institute__1966,
-mP,acha-ava,,,,UR7(663),soviet_mari_research_institute__1966,
-mF,acha,,,achai,UR7(444),soviet_mari_research_institute__1966,
-mM,ava,,,,UR7(311),soviet_mari_research_institute__1966,
-mC,shochsho,,,shochsho-kushsho,UR7(148),soviet_mari_research_institute__1966,only in plural
-mS,erge,,,,UR7(741),soviet_mari_research_institute__1966,
-mD,ӱdyr,,,,UR7(162),soviet_mari_research_institute__1966,
-mA,kugeze,,,,UR7(565),soviet_mari_research_institute__1966,
-mFF,kocha,,,kochai,UR7(142),soviet_mari_research_institute__1966,
-mFM,kova,,,kovai,UR7(26),soviet_mari_research_institute__1966,
-mMM,kova,,,,UR7(26),soviet_mari_research_institute__1966,
-mCC,unyka-vlak,,,,UR7(72),soviet_mari_research_institute__1966,
-mSS,unyka,,,,UR7(72),soviet_mari_research_institute__1966,
-mSD,unyka,,,,UR7(72),soviet_mari_research_institute__1966,
-mDS,unyka,,,,UR7(72),soviet_mari_research_institute__1966,
-mDD,unyka,,,,UR7(72),soviet_mari_research_institute__1966,
-mFB,kugyza,,,,UR7(167),soviet_mari_research_institute__1966,source defines as 'uncle on father's side'
-mFZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,
-mMB,chӱchӱ,,,,UR7(167),soviet_mari_research_institute__1966,source defines as 'uncle on mother's side'
-mMZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,
-mBS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-mBD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-mZS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-mZD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-meBS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-myBS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-meBD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-myBD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-meZS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-myZS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-meZD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-myZD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-mFBeS,iza,,,,UR7(140),soviet_mari_research_institute__1966,
-mFByS,shol'o,,,,UR7(140),soviet_mari_research_institute__1966,
-mFZeS,iza,,,,UR7(140),soviet_mari_research_institute__1966,
-mFZyS,shol'o,,,,UR7(140),soviet_mari_research_institute__1966,
-mFBeD,aka,,,,UR7(140),soviet_mari_research_institute__1966,
-mFByD,shӱzhar,,,,UR7(140),soviet_mari_research_institute__1966,
-mFZeD,aka,,,,UR7(140),soviet_mari_research_institute__1966,
-mFZyD,shӱzhar,,,,UR7(140),soviet_mari_research_institute__1966,
-mMBeS,iza,,,,UR7(140),soviet_mari_research_institute__1966,
-mMByS,shol'o,,,,UR7(140),soviet_mari_research_institute__1966,
-mMZeS,iza,,,,UR7(140),soviet_mari_research_institute__1966,
-mMZyS,shol'o,,,,UR7(140),soviet_mari_research_institute__1966,
-mMBeD,aka,,,,UR7(140),soviet_mari_research_institute__1966,
-mMByD,shӱzhar,,,,UR7(140),soviet_mari_research_institute__1966,
-mMZeD,aka,,,,UR7(140),soviet_mari_research_institute__1966,
-mW,vate,,,,UR7(173),soviet_mari_research_institute__1966,
-mHF,on'o,,,,UR7(677),soviet_mari_research_institute__1966,
-mHM,kugo,,,,UR7(677),soviet_mari_research_institute__1966,
-mWF,on'o,,,,UR7(757),soviet_mari_research_institute__1966,
-mWM,kugo,,,,UR7(757),soviet_mari_research_institute__1966,
-mBW,sheshke,,,,UR7(368),soviet_mari_research_institute__1966,younger brother's wife
-mBW,enga,,,engai,UR7(368),soviet_mari_research_institute__1966,older brother's wife
-mWB,pörzyh,,,,UR7(837),soviet_mari_research_institute__1966,
-mWZ,nudo,,,,UR7(682),soviet_mari_research_institute__1966,
-mHB,pörzyh,,,,UR7(141),soviet_mari_research_institute__1966,
-mHZ,nudo,,,,UR7(222),soviet_mari_research_institute__1966,
-mFW(notM),izava,,,,UR7(311),soviet_mari_research_institute__1966,
-mMH(notF),izacha,,,,UR7(459),soviet_mari_research_institute__1966,
-mSW,sheshke,,,,UR7(368),soviet_mari_research_institute__1966,
-mSWM,tulache,,,,UR7(677),soviet_mari_research_institute__1966,
-mSWF,tular,,,,UR7(677),soviet_mari_research_institute__1966,
-mDHM,tulache,,,,UR7(677),soviet_mari_research_institute__1966,
-mDHF,tular,,,,UR7(677),soviet_mari_research_institute__1966,
-mFBW,chӱchӱn'ӧ,,,,UR7(757),soviet_mari_research_institute__1966,
-mMBW,chӱchӱn'ӧ,,,,UR7(757),soviet_mari_research_institute__1966,
-mFeB,kugyza,,,,UR7(167),soviet_mari_research_institute__1966,Inferred; source defines as 'uncle on father's side'
-mFyB,kugyza,,,,UR7(167),soviet_mari_research_institute__1966,Inferred; source defines as 'uncle on father's side'
-mFeZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,Inferred; NA
-mFyZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,Inferred; NA
-mMeZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,Inferred; NA
-mMyZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,Inferred; NA
-mMeB,chӱchӱ,,,,UR7(167),soviet_mari_research_institute__1966,Inferred; source defines as 'uncle on mother's side'
-mMyB,chӱchӱ,,,,UR7(167),soviet_mari_research_institute__1966,Inferred; source defines as 'uncle on mother's side'
-feB,iza,,,izai,UR7(46),soviet_mari_research_institute__1966,
-fyB,shol'o,,,sholjash,UR7(46),soviet_mari_research_institute__1966,
-feZ,shӱzhar,,,,UR7(689),soviet_mari_research_institute__1966,
-fyZ,aka,,,,UR7(689),soviet_mari_research_institute__1966,
-fP,acha-ava,,,,UR7(663),soviet_mari_research_institute__1966,
-fF,acha,,,achai,UR7(444),soviet_mari_research_institute__1966,
-fM,ava,,,,UR7(311),soviet_mari_research_institute__1966,
-fC,shochsho,,,shochsho-kushsho,UR7(148),soviet_mari_research_institute__1966,only in plural
-fS,erge,,,,UR7(741),soviet_mari_research_institute__1966,
-fD,ӱdyr,,,,UR7(162),soviet_mari_research_institute__1966,
-fA,kugeze,,,,UR7(565),soviet_mari_research_institute__1966,
-fFF,kocha,,,kochai,UR7(142),soviet_mari_research_institute__1966,
-fFM,kova,,,kovai,UR7(26),soviet_mari_research_institute__1966,
-fMM,kova,,,,UR7(26),soviet_mari_research_institute__1966,
-fCC,unyka-vlak,,,,UR7(72),soviet_mari_research_institute__1966,
-fSS,unyka,,,,UR7(72),soviet_mari_research_institute__1966,
-fSD,unyka,,,,UR7(72),soviet_mari_research_institute__1966,
-fDS,unyka,,,,UR7(72),soviet_mari_research_institute__1966,
-fDD,unyka,,,,UR7(72),soviet_mari_research_institute__1966,
-fFB,kugyza,,,,UR7(167),soviet_mari_research_institute__1966,source defines as 'uncle on father's side'
-fFZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,
-fMB,chӱchӱ,,,,UR7(167),soviet_mari_research_institute__1966,source defines as 'uncle on mother's side'
-fMZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,
-fBS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-fBD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-fZS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-fZD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-feBS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-fyBS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-feBD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-fyBD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-feZS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-fyZS,ergyzhe,,,,UR7(499),soviet_mari_research_institute__1966,
-feZD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-fyZD,ӱdyrzhö,,,,UR7(499),soviet_mari_research_institute__1966,
-fFBeS,iza,,,,UR7(140),soviet_mari_research_institute__1966,
-fFByS,shol'o,,,,UR7(140),soviet_mari_research_institute__1966,
-fFZeS,iza,,,,UR7(140),soviet_mari_research_institute__1966,
-fFZyS,shol'o,,,,UR7(140),soviet_mari_research_institute__1966,
-fFBeD,aka,,,,UR7(140),soviet_mari_research_institute__1966,
-fFByD,shӱzhar,,,,UR7(140),soviet_mari_research_institute__1966,
-fFZeD,aka,,,,UR7(140),soviet_mari_research_institute__1966,
-fFZyD,shӱzhar,,,,UR7(140),soviet_mari_research_institute__1966,
-fMBeS,iza,,,,UR7(140),soviet_mari_research_institute__1966,
-fMByS,shol'o,,,,UR7(140),soviet_mari_research_institute__1966,
-fMZeS,iza,,,,UR7(140),soviet_mari_research_institute__1966,
-fMZyS,shol'o,,,,UR7(140),soviet_mari_research_institute__1966,
-fMBeD,aka,,,,UR7(140),soviet_mari_research_institute__1966,
-fMByD,shӱzhar,,,,UR7(140),soviet_mari_research_institute__1966,
-fMZeD,aka,,,,UR7(140),soviet_mari_research_institute__1966,
-fW,vate,,,,UR7(173),soviet_mari_research_institute__1966,
-fHF,on'o,,,,UR7(677),soviet_mari_research_institute__1966,
-fHM,kugo,,,,UR7(677),soviet_mari_research_institute__1966,
-fWF,on'o,,,,UR7(757),soviet_mari_research_institute__1966,
-fWM,kugo,,,,UR7(757),soviet_mari_research_institute__1966,
-fBW,sheshke,,,,UR7(368),soviet_mari_research_institute__1966,younger brother's wife
-fBW,enga,,,engai,UR7(368),soviet_mari_research_institute__1966,older brother's wife
-fWB,pörzyh,,,,UR7(837),soviet_mari_research_institute__1966,
-fWZ,nudo,,,,UR7(682),soviet_mari_research_institute__1966,
-fHB,pörzyh,,,,UR7(141),soviet_mari_research_institute__1966,
-fHZ,nudo,,,,UR7(222),soviet_mari_research_institute__1966,
-fFW(notM),izava,,,,UR7(311),soviet_mari_research_institute__1966,
-fMH(notF),izacha,,,,UR7(459),soviet_mari_research_institute__1966,
-fSW,sheshke,,,,UR7(368),soviet_mari_research_institute__1966,
-fSWM,tulache,,,,UR7(677),soviet_mari_research_institute__1966,
-fSWF,tular,,,,UR7(677),soviet_mari_research_institute__1966,
-fDHM,tulache,,,,UR7(677),soviet_mari_research_institute__1966,
-fDHF,tular,,,,UR7(677),soviet_mari_research_institute__1966,
-fFBW,chӱchӱn'ӧ,,,,UR7(757),soviet_mari_research_institute__1966,
-fMBW,chӱchӱn'ӧ,,,,UR7(757),soviet_mari_research_institute__1966,
-fFeB,kugyza,,,,UR7(167),soviet_mari_research_institute__1966,Inferred; source defines as 'uncle on father's side'
-fFyB,kugyza,,,,UR7(167),soviet_mari_research_institute__1966,Inferred; source defines as 'uncle on father's side'
-fFeZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,Inferred; NA
-fFyZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,Inferred; NA
-fMeZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,Inferred; NA
-fMyZ,kunai,,,,UR7(757),soviet_mari_research_institute__1966,Inferred; NA
-fMeB,chӱchӱ,,,,UR7(167),soviet_mari_research_institute__1966,Inferred; source defines as 'uncle on mother's side'
-fMyB,chӱchӱ,,,,UR7(167),soviet_mari_research_institute__1966,Inferred; source defines as 'uncle on mother's side'
+"","parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"1","meB","iza",NA,NA,"izai","UR7(46)","soviet_mari_research_institute__1966",""
+"2","myB","shol'o",NA,NA,"sholjash","UR7(46)","soviet_mari_research_institute__1966",""
+"3","meZ","shӱzhar",NA,NA,"","UR7(689)","soviet_mari_research_institute__1966",""
+"4","myZ","aka",NA,NA,"","UR7(689)","soviet_mari_research_institute__1966",""
+"5","mP","acha-ava",NA,NA,"","UR7(663)","soviet_mari_research_institute__1966",""
+"6","mF","acha",NA,NA,"achai","UR7(444)","soviet_mari_research_institute__1966",""
+"7","mM","ava",NA,NA,"","UR7(311)","soviet_mari_research_institute__1966",""
+"8","mC","shochsho",NA,NA,"shochsho-kushsho","UR7(148)","soviet_mari_research_institute__1966","only in plural"
+"9","mS","erge",NA,NA,"","UR7(741)","soviet_mari_research_institute__1966",""
+"10","mD","ӱdyr",NA,NA,"","UR7(162)","soviet_mari_research_institute__1966",""
+"11","mA","kugeze",NA,NA,"","UR7(565)","soviet_mari_research_institute__1966",""
+"12","mFF","kocha",NA,NA,"kochai","UR7(142)","soviet_mari_research_institute__1966",""
+"13","mFM","kova",NA,NA,"kovai","UR7(26)","soviet_mari_research_institute__1966",""
+"14","mMM","kova",NA,NA,"","UR7(26)","soviet_mari_research_institute__1966",""
+"15","mCC","unyka-vlak",NA,NA,"","UR7(72)","soviet_mari_research_institute__1966",""
+"16","mSS","unyka",NA,NA,"","UR7(72)","soviet_mari_research_institute__1966",""
+"17","mSD","unyka",NA,NA,"","UR7(72)","soviet_mari_research_institute__1966",""
+"18","mDS","unyka",NA,NA,"","UR7(72)","soviet_mari_research_institute__1966",""
+"19","mDD","unyka",NA,NA,"","UR7(72)","soviet_mari_research_institute__1966",""
+"20","mFB","kugyza",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","source defines as 'uncle on father's side'"
+"21","mFZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"22","mMB","chӱchӱ",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","source defines as 'uncle on mother's side'"
+"23","mMZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"24","mBS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"25","mBD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"26","mZS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"27","mZD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"28","meBS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"29","myBS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"30","meBD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"31","myBD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"32","meZS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"33","myZS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"34","meZD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"35","myZD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"36","mFBeS","iza",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"37","mFByS","shol'o",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"38","mFZeS","iza",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"39","mFZyS","shol'o",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"40","mFBeD","aka",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"41","mFByD","shӱzhar",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"42","mFZeD","aka",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"43","mFZyD","shӱzhar",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"44","mMBeS","iza",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"45","mMByS","shol'o",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"46","mMZeS","iza",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"47","mMZyS","shol'o",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"48","mMBeD","aka",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"49","mMByD","shӱzhar",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"50","mMZeD","aka",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"51","mW","vate",NA,NA,"","UR7(173)","soviet_mari_research_institute__1966",""
+"52","mHF","on'o",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"53","mHM","kugo",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"54","mWF","on'o",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"55","mWM","kugo",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"56","mBW","sheshke",NA,NA,"","UR7(368)","soviet_mari_research_institute__1966","younger brother's wife"
+"57","mBW","enga",NA,NA,"engai","UR7(368)","soviet_mari_research_institute__1966","older brother's wife"
+"58","mWB","pörzyh",NA,NA,"","UR7(837)","soviet_mari_research_institute__1966",""
+"59","mWZ","nudo",NA,NA,"","UR7(682)","soviet_mari_research_institute__1966",""
+"60","mHB","pörzyh",NA,NA,"","UR7(141)","soviet_mari_research_institute__1966",""
+"61","mHZ","nudo",NA,NA,"","UR7(222)","soviet_mari_research_institute__1966",""
+"62","mFW(notM)","izava",NA,NA,"","UR7(311)","soviet_mari_research_institute__1966",""
+"63","mMH(notF)","izacha",NA,NA,"","UR7(459)","soviet_mari_research_institute__1966",""
+"64","mSW","sheshke",NA,NA,"","UR7(368)","soviet_mari_research_institute__1966",""
+"65","mSWM","tulache",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"66","mSWF","tular",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"67","mDHM","tulache",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"68","mDHF","tular",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"69","mFBW","chӱchӱn'ӧ",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"70","mMBW","chӱchӱn'ӧ",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"71","mFeB","kugyza",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","Inferred; source defines as 'uncle on father's side'"
+"72","mFyB","kugyza",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","Inferred; source defines as 'uncle on father's side'"
+"73","mFeZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966","Inferred; NA"
+"74","mFyZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966","Inferred; NA"
+"75","mMeZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966","Inferred; NA"
+"76","mMyZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966","Inferred; NA"
+"77","mMeB","chӱchӱ",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","Inferred; source defines as 'uncle on mother's side'"
+"78","mMyB","chӱchӱ",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","Inferred; source defines as 'uncle on mother's side'"
+"79","feB","iza",NA,NA,"izai","UR7(46)","soviet_mari_research_institute__1966",""
+"80","fyB","shol'o",NA,NA,"sholjash","UR7(46)","soviet_mari_research_institute__1966",""
+"81","feZ","shӱzhar",NA,NA,"","UR7(689)","soviet_mari_research_institute__1966",""
+"82","fyZ","aka",NA,NA,"","UR7(689)","soviet_mari_research_institute__1966",""
+"83","fP","acha-ava",NA,NA,"","UR7(663)","soviet_mari_research_institute__1966",""
+"84","fF","acha",NA,NA,"achai","UR7(444)","soviet_mari_research_institute__1966",""
+"85","fM","ava",NA,NA,"","UR7(311)","soviet_mari_research_institute__1966",""
+"86","fC","shochsho",NA,NA,"shochsho-kushsho","UR7(148)","soviet_mari_research_institute__1966","only in plural"
+"87","fS","erge",NA,NA,"","UR7(741)","soviet_mari_research_institute__1966",""
+"88","fD","ӱdyr",NA,NA,"","UR7(162)","soviet_mari_research_institute__1966",""
+"89","fA","kugeze",NA,NA,"","UR7(565)","soviet_mari_research_institute__1966",""
+"90","fFF","kocha",NA,NA,"kochai","UR7(142)","soviet_mari_research_institute__1966",""
+"91","fFM","kova",NA,NA,"kovai","UR7(26)","soviet_mari_research_institute__1966",""
+"92","fMM","kova",NA,NA,"","UR7(26)","soviet_mari_research_institute__1966",""
+"93","fCC","unyka-vlak",NA,NA,"","UR7(72)","soviet_mari_research_institute__1966",""
+"94","fSS","unyka",NA,NA,"","UR7(72)","soviet_mari_research_institute__1966",""
+"95","fSD","unyka",NA,NA,"","UR7(72)","soviet_mari_research_institute__1966",""
+"96","fDS","unyka",NA,NA,"","UR7(72)","soviet_mari_research_institute__1966",""
+"97","fDD","unyka",NA,NA,"","UR7(72)","soviet_mari_research_institute__1966",""
+"98","fFB","kugyza",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","source defines as 'uncle on father's side'"
+"99","fFZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"100","fMB","chӱchӱ",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","source defines as 'uncle on mother's side'"
+"101","fMZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"102","fBS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"103","fBD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"104","fZS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"105","fZD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"106","feBS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"107","fyBS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"108","feBD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"109","fyBD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"110","feZS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"111","fyZS","ergyzhe",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"112","feZD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"113","fyZD","ӱdyrzhö",NA,NA,"","UR7(499)","soviet_mari_research_institute__1966",""
+"114","fFBeS","iza",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"115","fFByS","shol'o",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"116","fFZeS","iza",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"117","fFZyS","shol'o",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"118","fFBeD","aka",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"119","fFByD","shӱzhar",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"120","fFZeD","aka",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"121","fFZyD","shӱzhar",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"122","fMBeS","iza",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"123","fMByS","shol'o",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"124","fMZeS","iza",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"125","fMZyS","shol'o",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"126","fMBeD","aka",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"127","fMByD","shӱzhar",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"128","fMZeD","aka",NA,NA,"","UR7(140)","soviet_mari_research_institute__1966",""
+"129","fW","vate",NA,NA,"","UR7(173)","soviet_mari_research_institute__1966",""
+"130","fHF","on'o",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"131","fHM","kugo",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"132","fWF","on'o",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"133","fWM","kugo",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"134","fBW","sheshke",NA,NA,"","UR7(368)","soviet_mari_research_institute__1966","younger brother's wife"
+"135","fBW","enga",NA,NA,"engai","UR7(368)","soviet_mari_research_institute__1966","older brother's wife"
+"136","fWB","pörzyh",NA,NA,"","UR7(837)","soviet_mari_research_institute__1966",""
+"137","fWZ","nudo",NA,NA,"","UR7(682)","soviet_mari_research_institute__1966",""
+"138","fHB","pörzyh",NA,NA,"","UR7(141)","soviet_mari_research_institute__1966",""
+"139","fHZ","nudo",NA,NA,"","UR7(222)","soviet_mari_research_institute__1966",""
+"140","fFW(notM)","izava",NA,NA,"","UR7(311)","soviet_mari_research_institute__1966",""
+"141","fMH(notF)","izacha",NA,NA,"","UR7(459)","soviet_mari_research_institute__1966",""
+"142","fSW","sheshke",NA,NA,"","UR7(368)","soviet_mari_research_institute__1966",""
+"143","fSWM","tulache",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"144","fSWF","tular",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"145","fDHM","tulache",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"146","fDHF","tular",NA,NA,"","UR7(677)","soviet_mari_research_institute__1966",""
+"147","fFBW","chӱchӱn'ӧ",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"148","fMBW","chӱchӱn'ӧ",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966",""
+"149","fFeB","kugyza",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","Inferred; source defines as 'uncle on father's side'"
+"150","fFyB","kugyza",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","Inferred; source defines as 'uncle on father's side'"
+"151","fFeZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966","Inferred; NA"
+"152","fFyZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966","Inferred; NA"
+"153","fMeZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966","Inferred; NA"
+"154","fMyZ","kunai",NA,NA,"","UR7(757)","soviet_mari_research_institute__1966","Inferred; NA"
+"155","fMeB","chӱchӱ",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","Inferred; source defines as 'uncle on mother's side'"
+"156","fMyB","chӱchӱ",NA,NA,"","UR7(167)","soviet_mari_research_institute__1966","Inferred; source defines as 'uncle on mother's side'"

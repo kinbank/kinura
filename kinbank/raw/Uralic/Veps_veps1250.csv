@@ -1,161 +1,161 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,ve|l'l',,,,UR1(47),zaitseva_novyi_2007,
-mZ,sizar,,,,UR1(414),zaitseva_novyi_2007,
-meB,ve|l'l',,,,UR1(47),zaitseva_novyi_2007,veik is eldest brother (UR19)
-myB,ve|l'l',,,,UR1(47),zaitseva_novyi_2007,
-meZ,čižoi,,,,UR1(414),zaitseva_novyi_2007,UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB
-myZ,čižoi,,,,UR1(414),zaitseva_novyi_2007,UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB
-mP,kazvatai,,,,UR1(397),zaitseva_novyi_2007,
-mF,tat,,,,UR1(304),zaitseva_novyi_2007,Russian loan (UR19)
-mM,mam,,,,UR1(228),zaitseva_novyi_2007,Russian loan (UR19)
-mS,poig,,,,UR1(438),zaitseva_novyi_2007,
-mD,tüt|är,,,,UR1(129),zaitseva_novyi_2007,
-mA,ezitat,,,,UR1(115),zaitseva_novyi_2007,
-mFF,uk,,,dedoi,UR1(115),zaitseva_novyi_2007,
-mFM,ak,,,baboi,UR1(28),zaitseva_novyi_2007,
-mMF,uk,,,dedoi,UR1(115),zaitseva_novyi_2007,
-mMM,ak,,,baboi,UR1(28),zaitseva_novyi_2007,
-mSS,vunuk,,,,UR1(68),zaitseva_novyi_2007,Russian loan (UR19)
-mSD,vunuk,,,,UR1(68),zaitseva_novyi_2007,Russian loan (UR19)
-mDS,vunuk,,,,UR1(68),zaitseva_novyi_2007,Russian loan (UR19)
-mDD,vunuk,,,,UR1(68),zaitseva_novyi_2007,Russian loan (UR19)
-mFB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-mFZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-mMB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-mMZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-mFeB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-mFyB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-mFeZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-mFyZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-mMeZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-mMyZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-mMeB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-mMyB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-mFBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mFZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mMBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mMZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mFeBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mFyBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mFeZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mFyZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mFeBD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mFyBD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mFeZD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mFyZD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mMeBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mMyBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mMeZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mMyZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mMeBD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mMyBD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mMeZD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mMyZD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mFBeS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mFByS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mFZeS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mFZyS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mFBeD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mFByD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mFZeD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mFZyD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mMBeS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mMByS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mMZeS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mMZyS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-mMBeD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mMByD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mMZeD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mMZyD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-mH,mužik,,,,UR1(239),zaitseva_novyi_2007,
-mW,ak,,,,UR1(139),zaitseva_novyi_2007,ak' meaning lit. woman. 'murz'ai|n' used in context of a 'young' wife.
-mHF,ap,,,,UR1(407),zaitseva_novyi_2007,
-mHM,anop,,,,UR1(407),zaitseva_novyi_2007,
-mWF,a|p’,,,,UR1(447),zaitseva_novyi_2007,
-mWM,ano|p,,,,UR1(447),zaitseva_novyi_2007,
-mHB,küdu,,,,UR1(115),zaitseva_novyi_2007,
-mHZ,nado,,,,UR1(164),zaitseva_novyi_2007,
-mFW(notM),emindam,,,,UR1(229),zaitseva_novyi_2007,
-mMH(notF),ižindam,,,,UR1(309),zaitseva_novyi_2007,
-mSW,mi|l’l’,,,,UR1(258),zaitseva_novyi_2007,
-mDH,vävu,,,,UR1(165),zaitseva_novyi_2007,
-fB,ve|l'l',,,,UR1(47),zaitseva_novyi_2007,
-fZ,sizar,,,,UR1(414),zaitseva_novyi_2007,
-feB,ve|l'l',,,,UR1(47),zaitseva_novyi_2007,veik is eldest brother (UR19)
-fyB,ve|l'l',,,,UR1(47),zaitseva_novyi_2007,
-feZ,čižoi,,,,UR1(414),zaitseva_novyi_2007,UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB
-fyZ,čižoi,,,,UR1(414),zaitseva_novyi_2007,UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB
-fP,kazvatai,,,,UR1(397),zaitseva_novyi_2007,
-fF,tat,,,,UR1(304),zaitseva_novyi_2007,Russian loan (UR19)
-fM,mam,,,,UR1(228),zaitseva_novyi_2007,Russian loan (UR19)
-fS,poig,,,,UR1(438),zaitseva_novyi_2007,
-fD,tüt|är,,,,UR1(129),zaitseva_novyi_2007,
-fA,ezitat,,,,UR1(115),zaitseva_novyi_2007,
-fFF,uk,,,dedoi,UR1(115),zaitseva_novyi_2007,
-fFM,ak,,,baboi,UR1(28),zaitseva_novyi_2007,
-fMF,uk,,,dedoi,UR1(115),zaitseva_novyi_2007,
-fMM,ak,,,baboi,UR1(28),zaitseva_novyi_2007,
-fSS,vunuk,,,,UR1(68),zaitseva_novyi_2007,Russian loan (UR19)
-fSD,vunuk,,,,UR1(68),zaitseva_novyi_2007,Russian loan (UR19)
-fDS,vunuk,,,,UR1(68),zaitseva_novyi_2007,Russian loan (UR19)
-fDD,vunuk,,,,UR1(68),zaitseva_novyi_2007,Russian loan (UR19)
-fFB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-fFZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-fMB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-fMZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-fFeB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-fFyB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-fFeZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-fFyZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-fMeZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-fMyZ,tädi,,,,UR1(447),zaitseva_novyi_2007,Russian loan (UR19)
-fMeB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-fMyB,däd’,,,,UR1(133),zaitseva_novyi_2007,Russian loan (UR19)
-fFBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fFZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fMBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fMZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fFeBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fFyBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fFeZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fFyZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fFeBD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fFyBD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fFeZD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fFyZD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fMeBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fMyBS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fMeZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fMyZS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fMeBD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fMyBD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fMeZD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fMyZD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fFBeS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fFByS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fFZeS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fFZyS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fFBeD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fFByD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fFZeD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fFZyD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fMBeS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fMByS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fMZeS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fMZyS,bratan,,,,UR1(114),zaitseva_novyi_2007,
-fMBeD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fMByD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fMZeD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fMZyD,sestrii,,,,UR1(114),zaitseva_novyi_2007,
-fH,mužik,,,,UR1(239),zaitseva_novyi_2007,
-fW,ak,,,,UR1(139),zaitseva_novyi_2007,ak' meaning lit. woman. 'murz'ai|n' used in context of a 'young' wife.
-fHF,ap,,,,UR1(407),zaitseva_novyi_2007,
-fHM,anop,,,,UR1(407),zaitseva_novyi_2007,
-fWF,a|p’,,,,UR1(447),zaitseva_novyi_2007,
-fWM,ano|p,,,,UR1(447),zaitseva_novyi_2007,
-fHB,küdu,,,,UR1(115),zaitseva_novyi_2007,
-fHZ,nado,,,,UR1(164),zaitseva_novyi_2007,
-fFW(notM),emindam,,,,UR1(229),zaitseva_novyi_2007,
-fMH(notF),ižindam,,,,UR1(309),zaitseva_novyi_2007,
-fSW,mi|l’l’,,,,UR1(258),zaitseva_novyi_2007,
-fDH,vävu,,,,UR1(165),zaitseva_novyi_2007,
+"","parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"1","mB","ve|l'l'",NA,NA,"","UR1(47)","zaitseva_novyi_2007",""
+"2","mZ","sizar",NA,NA,"","UR1(414)","zaitseva_novyi_2007",""
+"3","meB","ve|l'l'",NA,NA,"","UR1(47)","zaitseva_novyi_2007","veik is eldest brother (UR19)"
+"4","myB","ve|l'l'",NA,NA,"","UR1(47)","zaitseva_novyi_2007",""
+"5","meZ","čižoi",NA,NA,"","UR1(414)","zaitseva_novyi_2007","UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB"
+"6","myZ","čižoi",NA,NA,"","UR1(414)","zaitseva_novyi_2007","UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB"
+"7","mP","kazvatai",NA,NA,"","UR1(397)","zaitseva_novyi_2007",""
+"8","mF","tat",NA,NA,"","UR1(304)","zaitseva_novyi_2007","Russian loan (UR19)"
+"9","mM","mam",NA,NA,"","UR1(228)","zaitseva_novyi_2007","Russian loan (UR19)"
+"10","mS","poig",NA,NA,"","UR1(438)","zaitseva_novyi_2007",""
+"11","mD","tüt|är",NA,NA,"","UR1(129)","zaitseva_novyi_2007",""
+"12","mA","ezitat",NA,NA,"","UR1(115)","zaitseva_novyi_2007",""
+"13","mFF","uk",NA,NA,"dedoi","UR1(115)","zaitseva_novyi_2007",""
+"14","mFM","ak",NA,NA,"baboi","UR1(28)","zaitseva_novyi_2007",""
+"15","mMF","uk",NA,NA,"dedoi","UR1(115)","zaitseva_novyi_2007",""
+"16","mMM","ak",NA,NA,"baboi","UR1(28)","zaitseva_novyi_2007",""
+"17","mSS","vunuk",NA,NA,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
+"18","mSD","vunuk",NA,NA,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
+"19","mDS","vunuk",NA,NA,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
+"20","mDD","vunuk",NA,NA,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
+"21","mFB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"22","mFZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"23","mMB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"24","mMZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"25","mFeB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"26","mFyB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"27","mFeZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"28","mFyZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"29","mMeZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"30","mMyZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"31","mMeB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"32","mMyB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"33","mFBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"34","mFZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"35","mMBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"36","mMZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"37","mFeBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"38","mFyBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"39","mFeZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"40","mFyZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"41","mFeBD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"42","mFyBD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"43","mFeZD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"44","mFyZD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"45","mMeBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"46","mMyBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"47","mMeZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"48","mMyZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"49","mMeBD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"50","mMyBD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"51","mMeZD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"52","mMyZD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"53","mFBeS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"54","mFByS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"55","mFZeS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"56","mFZyS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"57","mFBeD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"58","mFByD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"59","mFZeD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"60","mFZyD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"61","mMBeS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"62","mMByS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"63","mMZeS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"64","mMZyS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"65","mMBeD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"66","mMByD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"67","mMZeD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"68","mMZyD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"69","mH","mužik",NA,NA,"","UR1(239)","zaitseva_novyi_2007",""
+"70","mW","ak",NA,NA,"","UR1(139)","zaitseva_novyi_2007","ak' meaning lit. woman. 'murz'ai|n' used in context of a 'young' wife."
+"71","mHF","ap",NA,NA,"","UR1(407)","zaitseva_novyi_2007",""
+"72","mHM","anop",NA,NA,"","UR1(407)","zaitseva_novyi_2007",""
+"73","mWF","a|p’",NA,NA,"","UR1(447)","zaitseva_novyi_2007",""
+"74","mWM","ano|p",NA,NA,"","UR1(447)","zaitseva_novyi_2007",""
+"75","mHB","küdu",NA,NA,"","UR1(115)","zaitseva_novyi_2007",""
+"76","mHZ","nado",NA,NA,"","UR1(164)","zaitseva_novyi_2007",""
+"77","mFW(notM)","emindam",NA,NA,"","UR1(229)","zaitseva_novyi_2007",""
+"78","mMH(notF)","ižindam",NA,NA,"","UR1(309)","zaitseva_novyi_2007",""
+"79","mSW","mi|l’l’",NA,NA,"","UR1(258)","zaitseva_novyi_2007",""
+"80","mDH","vävu",NA,NA,"","UR1(165)","zaitseva_novyi_2007",""
+"81","fB","ve|l'l'",NA,NA,"","UR1(47)","zaitseva_novyi_2007",""
+"82","fZ","sizar",NA,NA,"","UR1(414)","zaitseva_novyi_2007",""
+"83","feB","ve|l'l'",NA,NA,"","UR1(47)","zaitseva_novyi_2007","veik is eldest brother (UR19)"
+"84","fyB","ve|l'l'",NA,NA,"","UR1(47)","zaitseva_novyi_2007",""
+"85","feZ","čižoi",NA,NA,"","UR1(414)","zaitseva_novyi_2007","UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB"
+"86","fyZ","čižoi",NA,NA,"","UR1(414)","zaitseva_novyi_2007","UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB"
+"87","fP","kazvatai",NA,NA,"","UR1(397)","zaitseva_novyi_2007",""
+"88","fF","tat",NA,NA,"","UR1(304)","zaitseva_novyi_2007","Russian loan (UR19)"
+"89","fM","mam",NA,NA,"","UR1(228)","zaitseva_novyi_2007","Russian loan (UR19)"
+"90","fS","poig",NA,NA,"","UR1(438)","zaitseva_novyi_2007",""
+"91","fD","tüt|är",NA,NA,"","UR1(129)","zaitseva_novyi_2007",""
+"92","fA","ezitat",NA,NA,"","UR1(115)","zaitseva_novyi_2007",""
+"93","fFF","uk",NA,NA,"dedoi","UR1(115)","zaitseva_novyi_2007",""
+"94","fFM","ak",NA,NA,"baboi","UR1(28)","zaitseva_novyi_2007",""
+"95","fMF","uk",NA,NA,"dedoi","UR1(115)","zaitseva_novyi_2007",""
+"96","fMM","ak",NA,NA,"baboi","UR1(28)","zaitseva_novyi_2007",""
+"97","fSS","vunuk",NA,NA,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
+"98","fSD","vunuk",NA,NA,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
+"99","fDS","vunuk",NA,NA,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
+"100","fDD","vunuk",NA,NA,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
+"101","fFB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"102","fFZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"103","fMB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"104","fMZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"105","fFeB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"106","fFyB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"107","fFeZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"108","fFyZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"109","fMeZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"110","fMyZ","tädi",NA,NA,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
+"111","fMeB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"112","fMyB","däd’",NA,NA,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
+"113","fFBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"114","fFZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"115","fMBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"116","fMZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"117","fFeBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"118","fFyBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"119","fFeZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"120","fFyZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"121","fFeBD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"122","fFyBD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"123","fFeZD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"124","fFyZD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"125","fMeBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"126","fMyBS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"127","fMeZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"128","fMyZS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"129","fMeBD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"130","fMyBD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"131","fMeZD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"132","fMyZD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"133","fFBeS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"134","fFByS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"135","fFZeS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"136","fFZyS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"137","fFBeD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"138","fFByD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"139","fFZeD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"140","fFZyD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"141","fMBeS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"142","fMByS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"143","fMZeS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"144","fMZyS","bratan",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"145","fMBeD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"146","fMByD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"147","fMZeD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"148","fMZyD","sestrii",NA,NA,"","UR1(114)","zaitseva_novyi_2007",""
+"149","fH","mužik",NA,NA,"","UR1(239)","zaitseva_novyi_2007",""
+"150","fW","ak",NA,NA,"","UR1(139)","zaitseva_novyi_2007","ak' meaning lit. woman. 'murz'ai|n' used in context of a 'young' wife."
+"151","fHF","ap",NA,NA,"","UR1(407)","zaitseva_novyi_2007",""
+"152","fHM","anop",NA,NA,"","UR1(407)","zaitseva_novyi_2007",""
+"153","fWF","a|p’",NA,NA,"","UR1(447)","zaitseva_novyi_2007",""
+"154","fWM","ano|p",NA,NA,"","UR1(447)","zaitseva_novyi_2007",""
+"155","fHB","küdu",NA,NA,"","UR1(115)","zaitseva_novyi_2007",""
+"156","fHZ","nado",NA,NA,"","UR1(164)","zaitseva_novyi_2007",""
+"157","fFW(notM)","emindam",NA,NA,"","UR1(229)","zaitseva_novyi_2007",""
+"158","fMH(notF)","ižindam",NA,NA,"","UR1(309)","zaitseva_novyi_2007",""
+"159","fSW","mi|l’l’",NA,NA,"","UR1(258)","zaitseva_novyi_2007",""
+"160","fDH","vävu",NA,NA,"","UR1(165)","zaitseva_novyi_2007",""
