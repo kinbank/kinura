@@ -1,11 +1,11 @@
-"ID","Label","Glottocode","ISO639P3code","Name","Family","Latitude","Longitude","Project","ProjectFile","EntryDate","Comment","Link"
-"p_finnishfinn1318","Finnish_finn1318","finn1318","fin","Finnish","Uralic",64.7628,25.5577,"parabank","Finnish finn1318.txt",20170901,"",""
-"v_erzyaerzy1239","Erzya_erzy1239","erzy1239","myv","Erzya","Uralic",52.8548,45.3901,"varikin","Erzya_erzy1239.txt",NA,"",""
-"v_estonianesto1258","Estonian_esto1258","esto1258","ekk","Estonian","Uralic",58.55,25.82,"varikin","Estonian_esto1258.txt",NA,"",""
-"v_kazymberezoversuryskarerkhantykhan1273","Kazym_Berezover_Suryskarer_Khanty_khan1273","khan1273","kca","Kazym-Berezover-Suryskarer Khanty","Uralic",62.4308,66.1218,"varikin","Kazym_Berezover_Suryskarer_Khanty_khan1273.txt",NA,"",""
-"v_komizyriankomi1268","Komi_Zyrian_komi1268","komi1268","kpv","Komi-Zyrian","Uralic",64.0527,54.946,"varikin","Komi_Zyrian_komi1268.txt",NA,"",""
-"v_magyarhung1274","Magyar_hung1274","hung1274","hun","Hungarian","Uralic",46.90685857,19.65552714,"varikin","Magyar_hung1274.txt",NA,"",""
-"v_mansimans1258","Mansi_mans1258","mans1258","mns","Northern Mansi","Uralic",64.4118,61.344,"varikin","Mansi_mans1258.txt",NA,"",""
-"v_marieast2328","Mari_east2328","east2328","mhr","Eastern Mari","Uralic",55.8307,48.405,"varikin","Mari_east2328.txt",NA,"",""
-"v_udmurtudmu1245","Udmurt_udmu1245","udmu1245","udm","Udmurt","Uralic",56.12921,52.63548,"varikin","Udmurt_udmu1245.txt",NA,"",""
-"v_vepsveps1250","Veps_veps1250","veps1250","vep","Veps","Uralic",60.3353,34.7865,"varikin","Veps_veps1250.txt",NA,"",""
+ID,Label,Glottocode,ISO639P3code,Name,Family,Latitude,Longitude,Project,ProjectFile,EntryDate,Comment,Link,Set
+p_finnishfinn1318,Finnish_finn1318,finn1318,fin,Finnish,Uralic,64.7628,25.5577,parabank,Finnish finn1318.txt,20170901,,,Kinura
+v_erzyaerzy1239,Erzya_erzy1239,erzy1239,myv,Erzya,Uralic,52.8548,45.3901,varikin,Erzya_erzy1239.txt,NA,,,Kinura
+v_estonianesto1258,Estonian_esto1258,esto1258,ekk,Estonian,Uralic,58.55,25.82,varikin,Estonian_esto1258.txt,NA,,,Kinura
+v_kazymberezoversuryskarerkhantykhan1273,Kazym_Berezover_Suryskarer_Khanty_khan1273,khan1273,kca,Kazym-Berezover-Suryskarer Khanty,Uralic,62.4308,66.1218,varikin,Kazym_Berezover_Suryskarer_Khanty_khan1273.txt,NA,,,Kinura
+v_komizyriankomi1268,Komi_Zyrian_komi1268,komi1268,kpv,Komi-Zyrian,Uralic,64.0527,54.946,varikin,Komi_Zyrian_komi1268.txt,NA,,,Kinura
+v_magyarhung1274,Magyar_hung1274,hung1274,hun,Hungarian,Uralic,46.90685857,19.65552714,varikin,Magyar_hung1274.txt,NA,,,Kinura
+v_mansimans1258,Mansi_mans1258,mans1258,mns,Northern Mansi,Uralic,64.4118,61.344,varikin,Mansi_mans1258.txt,NA,,,Kinura
+v_marieast2328,Mari_east2328,east2328,mhr,Eastern Mari,Uralic,55.8307,48.405,varikin,Mari_east2328.txt,NA,,,Kinura
+v_udmurtudmu1245,Udmurt_udmu1245,udmu1245,udm,Udmurt,Uralic,56.12921,52.63548,varikin,Udmurt_udmu1245.txt,NA,,,Kinura
+v_vepsveps1250,Veps_veps1250,veps1250,vep,Veps,Uralic,60.3353,34.7865,varikin,Veps_veps1250.txt,NA,,,Kinura
