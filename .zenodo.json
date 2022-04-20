@@ -1,0 +1,32 @@
+{
+    "access_right": "open",
+    "contributors": [
+        {
+            "name": "Sam Passmore",
+            "type": "DataCurator"
+        }
+    ],
+    "keywords": [
+        "cultural-heritage"
+    ],
+    "upload_type": "dataset",
+    "creators": [
+      {
+        "name": "Terhi Honkola"
+      }, 
+      {
+        "name": "Niklas P.  Metsäranta"
+      }, 
+           {
+        "name": "Sam Passmore"
+      }, 
+      {
+        "name": "Fiona M Jordan"
+      }
+    ],
+    "title": "Kinura: A database of kinship terminology from the Uralic Language family",
+    "description": "<p>The data repository for the Kinura dataset </p>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
