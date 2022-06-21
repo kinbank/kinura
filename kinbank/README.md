@@ -3,7 +3,7 @@
 ## How to cite
 
 If you use these data please cite
-this dataset using the DOI of the [particular released version](../releases/) you were using
+this dataset using the DOI of the [particular released version](https://github.com/kinbank/kinura/releases) you were using
 
 ## Description
 
