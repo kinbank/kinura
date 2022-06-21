@@ -1,6 +1,10 @@
 Kinura
 ============================
 
+
+[![DOI](https://zenodo.org/badge/379448021.svg)](https://zenodo.org/badge/latestdoi/379448021)
+
+
 This repository contains kinship terminology from the Kinura project. 
 
 
