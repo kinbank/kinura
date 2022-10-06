@@ -1,6 +1,6 @@
 # define version:
-GLOTTOLOG=v4.4
-CONCEPTICON=v2.5.0
+GLOTTOLOG=v4.6
+CONCEPTICON=v2.6.0
 
 .PHONY: help clean update test
 

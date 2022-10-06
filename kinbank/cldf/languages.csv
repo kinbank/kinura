@@ -1,11 +1,11 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Label,Project,ProjectFile,ProjectName,EntryDate,Comment,Link
-p_finnishfinn1318,Finnish,finn1318,Finnish,fin,Eurasia,64.7628,25.5577,Uralic,Finnish_finn1318,parabank,Finnish finn1318.txt,,20170901,,
-v_erzyaerzy1239,Erzya,erzy1239,Erzya,myv,Eurasia,52.8548,45.3901,Uralic,Erzya_erzy1239,varikin,Erzya_erzy1239.txt,,NA,,
-v_estonianesto1258,Estonian,esto1258,Estonian,ekk,Eurasia,58.55,25.82,Uralic,Estonian_esto1258,varikin,Estonian_esto1258.txt,,NA,,
-v_kazymberezoversuryskarerkhantykhan1273,Kazym-Berezover-Suryskarer Khanty,khan1273,Kazym-Berezover-Suryskarer Khanty,kca,Eurasia,62.4308,66.1218,Uralic,Kazym_Berezover_Suryskarer_Khanty_khan1273,varikin,Kazym_Berezover_Suryskarer_Khanty_khan1273.txt,,NA,,
-v_komizyriankomi1268,Komi-Zyrian,komi1268,Komi-Zyrian,kpv,Eurasia,64.0527,54.946,Uralic,Komi_Zyrian_komi1268,varikin,Komi_Zyrian_komi1268.txt,,NA,,
-v_magyarhung1274,Hungarian,hung1274,Hungarian,hun,Eurasia,46.90685857,19.65552714,Uralic,Magyar_hung1274,varikin,Magyar_hung1274.txt,,NA,,
-v_mansimans1258,Northern Mansi,mans1258,Northern Mansi,mns,Eurasia,64.4118,61.344,Uralic,Mansi_mans1258,varikin,Mansi_mans1258.txt,,NA,,
-v_marieast2328,Eastern Mari,east2328,Eastern Mari,mhr,Eurasia,55.8307,48.405,Uralic,Mari_east2328,varikin,Mari_east2328.txt,,NA,,
-v_udmurtudmu1245,Udmurt,udmu1245,Udmurt,udm,Eurasia,56.12921,52.63548,Uralic,Udmurt_udmu1245,varikin,Udmurt_udmu1245.txt,,NA,,
-v_vepsveps1250,Veps,veps1250,Veps,vep,Eurasia,60.3353,34.7865,Uralic,Veps_veps1250,varikin,Veps_veps1250.txt,,NA,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Label,Project,ProjectFile,ProjectName,EntryDate,Comment,Link,Set
+p_finnishfinn1318,Finnish,finn1318,Finnish,fin,Eurasia,64.7628,25.5577,Uralic,Finnish_finn1318,parabank,Finnish finn1318.txt,,20170901,,,Kinura
+v_erzyaerzy1239,Erzya,erzy1239,Erzya,myv,Eurasia,52.8548,45.3901,Uralic,Erzya_erzy1239,varikin,Erzya_erzy1239.txt,,NA,,,Kinura
+v_estonianesto1258,Estonian,esto1258,Estonian,ekk,Eurasia,58.55,25.82,Uralic,Estonian_esto1258,varikin,Estonian_esto1258.txt,,NA,,,Kinura
+v_kazymberezoversuryskarerkhantykhan1273,Kazym-Berezover-Suryskarer Khanty,khan1273,Kazym-Berezover-Suryskarer Khanty,kca,Eurasia,62.4308,66.1218,Uralic,Kazym_Berezover_Suryskarer_Khanty_khan1273,varikin,Kazym_Berezover_Suryskarer_Khanty_khan1273.txt,,NA,,,Kinura
+v_komizyriankomi1268,Komi-Zyrian,komi1268,Komi-Zyrian,kpv,Eurasia,64.0527,54.946,Uralic,Komi_Zyrian_komi1268,varikin,Komi_Zyrian_komi1268.txt,,NA,,,Kinura
+v_magyarhung1274,Hungarian,hung1274,Hungarian,hun,Eurasia,46.90685857,19.65552714,Uralic,Magyar_hung1274,varikin,Magyar_hung1274.txt,,NA,,,Kinura
+v_mansimans1258,Northern Mansi,mans1258,Northern Mansi,mns,Eurasia,64.4118,61.344,Uralic,Mansi_mans1258,varikin,Mansi_mans1258.txt,,NA,,,Kinura
+v_marieast2328,Eastern Mari,east2328,Eastern Mari,mhr,Eurasia,55.8307,48.405,Uralic,Mari_east2328,varikin,Mari_east2328.txt,,NA,,,Kinura
+v_udmurtudmu1245,Udmurt,udmu1245,Udmurt,udm,Eurasia,56.12921,52.63548,Uralic,Udmurt_udmu1245,varikin,Udmurt_udmu1245.txt,,NA,,,Kinura
+v_vepsveps1250,Veps,veps1250,Veps,vep,Eurasia,60.3353,34.7865,Uralic,Veps_veps1250,varikin,Veps_veps1250.txt,,NA,,,Kinura
