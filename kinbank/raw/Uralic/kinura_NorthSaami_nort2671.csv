@@ -1,0 +1,242 @@
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mG,oarbinaččat,,,,,Sammallahti 1989: 334,plural
+mB,viellja,,,,,Sammallahti 1989: 472,
+mZ,oabbá,,,,,Sammallahti 1989: 330,
+meB,stuorraviellja,,,,,Sammallahti 1993: 268,
+myB,uhcaviellja,,,,,Sammallahti 1993: 408,
+meZ,stuorraoabbá,,,,,Sammallahti 1993: 268,
+myZ,uhcaoabbá,,,,,Sammallahti 1993: 407,
+mP,váhnen,,,,,Sammallahti 1989: 460,
+mF,áhčči,,,,,Sammallahti 1989: 11,
+mM,eadni,,,,,Sammallahti 1989: 130,
+mC,mánná,,,,,Sammallahti 1989: 283,
+mS,bárdni,,,,,Sammallahti 1989: 32,
+mS,gánda,,,,,Sammallahti 1989: 157,
+mD,nieida,,,,,Sammallahti 1989: 307,
+mA,máttar,,,,,Sammallahti 1989: 285,
+mPP,,,,,,,
+mFF,áddjá,,,,,Sammallahti 1989: 10,
+mFM,áhkku,,,,,Sammallahti 1989: 11,
+mMF,áddjá,,,,,Sammallahti 1989: 10,
+mMM,áhkku,,,,,Sammallahti 1989: 11,
+mCC,áddjut,,,,,Sammallahti 1989: 10,grandchild of a man
+mSS,,,,,,,
+mSD,,,,,,,
+mDS,,,,,,,
+mDD,,,,,,,
+mFB,,,,,,,
+mFZ,siessá,,,,,Sammallahti 1989: 394,
+mMB,eanu,,,,,Sammallahti 1989: 133,
+mMZ,,,,,,,
+mFeB,eahki,,,,,Sammallahti 1989: 130,
+mFyB,čeahci,,,,,Sammallahti 1989: 80,
+mFeZ,,,,,,,
+mFyZ,,,,,,,
+mMeZ,goaski,,,,,Sammallahti 1989: 183,
+mMyZ,muoŧŧá,,,,,Sammallahti 1989: 300,
+mMeB,,,,,,,
+mMyB,,,,,,,
+mBS,,,,,,,
+mBD,,,,,,,
+mZS,neahpi,,,"neahpát, nebá",,Sammallahti 1989: 306,son or daughter of a man’s sister
+mZD,neahpi,,,"neahpát, nebá",,Sammallahti 1989: 306,son or daughter of a man’s sister
+meBS,čeahcit,,,čeahcet,,Sammallahti 1989: 80,son or daughter of a man’s elder brother
+myBS,eahkit,,,eahket,,Sammallahti 1989: 130,son or daughter of a manʼs younger brother
+meBD,čeahcit,,,čeahcet,,Sammallahti 1989: 80,son or daughter of a man’s elder brother
+myBD,eahkit,,,eahket,,Sammallahti 1989: 130,son or daughter of a manʼs younger brother
+meZS,,,,,,,
+myZS,,,,,,,
+meZD,,,,,,,
+myZD,,,,,,,
+mFZD,oarpmealle,,,"oambealli oambealle, oarpmealli",,Sammallahti 1989: 335,female cousin
+mFBD,oarpmealle,,,"oambealli oambealle, oarpmealli",,Sammallahti 1989: 335,female cousin
+mMBD,oarpmealle,,,"oambealli oambealle, oarpmealli",,Sammallahti 1989: 335,female cousin
+mMZD,oarpmealle,,,"oambealli oambealle, oarpmealli",,Sammallahti 1989: 335,female cousin
+mFBS,vilbealle,,,"vilbealli, vilba",,Sammallahti 1989: 475,male cousin
+mFZS,vilbealle,,,"vilbealli, vilba",,Sammallahti 1989: 475,male cousin
+mMBS,vilbealle,,,"vilbealli, vilba",,Sammallahti 1989: 475,male cousin
+mMZS,vilbealle,,,"vilbealli, vilba",,Sammallahti 1989: 475,male cousin
+mFeBS,,,,,,,
+mFyBS,,,,,,,
+mFeZS,,,,,,,
+mFyZS,,,,,,,
+mFeBD,,,,,,,
+mFyBD,,,,,,,
+mFeZD,,,,,,,
+mFyZD,,,,,,,
+mMeBS,,,,,,,
+mMyBS,,,,,,,
+mMeZS,,,,,,,
+mMyZS,,,,,,,
+mMeBD,,,,,,,
+mMyBD,,,,,,,
+mMeZD,,,,,,,
+mMyZD,,,,,,,
+mFBeS,,,,,,,
+mFByS,,,,,,,
+mFZeS,,,,,,,
+mFZyS,,,,,,,
+mFBeD,,,,,,,
+mFByD,,,,,,,
+mFZeD,,,,,,,
+mFZyD,,,,,,,
+mMBeS,,,,,,,
+mMByS,,,,,,,
+mMZeS,,,,,,,
+mMZyS,,,,,,,
+mMBeD,,,,,,,
+mMByD,,,,,,,
+mMZeD,,,,,,,
+mMZyD,,,,,,,
+mE,guoibmi,,,,,Sammallahti 1989: 198,
+mE,beallelaš,,,,,Sammallahti 1989: 36,
+mH,,,,,,,
+mW,gálgu,,,,,Sammallahti 1989: 156,
+mW,eamit,,,,,Sammallahti 1989: 132,
+mW,áhkká,,,,,Sammallahti 1989: 11,
+mHF,,,,,,,
+mHM,,,,,,,
+mWF,vuohppa,,,,,Sammallahti 1989: 480,
+mWM,vuoni,,,,,Sammallahti 1989: 484,
+mBW,sivjjot,,,,,Sammallahti 1989: 398,"a womanʼs brother-in-law, a manʼs sister-in-law"
+mZH,máhka,,,,,Sammallahti 1989: 281,"brother-in-law, uncle, husband of a relative, which is not spile or sivjjot"
+mWB,máhka,,,,,Sammallahti 1989: 281,"brother-in-law, uncle, husband of a relative, which is not spile or sivjjot"
+mWZ,sivjjot,,,,,Sammallahti 1989: 398,"a womanʼs brother-in-law, a manʼs sister-in-law"
+mHB,,,,,,,
+mHZ,,,,,,,
+mco-W,,,,,,,
+mco-H,,,,,,,
+mFW(notM),eadnebealle,,,,,Sammallahti 1989: 130,
+mMH(notF),áhččebealle,,,,,Sammallahti 1989: 11,
+mSW,mannji,,,,,Sammallahti 1989: 278,
+mSWM,láža,,,,,Sammallahti 1989: 257,sonʼs or daughterʼs father-in-law or mother-in-law
+mSWF,láža,,,,,Sammallahti 1989: 257,sonʼs or daughterʼs father-in-law or mother-in-law
+mDH,vivva,,,,,Sammallahti 1989: 477,
+mDHM,láža,,,,,Sammallahti 1989: 257,sonʼs or daughterʼs father-in-law or mother-in-law
+mDHF,láža,,,,,Sammallahti 1989: 257,sonʼs or daughterʼs father-in-law or mother-in-law
+mFZH,,,,,,,
+mFBW,ipmi,,,,,Sammallahti 1989: 225,
+mMZH,,,,,,,
+mMBW,ipmi,,,,,Sammallahti 1989: 225,
+mWZH,spile,,,,,Sammallahti 1989: 423,"spouse of one’s wife’s sister or brother, husband of one’s husband’s sister"
+mWBW,spile,,,,,Sammallahti 1989: 423,"spouse of one’s wife’s sister or brother, husband of one’s husband’s sister"
+fG,oarbinaččat,,,,,Sammallahti 1989: 334,plural
+fB,viellja,,,,,Sammallahti 1989: 472,
+fZ,oabbá,,,,,Sammallahti 1989: 330,
+feB,stuorraviellja,,,,,Sammallahti 1993: 268,
+fyB,uhcaviellja,,,,,Sammallahti 1993: 408,
+feZ,stuorraoabbá,,,,,Sammallahti 1993: 268,
+fyZ,uhcaoabbá,,,,,Sammallahti 1993: 407,
+fP,váhnen,,,,,Sammallahti 1989: 460,
+fF,áhčči,,,,,Sammallahti 1989: 11,
+fM,eadni,,,,,Sammallahti 1989: 130,
+fC,mánná,,,,,Sammallahti 1989: 283,
+fS,bárdni,,,,,Sammallahti 1989: 32,
+fS,gánda,,,,,Sammallahti 1989: 157,
+fD,nieida,,,,,Sammallahti 1989: 307,
+fA,máttar,,,,,Sammallahti 1989: 285,
+fPP,,,,,,,
+fFF,áddjá,,,,,Sammallahti 1989: 10,
+fFM,áhkku,,,,,Sammallahti 1989: 11,
+fMF,áddjá,,,,,Sammallahti 1989: 10,
+fMM,áhkku,,,,,Sammallahti 1989: 11,
+fCC,áhkkut,,,,,Sammallahti 1989: 11,grandchild of a woman
+fSS,,,,,,,
+fSD,,,,,,,
+fDS,,,,,,,
+fDD,,,,,,,
+fFB,,,,,,,
+fFZ,siessá,,,,,Sammallahti 1989: 394,
+fMB,eanu,,,,,Sammallahti 1989: 133,
+fMZ,,,,,,,
+fFeB,eahki,,,,,Sammallahti 1989: 130,
+fFyB,čeahci,,,,,Sammallahti 1989: 80,
+fFeZ,,,,,,,
+fFyZ,,,,,,,
+fMeZ,goaski,,,,,Sammallahti 1989: 183,
+fMyZ,muoŧŧá,,,,,Sammallahti 1989: 300,
+fMeB,,,,,,,
+fMyB,,,,,,,
+fBS,siessal,,,,,Sammallahti 1989: 394,
+fBD,siessal,,,,,Sammallahti 1989: 394,
+fZS,,,,,,,
+fZD,,,,,,,
+feBS,,,,,,,
+fyBS,,,,,,,
+feBD,,,,,,,
+fyBD,,,,,,,
+feZS,muoŧŧal,,,,,Sammallahti 1989: 300,son or daughter of a woman’s elder sister
+fyZS,goaskit,,,,,Sammallahti 1989: 183,son or daughter of a woman’s younger sister
+feZD,muoŧŧal,,,,,Sammallahti 1989: 300,son or daughter of a manʼs younger brother
+fyZD,goaskit,,,,,Sammallahti 1989: 183,son or daughter of a woman’s younger sister
+fFZD,oarpmealle,,,"oambealli oambealle, oarpmealli",,Sammallahti 1989: 335,female cousin
+fFBD,oarpmealle,,,"oambealli oambealle, oarpmealli",,Sammallahti 1989: 335,female cousin
+fMBD,oarpmealle,,,"oambealli oambealle, oarpmealli",,Sammallahti 1989: 335,female cousin
+fMZD,oarpmealle,,,"oambealli oambealle, oarpmealli",,Sammallahti 1989: 335,female cousin
+fFBS,vilbealle,,,"vilbealli, vilba",,Sammallahti 1989: 475,male cousin
+fFZS,vilbealle,,,"vilbealli, vilba",,Sammallahti 1989: 475,male cousin
+fMBS,vilbealle,,,"vilbealli, vilba",,Sammallahti 1989: 475,male cousin
+fMZS,vilbealle,,,"vilbealli, vilba",,Sammallahti 1989: 475,male cousin
+fFeBS,,,,,,,
+fFyBS,,,,,,,
+fFeZS,,,,,,,
+fFyZS,,,,,,,
+fFeBD,,,,,,,
+fFyBD,,,,,,,
+fFeZD,,,,,,,
+fFyZD,,,,,,,
+fMeBS,,,,,,,
+fMyBS,,,,,,,
+fMeZS,,,,,,,
+fMyZS,,,,,,,
+fMeBD,,,,,,,
+fMyBD,,,,,,,
+fMeZD,,,,,,,
+fMyZD,,,,,,,
+fFBeS,,,,,,,
+fFByS,,,,,,,
+fFZeS,,,,,,,
+fFZyS,,,,,,,
+fFBeD,,,,,,,
+fFByD,,,,,,,
+fFZeD,,,,,,,
+fFZyD,,,,,,,
+fMBeS,,,,,,,
+fMByS,,,,,,,
+fMZeS,,,,,,,
+fMZyS,,,,,,,
+fMBeD,,,,,,,
+fMByD,,,,,,,
+fMZeD,,,,,,,
+fMZyD,,,,,,,
+fE,guoibmi,,,,,Sammallahti 1989: 198,
+fE,beallelaš,,,,,Sammallahti 1989: 36,
+fH,"boadnjá, boadnji",,,,,Sammallahti 1989: 48,
+fH,gállis,,,,,Sammallahti 1989: 156,
+fH,isit,,,,,Sammallahti 1989: 226,
+fW,,,,,,,
+fHF,vuohppa,,,,,Sammallahti 1989: 480,
+fHM,vuoni,,,,,Sammallahti 1989: 484,
+fWF,,,,,,,
+fWM,,,,,,,
+fBW,mannji,,,,,Sammallahti 1989: 278,
+fZH,sivjjot,,,,,Sammallahti 1989: 398,"a womanʼs brother-in-law, a manʼs sister-in-law"
+fWB,,,,,,,
+fWZ,,,,,,,
+fHB,sivjjot,,,,,Sammallahti 1989: 398,"a womanʼs brother-in-law, a manʼs sister-in-law"
+fHZ,mannji,,,,,Sammallahti 1989: 278,
+fco-W,,,,,,,
+fco-H,,,,,,,
+fFW(notM),eadnebealle,,,,,Sammallahti 1989: 130,
+fMH(notF),áhččebealle,,,,,Sammallahti 1989: 11,
+fSW,mannji,,,,,Sammallahti 1989: 278,
+fSWM,láža,,,,,Sammallahti 1989: 257,sonʼs or daughterʼs father-in-law or mother-in-law
+fSWF,láža,,,,,Sammallahti 1989: 257,sonʼs or daughterʼs father-in-law or mother-in-law
+fDH,vivva,,,,,Sammallahti 1989: 477,
+fDHM,láža,,,,,Sammallahti 1989: 257,sonʼs or daughterʼs father-in-law or mother-in-law
+fDHF,láža,,,,,Sammallahti 1989: 257,sonʼs or daughterʼs father-in-law or mother-in-law
+fFZH,,,,,,,
+fFBW,ipmi,,,,,Sammallahti 1989: 225,
+fMZH,,,,,,,
+fMBW,ipmi,,,,,Sammallahti 1989: 225,
+fHBW,gálojeatni,,,,,Sammallahti 1989: 156,
