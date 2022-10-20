@@ -199,7 +199,6 @@ fWB,female ego's wife's brother,,,fWB,Affines,varikin
 fWF,female ego's wife's father,,,fWF,Affines,varikin
 fWM,female ego's wife's mother,,,fWM,Affines,varikin
 fWZ,female ego's wife's sister,,,fWZ,Affines,varikin
-fWZH,female ego's wife's sister's husband,,,fWZH,Affines,varikin
 fZ,female ego's sister,,,fZ,Siblings,varikin
 fZD,female ego's sister's daughter,,,fZD,Nieces & Nephews,varikin
 fZS,female ego's sister's son,,,fZS,,varikin
@@ -260,3 +259,7 @@ mWeZH,male speaker's wife's elder sister's husband,,,mWeZH,Affines,varikin
 fHyZH,female speaker's husband's younger sister's husband,,,fHyZH,Affines,varikin
 mHeZ,male speaker's husband's elder sister,,,mHeZ,Affines,varikin
 mHyZ,male speaker's husband's younger sister,,,mHyZ,Affines,varikin
+mFeZH,male speaker's father's elder sister's husband,,,mFeZH,Affines,varikin
+fFeZH,female speaker's father's elder sister's husband,,,fFeZH,Affines,varikin
+mMeBW,male speaker's mother's elder brother's wife,,,mMeBW,Affines,varikin
+fMeBW,female speaker's mother's elder brother's wife,,,fMeBW,Affines,varikin

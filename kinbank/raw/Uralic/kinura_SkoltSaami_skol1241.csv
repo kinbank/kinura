@@ -1,271 +1,271 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,vueʹbbež,,,,,Moshnikoff & Moshnikoff 2021: 337,
-mB,villj,,,,,Moshnikoff & Moshnikoff 2021: 421,
-mZ,vuäʹbb,,,,,Moshnikoff & Moshnikoff 2021: 338,
-meB,,,,,,,
-myB,,,,,,,
-meZ,,,,,,,
-myZ,,,,,,,
-mP,puärraz,,,,,Moshnikoff & Moshnikoff 2021: 414,
-mF,eʹčč,,,,,Moshnikoff & Moshnikoff 2021: 77,
-mM,jeäʹnn,,,,,Moshnikoff & Moshnikoff 2021: 449,
-mC,päärnaž,,,,,Moshnikoff & Moshnikoff 2021: 170,
-mS,âʹlǧǧ,,,,,Moshnikoff & Moshnikoff 2021: 273,
-mS,päʹrnn,,,,,Moshnikoff & Moshnikoff 2021: 273,
-mD,nijdd,,,,,Moshnikoff & Moshnikoff 2021: 394,
-mA,maaddârpuärraz,,,,,Moshnikoff & Moshnikoff 2021: 37,
-mA,maaddârruåđ,,,,,Moshnikoff & Moshnikoff 2021: 37,
-mA,maaddâreʹčč,,,,,Moshnikoff & Moshnikoff 2021: 36,
-mA,maaddâräʹjj,,,,,Moshnikoff & Moshnikoff 2021: 36,
-mA,maaddâräkk,,,,,Moshnikoff & Moshnikoff 2021: 37,
-mPP,,,,,,,
-mFF,äʹjj,,,,,Moshnikoff & Moshnikoff 2021: 76,
-mFM,äkk,,,,,Moshnikoff & Moshnikoff 2021: 77,
-mMF,äʹjj,,,,,Moshnikoff & Moshnikoff 2021: 76,
-mMM,äkk,,,,,Moshnikoff & Moshnikoff 2021: 77,
-mMM,jieʹnnjeäʹnn,,,,,Moshnikoff & Moshnikoff 2021: 448,
-mCC,äʹjjev,,,,,Moshnikoff & Moshnikoff 2021: 170,to their grandfather
-mCC,pääʹrnpäärnaž,,,,,Moshnikoff & Moshnikoff 2021: 170,
-mSS,pääʹrnpäʹrnn,,,,,Moshnikoff & Moshnikoff 2021: 274,
-mSD,pääʹrn-nijdd,,,,,Moshnikoff & Moshnikoff 2021: 274,
-mDS,niõđpäʹrnn,,,,,Moshnikoff & Moshnikoff 2021: 394,
-mDD,niõđnijdd,,,,,Moshnikoff & Moshnikoff 2021: 394,
-mFB,,,,,,,
-mFZ,sieʹss,,,,,Moshnikoff & Moshnikoff 2021: 397,
-mMB,jään,,,,,Moshnikoff & Moshnikoff 2021: 34,
-mMZ,,,,,,,
-mFeB,jieʹǩǩ,,,,,Moshnikoff & Moshnikoff 2021: 331,
-mFyB,čieʹcc,,,,,Moshnikoff & Moshnikoff 2021: 331,
-mFeZ,,,,,,,
-mFyZ,,,,,,,
-mMeZ,kuäʹsǩǩ,,,,,Moshnikoff & Moshnikoff 2021: 397,
-mMyZ,mueʹđđ,,,,,Moshnikoff & Moshnikoff 2021: 397,
-mMeB,,,,,,,
-mMyB,,,,,,,
-mBS,,,,,,,
-mBD,,,,,,,
-mZS,jännav,,,,,Moshnikoff & Moshnikoff 2021: 337,nephew/niece to their mother's brother
-mZD,jännav,,,,,Moshnikoff & Moshnikoff 2021: 337,nephew/niece to their mother's brother
-meBS,čieʹccev,,,,,Moshnikoff & Moshnikoff 2021: 421,nephew/niece to their father's younger brother
-myBS,jieʹǩǩev,,,,,Moshnikoff & Moshnikoff 2021: 421,nephew/niece to their father's older brother
-meBD,čieʹccev,,,,,Moshnikoff & Moshnikoff 2021: 421,nephew/niece to their father's younger brother
-myBD,jieʹǩǩev,,,,,Moshnikoff & Moshnikoff 2021: 421,nephew/niece to their father's older brother
-meZS,,,,,,,
-myZS,,,,,,,
-meZD,,,,,,,
-myZD,,,,,,,
-mFZD,vuäʹrnnpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 221,
-mFBD,vuäʹrnnpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 221,
-mMBD,vuäʹrnnpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 221,
-mMZD,vuäʹrnnpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 221,
-mFBS,villjpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 208,
-mFZS,villjpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 208,
-mMBS,villjpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 208,
-mMZS,villjpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 208,
-mFeBS,,,,,,,
-mFyBS,,,,,,,
-mFeZS,,,,,,,
-mFyZS,,,,,,,
-mFeBD,,,,,,,
-mFyBD,,,,,,,
-mFeZD,,,,,,,
-mFyZD,,,,,,,
-mMeBS,,,,,,,
-mMyBS,,,,,,,
-mMeZS,,,,,,,
-mMyZS,,,,,,,
-mMeBD,,,,,,,
-mMyBD,,,,,,,
-mMeZD,,,,,,,
-mMyZD,,,,,,,
-mFBeS,,,,,,,
-mFByS,,,,,,,
-mFZeS,,,,,,,
-mFZyS,,,,,,,
-mFBeD,,,,,,,
-mFByD,,,,,,,
-mFZeD,,,,,,,
-mFZyD,,,,,,,
-mMBeS,,,,,,,
-mMByS,,,,,,,
-mMZeS,,,,,,,
-mMZyS,,,,,,,
-mMBeD,,,,,,,
-mMByD,,,,,,,
-mMZeD,,,,,,,
-mMZyD,,,,,,,
-mE,pieʹllkueiʹmm,,,,,Moshnikoff & Moshnikoff 2021: 26,
-mH,,,,,,,
-mW,äʹǩǩ,,,,,Moshnikoff & Moshnikoff 2021: 409,
-mW,kaav,,,,,Moshnikoff & Moshnikoff 2021: 26; 409,
-mWF,vuõpp,,,,,Moshnikoff & Moshnikoff 2021: 20,
-mWM,vueʹn,,,,,Moshnikoff & Moshnikoff 2021: 19,
-mBW,,,,,,,
-meBW,eʹmm,,,,,Moshnikoff & Moshnikoff 2021: 159; Pelto 1962: 68–69,
-myBW,mââʹnnj,,,,,Moshnikoff & Moshnikoff 2021: 209; Pelto 1962: 68–69,
-mZH,,,,,,,
-meZH,maakk,,,,,Moshnikoff & Moshnikoff 2021: 169; Pelto 1962: 68–69,
-myZH,vivv,,,,,Moshnikoff & Moshnikoff 2021: 442; Pelto 1962: 68–69,
-mWB,,,,,,,
-mWeB,vuõppbieʹll,,,,,Pelto 1962: 68–69,
-mWyB,maakkâv,,,,,Moshnikoff & Moshnikoff 2021: 169,
-mWZ,,,,,,,
-mWeZ,vueʹnbieʹll,,,,,Pelto 1962: 68–69,
-mWyZ,maakkâv,,,,,Pelto 1962: 68–69,
-mHB,,,,,,,
-mHZ,,,,,,,
-mco-W,,,,,,,
-mco-H,,,,,,,
-mFW(notM),jeäʹnnpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 449,
-mMH(notF),eʹččpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 78,
-mSW,mââʹnnj,,,,,Moshnikoff & Moshnikoff 2021: 209; Pelto 1962: 68–69,
-mSW,neeʹvesǩ,,,,,Moshnikoff & Moshnikoff 2021: 209,
-mSWM,laajj,,,,,Moshnikoff & Moshnikoff 2021: 20,
-mSWF,laajj,,,,,Moshnikoff & Moshnikoff 2021: 20,
-mDH,vivv,,,,,Moshnikoff & Moshnikoff 2021: 442,
-mDH,zeeʹtt,,,,,Moshnikoff & Moshnikoff 2021: 442,
-mDHM,laajj,,,,,Moshnikoff & Moshnikoff 2021: 20,
-mDHF,laajj,,,,,Moshnikoff & Moshnikoff 2021: 20,
-mFZH,maakk,,,,,Pelto 1962: 68–69,
-mFBW,eʹmm,,,,,Moshnikoff & Moshnikoff 2021: 159; Pelto 1962: 68–69,
-mMZH,maakäʹjj,,,,,Moshnikoff & Moshnikoff 2021: 169,
-mMZH,jeäʹnnbieʹll,,,,,Moshnikoff & Moshnikoff 2021: 34,
-mMBW,eʹmm,,,,,Moshnikoff & Moshnikoff 2021: 159; Pelto 1962: 68–69,
-mWZH,svaaik,,,,,Moshnikoff & Moshnikoff 2021: 169; Pelto 1962: 68–69,
-mHBW,,,,,,,
-fG,vueʹbbež,,,,,Moshnikoff & Moshnikoff 2021: 337,
-fB,villj,,,,,Moshnikoff & Moshnikoff 2021: 421,
-fZ,vuäʹbb,,,,,Moshnikoff & Moshnikoff 2021: 338,
-feB,,,,,,,
-fyB,,,,,,,
-feZ,,,,,,,
-fyZ,,,,,,,
-fP,puärraz,,,,,Moshnikoff & Moshnikoff 2021: 414,
-fF,eʹčč,,,,,Moshnikoff & Moshnikoff 2021: 77,
-fM,jeäʹnn,,,,,Moshnikoff & Moshnikoff 2021: 449,
-fC,päärnaž,,,,,Moshnikoff & Moshnikoff 2021: 170,
-fS,âʹlǧǧ,,,,,Moshnikoff & Moshnikoff 2021: 273,
-fS,päʹrnn,,,,,Moshnikoff & Moshnikoff 2021: 273,
-fD,nijdd,,,,,Moshnikoff & Moshnikoff 2021: 394,
-fA,maaddârpuärraz,,,,,Moshnikoff & Moshnikoff 2021: 37,
-fA,maaddârruåđ,,,,,Moshnikoff & Moshnikoff 2021: 37,
-fA,maaddâreʹčč,,,,,Moshnikoff & Moshnikoff 2021: 36,
-fA,maaddâräʹjj,,,,,Moshnikoff & Moshnikoff 2021: 36,
-fA,maaddâräkk,,,,,Moshnikoff & Moshnikoff 2021: 37,
-fPP,,,,,,,
-fFF,äʹjj,,,,,Moshnikoff & Moshnikoff 2021: 76,
-fFM,äkk,,,,,Moshnikoff & Moshnikoff 2021: 77,
-fMF,äʹjj,,,,,Moshnikoff & Moshnikoff 2021: 76,
-fMM,äkk,,,,,Moshnikoff & Moshnikoff 2021: 77,
-fMM,jieʹnnjeäʹnn,,,,,Moshnikoff & Moshnikoff 2021: 448,
-fCC,äkkav,,,,,Moshnikoff & Moshnikoff 2021: 170,grandchild to their grandmother
-fCC,pääʹrnpäärnaž,,,,,Moshnikoff & Moshnikoff 2021: 170,
-fSS,pääʹrnpäʹrnn,,,,,Moshnikoff & Moshnikoff 2021: 274,
-fSD,pääʹrn-nijdd,,,,,Moshnikoff & Moshnikoff 2021: 274,
-fDS,niõđpäʹrnn,,,,,Moshnikoff & Moshnikoff 2021: 394,
-fDD,niõđnijdd,,,,,Moshnikoff & Moshnikoff 2021: 394,
-fFB,,,,,,,
-fFZ,sieʹss,,,,,Moshnikoff & Moshnikoff 2021: 397,
-fMB,jään,,,,,Moshnikoff & Moshnikoff 2021: 34,
-fMZ,,,,,,,
-fFeB,jieʹǩǩ,,,,,Moshnikoff & Moshnikoff 2021: 331,
-fFyB,čieʹcc,,,,,Moshnikoff & Moshnikoff 2021: 331,
-fFeZ,,,,,,,
-fFyZ,,,,,,,
-fMeZ,kuäʹsǩǩ,,,,,Moshnikoff & Moshnikoff 2021: 397,
-fMyZ,mueʹđđ,,,,,Moshnikoff & Moshnikoff 2021: 397,
-fMeB,,,,,,,
-fMyB,,,,,,,
-fBS,sieʹssev,,,,,Moshnikoff & Moshnikoff 2021: 421,nephew/niece to their father's sister
-fBD,sieʹssev,,,,,Moshnikoff & Moshnikoff 2021: 421,nephew/niece to their father's sister
-fZS,,,,,,,
-fZD,,,,,,,
-feBS,,,,,,,
-fyBS,,,,,,,
-feBD,,,,,,,
-fyBD,,,,,,,
-feZS,mue´đđev  ,,,,,Moshnikoff & Moshnikoff 2021: 337,nephew/niece to mother's younger sister
-fyZS,kuä´sǩǩev  ,,,,,Moshnikoff & Moshnikoff 2021: 337,nephew/niece to mother's older sister
-feZD,mue´đđev  ,,,,,Moshnikoff & Moshnikoff 2021: 337,nephew/niece to mother's younger sister
-fyZD,kuä´sǩǩev  ,,,,,Moshnikoff & Moshnikoff 2021: 337,nephew/niece to mother's older sister
-fFZD,vuäʹrnnpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 221,
-fFBD,vuäʹrnnpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 221,
-fMBD,vuäʹrnnpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 221,
-fMZD,vuäʹrnnpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 221,
-fFBS,villjpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 208,
-fFZS,villjpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 208,
-fMBS,villjpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 208,
-fMZS,villjpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 208,
-fFeBS,,,,,,,
-fFyBS,,,,,,,
-fFeZS,,,,,,,
-fFyZS,,,,,,,
-fFeBD,,,,,,,
-fFyBD,,,,,,,
-fFeZD,,,,,,,
-fFyZD,,,,,,,
-fMeBS,,,,,,,
-fMyBS,,,,,,,
-fMeZS,,,,,,,
-fMyZS,,,,,,,
-fMeBD,,,,,,,
-fMyBD,,,,,,,
-fMeZD,,,,,,,
-fMyZD,,,,,,,
-fFBeS,,,,,,,
-fFByS,,,,,,,
-fFZeS,,,,,,,
-fFZyS,,,,,,,
-fFBeD,,,,,,,
-fFByD,,,,,,,
-fFZeD,,,,,,,
-fFZyD,,,,,,,
-fMBeS,,,,,,,
-fMByS,,,,,,,
-fMZeS,,,,,,,
-fMZyS,,,,,,,
-fMBeD,,,,,,,
-fMByD,,,,,,,
-fMZeD,,,,,,,
-fMZyD,,,,,,,
-fE,pieʹllkueiʹmm,,,,,Moshnikoff & Moshnikoff 2021: 26,
-fH,kuõjj,,,,,Moshnikoff & Moshnikoff 2021: 26,
-fH,kääʹlles,,,,,Moshnikoff & Moshnikoff 2021: 26,not young'
-fW,,,,,,,
-fHF,vuõpp,,,,,Moshnikoff & Moshnikoff 2021: 20,
-fHM,vueʹn,,,,,Moshnikoff & Moshnikoff 2021: 19,
-fWF,,,,,,,
-fWM,,,,,,,
-fBW,,,,,,,
-feBW,eʹmm,,,,,Moshnikoff & Moshnikoff 2021: 159; Pelto 1962: 68–69,
-fyBW,mââʹnnj,,,,,Moshnikoff & Moshnikoff 2021: 209; Pelto 1962: 68–69,
-fZH,,,,,,,
-feZH,maakk,,,,,Moshnikoff & Moshnikoff 2021: 169; Pelto 1962: 68–69,
-fyZH,vivv,,,,,Moshnikoff & Moshnikoff 2021: 442; Pelto 1962: 68–69,
-fWB,,,,,,,
-fWZ,,,,,,,
-fHB,,,,,,,
-fHeB,vuõppbieʹll,,,,,Pelto 1962: 68–69,
-fHyB,maakkâv,,,,,Pelto 1962: 68–69,
-fHZ,,,,,,,
-fHeZ,vueʹnbieʹll,,,,,Pelto 1962: 68–69,
-fHyZ,maakkâv,,,,,Pelto 1962: 68–69,
-fco-W,,,,,,,
-fco-H,,,,,,,
-fFW(notM),jeäʹnnpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 449,
-fMH(notF),eʹččpieʹll,,,,,Moshnikoff & Moshnikoff 2021: 78,
-fSW,mââʹnnj,,,,,Moshnikoff & Moshnikoff 2021: 209; Pelto 1962: 68–69,
-fSW,neeʹvesǩ,,,,,Moshnikoff & Moshnikoff 2021: 209,
-fSWM,laajj,,,,,Moshnikoff & Moshnikoff 2021: 20,
-fSWF,laajj,,,,,Moshnikoff & Moshnikoff 2021: 20,
-fDH,vivv,,,,,Moshnikoff & Moshnikoff 2021: 442,
-fDH,zeeʹtt,,,,,Moshnikoff & Moshnikoff 2021: 442,
-fDHM,laajj,,,,,Moshnikoff & Moshnikoff 2021: 20,
-fDHF,laajj,,,,,Moshnikoff & Moshnikoff 2021: 20,
-fFZH,maakk,,,,,Pelto 1962: 68–69,
-fFBW,eʹmm,,,,,Moshnikoff & Moshnikoff 2021: 159; Pelto 1962: 68–69,
-fMZH,maakäʹjj,,,,,Moshnikoff & Moshnikoff 2021: 169,
-fMZH,jeäʹnnbieʹll,,,,,Moshnikoff & Moshnikoff 2021: 34,
-fMBW,eʹmm,,,,,Moshnikoff & Moshnikoff 2021: 159; Pelto 1962: 68–69,
-fWZH,svaaik,,,,,Moshnikoff & Moshnikoff 2021: 169; Pelto 1962: 68–69,
-fHBW,kääljeäʹnn,,,,,Moshnikoff & Moshnikoff 2021: 159,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mG","vueʹbbež",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 "
+"mB","villj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 "
+"mZ","vuäʹbb",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","338 "
+"meB","",,,,,"",""
+"myB","",,,,,"",""
+"meZ","",,,,,"",""
+"myZ","",,,,,"",""
+"mP","puärraz",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","414 "
+"mF","eʹčč",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
+"mM","jeäʹnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","449 "
+"mC","päärnaž",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 "
+"mS","âʹlǧǧ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","273 "
+"mS","päʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","273 "
+"mD","nijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
+"mA","maaddârpuärraz",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
+"mA","maaddârruåđ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
+"mA","maaddâreʹčč",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","36 "
+"mA","maaddâräʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","36 "
+"mA","maaddâräkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
+"mPP","",,,,,"",""
+"mFF","äʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","76 "
+"mFM","äkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
+"mMF","äʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","76 "
+"mMM","äkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
+"mMM","jieʹnnjeäʹnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","448 "
+"mCC","äʹjjev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 to their grandfather"
+"mCC","pääʹrnpäärnaž",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 "
+"mSS","pääʹrnpäʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","274 "
+"mSD","pääʹrn-nijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","274 "
+"mDS","niõđpäʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
+"mDD","niõđnijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
+"mFB","",,,,,"",""
+"mFZ","sieʹss",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
+"mMB","jään",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","34 "
+"mMZ","",,,,,"",""
+"mFeB","jieʹǩǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","331 "
+"mFyB","čieʹcc",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","331 "
+"mFeZ","",,,,,"",""
+"mFyZ","",,,,,"",""
+"mMeZ","kuäʹsǩǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
+"mMyZ","mueʹđđ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
+"mMeB","",,,,,"",""
+"mMyB","",,,,,"",""
+"mBS","",,,,,"",""
+"mBD","",,,,,"",""
+"mZS","jännav",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to their mother's brother"
+"mZD","jännav",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to their mother's brother"
+"meBS","čieʹccev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's younger brother"
+"myBS","jieʹǩǩev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's older brother"
+"meBD","čieʹccev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's younger brother"
+"myBD","jieʹǩǩev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's older brother"
+"meZS","",,,,,"",""
+"myZS","",,,,,"",""
+"meZD","",,,,,"",""
+"myZD","",,,,,"",""
+"mFZD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
+"mFBD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
+"mMBD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
+"mMZD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
+"mFBS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
+"mFZS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
+"mMBS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
+"mMZS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
+"mFeBS","",,,,,"",""
+"mFyBS","",,,,,"",""
+"mFeZS","",,,,,"",""
+"mFyZS","",,,,,"",""
+"mFeBD","",,,,,"",""
+"mFyBD","",,,,,"",""
+"mFeZD","",,,,,"",""
+"mFyZD","",,,,,"",""
+"mMeBS","",,,,,"",""
+"mMyBS","",,,,,"",""
+"mMeZS","",,,,,"",""
+"mMyZS","",,,,,"",""
+"mMeBD","",,,,,"",""
+"mMyBD","",,,,,"",""
+"mMeZD","",,,,,"",""
+"mMyZD","",,,,,"",""
+"mFBeS","",,,,,"",""
+"mFByS","",,,,,"",""
+"mFZeS","",,,,,"",""
+"mFZyS","",,,,,"",""
+"mFBeD","",,,,,"",""
+"mFByD","",,,,,"",""
+"mFZeD","",,,,,"",""
+"mFZyD","",,,,,"",""
+"mMBeS","",,,,,"",""
+"mMByS","",,,,,"",""
+"mMZeS","",,,,,"",""
+"mMZyS","",,,,,"",""
+"mMBeD","",,,,,"",""
+"mMByD","",,,,,"",""
+"mMZeD","",,,,,"",""
+"mMZyD","",,,,,"",""
+"mE","pieʹllkueiʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","26 "
+"mH","",,,,,"",""
+"mW","äʹǩǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","409 "
+"mW","kaav",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021"," 26; 409"
+"mWF","vuõpp",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
+"mWM","vueʹn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","19 "
+"mBW","",,,,,"",""
+"meBW","eʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 150; 68–69"
+"myBW","mââʹnnj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
+"mZH","",,,,,"",""
+"meZH","maakk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
+"myZH","vivv",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
+"mWB","",,,,,"",""
+"mWeB","vuõppbieʹll",,,,,"pelto_individualism_1962"," 68–69"
+"mWyB","maakkâv",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","169 "
+"mWZ","",,,,,"",""
+"mWeZ","vueʹnbieʹll",,,,,"pelto_individualism_1962"," 68–69"
+"mWyZ","maakkâv",,,,,"pelto_individualism_1962"," 68–69"
+"mHB","",,,,,"",""
+"mHZ","",,,,,"",""
+"mco-W","",,,,,"",""
+"mco-H","",,,,,"",""
+"mFW(notM)","jeäʹnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","449 "
+"mMH(notF)","eʹččpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","78 "
+"mSW","mââʹnnj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
+"mSW","neeʹvesǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","209 "
+"mSWM","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
+"mSWF","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
+"mDH","vivv",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","442 "
+"mDH","zeeʹtt",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","442 "
+"mDHM","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
+"mDHF","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
+"mFZH","maakk",,,,,"pelto_individualism_1962"," 68–69"
+"mFBW","eʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 159; 68–69"
+"mMZH","maakäʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","169 "
+"mMZH","jeäʹnnbieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","34 "
+"mMBW","eʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 159; 68–69"
+"mWZH","svaaik",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 169; 68–69"
+"mHBW","",,,,,"",""
+"fG","vueʹbbež",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 "
+"fB","villj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 "
+"fZ","vuäʹbb",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","338 "
+"feB","",,,,,"",""
+"fyB","",,,,,"",""
+"feZ","",,,,,"",""
+"fyZ","",,,,,"",""
+"fP","puärraz",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","414 "
+"fF","eʹčč",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
+"fM","jeäʹnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","449 "
+"fC","päärnaž",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 "
+"fS","âʹlǧǧ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","273 "
+"fS","päʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","273 "
+"fD","nijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
+"fA","maaddârpuärraz",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
+"fA","maaddârruåđ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
+"fA","maaddâreʹčč",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","36 "
+"fA","maaddâräʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","36 "
+"fA","maaddâräkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
+"fPP","",,,,,"",""
+"fFF","äʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","76 "
+"fFM","äkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
+"fMF","äʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","76 "
+"fMM","äkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
+"fMM","jieʹnnjeäʹnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","448 "
+"fCC","äkkav",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 grandchild to their grandmother"
+"fCC","pääʹrnpäärnaž",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 "
+"fSS","pääʹrnpäʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","274 "
+"fSD","pääʹrn-nijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","274 "
+"fDS","niõđpäʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
+"fDD","niõđnijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
+"fFB","",,,,,"",""
+"fFZ","sieʹss",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
+"fMB","jään",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","34 "
+"fMZ","",,,,,"",""
+"fFeB","jieʹǩǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","331 "
+"fFyB","čieʹcc",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","331 "
+"fFeZ","",,,,,"",""
+"fFyZ","",,,,,"",""
+"fMeZ","kuäʹsǩǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
+"fMyZ","mueʹđđ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
+"fMeB","",,,,,"",""
+"fMyB","",,,,,"",""
+"fBS","sieʹssev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's sister"
+"fBD","sieʹssev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's sister"
+"fZS","",,,,,"",""
+"fZD","",,,,,"",""
+"feBS","",,,,,"",""
+"fyBS","",,,,,"",""
+"feBD","",,,,,"",""
+"fyBD","",,,,,"",""
+"feZS","mue´đđev  ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to mother's younger sister"
+"fyZS","kuä´sǩǩev  ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to mother's older sister"
+"feZD","mue´đđev  ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to mother's younger sister"
+"fyZD","kuä´sǩǩev  ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to mother's older sister"
+"fFZD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
+"fFBD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
+"fMBD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
+"fMZD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
+"fFBS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
+"fFZS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
+"fMBS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
+"fMZS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
+"fFeBS","",,,,,"",""
+"fFyBS","",,,,,"",""
+"fFeZS","",,,,,"",""
+"fFyZS","",,,,,"",""
+"fFeBD","",,,,,"",""
+"fFyBD","",,,,,"",""
+"fFeZD","",,,,,"",""
+"fFyZD","",,,,,"",""
+"fMeBS","",,,,,"",""
+"fMyBS","",,,,,"",""
+"fMeZS","",,,,,"",""
+"fMyZS","",,,,,"",""
+"fMeBD","",,,,,"",""
+"fMyBD","",,,,,"",""
+"fMeZD","",,,,,"",""
+"fMyZD","",,,,,"",""
+"fFBeS","",,,,,"",""
+"fFByS","",,,,,"",""
+"fFZeS","",,,,,"",""
+"fFZyS","",,,,,"",""
+"fFBeD","",,,,,"",""
+"fFByD","",,,,,"",""
+"fFZeD","",,,,,"",""
+"fFZyD","",,,,,"",""
+"fMBeS","",,,,,"",""
+"fMByS","",,,,,"",""
+"fMZeS","",,,,,"",""
+"fMZyS","",,,,,"",""
+"fMBeD","",,,,,"",""
+"fMByD","",,,,,"",""
+"fMZeD","",,,,,"",""
+"fMZyD","",,,,,"",""
+"fE","pieʹllkueiʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","26 "
+"fH","kuõjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","26 "
+"fH","kääʹlles",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","26 not young'"
+"fW","",,,,,"",""
+"fHF","vuõpp",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
+"fHM","vueʹn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","19 "
+"fWF","",,,,,"",""
+"fWM","",,,,,"",""
+"fBW","",,,,,"",""
+"feBW","eʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962","159; 68–69"
+"fyBW","mââʹnnj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
+"fZH","",,,,,"",""
+"feZH","maakk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 169; 68–69"
+"fyZH","vivv",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 442; 68–69"
+"fWB","",,,,,"",""
+"fWZ","",,,,,"",""
+"fHB","",,,,,"",""
+"fHeB","vuõppbieʹll",,,,,"pelto_individualism_1962"," 68–69"
+"fHyB","maakkâv",,,,,"pelto_individualism_1962"," 68–69"
+"fHZ","",,,,,"",""
+"fHeZ","vueʹnbieʹll",,,,,"pelto_individualism_1962","68–69"
+"fHyZ","maakkâv",,,,,"pelto_individualism_1962","68–69"
+"fco-W","",,,,,"",""
+"fco-H","",,,,,"",""
+"fFW(notM)","jeäʹnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","449 "
+"fMH(notF)","eʹččpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","78 "
+"fSW","mââʹnnj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962","209; 68–69"
+"fSW","neeʹvesǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","209 "
+"fSWM","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
+"fSWF","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
+"fDH","vivv",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","442 "
+"fDH","zeeʹtt",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","442 "
+"fDHM","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
+"fDHF","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
+"fFZH","maakk",,,,,"pelto_individualism_1962","68–69"
+"fFBW","eʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962, 159;68–69
+"fMZH","maakäʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","169 "
+"fMZH","jeäʹnnbieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","34 "
+"fMBW","eʹmm",,,,,moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962,159;68–69
+"fWZH","svaaik",,,,,moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962,169;68–69"
+"fHBW","kääljeäʹnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","159 "

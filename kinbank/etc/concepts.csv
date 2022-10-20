@@ -952,3 +952,7 @@ fHFM,fHFM,female speaker's husband's father's mother,Affines,,,varikin
 mZC,mZC,male speaker's sister's child,Nieces & Nephews,,,varikin
 mHeZ,mHeZ,male speaker's husband's elder sister,Affines,,,varikin
 mHyZ,mHyZ,male speaker's husband's younger sister,Affines,,,varikin
+mFeZH,mFeZH,male speaker's father's elder sister's husband,Affines,,,varikin
+fFeZH,fFeZH,female speaker's father's elder sister's husband,Affines,,,varikin
+mMeBW,mMeBW,male speaker's mother's elder brother's wife,Affines,,,varikin
+fMeBW,fMeBW,female speaker's mother's elder brother's wife,Affines,,,varikin
