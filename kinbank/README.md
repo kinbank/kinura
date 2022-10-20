@@ -12,20 +12,20 @@ this dataset using the DOI of the [particular released version](../../releases/)
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 8%](https://img.shields.io/badge/Concepticon-8%25-red.svg "Concepticon: 8%")
-![Source: 94%](https://img.shields.io/badge/Source-94%25-green.svg "Source: 94%")
+![Concepticon: 11%](https://img.shields.io/badge/Concepticon-11%25-red.svg "Concepticon: 11%")
+![Source: 95%](https://img.shields.io/badge/Source-95%25-green.svg "Source: 95%")
 
-- **Varieties:** 10
-- **Concepts:** 245
-- **Lexemes:** 2,898
-- **Sources:** 11
-- **Synonymy:** 1.57
+- **Varieties:** 18
+- **Concepts:** 265
+- **Lexemes:** 4,004
+- **Sources:** 29
+- **Synonymy:** 1.48
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 188/2898 (6.49%)
+- Entries missing sources: 190/4004 (4.75%)
 
 ## CLDF Datasets
 
