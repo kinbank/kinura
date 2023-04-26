@@ -39,7 +39,7 @@ mFZ,izā sušā,,,,,kettunen_livisches_1938,387
 mFZ,sūrsušā,,,,,kettunen_livisches_1938,389
 mMB,sūrve’ļki,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,389
 mMB,jemā sūrve’ļki,,,,,kettunen_livisches_1938,389
-mMB,jemāve’ļ,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
+mMB,jemāve’ļ,,,,,ul_livonian_institute_liv-ee-lv_nodate,
 mMZ,jemā sušā,,,,,kettunen_livisches_1938,387
 mMZ,sūrsušā,,,,,kettunen_livisches_1938,389
 mFeB,,,,,,,
@@ -102,13 +102,13 @@ mMBeD,,,,,,,
 mMByD,,,,,,,
 mMZeD,,,,,,,
 mMZyD,,,,,,,
-mE,a’bpūol,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
+mE,a’bpūol,,,,,ul_livonian_institute_liv-ee-lv_nodate,
 mH,,,,,,,
 mW,nai,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,241
 mHF,,,,,,,
 mHM,,,,,,,
-mWF,naizizā,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
-mWM,naizjemā,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
+mWF,naizizā,,,,,ul_livonian_institute_liv-ee-lv_nodate,
+mWM,naizjemā,,,,,ul_livonian_institute_liv-ee-lv_nodate,
 mBW,veļīnai,,,,,kettunen_livisches_1938,477
 mZH,sõzārmīez,,,,,kettunen_livisches_1938,361
 mWB,,,,,,,
@@ -149,8 +149,8 @@ fM,ǟma,,,,,kettunen_livisches_1938; ul_livonian_institute_liv-ee-lv_nodate,515�
 fC,läpš,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,212
 fS,pūoga,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,315
 fD,tidār,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,417
-fA,muinizva’nbi,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
-fPP,vanāva’nbizt,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
+fA,muinizva’nbi,,,,,ul_livonian_institute_liv-ee-lv_nodate,
+fPP,vanāva’nbizt,,,,,ul_livonian_institute_liv-ee-lv_nodate,
 fFF,vanāizā,,,,,kettunen_livisches_1938,78
 fFF,vanātǭți,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,469
 fFF,izāizā,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,78
@@ -164,17 +164,17 @@ fMM,vanǟma,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,4
 fMM,jemājemā,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,88
 fCC,lapsläpš,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,212
 fSS,pūogapūoga,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,315
-fSD,pūogatidār,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
-fDS,tidārpūoga,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
-fDD,tidārtidār,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
+fSD,pūogatidār,,,,,ul_livonian_institute_liv-ee-lv_nodate,
+fDS,tidārpūoga,,,,,ul_livonian_institute_liv-ee-lv_nodate,
+fDD,tidārtidār,,,,,ul_livonian_institute_liv-ee-lv_nodate,
 fFB,sūrve’ļki,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,389
 fFB,izā sūrve’ļki,,,,,kettunen_livisches_1938,389
-fFB,izāve’ļ,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
+fFB,izāve’ļ,,,,,ul_livonian_institute_liv-ee-lv_nodate,
 fFZ,izā sušā,,,,,kettunen_livisches_1938,387
 fFZ,sūrsušā,,,,,kettunen_livisches_1938,389
 fMB,sūrve’ļki,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,389
 fMB,jemā sūrve’ļki,,,,,kettunen_livisches_1938,389
-fMB,jemāve’ļ,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
+fMB,jemāve’ļ,,,,,ul_livonian_institute_liv-ee-lv_nodate,
 fMZ,jemā sušā,,,,,kettunen_livisches_1938,387
 fMZ,sūrsušā,,,,,kettunen_livisches_1938,389
 fFeB,,,,,,,
@@ -186,7 +186,7 @@ fMyZ,,,,,,,
 fMeB,,,,,,,
 fMyB,,,,,,,
 fBS,"veļīpūoga, ve’ļpūoga",,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,477
-fBD,veļītidār,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
+fBD,veļītidār,,,,,ul_livonian_institute_liv-ee-lv_nodate,
 fZS,sõzārpūoga,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,361
 fZD,sõzārtidār,,,,,kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate,361
 feBS,,,,,,,
@@ -237,7 +237,7 @@ fMBeD,,,,,,,
 fMByD,,,,,,,
 fMZeD,,,,,,,
 fMZyD,,,,,,,
-fE,a’bpūol,,,,,ul_livonian_institute_liv-ee-lv_nodate,,
+fE,a’bpūol,,,,,ul_livonian_institute_liv-ee-lv_nodate,
 fH,mīez,,,,,kettunen_livisches_1938,223
 fW,,,,,,,
 fHF,mī’eizā,,,,,kettunen_livisches_1938,223
