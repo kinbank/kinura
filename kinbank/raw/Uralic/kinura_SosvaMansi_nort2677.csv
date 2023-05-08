@@ -103,11 +103,12 @@ mMByD,,,,,,,
 mMZeD,,,,,,,
 mMZyD,,,,,,,
 mE,,,,,,,
-mH,,,,,,,
+mH,ɔ̄jka,,,,,WogWb,
+mH,χum,,,,,WogWb,
 mW,ɛ̄kwa,,,,,WogWb,
 mW,nɛ̄,,,,,WogWb,
-mHF,,,,,,,
-mHM,,,,,,,
+mHF,aki,,,,,WogWb,
+mHM,ɔ̄nip,,,,,WogWb,mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'
 mWF,up,,,,,WogWb,
 mWF,aki,,,,,WogWb,
 mWM,ɔ̄nip,,,,,WogWb,mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'
@@ -120,7 +121,9 @@ mWB,up,,,,,WogWb,
 mWyB,upńāwram,,,,,WogWb,
 mWZ,kil,,,,,WogWb,
 mHB,,,,,,,
-mHZ,,,,,,,
+mHeB,aki,,,,,WogWb,
+mHyB,pānt,,,,,WogWb,"husband's younger brother, sister's son'"
+mHZ,ɛ̄ŋk,,,,,WogWb,
 mco-W,,,,,,,
 mco-H,,,,,,,
 mFW(notM),ɔ̄ńi̮γ,,,,,WogWb,
@@ -134,7 +137,6 @@ mDH,wāpsχum,,,,,WogWb,
 mDHM,,,,,,,
 mDHF,,,,,,,
 mFZH,wāps,,,,,WogWb,son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'
-,,,,,,,
 mFeBW,ākw,,,,,WogWb,older brother's wife'
 mMZH,jaγlaŋ,,,,,WogWb,
 mMBW,,,,,,,
@@ -143,6 +145,9 @@ mMyBW,ūp,,,,,WogWb,mother's younger brother's wife'
 mWZH,kil,,,,,WogWb,wife's (older or younger) sister; sister's husband; wife's sister's husband'
 mWBW,ɔ̄nip,,,,,WogWb,mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'
 mWyBW,mań,,,,,WogWb,"daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
+mHZH,ɛ̄ŋkwāps,,,,,WogWb,
+mHyZH,wāps,,,,,WogWb,son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'
+mHeBW,ɔ̄nip,,,,,WogWb,mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'
 fG,,,,,,,
 fB,,,,,,,
 fZ,jaγāγi,,,,,WogWb,
@@ -249,18 +254,21 @@ fMZyD,,,,,,,
 fE,,,,,,,
 fH,ɔ̄jka,,,,,WogWb,
 fH,χum,,,,,WogWb,
-fW,,,,,,,
+fW,ɛ̄kwa,,,,,WogWb,
+fW,nɛ̄,,,,,WogWb,
 fHF,aki,,,,,WogWb,
 fHM,ɔ̄nip,,,,,WogWb,mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'
-fWF,,,,,,,
-fWM,,,,,,,mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'
+fWF,up,,,,,WogWb,
+fWF,aki,,,,,WogWb,
+fWM,ɔ̄nip,,,,,WogWb,mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'
 fBW,,,,,,,
 feBW,ɔ̄ńi̮γ,,,,,WogWb,also 'stepmother'
 fyBW,mań,,,,,WogWb,"daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
 fZH,kil,,,,,WogWb,wife's (older or younger) sister; sister's husband; wife's sister's husband'
 fZH,wāps,,,,,WogWb,son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'
-fWB,,,,,,,
-fWZ,,,,,,,
+fWB,up,,,,,WogWb,
+fWyB,upńāwram,,,,,WogWb,
+fWZ,kil,,,,,WogWb,
 fHB,,,,,,,
 fHeB,aki,,,,,WogWb,
 fHyB,pānt,,,,,WogWb,"husband's younger brother, sister's son'"
@@ -278,7 +286,6 @@ fDH,wāpsχum,,,,,WogWb,
 fDHM,,,,,,,
 fDHF,,,,,,,
 fFZH,wāps,,,,,WogWb,son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'
-,,,,,,,
 fFeBW,ākw,,,,,WogWb,older brother's wife'
 fMZH,jaγlaŋ,,,,,WogWb,
 fMBW,,,,,,,
@@ -289,4 +296,4 @@ fWBW,ɔ̄nip,,,,,WogWb,mother-in-law; wife's brother's wife'; husband's older br
 fWyBW,mań,,,,,WogWb,"daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
 fHZH,ɛ̄ŋkwāps,,,,,WogWb,
 fHyZH,wāps,,,,,WogWb,son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'
-fHeBW,ɔ̄nip,,,,,WogWb,mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'
+fHeBW,ɔ̄nip,,,,,WogWb,mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'f
