@@ -185,6 +185,7 @@ fG,female ego's grandparent,,,fG,Grandparents & -children,varikin
 fHeB,female ego's husband's elder brother,,,fHeB,Affines,varikin
 fHeBW,female ego's husband's elder brother's wife,,,fHeBW,Affines,varikin
 fHyB,female ego's husband's younger brother,,,fHyB,Affines,varikin
+fHyBW,female ego's husband's younger brother's wife,,,fHyBW,Affines,varikin
 fMB,female ego's mother's brother,,,fMB,Uncles & Aunts,varikin
 fMBW,female ego's mother's brother's wife,,,fMBW,Affines,varikin
 fMH_notF,female ego's mother's husband (not father),,,fMH(notF),Affines,varikin
@@ -196,10 +197,14 @@ fSWF,female ego's son's wife's father,,,fSWF,Affines,varikin
 fSWM,female ego's son's wife's mother,,,fSWM,Affines,varikin
 fW,female ego's wife,,,fW,Affines,varikin
 fWB,female ego's wife's brother,,,fWB,Affines,varikin
+fWBW,female ego's wife's brother's wife,,,fWBW,Affines,varikin
 fWF,female ego's wife's father,,,fWF,Affines,varikin
 fWM,female ego's wife's mother,,,fWM,Affines,varikin
 fWZ,female ego's wife's sister,,,fWZ,Affines,varikin
 fWZH,female ego's wife's sister's husband,,,fWZH,Affines,varikin
+fWeZ,female ego's wife's elder sister,,,fWeZ,Affines,varikin
+fWyB,female ego's wife's younger brother,,,fWyB,Affines,varikin
+fWyZ,female ego's wife's younger sister,,,fWyZ,Affines,varikin
 fZ,female ego's sister,,,fZ,Siblings,varikin
 fZD,female ego's sister's daughter,,,fZD,Nieces & Nephews,varikin
 fZS,female ego's sister's son,,,fZS,,varikin
@@ -228,8 +233,11 @@ mHB,male ego's husband's brother,,,mHB,Affines,varikin
 mHF,male ego's husband's father,,,mHF,Affines,varikin
 mHM,male ego's husband's mother,,,mHM,Affines,varikin
 mHZ,male ego's husband's sister,,,mHZ,Affines,varikin
+mHZH,male ego's husband's sister's husband,,,mHZH,Affines,varikin
 mHeB,male ego's husband's elder brother,,,mHeB,Affines,varikin
+mHeBW,male ego's husband's elder brother's wife,,,mHeBW,Affines,varikin
 mHyB,male ego's husband's younger brother,,,mHyB,Affines,varikin
+mHyBW,male ego's husband's younger brother's wife,,,mHyBW,Affines,varikin
 mMB,male ego's mother's brother,,,mMB,Uncles & Aunts,varikin
 mMBW,male ego's mother's brother's wife,,,mMBW,Affines,varikin
 mMH_notF,male ego's mother's husband's (not father),,,mMH(notF),Affines,varikin
@@ -250,13 +258,20 @@ meZH,male ego's elder sister's husband,,,meZH,Affines,varikin
 myBW,male ego's younger brother's wife,,,myBW,Affines,varikin
 mySW,male ego's younger son's wife,,,mySW,Affines,varikin
 myZH,male ego's younger sister's husband,,,myZH,Affines,varikin
+mHBW,male ego's husband's brother's wife,,,mHBW,Affines,
 mWSH,male ego's wife's son's husband,,,mWSH,Affines,
 mWeB,male speaker's wife's elder brother,,,mWeB,Affines,varikin
 fHyZ,female speaker's husband's younger sister,,,fHyZ,Affines,varikin
 fHeZ,female speaker's husband's elder sister,,,fHeZ,Affines,varikin
 mMeZH,male speaker's mother's elder sister's husband,,,mMeZH,Affines,varikin
 fMeZH,female speaker's mother's elder sister's husband,,,fMeZH,Affines,varikin
+mMyZH,male speaker's mother's younger sister's husband,,,mMyZH,Affines,varikin
+fMyZH,female speaker's mother's younger sister's husband,,,fMyZH,Affines,varikin
+mFyBW,male speaker's father's younger brother's wife,,,mFyBW,Affines,varikin
+fFyBW,female speaker's father's younger brother's wife,,,fFyBW,Affines,varikin
+mWyBW,male speaker's wife's younger brother's wife,,,mWyBW,Affines,varikin
 mWeZH,male speaker's wife's elder sister's husband,,,mWeZH,Affines,varikin
+mWyZH,male speaker's wife's younger sister's husband,,,mWyZH,Affines,varikin
 fHyZH,female speaker's husband's younger sister's husband,,,fHyZH,Affines,varikin
 mHeZ,male speaker's husband's elder sister,,,mHeZ,Affines,varikin
 mHyZ,male speaker's husband's younger sister,,,mHyZ,Affines,varikin
@@ -264,3 +279,8 @@ mFeZH,male speaker's father's elder sister's husband,,,mFeZH,Affines,varikin
 fFeZH,female speaker's father's elder sister's husband,,,fFeZH,Affines,varikin
 mMeBW,male speaker's mother's elder brother's wife,,,mMeBW,Affines,varikin
 fMeBW,female speaker's mother's elder brother's wife,,,fMeBW,Affines,varikin
+mMyBW,male speaker's mother's younger brother's wife,,,mMyBW,Affines,kinura
+fMyBW,female speaker's mother's younger brother's wife,,,fMyBW,Affines,kinura
+fWyBW,female speaker's wife's younger brother's wife,,,fWyBW,Affines,kinura
+mFyZH,male speaker's father's younger sister's husband,,,mFyZH,Affines,kinura
+fFyZH,female speaker's father's younger sister's husband,,,fFyZH,Affines,kinura

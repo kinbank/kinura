@@ -1,0 +1,32 @@
+/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/clldutils/clilib.py:257: UserWarning: cannot import name 'SNIMissingWarning' from 'urllib3.exceptions' (/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/urllib3/exceptions.py) cldfbench.commands.media
+  warnings.warn('{0} {1}'.format(e, modname))
+[32mINFO   [0m running _cmd_makecldf on kinbank ...[0m
+[33mWARNING[0m forms.csv:3678:Source missing source key: ÉrtSz.[0m
+[33mWARNING[0m forms.csv:3798:Source missing source key: ErtSz.[0m
+[33mWARNING[0m forms.csv:5681:Source missing source key: Teresnko_1965[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:3100 Key `fWeB` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:3114 Key `fWeZH` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:3115 Key `fWyZH` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:3622 Key `fWeB` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:3989 Key `fWeB` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:4533 Key `fWeB` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:4650 Key `mHyZH` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:4722 Key `fWeB` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:4743 Key `fWeZH` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:5154 Key `E` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:5167 Key `fWeB` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:5278 Key `mHyZH` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:5565 Key `fWeB` not found in table parameters.csv[0m
+[33mWARNING[0m /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/forms.csv:5742 Key `fWeB` not found in table parameters.csv[0m
+Traceback (most recent call last):
+  File "/Users/u1123114/Documents/projects/kinbank/kinura/./env/bin/cldfbench", line 33, in <module>
+    sys.exit(load_entry_point('cldfbench', 'console_scripts', 'cldfbench')())
+  File "/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/cldfbench/__main__.py", line 89, in main
+    return args.main(args) or 0
+  File "/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/pylexibank/commands/makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/cldfbench/cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+  File "/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/pylexibank/dataset.py", line 231, in _cmd_makecldf
+    assert self.cldf_reader().validate(args.log)
+AssertionError
