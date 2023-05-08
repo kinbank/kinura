@@ -105,10 +105,12 @@ mMZeD,,,,,,,
 mMZyD,,,,,,,
 mE,ńes,,,,,Teresenko_1965,
 mE,xasawasəʔ,,,,,Teresenko_1965,collective plural
-mH,,,,,,,
+mH,wæsuʔ,,,,,Teresenko_1965,
+mH,wæsako,,,,,Teresenko_1965,
 mW,ńenejə ńe,,,,,Teresenko_1965,
-mHF,,,,,,,
-mHM,,,,,,,
+mHF,ŋinabə,,,,,Teresenko_1965,
+mHF,jiŕi,,,,,Teresenko_1965,
+mHM,xada,,,,,Teresenko_1965,"also 'great grandmother', 'husband's mother', 'husband's older brother's wife', 'all female relatives older than the speaker's parents'"
 mWF,ŋinabə,,,,,Teresenko_1965,
 mWM,ńe ŋinabə,,,,,Teresenko_1965 ,
 mBW,,,,,,,
@@ -124,7 +126,11 @@ mWZ,,,,,,,
 mWeZ,ńe ŋinabə,,,,,Teresenko_1965 ,"wife's older sister', compound of ńe 'woman, female' and ŋinabə 'father-in-law'"
 mWyZ,ńe nado,,,,,Teresenko_1965 ,"wife's younger sister', compound of ńe 'woman, wife' and nado 'brother-in-law', 'wife's younger sister'"
 mHB,,,,,,,
+mHeB,ŋinabə,,,,,Teresenko_1965,"husband's older brother', synchronically opaque, but historically probably a copulative compound."
+mHeB,jiŕi,,,,,Teresenko_1965,husband's older brother'
+mHyB,nado,,,,,Teresenko_1965,husband's younger brother'
 mHZ,,,,,,,
+mHyZ,ńe nado,,,,,Teresenko_1965 ,"husband's younger sister', compound of ńe 'woman, wife' and nado 'brother-in-law', 'wife's younger sister'"
 mco-W,,,,,,,
 mco-H,,,,,,,
 mFW(notM),ńaba,,,,,Teresenko_1965 ,
@@ -142,6 +148,7 @@ mFBW,,,,,,,
 mFyBW,ńaba,,,,,Teresenko_1965,"father's younger brother's wife', also 'stepmother; older brother's wife'"
 mMZH,,,,,,,
 mMBW,,,,,,,
+mHyBW,́ḿeja,,,,,Teresenko_1965,"son's wife, younger brother's wife, husband's younger brother's wife'"
 fG,ńa,,,,,Teresenko_1965 ,
 fB,ńa,,,,,Teresenko_1965 ,
 fZ,ńa,,,,,Teresenko_1965 ,
@@ -250,12 +257,12 @@ fE,ńes,,,,,Teresenko_1965,
 fE,xasawasəʔ,,,,,Teresenko_1965,collective plural
 fH,wæsuʔ,,,,,Teresenko_1965,
 fH,wæsako,,,,,Teresenko_1965,
-fW,,,,,,,
+fW,ńenejə ńe,,,,,Teresenko_1965,
 fHF,ŋinabə,,,,,Teresenko_1965,
 fHF,jiŕi,,,,,Teresenko_1965,
 fHM,xada,,,,,Teresenko_1965,"also 'great grandmother', 'husband's mother', 'husband's older brother's wife', 'all female relatives older than the speaker's parents'"
-fWF,,,,,,,
-fWM,,,,,,,
+fWF,ŋinabə,,,,,Teresenko_1965,
+fWM,ńe ŋinabə,,,,,Teresenko_1965 ,
 fBW,,,,,,,
 feBW,ńaba,,,,,Teresenko_1965,
 fyBW,́ḿeja,,,,,Teresenko_1965,"son's wife, younger brother's wife, husband's younger brother's wife'"
@@ -263,7 +270,12 @@ fZH,,,,,,,
 feZH,ńińadi,,,,,Teresenko_1965,"older sister's husband', also 'father's younger sister's husband' and 'female cousin's husband (older than ego)'"
 fyZH,jīj ,,,,,Teresenko_1965,"younger sister's husband, daughter's husband, female cousin's husband (younger than ego)'"
 fWB,,,,,,,
+fWeB,ŋinabə,,,,,Teresenko_1965,"wife's older brother', synchronically opaque, but historically probably a copulative compound."
+fWyB,nado,,,,,Teresenko_1965,wife's younger brother'
 fWZ,,,,,,,
+fWeZ,ńe ŋinabə,,,,,Teresenko_1965 ,"wife's older sister', compound of ńe 'woman, female' and ŋinabə 'father-in-law'"
+fWyZ,ńe nado,,,,,Teresenko_1965 ,"wife's younger sister', compound of ńe 'woman, wife' and nado 'brother-in-law', 'wife's younger sister'"
+fHB,,,,,,,
 fHeB,ŋinabə,,,,,Teresenko_1965,"husband's older brother', synchronically opaque, but historically probably a copulative compound."
 fHeB,jiŕi,,,,,Teresenko_1965,husband's older brother'
 fHyB,nado,,,,,Teresenko_1965,husband's younger brother'
