@@ -1,6 +1,6 @@
-﻿ID,Label,Glottocode,ISO639P3code,Name,Family,Latitude,Longitude,Project,ProjectFile,EntryDate,Comment,Link,Set
+ID,Label,Glottocode,ISO639P3code,Name,Family,Latitude,Longitude,Project,ProjectFile,EntryDate,Comment,Link,Set
 v_estonianesto1258,Estonian_esto1258,esto1258,ekk,Estonian,Uralic,58.55,25.82,kinura,Estonian_esto1258.txt,NA,,,Kinura
-v_komizyriankomi1268,Komi_Zyrian_komi1268,komi1268,kpv,Komi-Zyrian,Uralic,64.0527,54.946,kinura,Komi_Zyrian_komi1268.txt,NA,,,Kinura
+v_komizyriankomi1268,KomiZyrian_komi1268,komi1268,kpv,Komi-Zyrian,Uralic,64.0527,54.946,kinura,KomiZyrian_komi1268.txt,NA,,,Kinura
 v_udmurtudmu1245,Udmurt_udmu1245,udmu1245,udm,Udmurt,Uralic,56.12921,52.63548,kinura,Udmurt_udmu1245.txt,NA,,,Kinura
 v_vepsveps1250,Veps_veps1250,veps1250,vep,Veps,Uralic,60.3353,34.7865,kinura,Veps_veps1250.txt,NA,,,Kinura
 v_forestenetsfore1265,ForestEnets_fore1265,fore1265,enf,Forest Enets,Uralic,68.6,86.5,kinura,ForestEnets_fore1265,20221011,,,Kinura
