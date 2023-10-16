@@ -1,26 +1,13 @@
 /Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/clldutils/clilib.py:257: UserWarning: cannot import name 'SNIMissingWarning' from 'urllib3.exceptions' (/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/urllib3/exceptions.py) cldfbench.commands.media
   warnings.warn('{0} {1}'.format(e, modname))
 [32mINFO   [0m running _cmd_makecldf on kinbank ...[0m
-Traceback (most recent call last):
-  File "/Users/u1123114/Documents/projects/kinbank/kinura/kinbank/lexibank_kinbank.py", line 56, in cmd_makecldf
-    lang_id = languages[filename.stem]
-KeyError: 'ErzyaMordvin_erzy1239'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/Users/u1123114/Documents/projects/kinbank/kinura/./env/bin/cldfbench", line 33, in <module>
-    sys.exit(load_entry_point('cldfbench', 'console_scripts', 'cldfbench')())
-  File "/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/cldfbench/__main__.py", line 89, in main
-    return args.main(args) or 0
-  File "/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/pylexibank/commands/makecldf.py", line 24, in run
-    with_dataset(args, 'makecldf', dataset=dataset)
-  File "/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/cldfbench/cli_util.py", line 161, in with_dataset
-    res = func(*arg, args)
-  File "/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/pylexibank/dataset.py", line 218, in _cmd_makecldf
-    super()._cmd_makecldf(args)
-  File "/Users/u1123114/Documents/projects/kinbank/kinura/env/lib/python3.10/site-packages/cldfbench/dataset.py", line 206, in _cmd_makecldf
-    self.cmd_makecldf(args)
-  File "/Users/u1123114/Documents/projects/kinbank/kinura/kinbank/lexibank_kinbank.py", line 58, in cmd_makecldf
-    raise KeyError("Unable to find %s in `Label` column of ./etc/languages.csv." % filename)
-KeyError: 'Unable to find /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/raw/Uralic/ErzyaMordvin_erzy1239.csv in `Label` column of ./etc/languages.csv.'
+[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/.transcription-report.json[0m
+[32mINFO   [0m Summary for dataset /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/cldf-metadata.json
+- **Varieties:** 19
+- **Concepts:** 226
+- **Lexemes:** 3,132
+- **Sources:** 38
+- **Synonymy:** 1.37[0m
+[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/TRANSCRIPTION.md[0m
+[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/lingpy-rcParams.json[0m
+[32mINFO   [0m ... done kinbank [141.5 secs][0m

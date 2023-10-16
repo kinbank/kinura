@@ -1,7 +1,7 @@
 appdirs==1.4.4
 Babel==2.12.1
 certifi==2023.5.7
-cldfbench==1.13.0
+cldfbench==1.14.0
 cldfcatalog==1.5.1
 cldfzenodo==1.1.0
 clldutils==3.19.0

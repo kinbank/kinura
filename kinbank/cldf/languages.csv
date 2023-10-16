@@ -1,1 +1,20 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Label,Project,ProjectFile,ProjectName,EntryDate,Comment,Link,Set
+ForestEnets,Forest Enets,fore1265,Forest Enets,enf,Eurasia,68.6,86.5,Uralic,ForestEnets_fore1265,Kinura,ForestEnets_fore1265,,20221011,,,Kinura
+HillMari,Western Mari,west2392,Western Mari,mrj,Eurasia,56.22,46.57,Uralic,HillMari_west2392,Kinura,HillMari_west2392,,20221011,,,Kinura
+Livonian,Livonian,livv1244,Liv,liv,Eurasia,57.57,22.03,Uralic,Livonian_livv1244,Kinura,Livonian_livv1244,,20221011,,,Kinura
+MokshaMordvin,MokshaMordvin,moks1248,Moksha,mdf,Eurasia,54.19,42.67,Uralic,MokshaMordvin_moks1248,Kinura,MokshaMordvin_moks1248,,20221011,,,Kinura
+Nganasan,Nganasan,ngan1291,Nganasan,nio,Eurasia,73.14,86.21,Uralic,Nganasan_ngan1291,Kinura,Nganasan_ngan1291,,20221011,,,Kinura
+SkoltSaami,Skolt Saami,skol1241,Skolt Saami,sms,Eurasia,69.505596,28.592182,Uralic,SkoltSaami_skol1241,Kinura,SkoltSaami_skol1241,,20221011,,,Kinura
+SouthSaami,South Saami,sout2674,South Saami,sma,Eurasia,62.88,13.7,Uralic,SouthSaami_sout2674,Kinura,SouthSaami_sout2674,,20221011,,,Kinura
+NorthSaami,North Saami,nort2671,North Saami,sme,Eurasia,68.72,22.11,Uralic,NorthSaami_nort2671,Kinura,NorthSaami_nort2671,,20221013,,,Kinura
+ErzyaMordvin,Erzya Mordvin,erzy1239,Erzya,myv,Eurasia,53.0,45.5,Uralic,ErzyaMordvin_erzy1239,Kinura,ErzyaMordvin_erzy1239,,20230427,,,Kinura
+Estonian,Estonian,esto1258,Estonian,ekk,Eurasia,59.00,26.00,Uralic,Estonian_esto1258,Kinura,Estonian_esto1258,,20230427,,,Kinura
+Finnish,Finnish,finn1318,Finnish,fin,Eurasia,62.00,25.00,Uralic,Finnish_finn1318,Kinura,Finnish_finn1318,,20230427,,,Kinura
+Hungarian,Hungarian,hung1274,Hungarian,hun,Eurasia,47.00,20.00,Uralic,Hungarian_hung1274,Kinura,Hungarian_hung1274,,20230427,,,Kinura
+KazymKhanty,Kazym Khanty,nort2672,Kazym Khanty,kca,Eurasia,62.4308,66.1218,Uralic,KazymKhanty_nort2672,Kinura,KazymKhanty_nort2672,,20230427,,,Kinura
+KomiZyrian,Komi-Zyrian,komi1268,Komi-Zyrian,kpv,Eurasia,65.00,55.00,Uralic,KomiZyrian_komi1268,Kinura,KomiZyrian_komi1268,,20230427,,,Kinura
+MeadowMari,Meadow Mari,gras1239,Grassland Mari,mhr,Eurasia,57.00,48.00,Uralic,MeadowMari_gras1239,Kinura,MeadowMari_gras1239,,20230427,,,Kinura
+SosvaMansi,Sosva Mansi,nort2677,Sosva Mansi,mns,Eurasia,62.00,62.00,Uralic,SosvaMansi_nort2677,Kinura,SosvaMansi_nort2677,,20230427,,,Kinura
+TundraNenets,Tundra Nenets,nene1249,Tundra Nenets,yrk,Eurasia,70.00,76.00,Uralic,TundraNenets_nene1249,Kinura,TundraNenets_nen1249,,20230427,,,Kinura
+Udmurt,Udmurt,udmu1245,Udmurt,udm,Eurasia,57.50,52.50,Uralic,Udmurt_udmu1245,Kinura,Udmurt_udmu1245,,20230427,,,Kinura
+Veps,Veps,veps1250,Veps,vep,Eurasia,60.00,35.00,Uralic,Veps_veps1250,Kinura,Veps_veps1250,,20230427,,,Kinura
