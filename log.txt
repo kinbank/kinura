@@ -10,4 +10,4 @@
 - **Synonymy:** 1.37[0m
 [32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/TRANSCRIPTION.md[0m
 [32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/kinura/kinbank/cldf/lingpy-rcParams.json[0m
-[32mINFO   [0m ... done kinbank [141.5 secs][0m
+[32mINFO   [0m ... done kinbank [149.5 secs][0m
