@@ -4,7 +4,6 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:related": null,
-    "dc:source": "sources.bib",
     "dc:title": "kinbank/varikin",
     "prov:wasDerivedFrom": [
         {
@@ -46,7 +45,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 6030,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -149,7 +148,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 29,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -247,7 +246,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 285,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
