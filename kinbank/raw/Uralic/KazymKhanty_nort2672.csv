@@ -1,307 +1,303 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","",,,,,"",""
-"mB","jĭw-pŏχ",,,,,"DeWoS; Karjalainen_1913",""
-"mZ","jĭw-ewi",,,,,"DeWoS; Karjalainen_1913",""
-"meB","jaj",,,,,"DeWoS; Karjalainen_1913",""
-"myB","apәḷi",,,,,"DeWoS; Karjalainen_1913",""
-"myB","apśi",,,,,"DeWoS; Karjalainen_1913",""
-"meZ","wǫn jĭw-ewi",,,,,"DeWoS",""
-"meZ","ŏpi",,,,,"DeWoS; Karjalainen_1913",""
-"myZ","aj jĭw-ewi",,,,,"DeWoS; Karjalainen_1913",""
-"myZ","apәḷ-nɛ",,,,,"DeWoS; Karjalainen_1913",""
-"mP","aŋki-aśi",,,,,"DeWoS; Karjalainen_1913",""
-"mF","aśi",,,,,"DeWoS",""
-"mF","jĭw",,,,,"DeWoS; Karjalainen_1913",""
-"mM","aŋki",,,,,"DeWoS; Karjalainen_1913",""
-"mC","ńawrɛm",,,,,"DeWoS; Karjalainen_1913",""
-"mS","pŏχ",,,,,"Karjalainen_1913",""
-"mD","ewi",,,,,"DeWoS; Karjalainen_1913",""
-"mA","",,,,,"",""
-"mPP","",,,,,"",""
-"mFF","śat-śaśi",,,,,"DeWoS; Karjalainen_1913",""
-"mFM","śaśi",,,,,"Karjalainen_1913",""
-"mMF","aŋ-śaśi",,,,,"DeWoS; Karjalainen_1913",""
-"mMM","aŋk-aŋki",,,,,"DeWoS; Karjalainen_1913",""
-"mCC","",,,,,"",""
-"mSS","χĭʌi",,,,,"DeWoS; Karjalainen_1913","younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
-"mSD","χĭʌ-nɛ",,,,,"DeWoS; Karjalainen_1913","son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
-"mDS","χĭʌi",,,,,"DeWoS; Karjalainen_1913","younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
-"mDD","χĭʌ-nɛ",,,,,"DeWoS; Karjalainen_1913","son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
-"mFB","",,,,,"",""
-"mFZ","",,,,,"",""
-"mMB","",,,,,"",""
-"mMZ","",,,,,"",""
-"mFeB","aki",,,,,"DeWoS; Karjalainen_1913",""
-"mFyB","jaj",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"mFyB","apśi",,,,,"DeWoS; Karjalainen_1913","younger than ego"
-"mFeZ","śaś-ŏpi",,,,,"DeWoS; Karjalainen_1913",""
-"mFyZ","ŏpi",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"mFyZ","apәḷ-nɛ",,,,,"DeWoS; Karjalainen_1913","younger than ego"
-"mMeZ","ĭmi",,,,,"DeWoS; Karjalainen_1913",""
-"mMyZ","nĭj",,,,,"DeWoS; Karjalainen_1913",""
-"mMeB","aki",,,,,"DeWoS; Karjalainen_1913",""
-"mMyB","wǫrti",,,,,"DeWoS; Karjalainen_1913",""
-"mBS","",,,,,"",""
-"mBD","",,,,,"",""
-"mZS","",,,,,"",""
-"mZD","",,,,,"",""
-"meBS","jaj",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"meBS","apśi",,,,,"DeWoS; Karjalainen_1913","younger than ego"
-"myBS","χĭʌi",,,,,"DeWoS; Karjalainen_1913","younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
-"meBD","apəḷ-nɛ",,,,,"DeWoS","younger than ego"
-"meBD","ŏpi",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"myBD","χĭʌ-nɛ",,,,,"DeWoS; Karjalainen_1913","son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
-"meZS","ʌɛ-χǫ",,,,,"DeWoS; Karjalainen_1913",""
-"myZS","χĭʌi",,,,,"DeWoS; Karjalainen_1913","younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
-"meZD","ɔr'-nɛ",,,,,"DeWoS; Karjalainen_1913",""
-"myZD","χĭʌ-nɛ",,,,,"DeWoS; Karjalainen_1913","son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
-"mFZD","ɔr'-nɛ",,,,,"DeWoS; Karjalainen_1913","if the aunt is older than ego"
-"mFBD","ŏpi",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"mFBD","apәḷ-nɛ",,,,,"DeWoS; Karjalainen_1913","younger than ego"
-"mMBD","",,,,,"",""
-"mMZD","ăs-ewi",,,,,"DeWoS; Karjalainen_1913",""
-"mFBS","jaj",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"mFBS","apśi",,,,,"DeWoS; Karjalainen_1913","younger than ego"
-"mFZS","ʌɛ-χǫ",,,,,"DeWoS; Karjalainen_1913","if the aunt is older than ego"
-"mMBS","wǫrti",,,,,"DeWoS; Karjalainen_1913",""
-"mMZS","ăs-pŏχ",,,,,"DeWoS; Karjalainen_1913",""
-"mFeBS","",,,,,"",""
-"mFyBS","",,,,,"",""
-"mFeZS","",,,,,"",""
-"mFyZS","χĭʌi",,,,,"DeWoS; Karjalainen_1913","younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (if the aunt is younger than ego); son's son; daughter's son'"
-"mFeBD","",,,,,"",""
-"mFyBD","",,,,,"",""
-"mFeZD","",,,,,"",""
-"mFyZD","χĭʌ-nɛ",,,,,"DeWoS; Karjalainen_1913","if the aunt is younger than ego"
-"mMeBS","",,,,,"",""
-"mMyBS","",,,,,"",""
-"mMeZS","",,,,,"",""
-"mMyZS","",,,,,"",""
-"mMeBD","",,,,,"",""
-"mMyBD","",,,,,"",""
-"mMeZD","",,,,,"",""
-"mMyZD","",,,,,"",""
-"mFBeS","",,,,,"",""
-"mFByS","",,,,,"",""
-"mFZeS","",,,,,"",""
-"mFZyS","",,,,,"",""
-"mFBeD","",,,,,"",""
-"mFByD","",,,,,"",""
-"mFZeD","",,,,,"",""
-"mFZyD","",,,,,"",""
-"mMBeS","",,,,,"",""
-"mMByS","",,,,,"",""
-"mMZeS","",,,,,"",""
-"mMZyS","",,,,,"",""
-"mMBeD","",,,,,"",""
-"mMByD","",,,,,"",""
-"mMZeD","",,,,,"",""
-"mMZyD","",,,,,"",""
-"mE","",,,,,"",""
-"mH","ĭj-ĭki",,,,,"DeWoS; Karjalainen_1913","only of old men"
-"mH","ĭ-χǫ",,,,,"DeWoS; Karjalainen_1913",""
-"mH","χǫ",,,,,"DeWoS; Karjalainen_1913","of young "
-"mW","ĭj-ĭmi",,,,,"DeWoS; Karjalainen_1913",""
-"mW","ĭ-nɛ",,,,,"Karjalainen_1913",""
-"mW","nɛ",,,,,"DeWoS; Karjalainen_1913",""
-"mHF","aki",,,,,"DeWoS; Karjalainen_1913",""
-"mHF","ŭp",,,,,"DeWoS; Karjalainen_1913",""
-"mHM","wǫntəp",,,,,"DeWoS; Karjalainen_1913","also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
-"mHM","ĭmi",,,,,"DeWoS; Karjalainen_1913",""
-"mWF","ŭp",,,,,"DeWoS; Karjalainen_1913","wife's father; wife's father's brother; wife's older brother; wife's older brother's son; wife's mother's brother; husband's father'"
-"mWM","wǫntəp",,,,,"DeWoS; Karjalainen_1913","also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
-"mBW","",,,,,"",""
-"meBW","ăńxi",,,,,"DeWoS; Karjalainen_1913","older brother's wife; stepmother'"
-"myBW","meń",,,,,"DeWoS; Karjalainen_1913","‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
-"mZH","wɛŋ",,,,,"DeWoS; Karjalainen_1913","daughter's husband; sister's husband; older brother's daughter's husband; husband's sister's husband; father's sister's husband'"
-"mWB","",,,,,"",""
-"mWeB","ŭp",,,,,"DeWoS; Karjalainen_1913","wife's father; wife's father's brother; wife's older brother; wife's older brother's son; wife's mother's brother; husband's father'"
-"mWyB","aj-ŭp",,,,,"DeWoS; Karjalainen_1913","wife's younger brother'"
-"mWZ","kĭʌi",,,,,"DeWoS; Karjalainen_1913","‘wife’s younger sister; wife’s younger brother daughter; wife’s older sister; wife’s older brother’s daughter; wife’s younger sister’s husband; wife’s older sister’s husband’, according to SSA a possible contamination in Khanty"
-"mHB","",,,,,"",""
-"mHeB","aki",,,,,"DeWoS; Karjalainen_1913",""
-"mHyB","ʌɛ-χǫ",,,,,"DeWoS; Karjalainen_1913","husband's younger brother'"
-"mHZ","",,,,,"",""
-"mHeZ","ĭmi",,,,,"DeWoS; Karjalainen_1913",""
-"mHyZ","aj-wǫntəp",,,,,"DeWoS; Karjalainen_1913",""
-"mco-W","",,,,,"",""
-"mco-H","",,,,,"",""
-"mFW(notM)","ăńxi",,,,,"DeWoS; Karjalainen_1913",""
-"mMH(notF)","jĭwʌeŋ",,,,,"DeWoS; Karjalainen_1913","stepfather; mother's younger sister's husband'"
-"mSW","meń",,,,,"DeWoS; Karjalainen_1913","‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
-"mSWM","",,,,,"",""
-"mSWF","",,,,,"",""
-"mDH","wɛŋ",,,,,"DeWoS; Karjalainen_1913",""
-"mDHM","",,,,,"",""
-"mDHF","",,,,,"",""
-"mFZH","",,,,,"",""
-"mFeZH","aki",,,,,"DeWoS; Karjalainen_1913","father's older sister's husband', cf. mFeB and mMeB"
-"mFZH","wɛŋ",,,,,"DeWoS; Karjalainen_1913",""
-"mFBW","",,,,,"",""
-"mFeBW","ĭmi",,,,,"DeWoS; Karjalainen_1913","father's older brother's wife'"
-"mFyBW","ăńxi",,,,,"DeWoS; Karjalainen_1913","father's younger brother's wife'"
-"mFBW","meń",,,,,"DeWoS; Karjalainen_1913","‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s (younger than ego) brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
-"mMZH","",,,,,"",""
-"mMeZH","aki",,,,,"DeWoS; Karjalainen_1913","mother's older sister's husband', cf. mFeB and mMeB"
-"mMyZH","jĭwʌeŋ",,,,,"DeWoS; Karjalainen_1913","stepfather; mother's younger sister's husband'"
-"mMBW","",,,,,"",""
-"mMeBW","ĭmi",,,,,"DeWoS; Karjalainen_1913","mother's older brother's wife'"
-"mMyBW","ŏpi",,,,,"DeWoS; Karjalainen_1913","mother's younger brother's wife'"
-"mWZH","kĭʌi",,,,,"DeWoS; Karjalainen_1913","‘wife’s younger sister; wife’s younger brother daughter; wife’s older sister; wife’s older brother’s daughter; wife’s younger sister’s husband; wife’s older sister’s husband’, according to SSA a possible contamination in Khanty"
-"mWBW","wǫntəp",,,,,"DeWoS; Karjalainen_1913","also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
-"mHZH","wɛŋ",,,,,"DeWoS; Karjalainen_1913","daughter's husband; sister's husband; older brother's daughter's husband; husband's sister's husband; father's sister's husband'"
-"mHeBW","wǫntəp",,,,,"DeWoS; Karjalainen_1913","also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
-"mHyBW","meń",,,,,"DeWoS; Karjalainen_1913","‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
-"fG","",,,,,"",""
-"fB","jĭw-pŏχ",,,,,"DeWoS; Karjalainen_1913",""
-"fZ","jĭw-ewi",,,,,"DeWoS; Karjalainen_1913",""
-"feB","jaj",,,,,"DeWoS; Karjalainen_1913",""
-"fyB","apәḷi",,,,,"DeWoS; Karjalainen_1913",""
-"fyB","apśi",,,,,"DeWoS; Karjalainen_1913",""
-"feZ","wǫn jĭw-ewi",,,,,"DeWoS",""
-"feZ","ŏpi",,,,,"DeWoS; Karjalainen_1913",""
-"fyZ","aj jĭw-ewi",,,,,"DeWoS",""
-"fyZ","apәḷ-nɛ",,,,,"DeWoS; Karjalainen_1913",""
-"fP","aŋki-aśi",,,,,"DeWoS; Karjalainen_1913",""
-"fF","aśi",,,,,"DeWoS",""
-"fF","jĭw",,,,,"DeWoS; Karjalainen_1913",""
-"fM","aŋki",,,,,"DeWoS; Karjalainen_1913",""
-"fC","ńawrɛm",,,,,"DeWoS; Karjalainen_1913",""
-"fS","pŏχ",,,,,"Karjalainen_1913",""
-"fD","ewi",,,,,"DeWoS; Karjalainen_1913",""
-"fA","",,,,,"",""
-"fPP","",,,,,"",""
-"fFF","śat-śaśi",,,,,"DeWoS; Karjalainen_1913",""
-"fFM","śaśi",,,,,"Karjalainen_1913",""
-"fMF","aŋ-śaśi",,,,,"DeWoS; Karjalainen_1913",""
-"fMM","aŋk-aŋki",,,,,"DeWoS; Karjalainen_1913",""
-"fCC","",,,,,"",""
-"fSS","χĭʌi",,,,,"DeWoS; Karjalainen_1913","younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
-"fSD","χĭʌ-nɛ",,,,,"DeWoS; Karjalainen_1913","son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
-"fDS","χĭʌi",,,,,"DeWoS; Karjalainen_1913","younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
-"fDD","χĭʌ-nɛ",,,,,"DeWoS; Karjalainen_1913","son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
-"fFB","",,,,,"",""
-"fFZ","",,,,,"",""
-"fMB","",,,,,"",""
-"fMZ","",,,,,"",""
-"fFeB","aki",,,,,"DeWoS; Karjalainen_1913",""
-"fFyB","jaj",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"fFyB","apśi",,,,,"DeWoS; Karjalainen_1913","younger than ego"
-"fFeZ","śaś-ŏpi",,,,,"DeWoS",""
-"fFyZ","ŏpi",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"fFyZ","apәḷ-nɛ",,,,,"DeWoS; Karjalainen_1913","younger than ego"
-"fMeZ","ĭmi",,,,,"DeWoS; Karjalainen_1913",""
-"fMyZ","nĭj",,,,,"DeWoS; Karjalainen_1913",""
-"fMeB","aki",,,,,"DeWoS; Karjalainen_1913",""
-"fMyB","wǫrti",,,,,"DeWoS; Karjalainen_1913",""
-"fBS","",,,,,"",""
-"fBD","",,,,,"",""
-"fZS","",,,,,"",""
-"fZD","",,,,,"",""
-"feBS","jaj",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"feBS","apśi",,,,,"DeWoS; Karjalainen_1913","younger than ego"
-"fyBS","χĭʌi",,,,,"DeWoS; Karjalainen_1913","younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
-"feBD","apəḷ-nɛ",,,,,"DeWoS","younger than ego"
-"feBD","ŏpi",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"fyBD","χĭʌ-nɛ",,,,,"DeWoS; Karjalainen_1913","son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
-"feZS","ʌɛ-χǫ",,,,,"DeWoS; Karjalainen_1913",""
-"fyZS","χĭʌi",,,,,"DeWoS; Karjalainen_1913","younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
-"feZD","ɔr'-nɛ",,,,,"DeWoS; Karjalainen_1913",""
-"fyZD","χĭʌ-nɛ",,,,,"DeWoS; Karjalainen_1913","son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
-"fFZD","ɔr'-nɛ",,,,,"DeWoS; Karjalainen_1913","if the aunt is older than ego"
-"fFBD","ŏpi",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"fFBD","apәḷ-nɛ",,,,,"DeWoS; Karjalainen_1913","younger than ego"
-"fMBD","",,,,,"",""
-"fMZD","ăs-ewi",,,,,"DeWoS; Karjalainen_1913",""
-"fFBS","jaj",,,,,"DeWoS; Karjalainen_1913","older than ego"
-"fFBS","apśi",,,,,"DeWoS; Karjalainen_1913","younger than ego"
-"fFZS","ʌɛ-χǫ",,,,,"DeWoS; Karjalainen_1913","if the aunt is older than ego"
-"fMBS","wǫrti",,,,,"DeWoS; Karjalainen_1913",""
-"fMZS","ăs-pŏχ",,,,,"DeWoS; Karjalainen_1913",""
-"fFeBS","",,,,,"",""
-"fFyBS","",,,,,"",""
-"fFeZS","",,,,,"",""
-"fFyZS","χĭʌi",,,,,"DeWoS; Karjalainen_1913","younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (if the aunt is younger than ego); son's son; daughter's son'"
-"fFeBD","",,,,,"",""
-"fFyBD","",,,,,"",""
-"fFeZD","",,,,,"",""
-"fFyZD","χĭʌ-nɛ",,,,,"DeWoS; Karjalainen_1913","if the aunt is younger than ego"
-"fMeBS","",,,,,"",""
-"fMyBS","",,,,,"",""
-"fMeZS","",,,,,"",""
-"fMyZS","",,,,,"",""
-"fMeBD","",,,,,"",""
-"fMyBD","",,,,,"",""
-"fMeZD","",,,,,"",""
-"fMyZD","",,,,,"",""
-"fFBeS","",,,,,"",""
-"fFByS","",,,,,"",""
-"fFZeS","",,,,,"",""
-"fFZyS","",,,,,"",""
-"fFBeD","",,,,,"",""
-"fFByD","",,,,,"",""
-"fFZeD","",,,,,"",""
-"fFZyD","",,,,,"",""
-"fMBeS","",,,,,"",""
-"fMByS","",,,,,"",""
-"fMZeS","",,,,,"",""
-"fMZyS","",,,,,"",""
-"fMBeD","",,,,,"",""
-"fMByD","",,,,,"",""
-"fMZeD","",,,,,"",""
-"fMZyD","",,,,,"",""
-"fE","",,,,,"",""
-"fH","ĭj-ĭki",,,,,"DeWoS; Karjalainen_1913","only of old men"
-"fH","ĭ-χǫ",,,,,"DeWoS; Karjalainen_1913",""
-"fH","χǫ",,,,,"DeWoS; Karjalainen_1913","of young "
-"fW","ĭj-ĭmi",,,,,"DeWoS; Karjalainen_1913",""
-"fW","ĭ-nɛ",,,,,"Karjalainen_1913",""
-"fW","nɛ",,,,,"DeWoS; Karjalainen_1913",""
-"fHF","aki",,,,,"DeWoS; Karjalainen_1913",""
-"fHF","ŭp",,,,,"DeWoS; Karjalainen_1913",""
-"fHM","wǫntəp",,,,,"DeWoS; Karjalainen_1913","also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
-"fHM","ĭmi",,,,,"DeWoS; Karjalainen_1913",""
-"fWF","ŭp",,,,,"DeWoS; Karjalainen_1913","wife's father; wife's father's brother; wife's older brother; wife's older brother's son; wife's mother's brother; husband's father'"
-"fWM","wǫntəp",,,,,"DeWoS; Karjalainen_1913","also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
-"fBW","",,,,,"",""
-"feBW","ăńxi",,,,,"DeWoS; Karjalainen_1913","older brother's wife; stepmother'"
-"fyBW","meń",,,,,"DeWoS; Karjalainen_1913","‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
-"fZH","wɛŋ",,,,,"DeWoS; Karjalainen_1913","daughter's husband; sister's husband; older brother's daughter's husband; husband's sister's husband; father's sister's husband'"
-"fWB","",,,,,"",""
-"fWeB","ŭp",,,,,"DeWoS; Karjalainen_1913","wife's father; wife's father's brother; wife's older brother; wife's older brother's son; wife's mother's brother; husband's father'"
-"fWyB","aj-ŭp",,,,,"DeWoS; Karjalainen_1913","wife's younger brother'"
-"fWZ","kĭʌi",,,,,"DeWoS; Karjalainen_1913","‘wife’s younger sister; wife’s younger brother daughter; wife’s older sister; wife’s older brother’s daughter; wife’s younger sister’s husband; wife’s older sister’s husband’, according to SSA a possible contamination in Khanty"
-"fHB","",,,,,"",""
-"fHeB","aki",,,,,"DeWoS; Karjalainen_1913",""
-"fHyB","ʌɛ-χǫ",,,,,"DeWoS; Karjalainen_1913","husband's younger brother'"
-"fHZ","",,,,,"",""
-"fHeZ","ĭmi",,,,,"DeWoS; Karjalainen_1913",""
-"fHyZ","aj-wǫntəp",,,,,"DeWoS; Karjalainen_1913",""
-"fco-W","",,,,,"",""
-"fco-H","",,,,,"",""
-"fFW(notM)","ăńxi",,,,,"DeWoS; Karjalainen_1913",""
-"fMH(notF)","jĭwʌeŋ",,,,,"DeWoS; Karjalainen_1913","stepfather; mother's younger sister's husband'"
-"fSW","meń",,,,,"DeWoS; Karjalainen_1913","‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
-"fSWM","",,,,,"",""
-"fSWF","",,,,,"",""
-"fDH","wɛŋ",,,,,"DeWoS; Karjalainen_1913",""
-"fDHM","",,,,,"",""
-"fDHF","",,,,,"",""
-"fFZH","",,,,,"",""
-"fFeZH","aki",,,,,"DeWoS; Karjalainen_1913","father's older sister's husband', cf. mFeB and mMeB"
-"fFZH","wɛŋ",,,,,"DeWoS; Karjalainen_1913",""
-"fFBW","",,,,,"",""
-"fFeBW","ĭmi",,,,,"DeWoS; Karjalainen_1913","father's older brother's wife'"
-"fFyBW","ăńxi",,,,,"DeWoS; Karjalainen_1913","father's younger brother's wife'"
-"fFBW","meń",,,,,"DeWoS; Karjalainen_1913","‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s (younger than ego) brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
-"fMZH","",,,,,"",""
-"fMeZH","aki",,,,,"DeWoS; Karjalainen_1913","mother's older sister's husband', cf. mFeB and mMeB"
-"fMyZH","jĭwʌeŋ",,,,,"DeWoS; Karjalainen_1913","stepfather; mother's younger sister's husband'"
-"fMBW","",,,,,"",""
-"fMeBW","ĭmi",,,,,"DeWoS; Karjalainen_1913","mother's older brother's wife'"
-"fMyBW","ŏpi",,,,,"DeWoS; Karjalainen_1913","mother's younger brother's wife'"
-"fWZH","kĭʌi",,,,,"DeWoS; Karjalainen_1913","‘wife’s younger sister; wife’s younger brother daughter; wife’s older sister; wife’s older brother’s daughter; wife’s younger sister’s husband; wife’s older sister’s husband’, according to SSA a possible contamination in Khanty"
-"fWBW","wǫntəp",,,,,"DeWoS; Karjalainen_1913","also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
-"fHZH","wɛŋ",,,,,"DeWoS; Karjalainen_1913","daughter's husband; sister's husband; older brother's daughter's husband; husband's sister's husband; father's sister's husband'"
-"fHeBW","wǫntəp",,,,,"DeWoS; Karjalainen_1913","also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
-"fHyBW","meń",,,,,"DeWoS; Karjalainen_1913","‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments
+Siblings;male speaker's sibling;mG;;;;;;;;;;;;;;;;
+Siblings;male speaker's brother;mB;jĭw-pŏχ;йивпух;;0;;;;Khanty-specific;"DeWoS: 325–326; Karjalainen 1913: 230–231";;;;4;;;compound of jĭw 'father' and pŏχ 'son'
+Siblings;male speaker's sister;mZ;jĭw-ewi;йивэви;;0;;;;Khanty-specific;"DeWoS: 325–326; Karjalainen 1913: 230–231";;;;4;;;compound of jĭw 'father' and ewi 'daughter'
+Siblings;male speaker's elder brother;meB;jaj;яй;;0;;;;Khanty-specific;"DeWoS: 317–318; Karjalainen 1913: 229";;;;1;;;
+Siblings;male speaker's younger brother;myB;apәḷi;апалы;;0;;;;Kazym-specific;"DeWoS. 149; Karjalainen 1913: 212";;;;2;;;
+Siblings;male speaker's younger brother;myB;apśi;апси;;0;;;;Ob-Ugric;"DeWoS: 149–150; Karjalainen 1913: 213";;;;3;;;
+Siblings;male speaker's elder sister;meZ;wǫn jĭw-ewi;;;0;;;;Khanty-specific;DeWoS: 325–326;;;;5;;;wǫn 'big'
+Siblings;male speaker's elder sister;meZ;ŏpi;упи;;0;;;;Inherited;"DeWoS: 146; Karjalainen 1913: 216–217";UEW: 15;;;1;;;The validity of the cognate set presented in UEW as a whole is questionable
+Siblings;male speaker's younger sister;myZ;aj jĭw-ewi;;;0;;;;Khanty-specific;DeWoS: 325–326;;;;5;;;"aj 'small; young'"
+Siblings;male speaker's younger sister;myZ;apәḷ-nɛ;апалнэ;;0;;;;Kazym-specific;"DeWoS: 149–150; Karjalainen 1913: 212–213";;;;4;;;
+Parents;male speaker's parent;mP;aŋki-aśi;ангки-аси;;0;;;;Khanty-specific;SHR: 14;;;;4;;;collective copulative compound
+Parents;male speaker's father;mF;aśi;аси;;0;;;;Inherited, PU *äććä etc. 'father';DeWoS: 226;;;;1;;;
+Parents;male speaker's father;mF;jĭw;;;0;;;;Inherited, PU *ekä 'older male relative';"DeWoS: 325–326; Karjalainen 1913: 230–231";Aikio 2020: 42–43;;;1;;;rare
+Parents;male speaker's mother;mM;aŋki;ангки;;0;;;;Ob-Ugric;"DeWoS: 136–137; Karjalainen 1913: 210–212";;;;1;;;
+Children;male speaker's child;mC;ńawrɛm;няврэм;;0;;;;Khanty-specific/Ob-Ugric;"DeWoS: 1038; Karjalainen 1913: 240";;;;1;;;
+Children;male speaker's son;mS;pŏχ;пух;;0;;;;Inherited, PU *pojka 'son';Karjalainen 1913: 240–241;;;;1;;;
+Children;male speaker's daughter;mD;ewi;эви;;0;;;;Ugric;"DeWoS: 37; Karjalainen 1913: 217–218";UEW: 835–836;;;1;;;
+Grandparents;male speaker's ancestor;mA;;;;;;;;;;;;;;;;
+Grandparents;male speaker's grandparent;mPP;;;;;;;;;;;;;;;;
+Grandparents;male speaker's father's father;mFF;śat-śaśi;сятсяси;;0;;;;Khanty-specific;"Karjalainen 1913: 242–243; DeWoS: 1544";;;;4;;;
+Grandparents;male speaker's father's mother;mFM;śaśi;сяси;;0;;;;Khanty-specific;Karjalainen 1913: 242–243;;;;1;;;
+Grandparents;male speaker's mother's father;mMF;aŋ-śaśi;ангксяси;;0;;;;Khanty-specific;"DeWoS: 136–137; Karjalainen 1913: 210–212";;;;4;;;
+Grandparents;male speaker's mother's mother;mMM;aŋk-aŋki;ангкангки;;0;;;;Khanty-specific;"DeWoS: 136–137; Karjalainen 1913: 210–212";;;;4;;;
+Grandchildren;male speaker's grandchild;mCC;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's son's son;mSS;χĭʌi;хилы;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;1;;;"younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
+Grandchildren;male speaker's son's daughter;mSD;χĭʌ-nɛ;хилнэ;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;4;;;"son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
+Grandchildren;male speaker's daughter's son;mDS;χĭʌi;хилы;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;1;;;"younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
+Grandchildren;male speaker's daughter's daughter;mDD;χĭʌ-nɛ;хилнэ;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;4;;;"son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
+ParentsSiblings;male speaker's father's brother;mFB;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's brother;mMB;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's sister;mMZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;jaj;яй;;0;;;;Khanty-specific;"DeWoS: 317–318; Karjalainen 1913: 229";;;;1;;;older than ego
+ParentsSiblings;male speaker's father's younger brother;mFyB;apśi;апси;;0;;;;Ob-Ugric;"DeWoS: 149–150; Karjalainen 1913: 213";;;;3;;;younger than ego
+ParentsSiblings;male speaker's father's older sister;mFeZ;śaś-ŏpi;сясюпи;;0;;;;Khanty-specific;DeWoS: 1544;;;;4;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;ŏpi;упи;;0;;;;Inherited;"DeWoS: 146; Karjalainen 1913: 216–217";UEW: 15;;;1;;;older than ego
+ParentsSiblings;male speaker's father's younger sister;mFyZ;apәḷ-nɛ;апалнэ;;0;;;;Kazym-specific;"DeWoS: 149–150; Karjalainen 1913: 212–213";;;;4;;;younger than ego
+ParentsSiblings;male speaker's mother's older sister;mMeZ;ĭmi;ими;;0;;;;Khanty-specific/Inherited, PU *ijmä 'older female relative';"DeWoS: 97–98; Karjalainen 1913: 221–222";Aikio 2020: 58–59;;;1;;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;nĭj;ный;;0;;;;Inherited, PU *näjV?/ Khanty-specific;"DeWoS: 982; Karjalainen 1913: 238";;;;1;;;ablaut of naj
+ParentsSiblings;male speaker's mother's older brother;mMeB;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;wǫrti;вәрты;;0;;;;Khanty-specific;"DeWoS: 182; Karjalainen 1913: 232–233";;;;2;;;
+SiblingsChildren;male speaker's brother's son;mBS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's daughter;mBD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's son;mZS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's daughter;mZD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's son;meBS;jaj;яй;;0;;;;Khanty-specific;"DeWoS: 317–318; Karjalainen 1913: 229";;;;1;;;older than ego
+SiblingsChildren;male speaker's older brother's son;meBS;apśi;апси;;0;;;;Ob-Ugric;"DeWoS: 149–150; Karjalainen 1913: 213";;;;3;;;younger than ego
+SiblingsChildren;male speaker's younger brother's son;myBS;χĭʌi;хилы;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;1;;;"younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
+SiblingsChildren;male speaker's older brother's daughter;meBD;apəḷ-nɛ;апалнэ;;0;;;;Kazym-specific;DeWoS: 149;;;;4;;;younger than ego
+SiblingsChildren;male speaker's older brother's daughter;meBD;ŏpi;упи;;0;;;;Inherited;"DeWoS: 146; Karjalainen 1913: 216–217";UEW: 15;;;1;;;older than ego
+SiblingsChildren;male speaker's younger brother's daughter;myBD;χĭʌ-nɛ;хилнэ;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;4;;;"son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
+SiblingsChildren;male speaker's older sister's son;meZS;ʌɛ-χǫ;;;0;;;;Khanty-specific;"DeWoS: 866; Karjalainen 1913: 244";;;;4;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;χĭʌi;хилы;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;1;;;"younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
+SiblingsChildren;male speaker's older sister's daughter;meZD;ɔr'-nɛ;ортнэ;;0;;;;Kazym-specific;"DeWoS: 181–182; Karjalainen 1913: 225";;;;4;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;χĭʌ-nɛ;хилнэ;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;4;;;"son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
+Cousins;male speaker's father's sister's daughter;mFZD;ɔr'-nɛ;ортнэ;;0;;;;Kazym-specific;"DeWoS: 181–182; Karjalainen 1913: 225";;;;4;;;if the aunt is older than ego
+Cousins;male speaker's father's brother's daughter;mFBD;ŏpi;упи;;0;;;;Inherited;"DeWoS: 146; Karjalainen 1913: 216–217";UEW: 15;;;1;;;older than ego
+Cousins;male speaker's father's brother's daughter;mFBD;apәḷ-nɛ;апалнэ;;0;;;;Kazym-specific;"DeWoS: 149–150; Karjalainen 1913: 212–213";;;;4;;;younger than ego
+Cousins;male speaker's mother's brother's daughter;mMBD;;;;;;;;;;;;;;;;
+Cousins;male speaker's mother's sister's daughter;mMZD;ăs-ewi;асэви;;0;;;;Khanty-specific;"DeWoS: 186; Karjalainen 1913: 218–219";;;;4;;;compound of ăs 'female' (dialectally also 'mother') and ewi 'daughter'
+Cousins;male speaker's father's brother's son;mFBS;jaj;яй;;0;;;;Khanty-specific;"DeWoS: 317–318; Karjalainen 1913: 229";;;;1;;;older than ego
+Cousins;male speaker's father's brother's son;mFBS;apśi;апси;;0;;;;Ob-Ugric;"DeWoS: 149–150; Karjalainen 1913: 213";;;;3;;;younger than ego
+Cousins;male speaker's father's sister's son;mFZS;ʌɛ-χǫ;;;0;;;;Khanty-specific;"DeWoS: 866; Karjalainen 1913: 244";;;;4;;;if the aunt is older than ego
+Cousins;male speaker's mother's brother's son;mMBS;wǫrti;вәрты;;0;;;;Khanty-specific;"DeWoS: 182; Karjalainen 1913: 232–233";;;;2;;;
+Cousins;male speaker's mother's sister's son;mMZS;ăs-pŏχ;аспух;;0;;;;Khanty-specific;"DeWoS: 186; Karjalainen 1913: 218–219";;;;4;;;compound of ăs 'female' (dialectally also 'mother') and pŏχ 'son'
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;χĭʌi;хилы;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;1;;;"younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (if the aunt is younger than ego); son's son; daughter's son'"
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;χĭʌ-nɛ;хилнэ;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;4;;;if the aunt is younger than ego
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;;;;;;;;;;;;;;;;
+Affines;male speaker's husband;mH;ĭj-ĭki;;;0;;;;Khanty-specific;"DeWoS: 17; Karjalainen 1913: 220";;;;4;;;only of old men
+Affines;male speaker's husband;mH;ĭ-χǫ;;;0;;;;Khanty-specific;"DeWoS: 17; Karjalainen 1913: 235";;;;4;;;
+Affines;male speaker's husband;mH;χǫ;хә;;0;;;;Inherited, PU *kojə 'man, husband';"DeWoS: 423–424; Karjalainen 1913: 235";;;;1;;;of young 
+Affines;male speaker's wife;mW;ĭj-ĭmi;;;0;;;;Khanty-specific;"DeWoS: 17; Karjalainen 1913: 222";;;;4;;;
+Affines;male speaker's wife;mW;ĭ-nɛ;;;0;;;;Khanty-specific;Karjalainen 1913: 239–240;;;;4;;;
+Affines;male speaker's wife;mW;nɛ;нэ;;0;;;;Inherited, PU *niŋä;"DeWoS: 977; Karjalainen 1913: 239–240";UEW: 305–306;;;1;;;Uralic comparison far from certain
+Affines;male speaker's husband's father;mHF;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;
+Affines;male speaker's husband's father;mHF;ŭp;;;0;;;;Inherited, PU *ëppə 'father-in-law';"DeWoS: 145; Karjalainen 1913: 228";Aikio 2020: 55–56;;;1;;;
+Affines;male speaker's husband's mother;mHM;wǫntəp;;;0;;;;Inherited, PU *ë/ana-ëppə 'parent-in-law';"DeWoS: 127; Karjalainen 1913: 227–228";Aikio 2020: 54;;;2;;;"Also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
+Affines;male speaker's husband's mother;mHM;ĭmi;ими;;0;;;;Khanty-specific/Inherited, PU *ijmä;"DeWoS: 97–98; Karjalainen 1913: 221–222";Aikio 2020: 58–59;;;1;;;
+Affines;male speaker's wife's father;mWF;ŭp;;;0;;;;Inherited, PU *ëppə 'father-in-law';"DeWoS: 145; Karjalainen 1913: 228";Aikio 2020: 55–56;;;1;;;"wife's father; wife's father's brother; wife's older brother; wife's older brother's son; wife's mother's brother; husband's father'"
+Affines;male speaker's wife's mother;mWM;wǫntəp;;;0;;;;Inherited, PU *ë/ana-ëppə 'parent-in-law';"DeWoS: 127; Karjalainen 1913: 227–228";Aikio 2020: 54;;;2;;;"Also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
+Affines;male speaker's brother's wife;mBW;;;;;;;;;;;;;;;;
+Affines;male speaker's older brother's wife;meBW;ăńxi;аньхи;;0;;;;Inherited, PU *ańə 'sister-in-law';"DeWoS: 130; Karjalainen 1913: 215";Aikio 2020: 18–19;;;2;;;"older brother's wife; stepmother'"
+Affines;male speaker's younger brother's wife;myBW;meń;;;0;;;;Inherited, PU *mińä 'daughter-in-law';"DeWoS: 939; Karjalainen 1913: 237";;;;1;;;"‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
+Affines;male speaker's sister's husband;mZH;wɛŋ;венг;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"DeWoS: 1607; Karjalainen 1913: 232";;;;1;;;"daughter's husband; sister's husband; older brother's daughter's husband; husband's sister's husband; father's sister's husband'"
+Affines;male speaker's wife's brother;mWB;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's older brother;mWeB;ŭp;;;0;;;;Inherited, PU *ëppə 'father-in-law';"DeWoS: 145; Karjalainen 1913: 228";Aikio 2020: 55–56;;;1;;;"wife's father; wife's father's brother; wife's older brother; wife's older brother's son; wife's mother's brother; husband's father'"
+Affines;male speaker's wife's younger brother;mWyB;aj-ŭp;;;0;;;;Khanty-specific;"DeWoS: 145; Karjalainen 1913: 228";;;;4;;;wife's younger brother'
+Affines;male speaker's wife's younger sister;mWyZ;kĭʌi;;;0;;;;Inherited, PU *käləw 'brother/sister-in-law';"DeWoS: 620; Karjalainen 1913: 236";SSA: 471;;;1;;;"‘wife’s younger sister; wife’s younger brother daughter; wife’s older sister; wife’s older brother’s daughter; wife’s younger sister’s husband; wife’s older sister’s husband’, according to SSA a possible contamination in Khanty"
+Affines;male speaker's husband's brother;mHB;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's older brother;mHeB;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;
+Affines;male speaker's husband's younger brother;mHyB;ʌɛ-χǫ;;;0;;;;Khanty-specific;"DeWoS: 866; Karjalainen 1913: 244";;;;4;;;husband's younger brother'
+Affines;male speaker's husband's sister;mHZ;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's older sister;mHeZ;ĭmi;ими;;0;;;;Khanty-specific/Inherited, PU *ijmä;"DeWoS: 97–98; Karjalainen 1913: 221–222";Aikio 2020: 58–59;;;1;;;
+Affines;male speaker's husband's younger sister;mHyZ;aj-wǫntəp;;;0;;;;Khanty-specific;"DeWoS: 127; Karjalainen 1913: 227";;;;4;;;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);ăńxi;аньхи;;0;;;;Inherited, PU *ańə 'sister-in-law';"DeWoS: 130; Karjalainen 1913: 215";Aikio 2020: 18–19;;;2;;;
+Affines;male speaker's mother's husband (not father);mMH(notF);jĭwʌeŋ;;;0;;;;Khanty-specific;"DeWoS: 326; Karjalainen 1913: 230";;;;3;;;"stepfather; mother's younger sister's husband'"
+Affines;male speaker's son's wife;mSW;meń;;;0;;;;Inherited, PU *mińä 'daughter-in-law';"DeWoS: 939; Karjalainen 1913: 237";;;;1;;;"‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
+Affines;male speaker's son's wife's mother;mSWM;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife's father;mSWF;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband;mDH;wɛŋ;венг;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"DeWoS: 1607; Karjalainen 1913: 232";;;;1;;;
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;wɛŋ;венг;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"DeWoS: 1607; Karjalainen 1913: 232";;;;1;;;
+Affines;male speaker's father's older sister's husband;mFeZH;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;father's older sister's husband', cf. mFeB and mMeB
+Affines;male speaker's father's brother's wife;mFBW;meń;;;0;;;;Inherited, PU *mińä 'daughter-in-law';"DeWoS: 939; Karjalainen 1913: 237";;;;1;;;"‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s (younger than ego) brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
+Affines;male speaker's father's older brother's wife;mFeBW;ĭmi;ими;;0;;;;Khanty-specific/Inherited, PU *ijmä;"DeWoS: 97–98; Karjalainen 1913: 221–222";Aikio 2020: 58–59;;;1;;;father's older brother's wife'
+Affines;male speaker's father's younger brother's wife;mFyBW;ăńxi;аньхи;;0;;;;Inherited, PU *ańə 'sister-in-law';"DeWoS: 130; Karjalainen 1913: 215";Aikio 2020: 18–19;;;2;;;father's younger brother's wife'
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's older sister's husband;mMeZH;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;mother's older sister's husband', cf. mFeB and mMeB
+Affines;male speaker's mother's younger sister's husband;mMyZH;jĭwʌeŋ;;;0;;;;Khanty-specific;"DeWoS: 326; Karjalainen 1913: 230";;;;3;;;"stepfather; mother's younger sister's husband'"
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's older brother's wife;mMeBW;ĭmi;ими;;0;;;;Khanty-specific/Inherited, PU *ijmä;"DeWoS: 97–98; Karjalainen 1913: 221–222";Aikio 2020: 58–59;;;1;;;mother's older brother's wife'
+Affines;male speaker's mother's younger brother's wife;mMyBW;ŏpi;упи;;0;;;;Inherited;"DeWoS: 146; Karjalainen 1913: 216–217";UEW: 15;;;1;;;mother's younger brother's wife'
+Affines;male speaker's wife's sister's husband;mWZH;kĭʌi;;;0;;;;Inherited, PU *käləw 'brother/sister-in-law';"DeWoS: 620; Karjalainen 1913: 236";SSA: 471;;;1;;;"‘wife’s younger sister; wife’s younger brother daughter; wife’s older sister; wife’s older brother’s daughter; wife’s younger sister’s husband; wife’s older sister’s husband’, according to SSA a possible contamination in Khanty"
+Affines;male speaker's wife's brother's wife;mWBW;wǫntəp;;;0;;;;Inherited, PU *ë/ana-ëppə 'parent-in-law';"DeWoS: 127; Karjalainen 1913: 227–228";Aikio 2020: 54;;;2;;;"Also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
+Affines;male speaker's husband's sister's husband;mHZH;wɛŋ;венг;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"DeWoS: 1607; Karjalainen 1913: 232";;;;1;;;"daughter's husband; sister's husband; older brother's daughter's husband; husband's sister's husband; father's sister's husband'"
+Affines;male speaker's husband's older brother's wife;mHeBW;wǫntəp;;;0;;;;Inherited, PU *ë/ana-ëppə 'parent-in-law';"DeWoS: 127; Karjalainen 1913: 227–228";Aikio 2020: 54;;;2;;;"Also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
+Affines;male speaker's husband's younger brother's wife;mHyBW;meń;;;0;;;;Inherited, PU *mińä 'daughter-in-law';"DeWoS: 939; Karjalainen 1913: 237";;;;1;;;"‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
+Siblings;female speaker's sibling;fG;;;;;;;;;;;;;;;;
+Siblings;female speaker's brother;fB;jĭw-pŏχ;йивпух;;0;;;;Khanty-specific;"DeWoS: 325–326; Karjalainen 1913: 230–231";;;;4;;;compound of jĭw 'father' and pŏχ 'son'
+Siblings;female speaker's sister;fZ;jĭw-ewi;йивэви;;0;;;;Khanty-specific;"DeWoS: 325–326; Karjalainen 1913: 230–231";;;;4;;;compound of jĭw 'father' and ewi 'daughter'
+Siblings;female speaker's elder brother;feB;jaj;яй;;0;;;;Khanty-specific;"DeWoS: 317–318; Karjalainen 1913: 229";;;;1;;;
+Siblings;female speaker's younger brother;fyB;apәḷi;апалы;;0;;;;Kazym-specific;"DeWoS. 149; Karjalainen 1913: 212";;;;2;;;
+Siblings;female speaker's younger brother;fyB;apśi;апси;;0;;;;Ob-Ugric;"DeWoS: 149–150; Karjalainen 1913: 213";;;;3;;;
+Siblings;female speaker's elder sister;feZ;wǫn jĭw-ewi;;;0;;;;Khanty-specific;DeWoS: 325–326;;;;5;;;wǫn 'big'
+Siblings;female speaker's elder sister;feZ;ŏpi;упи;;0;;;;Inherited;"DeWoS: 146; Karjalainen 1913: 216–217";UEW: 15;;;1;;;The validity of the cognate set presented in UEW as a whole is questionable
+Siblings;female speaker's younger sister;fyZ;aj jĭw-ewi;;;0;;;;Khanty-specific;DeWoS: 325–326;;;;5;;;"aj 'small; young'"
+Siblings;female speaker's younger sister;fyZ;apәḷ-nɛ;апалнэ;;0;;;;Kazym-specific;"DeWoS: 149–150; Karjalainen 1913: 212–213";;;;4;;;
+Parents;female speaker's parent;fP;aŋki-aśi;ангки-аси;;0;;;;Khanty-specific;SHR: 14;;;;4;;;collective copulative compound
+Parents;female speaker's father;fF;aśi;аси;;0;;;;Inherited, PU *äććä etc. 'father';DeWoS: 226;;;;1;;;
+Parents;female speaker's father;fF;jĭw;;;0;;;;Inherited, PU *ekä 'older male relative';"DeWoS: 325–326; Karjalainen 1913: 230–231";Aikio 2020: 42–43;;;1;;;rare
+Parents;female speaker's mother;fM;aŋki;ангки;;0;;;;Ob-Ugric;"DeWoS: 136–137; Karjalainen 1913: 210–212";;;;1;;;
+Children;female speaker's child;fC;ńawrɛm;няврэм;;0;;;;Khanty-specific/Ob-Ugric;"DeWoS: 1038; Karjalainen 1913: 240";;;;1;;;
+Children;female speaker's son;fS;pŏχ;пух;;0;;;;Inherited, PU *pojka 'son';Karjalainen 1913: 240–241;;;;1;;;
+Children;female speaker's daughter;fD;ewi;эви;;0;;;;Ugric;"DeWoS: 37; Karjalainen 1913: 217–218";UEW: 835–836;;;1;;;
+Grandparents;female speaker's ancestor;fA;;;;;;;;;;;;;;;;
+Grandparents;female speaker's grandparent;fPP;;;;;;;;;;;;;;;;
+Grandparents;female speaker's father's father;fFF;śat-śaśi;сятсяси;;0;;;;Khanty-specific;"Karjalainen 1913: 242–243; DeWoS: 1544";;;;4;;;
+Grandparents;female speaker's father's mother;fFM;śaśi;сяси;;0;;;;Khanty-specific;Karjalainen 1913: 242–243;;;;1;;;
+Grandparents;female speaker's mother's father;fMF;aŋ-śaśi;ангксяси;;0;;;;Khanty-specific;"DeWoS: 136–137; Karjalainen 1913: 210–212";;;;4;;;
+Grandparents;female speaker's mother's mother;fMM;aŋk-aŋki;ангкангки;;0;;;;Khanty-specific;"DeWoS: 136–137; Karjalainen 1913: 210–212";;;;4;;;
+Grandchildren;female speaker's grandchild;fCC;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's son's son;fSS;χĭʌi;хилы;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;1;;;"younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
+Grandchildren;female speaker's son's daughter;fSD;χĭʌ-nɛ;хилнэ;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;4;;;"son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
+Grandchildren;female speaker's daughter's son;fDS;χĭʌi;хилы;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;1;;;"younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
+Grandchildren;female speaker's daughter's daughter;fDD;χĭʌ-nɛ;хилнэ;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;4;;;"son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
+ParentsSiblings;female speaker's father's brother;fFB;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's brother;fMB;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's sister;fMZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;jaj;яй;;0;;;;Khanty-specific;"DeWoS: 317–318; Karjalainen 1913: 229";;;;1;;;older than ego
+ParentsSiblings;female speaker's father's younger brother;fFyB;apśi;апси;;0;;;;Ob-Ugric;"DeWoS: 149–150; Karjalainen 1913: 213";;;;3;;;younger than ego
+ParentsSiblings;female speaker's father's older sister;fFeZ;śaś-ŏpi;сясюпи;;0;;;;Khanty-specific;DeWoS: 1544;;;;4;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;ŏpi;упи;;0;;;;Inherited;"DeWoS: 146; Karjalainen 1913: 216–217";UEW: 15;;;1;;;older than ego
+ParentsSiblings;female speaker's father's younger sister;fFyZ;apәḷ-nɛ;апалнэ;;0;;;;Kazym-specific;"DeWoS: 149–150; Karjalainen 1913: 212–213";;;;4;;;younger than ego
+ParentsSiblings;female speaker's mother's older sister;fMeZ;ĭmi;ими;;0;;;;Khanty-specific/Inherited, PU *ijmä 'older female relative';"DeWoS: 97–98; Karjalainen 1913: 221–222";Aikio 2020: 58–59;;;1;;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;nĭj;ный;;0;;;;Inherited, PU *näjV?/ Khanty-specific;"DeWoS: 982; Karjalainen 1913: 238";;;;1;;;ablaut of naj
+ParentsSiblings;female speaker's mother's older brother;fMeB;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;wǫrti;вәрты;;0;;;;Khanty-specific;"DeWoS: 182; Karjalainen 1913: 232–233";;;;2;;;
+SiblingsChildren;female speaker's brother's son;fBS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's daughter;fBD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's son;fZS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's daughter;fZD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's son;feBS;jaj;яй;;0;;;;Khanty-specific;"DeWoS: 317–318; Karjalainen 1913: 229";;;;1;;;older than ego
+SiblingsChildren;female speaker's older brother's son;feBS;apśi;апси;;0;;;;Ob-Ugric;"DeWoS: 149–150; Karjalainen 1913: 213";;;;3;;;younger than ego
+SiblingsChildren;female speaker's younger brother's son;fyBS;χĭʌi;хилы;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;1;;;"younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
+SiblingsChildren;female speaker's older brother's daughter;feBD;apəḷ-nɛ;апалнэ;;0;;;;Kazym-specific;DeWoS: 149;;;;4;;;younger than ego
+SiblingsChildren;female speaker's older brother's daughter;feBD;ŏpi;упи;;0;;;;Inherited;"DeWoS: 146; Karjalainen 1913: 216–217";UEW: 15;;;1;;;older than ego
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;χĭʌ-nɛ;хилнэ;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;4;;;"son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
+SiblingsChildren;female speaker's older sister's son;feZS;ʌɛ-χǫ;;;0;;;;Khanty-specific;"DeWoS: 866; Karjalainen 1913: 244";;;;4;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;χĭʌi;хилы;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;1;;;"younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (when the aunt is younger than ego); son's son; daughter's son'"
+SiblingsChildren;female speaker's older sister's daughter;feZD;ɔr'-nɛ;ортнэ;;0;;;;Kazym-specific;"DeWoS: 181–182; Karjalainen 1913: 225";;;;4;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;χĭʌ-nɛ;хилнэ;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;4;;;"son's daughter; daughter's daughter; younger brother's daughter; younger sister's daughter; father's younger sister's daughter (when the aunt is younger than ego); husband's younger brother's daughter; husband's older sister's daughter; wife's younger sister's daughter', a compound of χĭʌi and nɛ 'woman'"
+Cousins;female speaker's father's sister's daughter;fFZD;ɔr'-nɛ;ортнэ;;0;;;;Kazym-specific;"DeWoS: 181–182; Karjalainen 1913: 225";;;;4;;;if the aunt is older than ego
+Cousins;female speaker's father's brother's daughter;fFBD;ŏpi;упи;;0;;;;Inherited;"DeWoS: 146; Karjalainen 1913: 216–217";UEW: 15;;;1;;;older than ego
+Cousins;female speaker's father's brother's daughter;fFBD;apәḷ-nɛ;апалнэ;;0;;;;Kazym-specific;"DeWoS: 149–150; Karjalainen 1913: 212–213";;;;4;;;younger than ego
+Cousins;female speaker's mother's brother's daughter;fMBD;;;;;;;;;;;;;;;;
+Cousins;female speaker's mother's sister's daughter;fMZD;ăs-ewi;асэви;;0;;;;Khanty-specific;"DeWoS: 186; Karjalainen 1913: 218–219";;;;4;;;compound of ăs 'female' (dialectally also 'mother') and ewi 'daughter'
+Cousins;female speaker's father's brother's son;fFBS;jaj;яй;;0;;;;Khanty-specific;"DeWoS: 317–318; Karjalainen 1913: 229";;;;1;;;older than ego
+Cousins;female speaker's father's brother's son;fFBS;apśi;апси;;0;;;;Ob-Ugric;"DeWoS: 149–150; Karjalainen 1913: 213";;;;3;;;younger than ego
+Cousins;female speaker's father's sister's son;fFZS;ʌɛ-χǫ;;;0;;;;Khanty-specific;"DeWoS: 866; Karjalainen 1913: 244";;;;4;;;if the aunt is older than ego
+Cousins;female speaker's mother's brother's son;fMBS;wǫrti;вәрты;;0;;;;Khanty-specific;"DeWoS: 182; Karjalainen 1913: 232–233";;;;2;;;
+Cousins;female speaker's mother's sister's son;fMZS;ăs-pŏχ;аспух;;0;;;;Khanty-specific;"DeWoS: 186; Karjalainen 1913: 218–219";;;;4;;;compound of ăs 'female' (dialectally also 'mother') and pŏχ 'son'
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;χĭʌi;хилы;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;1;;;"younger brother' son; younger sister's son; husband's younger sister's son; husband's older sister's son; wife's younger sister's son; father's younger sister's son (if the aunt is younger than ego); son's son; daughter's son'"
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;χĭʌ-nɛ;хилнэ;;0;;;;Khanty-specific;"DeWoS: 475–476; Karjalainen 1913: 234–235";;;;4;;;if the aunt is younger than ego
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;;;;;;;;;;;;;;;;
+Affines;female speaker's husband;fH;ĭj-ĭki;;;0;;;;Khanty-specific;"DeWoS: 17; Karjalainen 1913: 220";;;;4;;;only of old men
+Affines;female speaker's husband;fH;ĭ-χǫ;;;0;;;;Khanty-specific;"DeWoS: 17; Karjalainen 1913: 235";;;;4;;;
+Affines;female speaker's husband;fH;χǫ;хә;;0;;;;Inherited, PU *kojə 'man, husband';"DeWoS: 423–424; Karjalainen 1913: 235";;;;1;;;of young 
+Affines;female speaker's wife;fW;ĭj-ĭmi;;;0;;;;Khanty-specific;"DeWoS: 17; Karjalainen 1913: 222";;;;4;;;
+Affines;female speaker's wife;fW;ĭ-nɛ;;;0;;;;Khanty-specific;Karjalainen 1913: 239–240;;;;4;;;
+Affines;female speaker's wife;fW;nɛ;нэ;;0;;;;Inherited, PU *niŋä;"DeWoS: 977; Karjalainen 1913: 239–240";UEW: 305–306;;;1;;;Uralic comparison far from certain
+Affines;female speaker's husband's father;fHF;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;
+Affines;female speaker's husband's father;fHF;ŭp;;;0;;;;Inherited, PU *ëppə 'father-in-law';"DeWoS: 145; Karjalainen 1913: 228";Aikio 2020: 55–56;;;1;;;
+Affines;female speaker's husband's mother;fHM;wǫntəp;;;0;;;;Inherited, PU *ë/ana-ëppə 'parent-in-law';"DeWoS: 127; Karjalainen 1913: 227–228";Aikio 2020: 54;;;2;;;"Also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
+Affines;female speaker's husband's mother;fHM;ĭmi;ими;;0;;;;Khanty-specific/Inherited, PU *ijmä;"DeWoS: 97–98; Karjalainen 1913: 221–222";Aikio 2020: 58–59;;;1;;;
+Affines;female speaker's wife's father;fWF;ŭp;;;0;;;;Inherited, PU *ëppə 'father-in-law';"DeWoS: 145; Karjalainen 1913: 228";Aikio 2020: 55–56;;;1;;;"wife's father; wife's father's brother; wife's older brother; wife's older brother's son; wife's mother's brother; husband's father'"
+Affines;female speaker's wife's mother;fWM;wǫntəp;;;0;;;;Inherited, PU *ë/ana-ëppə 'parent-in-law';"DeWoS: 127; Karjalainen 1913: 227–228";Aikio 2020: 54;;;2;;;"Also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
+Affines;female speaker's brother's wife;fBW;;;;;;;;;;;;;;;;
+Affines;female speaker's older brother's wife;feBW;ăńxi;аньхи;;0;;;;Inherited, PU *ańə 'sister-in-law';"DeWoS: 130; Karjalainen 1913: 215";Aikio 2020: 18–19;;;2;;;"older brother's wife; stepmother'"
+Affines;female speaker's younger brother's wife;fyBW;meń;;;0;;;;Inherited, PU *mińä 'daughter-in-law';"DeWoS: 939; Karjalainen 1913: 237";;;;1;;;"‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
+Affines;female speaker's sister's husband;fZH;wɛŋ;венг;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"DeWoS: 1607; Karjalainen 1913: 232";;;;1;;;"daughter's husband; sister's husband; older brother's daughter's husband; husband's sister's husband; father's sister's husband'"
+Affines;female speaker's wife's brother;fWB;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's older brother;fWeB;ŭp;;;0;;;;Inherited, PU *ëppə 'father-in-law';"DeWoS: 145; Karjalainen 1913: 228";Aikio 2020: 55–56;;;1;;;"wife's father; wife's father's brother; wife's older brother; wife's older brother's son; wife's mother's brother; husband's father'"
+Affines;female speaker's wife's younger brother;fWyB;aj-ŭp;;;0;;;;Khanty-specific;"DeWoS: 145; Karjalainen 1913: 228";;;;4;;;wife's younger brother'
+Affines;female speaker's wife's younger sister;fWyZ;kĭʌi;;;0;;;;Inherited, PU *käləw 'brother/sister-in-law';"DeWoS: 620; Karjalainen 1913: 236";SSA: 471;;;1;;;"‘wife’s younger sister; wife’s younger brother daughter; wife’s older sister; wife’s older brother’s daughter; wife’s younger sister’s husband; wife’s older sister’s husband’, according to SSA a possible contamination in Khanty"
+Affines;female speaker's husband's brother;fHB;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's older brother;fHeB;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;
+Affines;female speaker's husband's younger brother;fHyB;ʌɛ-χǫ;;;0;;;;Khanty-specific;"DeWoS: 866; Karjalainen 1913: 244";;;;4;;;husband's younger brother'
+Affines;female speaker's husband's sister;fHZ;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's older sister;fHeZ;ĭmi;ими;;0;;;;Khanty-specific/Inherited, PU *ijmä;"DeWoS: 97–98; Karjalainen 1913: 221–222";Aikio 2020: 58–59;;;1;;;
+Affines;female speaker's husband's younger sister;fHyZ;aj-wǫntəp;;;0;;;;Khanty-specific;"DeWoS: 127; Karjalainen 1913: 227";;;;4;;;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);ăńxi;аньхи;;0;;;;Inherited, PU *ańə 'sister-in-law';"DeWoS: 130; Karjalainen 1913: 215";Aikio 2020: 18–19;;;2;;;
+Affines;female speaker's mother's husband (not father);fMH(notF);jĭwʌeŋ;;;0;;;;Khanty-specific;"DeWoS: 326; Karjalainen 1913: 230";;;;3;;;"stepfather; mother's younger sister's husband'"
+Affines;female speaker's son's wife;fSW;meń;;;0;;;;Inherited, PU *mińä 'daughter-in-law';"DeWoS: 939; Karjalainen 1913: 237";;;;1;;;"‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
+Affines;female speaker's son's wife's mother;fSWM;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife's father;fSWF;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband;fDH;wɛŋ;венг;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"DeWoS: 1607; Karjalainen 1913: 232";;;;1;;;
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;wɛŋ;венг;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"DeWoS: 1607; Karjalainen 1913: 232";;;;1;;;
+Affines;female speaker's father's older sister's husband;fFeZH;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;father's older sister's husband', cf. mFeB and mMeB
+Affines;female speaker's father's brother's wife;fFBW;meń;;;0;;;;Inherited, PU *mińä 'daughter-in-law';"DeWoS: 939; Karjalainen 1913: 237";;;;1;;;"‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s (younger than ego) brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"
+Affines;female speaker's father's older brother's wife;fFeBW;ĭmi;ими;;0;;;;Khanty-specific/Inherited, PU *ijmä;"DeWoS: 97–98; Karjalainen 1913: 221–222";Aikio 2020: 58–59;;;1;;;father's older brother's wife'
+Affines;female speaker's father's younger brother's wife;fFyBW;ăńxi;аньхи;;0;;;;Inherited, PU *ańə 'sister-in-law';"DeWoS: 130; Karjalainen 1913: 215";Aikio 2020: 18–19;;;2;;;father's younger brother's wife'
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's older sister's husband;fMeZH;aki;аки;*äki;3;;;Mansi;?;"DeWoS: 36; Karjalainen 1913: 209–210";Aikio 2020: 42–43;;;1;;;mother's older sister's husband', cf. mFeB and mMeB
+Affines;female speaker's mother's younger sister's husband;fMyZH;jĭwʌeŋ;;;0;;;;Khanty-specific;"DeWoS: 326; Karjalainen 1913: 230";;;;3;;;"stepfather; mother's younger sister's husband'"
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's older brother's wife;fMeBW;ĭmi;ими;;0;;;;Khanty-specific/Inherited, PU *ijmä;"DeWoS: 97–98; Karjalainen 1913: 221–222";Aikio 2020: 58–59;;;1;;;mother's older brother's wife'
+Affines;female speaker's mother's younger brother's wife;fMyBW;ŏpi;упи;;0;;;;Inherited;"DeWoS: 146; Karjalainen 1913: 216–217";UEW: 15;;;1;;;mother's younger brother's wife'
+Affines;female speaker's wife's sister's husband;fWZH;kĭʌi;;;0;;;;Inherited, PU *käləw 'brother/sister-in-law';"DeWoS: 620; Karjalainen 1913: 236";SSA: 471;;;1;;;"‘wife’s younger sister; wife’s younger brother daughter; wife’s older sister; wife’s older brother’s daughter; wife’s younger sister’s husband; wife’s older sister’s husband’, according to SSA a possible contamination in Khanty"
+Affines;female speaker's wife's brother's wife;fWBW;wǫntəp;;;0;;;;Inherited, PU *ë/ana-ëppə 'parent-in-law';"DeWoS: 127; Karjalainen 1913: 227–228";Aikio 2020: 54;;;2;;;"Also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
+Affines;female speaker's husband's sister's husband;fHZH;wɛŋ;венг;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"DeWoS: 1607; Karjalainen 1913: 232";;;;1;;;"daughter's husband; sister's husband; older brother's daughter's husband; husband's sister's husband; father's sister's husband'"
+Affines;female speaker's husband's older brother's wife;fHeBW;wǫntəp;;;0;;;;Inherited, PU *ë/ana-ëppə 'parent-in-law';"DeWoS: 127; Karjalainen 1913: 227–228";Aikio 2020: 54;;;2;;;"Also ‘wife’s mother; wife’s older brother’s wife; wife’s mother’s sister; wife’s younger brother’s wife; husband’s mother; husband’s older brother’s wife’ "
+Affines;female speaker's husband's younger brother's wife;fHyBW;meń;;;0;;;;Inherited, PU *mińä 'daughter-in-law';"DeWoS: 939; Karjalainen 1913: 237";;;;1;;;"‘son’s wife; younger brother’s wife; older brother’s son’s wife (younger than ego); husband’s younger brother’s wife; younger brother’s son’ wife; younger sister’s son’s wife; older sister’s son’s wife; father’s brother’s wife; father’s older brother’s son’s wife (younger than ego); father’s (older or younger) sister’s son’s wife’"

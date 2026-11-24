@@ -1,251 +1,259 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","sisarukset",,,"",,"KtS","usually pluralized"
-"mB","veli",,,"",,"KtS",""
-"mZ","sisko",,,"",,"KtS",""
-"mZ","sisar",,,"",,"KtS",""
-"meB","",,,"",,"",""
-"myB","",,,"",,"",""
-"meZ","",,,"",,"",""
-"myZ","",,,"",,"",""
-"mP","vanhemmat",,,"",,"KtS","usually pluralized"
-"mF","isä",,,"isi, iskä",,"KtS",""
-"mM","äiti",,,"",,"KtS",""
-"mC","lapsi",,,"",,"KtS",""
-"mS","poika",,,"",,"KtS",""
-"mD","tytär",,,"",,"KtS",""
-"mA","esi-isät",,,"",,"KtS","also means forefathers, when pluralized usually 'ancestors'"
-"mA","esivanhemmat",,,"",,"KtS",""
-"mPP","isovanhemmat",,,"",,"KtS",""
-"mFF","isänisä",,,"",,"KtS",""
-"mFF","vaari",,,"",,"KtS",""
-"mFF","ukki",,,"",,"KtS",""
-"mFF","pappa",,,"",,"KtS",""
-"mFM","isänäiti",,,"",,"KtS",""
-"mFM","mummo",,,"mummu, mummi",,"KtS",""
-"mMF","äidinisä",,,"",,"KtS",""
-"mMF","vaari",,,"",,"KtS",""
-"mMF","ukki",,,"",,"KtS",""
-"mMF","pappa",,,"",,"KtS",""
-"mMM","äidinäiti",,,"",,"KtS",""
-"mMM","mummo",,,"mummu, mummi",,"KtS",""
-"mCC","lapsenlapsi",,,"",,"KtS",""
-"mSS","pojanpoika",,,"",,"KtS",""
-"mSD","pojantytär",,,"",,"KtS",""
-"mDS","tyttärenpoika",,,"",,"KtS",""
-"mDD","tyttärentytär",,,"",,"KtS",""
-"mFB","setä",,,"",,"KtS",""
-"mFZ","täti",,,"",,"KtS",""
-"mMB","eno",,,"",,"KtS",""
-"mMZ","täti",,,"",,"KtS",""
-"mFeB","",,,"",,"",""
-"mFyB","",,,"",,"",""
-"mFeZ","",,,"",,"",""
-"mFyZ","",,,"",,"",""
-"mMeZ","",,,"",,"",""
-"mMyZ","",,,"",,"",""
-"mMeB","",,,"",,"",""
-"mMyB","",,,"",,"",""
-"mBS","veljenpoika",,,"",,"KtS",""
-"mBD","veljentytär",,,"",,"KtS",""
-"mZS","sisarenpoika",,,"",,"KtS",""
-"mZD","sisarentytär",,,"",,"KtS",""
-"meBS","",,,"",,"",""
-"myBS","",,,"",,"",""
-"meBD","",,,"",,"",""
-"myBD","",,,"",,"",""
-"meZS","",,,"",,"",""
-"myZS","",,,"",,"",""
-"meZD","",,,"",,"",""
-"myZD","",,,"",,"",""
-"mFZD","serkku",,,"",,"KtS",""
-"mFBD","serkku",,,"",,"KtS",""
-"mMBD","serkku",,,"",,"KtS",""
-"mMZD","serkku",,,"",,"KtS",""
-"mFBS","serkku",,,"",,"KtS",""
-"mFZS","serkku",,,"",,"KtS",""
-"mMBS","serkku",,,"",,"KtS",""
-"mMZS","serkku",,,"",,"KtS",""
-"mFeBS","",,,"",,"",""
-"mFyBS","",,,"",,"",""
-"mFeZS","",,,"",,"",""
-"mFyZS","",,,"",,"",""
-"mFeBD","",,,"",,"",""
-"mFyBD","",,,"",,"",""
-"mFeZD","",,,"",,"",""
-"mFyZD","",,,"",,"",""
-"mMeBS","",,,"",,"",""
-"mMyBS","",,,"",,"",""
-"mMeZS","",,,"",,"",""
-"mMyZS","",,,"",,"",""
-"mMeBD","",,,"",,"",""
-"mMyBD","",,,"",,"",""
-"mMeZD","",,,"",,"",""
-"mMyZD","",,,"",,"",""
-"mFBeS","",,,"",,"",""
-"mFByS","",,,"",,"",""
-"mFZeS","",,,"",,"",""
-"mFZyS","",,,"",,"",""
-"mFBeD","",,,"",,"",""
-"mFByD","",,,"",,"",""
-"mFZeD","",,,"",,"",""
-"mFZyD","",,,"",,"",""
-"mMBeS","",,,"",,"",""
-"mMByS","",,,"",,"",""
-"mMZeS","",,,"",,"",""
-"mMZyS","",,,"",,"",""
-"mMBeD","",,,"",,"",""
-"mMByD","",,,"",,"",""
-"mMZeD","",,,"",,"",""
-"mMZyD","",,,"",,"",""
-"mE","puoliso",,,"",,"KtS",""
-"mH","aviomies",,,"",,"KtS",""
-"mW","vaimo",,,"",,"KtS",""
-"mHF","appi(ukko)",,,"",,"KtS",""
-"mHM","anoppi",,,"",,"KtS",""
-"mWF","appi(ukko)",,,"",,"KtS",""
-"mWM","anoppi",,,"",,"KtS",""
-"mBW","käly",,,"",,"KtS",""
-"mZH","lanko",,,"",,"KtS",""
-"mWB","lanko",,,"",,"KtS",""
-"mWZ","käly",,,"",,"KtS",""
-"mHB","lanko",,,"",,"KtS",""
-"mHZ","käly",,,"",,"KtS",""
-"mco-W","",,,"",,"",""
-"mco-H","",,,"",,"",""
-"mFW(notM)","äitipuoli",,,"",,"KtS",""
-"mMH(notF)","isäpuoli",,,"",,"KtS",""
-"mSW","miniä",,,"",,"KtS",""
-"mSWM","",,,"",,"",""
-"mSWF","",,,"",,"",""
-"mDH","vävy",,,"",,"KtS",""
-"mDHM","",,,"",,"",""
-"mDHF","",,,"",,"",""
-"mFZH","",,,"",,"",""
-"mFBW","",,,"",,"",""
-"mMZH","",,,"",,"",""
-"mMBW","",,,"",,"",""
-"fG","sisarukset",,,"",,"KtS","usually pluralized"
-"fB","veli",,,"",,"KtS",""
-"fZ","sisko",,,"",,"KtS",""
-"fZ","sisar",,,"",,"KtS",""
-"feB","",,,"",,"",""
-"fyB","",,,"",,"",""
-"feZ","",,,"",,"",""
-"fyZ","",,,"",,"",""
-"fP","vanhemmat",,,"",,"KtS","usually pluralized"
-"fF","isä",,,"isi, iskä",,"KtS",""
-"fM","äiti",,,"",,"KtS",""
-"fC","lapsi",,,"",,"KtS",""
-"fS","poika",,,"",,"KtS",""
-"fD","tytär",,,"",,"KtS",""
-"fA","esi-isät",,,"",,"KtS","also means forefathers, when pluralized usually 'ancestors'"
-"fA","esivanhemmat",,,"",,"KtS",""
-"fPP","isovanhemmat",,,"",,"KtS",""
-"fFF","isänisä",,,"",,"KtS",""
-"fFF","vaari",,,"",,"KtS",""
-"fFF","ukki",,,"",,"KtS",""
-"fFF","pappa",,,"",,"KtS",""
-"fFM","isänäiti",,,"",,"KtS",""
-"fFM","mummo",,,"mummu, mummi",,"KtS",""
-"fMF","äidinisä",,,"",,"KtS",""
-"fMF","vaari",,,"",,"KtS",""
-"fMF","ukki",,,"",,"KtS",""
-"fMF","pappa",,,"",,"KtS",""
-"fMM","äidinäiti",,,"",,"KtS",""
-"fMM","mummo",,,"mummu, mummi",,"KtS",""
-"fCC","lapsenlapsi",,,"",,"KtS",""
-"fSS","pojanpoika",,,"",,"KtS",""
-"fSD","pojantytär",,,"",,"KtS",""
-"fDS","tyttärenpoika",,,"",,"KtS",""
-"fDD","tyttärentytär",,,"",,"KtS",""
-"fFB","setä",,,"",,"KtS",""
-"fFZ","täti",,,"",,"KtS",""
-"fMB","eno",,,"",,"KtS",""
-"fMZ","täti",,,"",,"KtS",""
-"fFeB","",,,"",,"",""
-"fFyB","",,,"",,"",""
-"fFeZ","",,,"",,"",""
-"fFyZ","",,,"",,"",""
-"fMeZ","",,,"",,"",""
-"fMyZ","",,,"",,"",""
-"fMeB","",,,"",,"",""
-"fMyB","",,,"",,"",""
-"fBS","veljenpoika",,,"",,"KtS",""
-"fBD","veljentytär",,,"",,"KtS",""
-"fZS","sisarenpoika",,,"",,"KtS",""
-"fZD","sisarentytär",,,"",,"KtS",""
-"feBS","",,,"",,"",""
-"fyBS","",,,"",,"",""
-"feBD","",,,"",,"",""
-"fyBD","",,,"",,"",""
-"feZS","",,,"",,"",""
-"fyZS","",,,"",,"",""
-"feZD","",,,"",,"",""
-"fyZD","",,,"",,"",""
-"fFZD","serkku",,,"",,"KtS",""
-"fFBD","serkku",,,"",,"KtS",""
-"fMBD","serkku",,,"",,"KtS",""
-"fMZD","serkku",,,"",,"KtS",""
-"fFBS","serkku",,,"",,"KtS",""
-"fFZS","serkku",,,"",,"KtS",""
-"fMBS","serkku",,,"",,"KtS",""
-"fMZS","serkku",,,"",,"KtS",""
-"fFeBS","",,,"",,"",""
-"fFyBS","",,,"",,"",""
-"fFeZS","",,,"",,"",""
-"fFyZS","",,,"",,"",""
-"fFeBD","",,,"",,"",""
-"fFyBD","",,,"",,"",""
-"fFeZD","",,,"",,"",""
-"fFyZD","",,,"",,"",""
-"fMeBS","",,,"",,"",""
-"fMyBS","",,,"",,"",""
-"fMeZS","",,,"",,"",""
-"fMyZS","",,,"",,"",""
-"fMeBD","",,,"",,"",""
-"fMyBD","",,,"",,"",""
-"fMeZD","",,,"",,"",""
-"fMyZD","",,,"",,"",""
-"fFBeS","",,,"",,"",""
-"fFByS","",,,"",,"",""
-"fFZeS","",,,"",,"",""
-"fFZyS","",,,"",,"",""
-"fFBeD","",,,"",,"",""
-"fFByD","",,,"",,"",""
-"fFZeD","",,,"",,"",""
-"fFZyD","",,,"",,"",""
-"fMBeS","",,,"",,"",""
-"fMByS","",,,"",,"",""
-"fMZeS","",,,"",,"",""
-"fMZyS","",,,"",,"",""
-"fMBeD","",,,"",,"",""
-"fMByD","",,,"",,"",""
-"fMZeD","",,,"",,"",""
-"fMZyD","",,,"",,"",""
-"fE","puoliso",,,"",,"KtS",""
-"fH","aviomies",,,"",,"KtS",""
-"fW","vaimo",,,"",,"KtS",""
-"fHF","appi(ukko)",,,"",,"KtS",""
-"fHM","anoppi",,,"",,"KtS",""
-"fWF","appi(ukko)",,,"",,"KtS",""
-"fWM","anoppi",,,"",,"KtS",""
-"fBW","käly",,,"",,"KtS",""
-"fZH","lanko",,,"",,"KtS",""
-"fWB","lanko",,,"",,"KtS",""
-"fWZ","käly",,,"",,"KtS",""
-"fHB","lanko",,,"",,"KtS",""
-"fHZ","käly",,,"",,"KtS",""
-"fco-W","",,,"",,"",""
-"fco-H","",,,"",,"",""
-"fFW(notM)","äitipuoli",,,"",,"KtS",""
-"fMH(notF)","isäpuoli",,,"",,"KtS",""
-"fSW","miniä",,,"",,"KtS",""
-"fSWM","",,,"",,"",""
-"fSWF","",,,"",,"",""
-"fDH","vävy",,,"",,"KtS",""
-"fDHM","",,,"",,"",""
-"fDHF","",,,"",,"",""
-"fFZH","",,,"",,"",""
-"fFBW","",,,"",,"",""
-"fMZH","",,,"",,"",""
-"fMBW","",,,"",,"",""
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments;Deeper donor language ;Ref. for deeper donor language
+Siblings;male speaker's sibling;mG;sisarukset;;syskon;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;Milanova et al. 2024: 332–333;;;3;;;The ultimate source may be NHG Geschwister (DWDS s.v);PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Siblings;male speaker's brother;mB;veli;;*sweljan-;2;;;Proto-Germanic;1st millennium BCE;KtS;"LägLoS: 386–387; Metsäranta 2023";;replacement;1;;;;Late PIE;Olsen (2020: 133-134), Milanova (2020: 160)
+Siblings;male speaker's sister;mZ;sisko;;;0;;One of the constituents is borrowed;;Finnish-specific;KtS;SSA: 187;;;2;;;;;
+Siblings;male speaker's sister;mZ;sisar;;*ses-(e)r;4;;;Baltic;1st millennium BCE;KtS;SSA: 187;;replacement;1;;;;PIE ;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Siblings;male speaker's elder brother;meB;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's younger brother;myB;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's elder sister;meZ;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's younger sister;myZ;;;;;;;;;;;;;;;;;;
+Parents;male speaker's parent;mP;vanhemmat;;elderen;3;1;;Middle Low German;12th–16th c. CE;KtS;Milanova et al. 2024: 328–330;;;3;;;Singular is possible, but the plural is exceedingly more common;;
+Parents;male speaker's father;mF;isä;;;0;;;;Inherited, PU *ićä;KtS;"SSA: 229; Aikio 2020: 30–31";;;1;;;;;
+Parents;male speaker's mother;mM;äiti;;*aiþīn;4;;;Germanic;Second half of the first millennium CE;KtS;LägLoS: 429–430;;replacement;1;;;;Proto-Germanic with further IE parallels;Hansen (2020: 373-375), Milanova (2020: 85)
+Children;male speaker's child;mC;lapsi;;;0;;;;Inherited, PU *lëpćə;KtS;Aikio 2015: 58;;;1;;;PU meaning seems to have been 'cradle', 'child' is apparently a Finnic innovation;;
+Children;male speaker's son;mS;poika;;;0;;;;Inherited, PU *pojka;KtS;SSA: 385;;;1;;;;;
+Children;male speaker's daughter;mD;tytär;;*duktēr-;4;;;Baltic;1st millennium BCE;KtS;SSA: 349;;replacement;1;;;;PIE;Olsen (2020: 60-62), Milanova (2020: 94-95, 167-175)
+Grandparents;male speaker's ancestor;mA;esi-isät;;vȫrvāder;3;1;;Middle Low German;12th–16th c. CE;KtS;cf. esivanhemmat, Köbler, MLG s.v;;;4;;;Although a compound consisting of esi 'fore' and isä 'father', the plural generally refers to ancestors of both sexes;;
+Grandparents;male speaker's ancestor;mA;esivanhemmat;;vȫreldern ;3;1;;Middle Low German;12th–16th c. CE;KtS;Milanova et al. 2024: 328–330 and appendix 2.9;;;4;;;Singular is possible, but the plural is exceedingly more common;;
+Grandparents;male speaker's grandparent;mPP;isovanhemmat;;MLG grōtölderen or NHG Großeltern ;3;1;;Low/High German;14th century CE on ;KtS;Köbler, MLG s.v. grōtölderen, DWDS s.v. Großvater;;;4;;;Singular is possible, but the plural is exceedingly more common;;
+Grandparents;male speaker's father's father;mFF;isoisä;;MLG grōtvāter or NHG Großvater;3;1;;Low/High German;14th century CE on ;KtS;;;;4;;;;;
+Grandparents;male speaker's father's father;mFF;isänisä;;farfar;3;1;;Swedish;recent centuries ;KtS;;;;4;;isoisä;;;
+Grandparents;male speaker's father's father;mFF;vaari;;far;4;;;Swedish;recent centuries ;KtS;SSA: 386;father;coexistence;1;;;;PIE;Olsen (2020: 46-52), Milanova (2020: 75-78, 167-175)
+Grandparents;male speaker's father's father;mFF;ukki;;;0;;;;Finnic-specific;KtS;SSA: 369;;coexistence;1;;ukko;;;
+Grandparents;male speaker's father's father;mFF;pappa;;pappa;4;;;Swedish;recent centuries ;KtS;SSA: 311;father;coexistence;1;;;;;
+Grandparents;male speaker's father's mother;mFM;isoäiti;;MLG  grōtmōder or NHG Großmutter;3;1;;Middle Low German;14th century CE on ;KtS;;;;4;;;;;
+Grandparents;male speaker's father's mother;mFM;isänäiti;;farmor;3;1;;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandparents;male speaker's father's mother;mFM;mummo;;mummu, mumm;4;;;Swedish;recent centuries ;KtS;SSA: 178;mother's mother;;1;;mummi, mummu;;;
+Grandparents;male speaker's mother's father;mMF;isoisä;;MLG grōtvāter or NHG Großvater;3;1;;Low/High German;14th century CE on ;KtS;;;;4;;;;;
+Grandparents;male speaker's mother's father;mMF;äidinisä;;morfar;3;1;;Swedish;recent centuries ;KtS;;;;4;;isoisä;;;
+Grandparents;male speaker's mother's father;mMF;vaari;;far;4;;;Swedish;recent centuries ;KtS;SSA: 386;father;coexistence;1;;;;PIE;Olsen (2020: 46-52), Milanova (2020: 75-78, 167-175)
+Grandparents;male speaker's mother's father;mMF;ukki;;;0;;;;Finnic-specific;KtS;SSA: 369;;coexistence;1;;ukko;;;
+Grandparents;male speaker's mother's father;mMF;pappa;;pappa;4;;;Swedish;recent centuries ;KtS;SSA: 311;father;coexistence;1;;;;;
+Grandparents;male speaker's mother's mother;mMM;isoäiti;;MLG  grōtmōder or NHG Großmutter;3;1;;Middle Low German;14th century CE on ;KtS;;;;4;;;;;
+Grandparents;male speaker's mother's mother;mMM;äidinäiti;;mormor;3;1;;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandparents;male speaker's mother's mother;mMM;mummo;;mummu, mumm;4;;;Swedish;recent centuries ;KtS;SSA: 178;father's mother;;1;;mummi, mummu;;;
+Grandchildren;male speaker's grandchild;mCC;lapsenlapsi;;barnbarn;3;1;;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandchildren;male speaker's son's son;mSS;pojanpoika;;sonson;3;1;;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandchildren;male speaker's son's daughter;mSD;pojantytär;;sondotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandchildren;male speaker's daughter's son;mDS;tyttärenpoika;;dotterson;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandchildren;male speaker's daughter's daughter;mDD;tyttärentytär;;dotterdotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;;;;4;;;;;
+ParentsSiblings;male speaker's father's brother;mFB;setä;;;0;;;;Inherited, PU *čečä;KtS;SSA: 171;;;1;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;täti;;;0;;;;Finnic-specific;KtS;SSA: 358;;;1;;;;;
+ParentsSiblings;male speaker's mother's brother;mMB;eno;;;0;;;;Finnic-specific;KtS;SSA: 105;;;3;;;;;
+ParentsSiblings;male speaker's mother's sister;mMZ;täti;;;0;;;;Finnic-specific;KtS;SSA: 358;;;1;;;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older brother;mMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;veljenpoika;;brorson;3;1;;;recent centuries ;KtS;;;;4;;;;;
+SiblingsChildren;male speaker's brother's daughter;mBD;veljentytär;;brorsdotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;Milanova et al. 2024: 341;;;4;;;;;
+SiblingsChildren;male speaker's sister's son;mZS;sisarenpoika;;systerson;3;1;One of the constituents is borrowed;;recent centuries ;KtS;;;;4;;;;;
+SiblingsChildren;male speaker's sister's daughter;mZD;sisarentytär;;systerdotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;Milanova et al. 2024: 341;;;4;;;;;
+SiblingsChildren;male speaker's older brother's son;meBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's son;meZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;Thought to be a contamination of seukku 'cousin' (< setä) and sirkku 'sister';;
+Cousins;male speaker's father's brother's daughter;mFBD;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;male speaker's mother's brother's daughter;mMBD;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;male speaker's mother's sister's daughter;mMZD;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;male speaker's father's brother's son;mFBS;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;male speaker's father's sister's son;mFZS;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;male speaker's mother's brother's son;mMBS;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;male speaker's mother's sister's son;mMZS;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;puoliso;;;0;;;;Finnish-specific;KtS;SSA: 431;;;3;;;;;
+Affines;male speaker's husband;mH;aviomies;;;0;;One of the constituents might be borrowed;;Finnish-spesific;KtS;SSA: 92;;;4;;;;;
+Affines;male speaker's wife;mW;vaimo;;;0;;;;Finnic-specific;KtS;SSA: 392;;;1;;;Meaning 'wife' is a Finnish innovation, elsewhere in Finnic mostly 'spirit';;
+Affines;male speaker's husband's father;mHF;appi(ukko);;;0;;;;Inherited, PU *ëppə;KtS;Aikio 2020: 55–56;;;1;;;Appi as a stand-alone word is rather uncommon, in common usage appiukko is a lot more common and adds a certain level of familiarity;;
+Affines;male speaker's husband's mother;mHM;anoppi;;;0;;;;Inherited, PU *ana/ëna-ëppə;KtS;Aikio 2020: 54;;;1;;;;;
+Affines;male speaker's wife's father;mWF;appi(ukko);;;0;;;;Inherited, PU *ëppə;KtS;Aikio 2020: 55–56;;;1;;;Appi as a stand-alone word is rather uncommon, in common usage appiukko is a lot more common and adds a certain level of familiarity;;
+Affines;male speaker's wife's mother;mWM;anoppi;;;0;;;;Inherited, PU *ana/ëna-ëppə;KtS;Aikio 2020: 54;;;1;;;;;
+Affines;male speaker's brother's wife;mBW;käly;;;0;;;;Inherited, PU *käləw;KtS;SSA: 471;;;1;;;;;
+Affines;male speaker's sister's husband;mZH;lanko;;*ga-/bi-langa-z;4;;;Proto-Germanic;1st millennium BCE;KtS;"LägLoS: 167; SSA: 44–45";abhängig, gehörig / verwandt;;1;;;Commonly also lankomies, which like appiukko implies a certain level of familiarity;Proto-Germanic with controversial IE parallels;LIV2: 247-248, DWDS s.v. gelangen
+Affines;male speaker's wife's brother;mWB;lanko;;*ga-/bi-langa-z;4;;;Proto-Germanic;1st millennium BCE;KtS;"LägLoS: 167; SSA: 44–45";;;1;;;;Proto-Germanic with controversial IE parallels;LIV2: 247-248, DWDS s.v. gelangen
+Affines;male speaker's wife's sister;mWZ;käly;;;0;;;;Inherited, PU *käləw;KtS;SSA: 471;;;1;;;;;
+Affines;male speaker's husband's brother;mHB;lanko;;*ga-/bi-langa-z;4;;;Proto-Germanic;1st millennium BCE;KtS;"LägLoS: 167; SSA: 44–45";abhängig, gehörig / verwandt;;1;;;Commonly also lankomies, which like appiukko implies a certain level of familiarity;;
+Affines;male speaker's husband's sister;mHZ;käly;;;0;;;;Inherited, PU *käləw;KtS;SSA: 471;;;1;;;;;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);äitipuoli;;;0;;One of the constituents is borrowed;;Finnish-specific;KtS;;;;4;;;Originally a Western Finnish formation that has spread through literary use, at the beginning of 20th century Eastern Finnish dialects still commonly used emintimä, emintämä for 'step-mother';;
+Affines;male speaker's mother's husband (not father);mMH(notF);isäpuoli;;;0;;;;Finnish-specific;KtS;;;;4;;;Originally a Western Finnish formation that has spread through literary use, at the beginning of 20th century Eastern Finnish dialects still commonly used isintimä, isintämä for 'step-father';;
+Affines;male speaker's son's wife;mSW;miniä;;;0;;;;Inherited, PU *mińä;KtS;SSA: 167;;;1;;;;;
+Affines;male speaker's son's wife's mother;mSWM;;;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife's father;mSWF;;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband;mDH;vävy;;;0;;;;Inherited, PU *wäŋəw;KtS;SSA: 485;;;1;;;Commonly also vävypoika, which like appiukko and lankomies is more familiar. ;;
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's sibling;fG;sisarukset;;syskon;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;Milanova et al. 2024: 332–333;;;3;;;The ultimate source may be NHG Geschwister (DWDS s.v);PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Siblings;female speaker's brother;fB;veli;;*sweljan-;2;;;Proto-Germanic;1st millennium BCE;KtS;"LägLoS: 386–387; Metsäranta 2023";;replacement;1;;;;Late PIE;Olsen (2020: 133-134), Milanova (2020: 160)
+Siblings;female speaker's sister;fZ;sisko;;;0;;One of the constituents is borrowed;;Finnish-specific;KtS;SSA: 187;;;2;;;;;
+Siblings;female speaker's sister;fZ;sisar;;*ses-(e)r;4;;;Baltic;1st millennium BCE;KtS;SSA: 187;;replacement;1;;;;PIE ;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Siblings;female speaker's elder brother;feB;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's younger brother;fyB;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's elder sister;feZ;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's younger sister;fyZ;;;;;;;;;;;;;;;;;;
+Parents;female speaker's parent;fP;vanhemmat;;elderen;3;1;;Middle Low German;12th–16th c. CE;KtS;Milanova et al. 2024: 328–330;;;3;;;Singular is possible, but the plural is exceedingly more common;;
+Parents;female speaker's father;fF;isä;;;0;;;;Inherited, PU *ićä;KtS;"SSA: 229; Aikio 2020: 30–31";;;1;;;;;
+Parents;female speaker's mother;fM;äiti;;*aiþīn;4;;;Germanic;Second half of the first millennium CE;KtS;LägLoS: 429–430;;replacement;1;;;;Proto-Germanic with further IE parallels;Hansen (2020: 373-375), Milanova (2020: 85)
+Children;female speaker's child;fC;lapsi;;;0;;;;Inherited, PU *lëpćə;KtS;Aikio 2015: 58;;;1;;;PU meaning seems to have been 'cradle', 'child' is apparently a Finnic innovation;;
+Children;female speaker's son;fS;poika;;;0;;;;Inherited, PU *pojka;KtS;SSA: 385;;;1;;;;;
+Children;female speaker's daughter;fD;tytär;;*duktēr-;4;;;Baltic;1st millennium BCE;KtS;SSA: 349;;replacement;1;;;;PIE;Olsen (2020: 60-62), Milanova (2020: 94-95, 167-175)
+Grandparents;female speaker's ancestor;fA;esi-isät;;vȫrvāder;3;1;;Middle Low German;12th–16th c. CE;KtS;cf. esivanhemmat, Köbler, MLG s.v;;;4;;;Although a compound consisting of esi 'fore' and isä 'father', the plural generally refers to ancestors of both sexes;;
+Grandparents;female speaker's ancestor;fA;esivanhemmat;;vȫreldern ;3;1;;Middle Low German;12th–16th c. CE;KtS;Milanova et al. 2024: 328–330 and appendix 2.9;;;4;;;Singular is possible, but the plural is exceedingly more common;;
+Grandparents;female speaker's grandparent;fPP;isovanhemmat;;MLG grōtölderen or NHG Großeltern ;3;1;;Low/High German;14th century CE on ;KtS;Köbler, MLG s.v. grōtölderen, DWDS s.v. Großvater;;;4;;;Singular is possible, but the plural is exceedingly more common;;
+Grandparents;female speaker's father's father;fFF;isoisä;;MLG grōtvāter or NHG Großvater;3;1;;Low/High German;14th century CE on ;KtS;;;;4;;;;;
+Grandparents;female speaker's father's father;fFF;isänisä;;farfar;3;1;;Swedish;recent centuries ;KtS;;;;4;;isoisä;;;
+Grandparents;female speaker's father's father;fFF;vaari;;far;4;;;Swedish;recent centuries ;KtS;SSA: 386;father;coexistence;1;;;;PIE;Olsen (2020: 46-52), Milanova (2020: 75-78, 167-175)
+Grandparents;female speaker's father's father;fFF;ukki;;;0;;;;Finnic-specific;KtS;SSA: 369;;coexistence;1;;ukko;;;
+Grandparents;female speaker's father's father;fFF;pappa;;pappa;4;;;Swedish;recent centuries ;KtS;SSA: 311;father;coexistence;1;;;;;
+Grandparents;female speaker's father's mother;fFM;isoäiti;;MLG  grōtmōder or NHG Großmutter;3;1;;Middle Low German;14th century CE on ;KtS;;;;4;;;;;
+Grandparents;female speaker's father's mother;fFM;isänäiti;;farmor;3;1;;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandparents;female speaker's father's mother;fFM;mummo;;mummu, mumm;4;;;Swedish;recent centuries ;KtS;SSA: 178;mother's mother;;1;;mummi, mummu;;;
+Grandparents;female speaker's mother's father;fMF;isoisä;;MLG grōtvāter or NHG Großvater;3;1;;Low/High German;14th century CE on ;KtS;;;;4;;;;;
+Grandparents;female speaker's mother's father;fMF;äidinisä;;morfar;3;1;;Swedish;recent centuries ;KtS;;;;4;;isoisä;;;
+Grandparents;female speaker's mother's father;fMF;vaari;;far;4;;;Swedish;recent centuries ;KtS;SSA: 386;father;coexistence;1;;;;PIE;Olsen (2020: 46-52), Milanova (2020: 75-78, 167-175)
+Grandparents;female speaker's mother's father;fMF;ukki;;;0;;;;Finnic-specific;KtS;SSA: 369;;coexistence;1;;ukko;;;
+Grandparents;female speaker's mother's father;fMF;pappa;;pappa;4;;;Swedish;recent centuries ;KtS;SSA: 311;father;coexistence;1;;;;;
+Grandparents;female speaker's mother's mother;fMM;isoäiti;;MLG  grōtmōder or NHG Großmutter;3;1;;Middle Low German;14th century CE on ;KtS;;;;4;;;;;
+Grandparents;female speaker's mother's mother;fMM;äidinäiti;;mormor;3;1;;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandparents;female speaker's mother's mother;fMM;mummo;;mummu, mumm;4;;;Swedish;recent centuries ;KtS;SSA: 178;father's mother;;1;;mummi, mummu;;;
+Grandchildren;female speaker's grandchild;fCC;lapsenlapsi;;barnbarn;3;1;;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandchildren;female speaker's son's son;fSS;pojanpoika;;sonson;3;1;;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandchildren;female speaker's son's daughter;fSD;pojantytär;;sondotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandchildren;female speaker's daughter's son;fDS;tyttärenpoika;;dotterson;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;;;;4;;;;;
+Grandchildren;female speaker's daughter's daughter;fDD;tyttärentytär;;dotterdotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;;;;4;;;;;
+ParentsSiblings;female speaker's father's brother;fFB;setä;;;0;;;;Inherited, PU *čečä;KtS;SSA: 171;;;1;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;täti;;;0;;;;Finnic-specific;KtS;SSA: 358;;;1;;;;;
+ParentsSiblings;female speaker's mother's brother;fMB;eno;;;0;;;;Finnic-specific;KtS;SSA: 105;;;3;;;;;
+ParentsSiblings;female speaker's mother's sister;fMZ;täti;;;0;;;;Finnic-specific;KtS;SSA: 358;;;1;;;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older brother;fMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;veljenpoika;;brorson;3;1;;;recent centuries ;KtS;;;;4;;;;;
+SiblingsChildren;female speaker's brother's daughter;fBD;veljentytär;;brorsdotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;Milanova et al. 2024: 341;;;4;;;;;
+SiblingsChildren;female speaker's sister's son;fZS;sisarenpoika;;systerson;3;1;One of the constituents is borrowed;;recent centuries ;KtS;;;;4;;;;;
+SiblingsChildren;female speaker's sister's daughter;fZD;sisarentytär;;systerdotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;KtS;Milanova et al. 2024: 341;;;4;;;;;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's sister's daughter;fFZD;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;Thought to be a contamination of seukku 'cousin' (< setä) and sirkku 'sister';;
+Cousins;female speaker's father's brother's daughter;fFBD;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;female speaker's mother's brother's daughter;fMBD;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;female speaker's mother's sister's daughter;fMZD;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;female speaker's father's brother's son;fFBS;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;female speaker's father's sister's son;fFZS;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;female speaker's mother's brother's son;fMBS;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+Cousins;female speaker's mother's sister's son;fMZS;serkku;;;0;;;;Finnish-specific;KtS;SSA: 170;;;2;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;puoliso;;;0;;;;Finnish-specific;KtS;SSA: 431;;;3;;;;;
+Affines;female speaker's husband;fH;aviomies;;;0;;One of the constituents might be borrowed;;Finnish-spesific;KtS;SSA: 92;;;4;;;;;
+Affines;female speaker's wife;fW;vaimo;;;0;;;;Finnic-specific;KtS;SSA: 392;;;1;;;Meaning 'wife' is a Finnish innovation, elsewhere in Finnic mostly 'spirit';;
+Affines;female speaker's husband's father;fHF;appi(ukko);;;0;;;;Inherited, PU *ëppə;KtS;Aikio 2020: 55–56;;;1;;;Appi as a stand-alone word is rather uncommon, in common usage appiukko is a lot more common and adds a certain level of familiarity;;
+Affines;female speaker's husband's mother;fHM;anoppi;;;0;;;;Inherited, PU *ana/ëna-ëppə;KtS;Aikio 2020: 54;;;1;;;;;
+Affines;female speaker's wife's father;fWF;appi(ukko);;;0;;;;Inherited, PU *ëppə;KtS;Aikio 2020: 55–56;;;1;;;Appi as a stand-alone word is rather uncommon, in common usage appiukko is a lot more common and adds a certain level of familiarity;;
+Affines;female speaker's wife's mother;fWM;anoppi;;;0;;;;Inherited, PU *ana/ëna-ëppə;KtS;Aikio 2020: 54;;;1;;;;;
+Affines;female speaker's brother's wife;fBW;käly;;;0;;;;Inherited, PU *käləw;KtS;SSA: 471;;;1;;;;;
+Affines;female speaker's sister's husband;fZH;lanko;;*ga-/bi-langa-z;4;;;Proto-Germanic;1st millennium BCE;KtS;"LägLoS: 167; SSA: 44–45";abhängig, gehörig / verwandt;;1;;;Commonly also lankomies, which like appiukko implies a certain level of familiarity;Proto-Germanic with controversial IE parallels;LIV2: 247-248, DWDS s.v. gelangen
+Affines;female speaker's wife's brother;fWB;lanko;;*ga-/bi-langa-z;4;;;Proto-Germanic;1st millennium BCE;KtS;"LägLoS: 167; SSA: 44–45";;;1;;;;Proto-Germanic with controversial IE parallels;LIV2: 247-248, DWDS s.v. gelangen
+Affines;female speaker's wife's sister;fWZ;käly;;;0;;;;Inherited, PU *käləw;KtS;SSA: 471;;;1;;;;;
+Affines;female speaker's husband's brother;fHB;lanko;;*ga-/bi-langa-z;4;;;Proto-Germanic;1st millennium BCE;KtS;"LägLoS: 167; SSA: 44–45";abhängig, gehörig / verwandt;;1;;;Commonly also lankomies, which like appiukko implies a certain level of familiarity;;
+Affines;female speaker's husband's sister;fHZ;käly;;;0;;;;Inherited, PU *käləw;KtS;SSA: 471;;;1;;;;;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);äitipuoli;;;0;;One of the constituents is borrowed;;Finnish-specific;KtS;;;;4;;;Originally a Western Finnish formation that has spread through literary use, at the beginning of 20th century Eastern Finnish dialects still commonly used emintimä, emintämä for 'step-mother';;
+Affines;female speaker's mother's husband (not father);fMH(notF);isäpuoli;;;0;;;;Finnish-specific;KtS;;;;4;;;Originally a Western Finnish formation that has spread through literary use, at the beginning of 20th century Eastern Finnish dialects still commonly used isintimä, isintämä for 'step-father';;
+Affines;female speaker's son's wife;fSW;miniä;;;0;;;;Inherited, PU *mińä;KtS;SSA: 167;;;1;;;;;
+Affines;female speaker's son's wife's mother;fSWM;;;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife's father;fSWF;;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband;fDH;vävy;;;0;;;;Inherited, PU *wäŋəw;KtS;SSA: 485;;;1;;;Commonly also vävypoika, which like appiukko and lankomies is more familiar. ;;
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;;;

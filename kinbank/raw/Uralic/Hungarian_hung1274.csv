@@ -1,297 +1,297 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","testvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mB","fivér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mB","fiútestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mZ","lánytestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"meB","bátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"myB","öcs",,,"",,"Papp_Jakab_1993; ErtSz",
-"meZ","nővér",,,"",,"Papp_Jakab_1993; ErtSz",
-"meZ","néne",,,"",,"Papp_Jakab_1993; ErtSz",
-"myZ","húg",,,"",,"Papp_Jakab_1993; ErtSz",
-"mP","szülő",,,"",,"Papp_Jakab_1993; ErtSz",
-"mF","apa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mF","atya",,,"",,"Papp_Jakab_1993; ErtSz",
-"mM","anya",,,"",,"Papp_Jakab_1993; ErtSz",
-"mC","gyerek",,,"gyermek",,"Papp_Jakab_1993; ErtSz",
-"mS","fiú",,,"",,"Papp_Jakab_1993; ErtSz",
-"mD","lány",,,"leány",,"Papp_Jakab_1993; ErtSz",
-"mA","ős",,,"",,"Papp_Jakab_1993; ErtSz",
-"mPP","nagyszülők",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFF","(apai) nagyapa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFF","nagypapa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFF","papa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFM","(apai) nagyanya",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFM","nagymama",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFM","mami",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFM","nagyi",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMF","(anyai) nagyapa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMF","nagypapa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMF","papa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMM","(anyai) nagyanya",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMM","nagymama",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMM","mami",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMM","nagyi",,,"",,"Papp_Jakab_1993; ErtSz",
-"mCC","unoka",,,"",,"Papp_Jakab_1993; ErtSz",
-"mSS","fiúunoka",,,"",,"Papp_Jakab_1993; ErtSz",
-"mSD","leányunoka",,,"",,"Papp_Jakab_1993; ErtSz",
-"mDS","fiúunoka",,,"",,"Papp_Jakab_1993; ErtSz",
-"mDD","leányunoka",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFB","nagybácsi",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFB","nagybátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFZ","nagynéni",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMB","nagybácsi",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMB","nagybátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMZ","nagynéni",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFeB","",,,"",,"",
-"mFyB","",,,"",,"",
-"mFeZ","",,,"",,"",
-"mFyZ","",,,"",,"",
-"mMeZ","",,,"",,"",
-"mMyZ","",,,"",,"",
-"mMeB","",,,"",,"",
-"mMyB","",,,"",,"Papp_Jakab_1993; ErtSz",
-"mBS","unokaöcs",,,"",,"Papp_Jakab_1993; ErtSz",
-"mBD","unokahúg",,,"",,"Papp_Jakab_1993; ErtSz",
-"mZS","unokaöcs",,,"",,"Papp_Jakab_1993; ErtSz",
-"mZD","unokahúg",,,"",,"Papp_Jakab_1993; ErtSz",
-"meBS","",,,"",,"",
-"myBS","",,,"",,"",
-"meBD","",,,"",,"",
-"myBD","",,,"",,"",
-"meZS","",,,"",,"",
-"myZS","",,,"",,"",
-"meZD","",,,"",,"",
-"myZD","",,,"",,"",
-"mFZD","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFZD","unokanővér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFBD","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFBD","unokanővér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMBD","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMBD","unokanővér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMZD","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMZD","unokanővér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFBS","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFBS","unokafivér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFBS","unokabátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFZS","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFZS","unokafivér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFZS","unokabátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMBS","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMBS","unokafivér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMBS","unokabátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMZS","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMZS","unokafivér",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMZS","unokabátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFeBS","",,,"",,"",
-"mFyBS","",,,"",,"",
-"mFeZS","",,,"",,"",
-"mFyZS","",,,"",,"",
-"mFeBD","",,,"",,"",
-"mFyBD","",,,"",,"",
-"mFeZD","",,,"",,"",
-"mFyZD","",,,"",,"",
-"mMeBS","",,,"",,"",
-"mMyBS","",,,"",,"",
-"mMeZS","",,,"",,"",
-"mMyZS","",,,"",,"",
-"mMeBD","",,,"",,"",
-"mMyBD","",,,"",,"",
-"mMeZD","",,,"",,"",
-"mMyZD","",,,"",,"",
-"mFBeS","",,,"",,"",
-"mFByS","",,,"",,"",
-"mFZeS","",,,"",,"",
-"mFZyS","",,,"",,"",
-"mFBeD","",,,"",,"",
-"mFByD","",,,"",,"",
-"mFZeD","",,,"",,"",
-"mFZyD","",,,"",,"",
-"mMBeS","",,,"",,"",
-"mMByS","",,,"",,"",
-"mMZeS","",,,"",,"",
-"mMZyS","",,,"",,"",
-"mMBeD","",,,"",,"",
-"mMByD","",,,"",,"",
-"mMZeD","",,,"",,"",
-"mMZyD","",,,"",,"",
-"mE","házastárs",,,"",,"Papp_Jakab_1993; ErtSz",
-"mH","férj",,,"",,"Papp_Jakab_1993; ErtSz",
-"mW","nő",,,"",,"Papp_Jakab_1993; ErtSz",
-"mW","feleség",,,"",,"Papp_Jakab_1993; ErtSz",
-"mHF","após",,,"",,"Papp_Jakab_1993; ErtSz",
-"mHF","ipa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mHM","anyós",,,"",,"Papp_Jakab_1993; ErtSz",
-"mHM","napa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mWF","após",,,"",,"Papp_Jakab_1993; ErtSz",
-"mWF","ipa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mWM","anyós",,,"",,"Papp_Jakab_1993; ErtSz",
-"mWM","napa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mBW","ángy",,,"",,"Papp_Jakab_1993; ErtSz",
-"mZH","sógor",,,"",,"Papp_Jakab_1993; ErtSz",
-"mWB","sógor",,,"",,"Papp_Jakab_1993; ErtSz",
-"mWZ","sógornő",,,"",,"Papp_Jakab_1993; ErtSz",
-"mHB","sógor",,,"",,"Papp_Jakab_1993; ErtSz",
-"mHZ","sógornő",,,"",,"Papp_Jakab_1993; ErtSz",
-"mco-W","",,,"",,"",
-"mco-H","",,,"",,"",
-"mFW(notM)","mostoha",,,"",,"Papp_Jakab_1993; ErtSz",
-"mFW(notM)","mostohaanya",,,"",,"Papp_Jakab_1993; ErtSz",
-"mMH(notF)","mostohaapa",,,"",,"Papp_Jakab_1993; ErtSz",
-"mSW","meny",,,"",,"Papp_Jakab_1993; ErtSz",
-"mSWM","nászasszony(om)",,,"",,"Papp_Jakab_1993; ErtSz",
-"mSWF","nász(om)",,,"",,"Papp_Jakab_1993; ErtSz",
-"mDH","vő",,,"",,"Papp_Jakab_1993; ErtSz",
-"mDHM","",,,"",,"",
-"mDHF","",,,"",,"",
-"mFZH","",,,"",,"",
-"mFBW","",,,"",,"",
-"mMZH","",,,"",,"",
-"mMBW","",,,"",,"",
-"fG","testvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fB","fivér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fB","fiútestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fZ","lánytestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"feB","bátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fyB","öcs",,,"",,"Papp_Jakab_1993; ErtSz",
-"feZ","nővér",,,"",,"Papp_Jakab_1993; ErtSz",
-"feZ","néne",,,"",,"Papp_Jakab_1993; ErtSz",
-"fyZ","húg",,,"",,"Papp_Jakab_1993; ErtSz",
-"fP","szülő",,,"",,"Papp_Jakab_1993; ErtSz",
-"fF","apa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fF","atya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fM","anya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fC","gyerek",,,"gyermek",,"Papp_Jakab_1993; ErtSz",
-"fS","fiú",,,"",,"Papp_Jakab_1993; ErtSz",
-"fD","lány",,,"leány",,"Papp_Jakab_1993; ErtSz",
-"fA","ős",,,"",,"Papp_Jakab_1993; ErtSz",
-"fPP","nagyszülők",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFF","(apai) nagyapa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFF","nagypapa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFF","papa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFM","(apai) nagyanya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFM","nagymama",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFM","mami",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFM","nagyi",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMF","(anyai) nagyapa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMF","nagypapa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMF","papa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMM","(anyai) nagyanya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMM","nagymama",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMM","mami",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMM","nagyi",,,"",,"Papp_Jakab_1993; ErtSz",
-"fCC","unoka",,,"",,"Papp_Jakab_1993; ErtSz",
-"fSS","fiúunoka",,,"",,"Papp_Jakab_1993; ErtSz",
-"fSD","leányunoka",,,"",,"Papp_Jakab_1993; ErtSz",
-"fDS","fiúunoka",,,"",,"Papp_Jakab_1993; ErtSz",
-"fDD","leányunoka",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFB","nagybácsi",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFB","nagybátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFZ","nagynéni",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMB","nagybácsi",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMB","nagybátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMZ","nagynéni",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFeB","",,,"",,"",
-"fFyB","",,,"",,"",
-"fFeZ","",,,"",,"",
-"fFyZ","",,,"",,"",
-"fMeZ","",,,"",,"",
-"fMyZ","",,,"",,"",
-"fMeB","",,,"",,"",
-"fMyB","",,,"",,"Papp_Jakab_1993; ErtSz",
-"fBS","unokaöcs",,,"",,"Papp_Jakab_1993; ErtSz",
-"fBD","unokahúg",,,"",,"Papp_Jakab_1993; ErtSz",
-"fZS","unokaöcs",,,"",,"Papp_Jakab_1993; ErtSz",
-"fZD","unokahúg",,,"",,"Papp_Jakab_1993; ErtSz",
-"feBS","",,,"",,"",
-"fyBS","",,,"",,"",
-"feBD","",,,"",,"",
-"fyBD","",,,"",,"",
-"feZS","",,,"",,"",
-"fyZS","",,,"",,"",
-"feZD","",,,"",,"",
-"fyZD","",,,"",,"",
-"fFZD","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFZD","unokanővér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFBD","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFBD","unokanővér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMBD","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMBD","unokanővér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMZD","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMZD","unokanővér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFBS","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFBS","unokafivér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFBS","unokabátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFZS","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFZS","unokafivér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFZS","unokabátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMBS","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMBS","unokafivér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMBS","unokabátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMZS","unokatestvér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMZS","unokafivér",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMZS","unokabátya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFeBS","",,,"",,"",
-"fFyBS","",,,"",,"",
-"fFeZS","",,,"",,"",
-"fFyZS","",,,"",,"",
-"fFeBD","",,,"",,"",
-"fFyBD","",,,"",,"",
-"fFeZD","",,,"",,"",
-"fFyZD","",,,"",,"",
-"fMeBS","",,,"",,"",
-"fMyBS","",,,"",,"",
-"fMeZS","",,,"",,"",
-"fMyZS","",,,"",,"",
-"fMeBD","",,,"",,"",
-"fMyBD","",,,"",,"",
-"fMeZD","",,,"",,"",
-"fMyZD","",,,"",,"",
-"fFBeS","",,,"",,"",
-"fFByS","",,,"",,"",
-"fFZeS","",,,"",,"",
-"fFZyS","",,,"",,"",
-"fFBeD","",,,"",,"",
-"fFByD","",,,"",,"",
-"fFZeD","",,,"",,"",
-"fFZyD","",,,"",,"",
-"fMBeS","",,,"",,"",
-"fMByS","",,,"",,"",
-"fMZeS","",,,"",,"",
-"fMZyS","",,,"",,"",
-"fMBeD","",,,"",,"",
-"fMByD","",,,"",,"",
-"fMZeD","",,,"",,"",
-"fMZyD","",,,"",,"",
-"fE","házastárs",,,"",,"Papp_Jakab_1993; ErtSz",
-"fH","férj",,,"",,"Papp_Jakab_1993; ErtSz",
-"fW","nő",,,"",,"Papp_Jakab_1993; ErtSz",
-"fW","feleség",,,"",,"Papp_Jakab_1993; ErtSz",
-"fHF","após",,,"",,"Papp_Jakab_1993; ErtSz",
-"fHF","ipa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fHM","anyós",,,"",,"Papp_Jakab_1993; ErtSz",
-"fHM","napa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fWF","após",,,"",,"Papp_Jakab_1993; ErtSz",
-"fWF","ipa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fWM","anyós",,,"",,"Papp_Jakab_1993; ErtSz",
-"fWM","napa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fBW","ángy",,,"",,"Papp_Jakab_1993; ErtSz",
-"fZH","sógor",,,"",,"Papp_Jakab_1993; ErtSz",
-"fWB","sógor",,,"",,"Papp_Jakab_1993; ErtSz",
-"fWZ","sógornő",,,"",,"Papp_Jakab_1993; ErtSz",
-"fHB","sógor",,,"",,"Papp_Jakab_1993; ErtSz",
-"fHZ","sógornő",,,"",,"Papp_Jakab_1993; ErtSz",
-"fco-W","",,,"",,"",
-"fco-H","",,,"",,"",
-"fFW(notM)","mostoha",,,"",,"Papp_Jakab_1993; ErtSz",
-"fFW(notM)","mostohaanya",,,"",,"Papp_Jakab_1993; ErtSz",
-"fMH(notF)","mostohaapa",,,"",,"Papp_Jakab_1993; ErtSz",
-"fSW","meny",,,"",,"Papp_Jakab_1993; ErtSz",
-"fSWM","nászasszony(om)",,,"",,"Papp_Jakab_1993; ErtSz",
-"fSWF","nász(om)",,,"",,"Papp_Jakab_1993; ErtSz",
-"fDH","vő",,,"",,"Papp_Jakab_1993; ErtSz",
-"fDHM","",,,"",,"",
-"fDHF","",,,"",,"",
-"fFZH","",,,"",,"",
-"fFBW","",,,"",,"",
-"fMZH","",,,"",,"",
-"fMBW","",,,"",,"",
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments;Deeper donor language;Ref. for deeper donor language
+Siblings;male speaker's sibling;mG;testvér;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1512;;;5;;;Originally from phrasal 'one body and blood', (egy '1'), test 'body' (unknown origin) and vér 'blood' (< PU *werə 'blood').;;
+Siblings;male speaker's brother;mB;fivér;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 397;;;4;;;"A compound of fi- 'son; boy', cf. mS fiú and vér 'blood'. Presumably arose through analogy with testvér.";;
+Siblings;male speaker's brother;mB;fiútestvér;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of fiú 'son; boy' and testvér 'sibling'";;
+Siblings;male speaker's sister;mZ;lánytestvér;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of lány 'girl; daughter' & testvér 'sibling'";;
+Siblings;male speaker's elder brother;meB;bátya;;баща, бате, батьо, бачо;3;;;Bulgarian;Medieval Slavic borrowing/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 87;"älterer Bruder; Onkel";insertion/replacement;1;;;Either a Lallwort or a Slavic borrowing (cf. Kitanova 2009: 283 on Bulgarian forms), the latter scenario seems more credible. Meaning 'Onkel' is around 100 years older than 'älterer Bruder'. EWUng also mentions bátyó 'älterer Bruder'. ;;
+Siblings;male speaker's younger brother;myB;öcs;;;0;;;;? Inherited, PU *ećV 'jüngerer Bruder, jüngere Schwester';"Papp & Jakab 1993; ErtSz";"EWUng: 1078–1079; UEW: 70–71";;;1;;;This cognate set is irregular. Hungarian cs is not really found in inherited vocabulary. Udmurt dial. uʒ́ï seems to suggest *nć, regular reflex of which is Hung. gy. ;;
+Siblings;male speaker's elder sister;meZ;nővér;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1032;;;4;;;"A compound of nő 'woman; wife' and vér 'blood'";;
+Siblings;male speaker's elder sister;meZ;néne;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWung:1024–1025;;;1;;;"Tied to nő 'woman; wife', but this analysis is uncertain, perhaps a Lallwort.";;
+Siblings;male speaker's younger sister;myZ;húg;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 584;seine/ihre Schwester;;1;;;EWUng considers the proposed Ossetic origin unlikely, the word is not even mentioned in Róna-Tas' list of Alanic loans (WOT: 1331–1339);;
+Parents;male speaker's parent;mP;szülő;;родители;3;1;;Bulgarian;Medieval Slavic borrowing/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1464;;;3;;;Formally a present participle of szül 'to birth, to beget'.;;
+Parents;male speaker's father;mF;apa;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";Aikio 2020: 55–56;;;1;;;"In many traditional etymological references (UEW: 14; EWUng: 40) thought to belong together with Hungarian ipa 'father-in-law', but there is no regular relationship with the two words";;
+Parents;male speaker's father;mF;atya;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 59;;;1;;;Despite being superficially similar, proposed cognates in Uralic languages are uncertain.;;
+Parents;male speaker's mother;mM;anya;;;0;;;;? Inherited, PU *ańə 'sister-in-law';"Papp & Jakab 1993; ErtSz";"EWUng: 39; Aikio 2020: 18–19";;;1;;;The cognates in Uralic mean 'sister-in-law', which makes this comparison uncertain. Phonologically similar words are prevalent in languages, which on the other hand points to a Lallwort origin. Cf. also mBW ángy;;
+Children;male speaker's child;mC;gyerek;;*ǰärmek, *ǰärmik, *ǰämrik;3;;;? West Old Turkic;Before arriving to Carpathian basin;"Papp & Jakab 1993; ErtSz";"EWUng: 495–496; WOT: 384–386";"young; child";replacement;1;;gyermek;The loan etymology is problematic, the Turkic word as an appellative is only found in Chuvash, śamrăk 'young'.;;
+Children;male speaker's son;mS;fiú;;;0;;;;Inherited, PU *pojka;"Papp & Jakab 1993; ErtSz";"EWUng: 396; UEW: 390";;;1;;;Possessive suffixes to fia-stem, cf. A fiam 'my son'. The word is remarkably similar to Romanian fiu in both form and meaning, but Romanian is from Latin filius;;
+Children;male speaker's daughter;mD;lány;;;0;;;;Inherited, PUg. *lVjV;"Papp & Jakab 1993; ErtSz";EWUng: 879;;;2;;leány;According to traditional sources a compound, but this is not all that convincing.;;
+Grandparents;male speaker's ancestor;mA;ős;;;0;;;;? Inherited, PU *e(ć)ćä;"Papp & Jakab 1993; ErtSz";"EWUng: 1088; Aikio 2020: 30–31";;;1;;;The relationship between ős and Old Hungarian iʃemucut 'father' (POSS.1PL.ACC)  is unclear. We might not even be dealing with the same word (Holopainen 2019: 98–99).;;
+Grandparents;male speaker's grandparent;mPP;nagyszülők;;Großeltern;3;1;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of nagy 'big' and szülő 'parent' (-k is the plural marker);;
+Grandparents;male speaker's father's father;mFF;(apai) nagyapa;;Großvater;3;1;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1013;;;4;;;A compound of nagy 'big' and apa 'father';French;DWDS, s.v.
+Grandparents;male speaker's father's father;mFF;nagypapa;;Großpapa;3;1;One of the constituents is borrowed;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1111;father;;4;;;A compound of nagy 'big' and papa 'father' (which according to EWUng is either a Lallwort or a loan from German);French;DWDS, s.v.
+Grandparents;male speaker's father's father;mFF;papa;;Papa;2;;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1111;father;;1;;;;French;DWDS, s.v.
+Grandparents;male speaker's father's mother;mFM;(apai) nagyanya;;Großmutter;3;1;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of nagy 'big' and anya 'mother';;
+Grandparents;male speaker's father's mother;mFM;nagymama;;Großmama;3;1;One of the constituents is borrowed;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 931;mother;;4;;;A compound of nagy 'big' and mama 'mother', which according to EWUng is either a Lallwort or a Wanderwort (?);French;DWDS, s.v.
+Grandparents;male speaker's father's mother;mFM;mami;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 931;;;3;;;A diminutive derivative of mama 'mother';French;DWDS, s.v.
+Grandparents;male speaker's father's mother;mFM;nagyi;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;3;;;A diminutive derivative of nagy 'big';;
+Grandparents;male speaker's mother's father;mMF;(anyai) nagyapa;;Großvater;3;1;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1013;;;4;;;A compound of nagy 'big' and apa 'father';;
+Grandparents;male speaker's mother's father;mMF;nagypapa;;Großpapa;3;1;One of the constituents is borrowed;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1111;father;;4;;;A compound of nagy 'big' and papa 'father' (which according to EWUng is either a Lallwort or a loan from German);French;DWDS, s.v.
+Grandparents;male speaker's mother's father;mMF;papa;;Papa;2;;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1111;father;;1;;;;French;DWDS, s.v.
+Grandparents;male speaker's mother's mother;mMM;(anyai) nagyanya;;Großmutter;3;1;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of nagy 'big' and anya 'mother';;
+Grandparents;male speaker's mother's mother;mMM;nagymama;;Mama;0;;One of the constituents is borrowed;? German;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 931;mother;;4;;;A compound of nagy 'big' and mama 'mother', which according to EWUng is either a Lallwort or a Wanderwort (?). ;French;DWDS, s.v.
+Grandparents;male speaker's mother's mother;mMM;mami;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 931;;;3;;;A diminutive derivative of mama 'mother';French;DWDS, s.v.
+Grandparents;male speaker's mother's mother;mMM;nagyi;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;3;;;A diminutive derivative of nagy 'big';;
+Grandchildren;male speaker's grandchild;mCC;unoka;;unuk;4;;;? South Slavic;Medieval Slavic borrowing/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1578;;replacement;2;;;Auslaut a perhaps a diminutive of a possive suffix that are common in Hungarian kinshipterms;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;male speaker's son's son;mSS;fiúunoka;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of fiú 'son; boy' and unoka 'grandchild'";;
+Grandchildren;male speaker's son's daughter;mSD;leányunoka;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of léany 'girl; daughter' and unoka 'grandchild'";;
+Grandchildren;male speaker's daughter's son;mDS;fiúunoka;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of fiú 'son; boy' and unoka 'grandchild'";;
+Grandchildren;male speaker's daughter's daughter;mDD;leányunoka;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of léany 'girl; daughter' and unoka 'grandchild'";;
+ParentsSiblings;male speaker's father's brother;mFB;nagybácsi;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 67;;;3;;;Nagybácsi is comprised of nagy 'big' and bácsi 'uncle', that is perhaps a diminutive of bátya 'older brother' . Might be further qualified with apai 'father's side'.;;
+ParentsSiblings;male speaker's father's brother;mFB;nagybátya;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 87;;;4;;;A compound of nagy 'big' and bátya 'older brother', a male cousin older than ego;;
+ParentsSiblings;male speaker's father's sister;mFZ;nagynéni;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1024–1025;;;4;;;Hungarian néni is of unknown origin, might be related to ne- 'woman' (the stem of nő 'woman').;;
+ParentsSiblings;male speaker's mother's brother;mMB;nagybácsi;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 67;;;3;;;Nagybácsi is comprised of nagy 'big' and bácsi 'uncle', that is perhaps a diminutive of bátya 'older brother' . Might be further qualified with anai 'mother's side'.;;
+ParentsSiblings;male speaker's mother's brother;mMB;nagybátya;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 87;;;4;;;A compound of nagy 'big' and bátya 'older brother';;
+ParentsSiblings;male speaker's mother's sister;mMZ;nagynéni;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1024–1025;;;4;;;Hungarian néni is of unknown origin, might be related to ne- 'woman' (the stem of nő 'woman').;;
+ParentsSiblings;male speaker's father's older brother;mFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older brother;mMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;unokaöcs;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and öcs 'younger brother';;
+SiblingsChildren;male speaker's brother's daughter;mBD;unokahúg;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and húg 'younger sister';;
+SiblingsChildren;male speaker's sister's son;mZS;unokaöcs;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and öcs 'younger brother';;
+SiblingsChildren;male speaker's sister's daughter;mZD;unokahúg;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and húg 'younger sister';;
+SiblingsChildren;male speaker's older brother's son;meBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's son;meZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;male speaker's father's sister's daughter;mFZD;unokanővér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and nővér 'older sister';;
+Cousins;male speaker's father's brother's daughter;mFBD;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;male speaker's father's sister's daughter;mFBD;unokanővér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and nővér 'older sister';;
+Cousins;male speaker's mother's brother's daughter;mMBD;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;male speaker's father's sister's daughter;mMBD;unokanővér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and nővér 'older sister';;
+Cousins;male speaker's mother's sister's daughter;mMZD;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;male speaker's father's sister's daughter;mMZD;unokanővér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and nővér 'older sister';;
+Cousins;male speaker's father's brother's son;mFBS;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;male speaker's father's brother's son;mFBS;unokafivér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and fivér 'brother';;
+Cousins;male speaker's father's brother's son;mFBS;unokabátya;;see unoka;0;;Constituents are borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and bátya 'older brother', older than ego;;
+Cousins;male speaker's father's sister's son;mFZS;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;male speaker's father's sister's son;mFZS;unokafivér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and fivér 'brother';;
+Cousins;male speaker's father's sister's son;mFZS;unokabátya;;see unoka;0;;Constituents are borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and bátya 'older brother', older than ego;;
+Cousins;male speaker's mother's brother's son;mMBS;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;male speaker's mother's brother's son;mMBS;unokafivér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and fivér 'brother';;
+Cousins;male speaker's mother's brother's son;mMBS;unokabátya;;see unoka;0;;Constituents are borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and bátya 'older brother', older than ego;;
+Cousins;male speaker's mother's sister's son;mMZS;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;male speaker's mother's sister's son;mMZS;unokafivér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and fivér 'brother';;
+Cousins;male speaker's mother's sister's son;mMZS;unokabátya;;see unoka;0;;Constituents are borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and bátya 'older brother', older than ego;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;házastárs;;;0;Partly a calque modelled after Turkic;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 539–540;;;4;;;The first component házas is a derivative of ház 'house' (< PU *kota 'hut'), formally 'Haus habend'. The meaning 'verheiratet' developed perhaps after a Turkic model, cf. OT *ǟv 'house, tent' > Chuv avlan- 'heiraten' > avlannə̑ 'verheiratet'. Second component társ 'companion'.;;
+Affines;male speaker's husband;mH;férj;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 382;;;2;;;"Thought to be originally an obscured compound of fiú 'boy; son' and unattested er(j) that is supposedly the same word as Mari erge 'boy' and Finnish yrkä/ylkä 'groom' (arch./obs.). This idea is further complicated by the fact that Mari and Finnish are not cognates.";;
+Affines;male speaker's wife;mW;nő;;;0;;;;Inherited, PU *niŋä;"Papp & Jakab 1993; ErtSz";UEW: 305–306;;;1;;;Alternatively PU *näjV 'woman'. The stem of nő is nej-.;;
+Affines;male speaker's wife;mW;feleség;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 374;;;3;;;"Derived from fél 'half; party (Mitmensch, Partei)' (< PU *pälä 'half'), parallel derivations of the same stem meaning 'spouse' exist in other Uralic languages, Finnish puoliso and Meadow Mari pelaš";;
+Affines;male speaker's husband's father;mHF;após;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 42;;;3;;;A diminutive -ós from ap(a)-. Earliest attestation in 1608 as 'bejahrter Mann, Väterchen', meaning 'Schwiegervater' from 1736;;
+Affines;male speaker's husband's father;mHF;ipa;;;0;;;;Inherited, PU *ëppə 'father-in-law';"Papp & Jakab 1993; ErtSz";EWUng: 620;;;1;;;A diminutive or a possessive of now obsolete op.;;
+Affines;male speaker's husband's mother;mHM;anyós;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 40;;;3;;;"A diminutive -ós from any(a)- 'mother'. Earliest attestation in 1608 as 'bejahrtes Weib, Mütterchen; alte Mutter, meaning 'Schwiegermutter' from 1761";;
+Affines;male speaker's husband's mother;mHM;napa;;;0;;;;Hungarian-specific/?Inherited, PU *a/ëno-ëppə 'mother-in-law';"Papp & Jakab 1993; ErtSz";"EWUng: 1015; Aikio 2020: 54";;;2;;;A diminutive or a possessive form of an obsole nap. Belonging to PU *a/ëno-ëppə 'mother-in-law' is doubtful because there is no good explanation for the loss of the initial stressed vowel. Aikio even rejects the word.;;
+Affines;male speaker's wife's father;mWF;após;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 42;;;3;;;A diminutive -ós from ap(a)-. Earliest attestation in 1608 as 'bejahrter Mann, Väterchen', meaning 'Schwiegervater' from 1736;;
+Affines;male speaker's wife's father;mWF;ipa;;;0;;;;Inherited, PU *ëppə 'father-in-law';"Papp & Jakab 1993; ErtSz";EWUng: 620;;;1;;;A diminutive or a possessive of now obsolete op.;;
+Affines;male speaker's wife's mother;mWM;anyós;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 40;;;3;;;"A diminutive -ós from any(a)- 'mother'. Earliest attestation in 1608 as 'bejahrtes Weib, Mütterchen; alte Mutter, meaning 'Schwiegermutter' from 1761";;
+Affines;male speaker's wife's mother;mWM;napa;;;0;;;;Hungarian-specific/?Inherited, PU *a/ëno-ëppə 'mother-in-law';"Papp & Jakab 1993; ErtSz";"EWUng: 1015; Aikio 2020: 54";;;2;;;A diminutive or a possessive form of an obsole nap. Belonging to PU *a/ëno-ëppə 'mother-in-law' is doubtful because there is no good explanation for the loss of the initial stressed vowel. Aikio even rejects the word.;;
+Affines;male speaker's brother's wife;mBW;ángy;;;0;;;;? Inherited, PU *ańə 'sister-in-law';"Papp & Jakab 1993; ErtSz";"EWUng: 39; Aikio 2020: 18–19";;;3;;;Perhaps together with Khanty, the Hungarian word reflects a derivation *ańə(k)kV-;;
+Affines;male speaker's sister's husband;mZH;sógor;;swoger;4;;;Austrian High German;Medieval Germanic loan;"Papp & Jakab 1993; ErtSz";EWUng: 1342;;;1;;;;PIE;Milanova 2020: 144-147
+Affines;male speaker's wife's brother;mWB;sógor;;swoger;4;;;Austrian High German;Medieval Germanic loan;"Papp & Jakab 1993; ErtSz";EWUng: 1342;;;1;;;;;
+Affines;male speaker's wife's sister;mWZ;sógornő;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of sógor 'brother-in-law' and nő 'woman';;
+Affines;male speaker's husband's brother;mHB;sógor;;swoger;4;;;Austrian High German;Medieval Germanic loan;"Papp & Jakab 1993; ErtSz";EWUng: 1342;;;1;;;;;
+Affines;male speaker's husband's sister;mHZ;sógornő;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of sógor 'brother-in-law' and nő 'woman';;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);mostoha;;мащеха;4;;;Bulgarian;Medieval Slavic loan;"Papp & Jakab 1993; ErtSz";EWUng: 998;step-mother;replacement;1;;;;possibly Proto-Slavic;ESSJa XVII / 266-269
+Affines;male speaker's father's wife (not mother);mFW(notM);mostohaanya;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of mostoha 'strict, harsh; stepmother' and anya 'mother'";possibly Proto-Slavic;ESSJa XVII / 266-269
+Affines;male speaker's mother's husband (not father);mMH(notF);mostohaapa;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of mostoha 'strict, harsh; stepmother' and apa 'father'";possibly Proto-Slavic;ESSJa XVII / 266-269
+Affines;male speaker's son's wife;mSW;meny;;;0;;;;Inherited, PU *mińä;"Papp & Jakab 1993; ErtSz";UEW: 276;;;1;;;;;
+Affines;male speaker's son's wife's mother;mSWM;nászasszony(om);;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";"EWUng: 1016; 55";;;4;;;"A compound of nász 'wedding; father-in-law' and asszony 'lady, dame'  (< Alanian aχsina (WOT: 1331)), cf. also Holopainen (2019: 379) ";;
+Affines;male speaker's son's wife's father;mSWF;nász(om);;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1016;;;1;;;Mainly 'wedding', but also 'my own child's father-in-law', (-om) 1P.POSS. Nász is of unknown origin.;;
+Affines;male speaker's daughter's husband;mDH;vő;;;0;;;;Inherited, PU *wäŋəw;"Papp & Jakab 1993; ErtSz";UEW: 565–566;;;1;;;;;
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's sibling;fG;testvér;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1512;;;5;;;Originally from phrasal 'one body and blood', (egy '1'), test 'body' (unknown origin) and vér 'blood' (< PU *werə 'blood').;;
+Siblings;female speaker's brother;fB;fivér;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 397;;;4;;;"A compound of fi- 'son; boy', cf. mS fiú and vér 'blood'. Presumably arose through analogy with testvér.";;
+Siblings;female speaker's brother;fB;fiútestvér;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of fiú 'son; boy' and testvér 'sibling'";;
+Siblings;female speaker's sister;fZ;lánytestvér;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of lány 'girl; daughter' & testvér 'sibling'";;
+Siblings;female speaker's elder brother;feB;bátya;;баща, бате, батьо, бачо;3;;;Bulgarian;Medieval Slavic borrowing/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 87;"älterer Bruder; Onkel";insertion/replacement;1;;;Either a Lallwort or a Slavic borrowing (cf. Kitanova 2009: 283 on Bulgarian forms), the latter scenario seems more credible. Meaning 'Onkel' is around 100 years older than 'älterer Bruder'. EWUng also mentions bátyó 'älterer Bruder'. ;;
+Siblings;female speaker's younger brother;fyB;öcs;;;0;;;;? Inherited, PU *ećV 'jüngerer Bruder, jüngere Schwester';"Papp & Jakab 1993; ErtSz";"EWUng: 1078–1079; UEW: 70–71";;;1;;;This cognate set is irregular. Hungarian cs is not really found in inherited vocabulary. Udmurt dial. uʒ́ï seems to suggest *nć, regular reflex of which is Hung. gy. ;;
+Siblings;female speaker's elder sister;feZ;nővér;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1032;;;4;;;"A compound of nő 'woman; wife' and vér 'blood'";;
+Siblings;female speaker's elder sister;feZ;néne;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWung:1024–1025;;;1;;;"Tied to nő 'woman; wife', but this analysis is uncertain, perhaps a Lallwort.";;
+Siblings;female speaker's younger sister;fyZ;húg;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 584;seine/ihre Schwester;;1;;;EWUng considers the proposed Ossetic origin unlikely, the word is not even mentioned in Róna-Tas' list of Alanic loans (WOT: 1331–1339);;
+Parents;female speaker's parent;fP;szülő;;родители;3;1;;Bulgarian;Medieval Slavic borrowing/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1464;;;3;;;Formally a present participle of szül 'to birth, to beget'.;;
+Parents;female speaker's father;fF;apa;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";Aikio 2020: 55–56;;;1;;;"In many traditional etymological references (UEW: 14; EWUng: 40) thought to belong together with Hungarian ipa 'father-in-law', but there is no regular relationship with the two words";;
+Parents;female speaker's father;fF;atya;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 59;;;1;;;Despite being superficially similar, proposed cognates in Uralic languages are uncertain.;;
+Parents;female speaker's mother;fM;anya;;;0;;;;? Inherited, PU *ańə 'sister-in-law';"Papp & Jakab 1993; ErtSz";"EWUng: 39; Aikio 2020: 18–19";;;1;;;The cognates in Uralic mean 'sister-in-law', which makes this comparison uncertain. Phonologically similar words are prevalent in languages, which on the other hand points to a Lallwort origin. Cf. also mBW ángy;;
+Children;female speaker's child;fC;gyerek;;*ǰärmek, *ǰärmik, *ǰämrik;3;;;? West Old Turkic;Before arriving to Carpathian basin;"Papp & Jakab 1993; ErtSz";"EWUng: 495–496; WOT: 384–386";"young; child";replacement;1;;gyermek;The loan etymology is problematic, the Turkic word as an appellative is only found in Chuvash, śamrăk 'young'.;;
+Children;female speaker's son;fS;fiú;;;0;;;;Inherited, PU *pojka;"Papp & Jakab 1993; ErtSz";"EWUng: 396; UEW: 390";;;1;;;Possessive suffixes to fia-stem, cf. A fiam 'my son'. The word is remarkably similar to Romanian fiu in both form and meaning, but Romanian is from Latin filius;;
+Children;female speaker's daughter;fD;lány;;;0;;;;Inherited, PUg. *lVjV;"Papp & Jakab 1993; ErtSz";EWUng: 879;;;2;;leány;According to traditional sources a compound, but this is not all that convincing.;;
+Grandparents;female speaker's ancestor;fA;ős;;;0;;;;? Inherited, PU *e(ć)ćä;"Papp & Jakab 1993; ErtSz";"EWUng: 1088; Aikio 2020: 30–31";;;1;;;The relationship between ős and Old Hungarian iʃemucut 'father' (POSS.1PL.ACC)  is unclear. We might not even be dealing with the same word (Holopainen 2019: 98–99).;;
+Grandparents;female speaker's grandparent;fPP;nagyszülők;;Großeltern;3;1;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of nagy 'big' and szülő 'parent' (-k is the plural marker);;
+Grandparents;female speaker's father's father;fFF;(apai) nagyapa;;Großvater;3;1;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1013;;;4;;;A compound of nagy 'big' and apa 'father';French;DWDS, s.v.
+Grandparents;female speaker's father's father;fFF;nagypapa;;Großpapa;3;1;One of the constituents is borrowed;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1111;father;;4;;;A compound of nagy 'big' and papa 'father' (which according to EWUng is either a Lallwort or a loan from German);French;DWDS, s.v.
+Grandparents;female speaker's father's father;fFF;papa;;Papa;2;;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1111;father;;1;;;;French;DWDS, s.v.
+Grandparents;female speaker's father's mother;fFM;(apai) nagyanya;;Großmutter;3;1;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of nagy 'big' and anya 'mother';;
+Grandparents;female speaker's father's mother;fFM;nagymama;;Großmama;3;1;One of the constituents is borrowed;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 931;mother;;4;;;A compound of nagy 'big' and mama 'mother', which according to EWUng is either a Lallwort or a Wanderwort (?);French;DWDS, s.v.
+Grandparents;female speaker's father's mother;fFM;mami;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 931;;;3;;;A diminutive derivative of mama 'mother';French;DWDS, s.v.
+Grandparents;female speaker's father's mother;fFM;nagyi;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;3;;;A diminutive derivative of nagy 'big';;
+Grandparents;female speaker's mother's father;fMF;(anyai) nagyapa;;Großvater;3;1;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1013;;;4;;;A compound of nagy 'big' and apa 'father';;
+Grandparents;female speaker's mother's father;fMF;nagypapa;;Großpapa;3;1;One of the constituents is borrowed;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1111;father;;4;;;A compound of nagy 'big' and papa 'father' (which according to EWUng is either a Lallwort or a loan from German);French;DWDS, s.v.
+Grandparents;female speaker's mother's father;fMF;papa;;Papa;2;;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1111;father;;1;;;;French;DWDS, s.v.
+Grandparents;female speaker's mother's mother;fMM;(anyai) nagyanya;;Großmutter;3;1;;German;Modern Age/Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of nagy 'big' and anya 'mother';;
+Grandparents;female speaker's mother's mother;fMM;nagymama;;Mama;0;;One of the constituents is borrowed;? German;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 931;mother;;4;;;A compound of nagy 'big' and mama 'mother', which according to EWUng is either a Lallwort or a Wanderwort (?). ;French;DWDS, s.v.
+Grandparents;female speaker's mother's mother;fMM;mami;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 931;;;3;;;A diminutive derivative of mama 'mother';French;DWDS, s.v.
+Grandparents;female speaker's mother's mother;fMM;nagyi;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;3;;;A diminutive derivative of nagy 'big';;
+Grandchildren;female speaker's grandchild;fCC;unoka;;unuk;4;;;? South Slavic;Medieval Slavic borrowing/Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1578;;replacement;2;;;Auslaut a perhaps a diminutive of a possive suffix that are common in Hungarian kinshipterms;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;female speaker's son's son;fSS;fiúunoka;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of fiú 'son; boy' and unoka 'grandchild'";;
+Grandchildren;female speaker's son's daughter;fSD;leányunoka;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of léany 'girl; daughter' and unoka 'grandchild'";;
+Grandchildren;female speaker's daughter's son;fDS;fiúunoka;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of fiú 'son; boy' and unoka 'grandchild'";;
+Grandchildren;female speaker's daughter's daughter;fDD;leányunoka;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of léany 'girl; daughter' and unoka 'grandchild'";;
+ParentsSiblings;female speaker's father's brother;fFB;nagybácsi;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 67;;;3;;;Nagybácsi is comprised of nagy 'big' and bácsi 'uncle', that is perhaps a diminutive of bátya 'older brother' . Might be further qualified with apai 'father's side'.;;
+ParentsSiblings;female speaker's father's brother;fFB;nagybátya;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 87;;;4;;;A compound of nagy 'big' and bátya 'older brother', a male cousin older than ego;;
+ParentsSiblings;female speaker's father's sister;fFZ;nagynéni;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1024–1025;;;4;;;Hungarian néni is of unknown origin, might be related to ne- 'woman' (the stem of nő 'woman').;;
+ParentsSiblings;female speaker's mother's brother;fMB;nagybácsi;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 67;;;3;;;Nagybácsi is comprised of nagy 'big' and bácsi 'uncle', that is perhaps a diminutive of bátya 'older brother' . Might be further qualified with anai 'mother's side'.;;
+ParentsSiblings;female speaker's mother's brother;fMB;nagybátya;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 87;;;4;;;A compound of nagy 'big' and bátya 'older brother';;
+ParentsSiblings;female speaker's mother's sister;fMZ;nagynéni;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1024–1025;;;4;;;Hungarian néni is of unknown origin, might be related to ne- 'woman' (the stem of nő 'woman').;;
+ParentsSiblings;female speaker's father's older brother;fFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older brother;fMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;unokaöcs;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and öcs 'younger brother';;
+SiblingsChildren;female speaker's brother's daughter;fBD;unokahúg;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and húg 'younger sister';;
+SiblingsChildren;female speaker's sister's son;fZS;unokaöcs;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and öcs 'younger brother';;
+SiblingsChildren;female speaker's sister's daughter;fZD;unokahúg;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and húg 'younger sister';;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's sister's daughter;fFZD;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;female speaker's father's sister's daughter;fFZD;unokanővér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and nővér 'older sister';;
+Cousins;female speaker's father's brother's daughter;fFBD;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;female speaker's father's brother's daughter;fFBD;unokanővér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and nővér 'older sister';;
+Cousins;female speaker's mother's brother's daughter;fMBD;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;female speaker's mother's brother's daughter;fMBD;unokanővér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and nővér 'older sister';;
+Cousins;female speaker's mother's sister's daughter;fMZD;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;female speaker's mother's sister's daughter;fMZD;unokanővér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and nővér 'older sister';;
+Cousins;female speaker's father's brother's son;fFBS;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;female speaker's father's brother's son;fFBS;unokafivér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and fivér 'brother';;
+Cousins;female speaker's father's brother's son;fFBS;unokabátya;;see unoka;0;;Constituents are borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and bátya 'older brother', older than ego;;
+Cousins;female speaker's father's sister's son;fFZS;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;female speaker's father's sister's son;fFZS;unokafivér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and fivér 'brother';;
+Cousins;female speaker's father's sister's son;fFZS;unokabátya;;see unoka;0;;Constituents are borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and bátya 'older brother', older than ego;;
+Cousins;female speaker's mother's brother's son;fMBS;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;female speaker's mother's brother's son;fMBS;unokafivér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and fivér 'brother';;
+Cousins;female speaker's mother's brother's son;fMBS;unokabátya;;see unoka;0;;Constituents are borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and bátya 'older brother', older than ego;;
+Cousins;female speaker's mother's sister's son;fMZS;unokatestvér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and testvér 'sibling';;
+Cousins;female speaker's mother's sister's son;fMZS;unokafivér;;see unoka;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and fivér 'brother';;
+Cousins;female speaker's mother's sister's son;fMZS;unokabátya;;see unoka;0;;Constituents are borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of unoka 'grandchild' and bátya 'older brother', older than ego;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;házastárs;;;0;Partly a calque modelled after Turkic;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 539–540;;;4;;;The first component házas is a derivative of ház 'house' (< PU *kota 'hut'), formally 'Haus habend'. The meaning 'verheiratet' developed perhaps after a Turkic model, cf. OT *ǟv 'house, tent' > Chuv avlan- 'heiraten' > avlannə̑ 'verheiratet'. Second component társ 'companion'.;;
+Affines;female speaker's husband;fH;férj;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 382;;;2;;;"Thought to be originally an obscured compound of fiú 'boy; son' and unattested er(j) that is supposedly the same word as Mari erge 'boy' and Finnish yrkä/ylkä 'groom' (arch./obs.). This idea is further complicated by the fact that Mari and Finnish are not cognates.";;
+Affines;female speaker's wife;fW;nő;;;0;;;;Inherited, PU *niŋä;"Papp & Jakab 1993; ErtSz";UEW: 305–306;;;1;;;Alternatively PU *näjV 'woman'. The stem of nő is nej-.;;
+Affines;female speaker's wife;fW;feleség;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 374;;;3;;;"Derived from fél 'half; party (Mitmensch, Partei)' (< PU *pälä 'half'), parallel derivations of the same stem meaning 'spouse' exist in other Uralic languages, Finnish puoliso and Meadow Mari pelaš";;
+Affines;female speaker's husband's father;fHF;após;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 42;;;3;;;A diminutive -ós from ap(a)-. Earliest attestation in 1608 as 'bejahrter Mann, Väterchen', meaning 'Schwiegervater' from 1736;;
+Affines;female speaker's husband's father;fHF;ipa;;;0;;;;Inherited, PU *ëppə 'father-in-law';"Papp & Jakab 1993; ErtSz";EWUng: 620;;;1;;;A diminutive or a possessive of now obsolete op.;;
+Affines;female speaker's husband's mother;fHM;anyós;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 40;;;3;;;"A diminutive -ós from any(a)- 'mother'. Earliest attestation in 1608 as 'bejahrtes Weib, Mütterchen; alte Mutter, meaning 'Schwiegermutter' from 1761";;
+Affines;female speaker's husband's mother;fHM;napa;;;0;;;;Hungarian-specific/?Inherited, PU *a/ëno-ëppə 'mother-in-law';"Papp & Jakab 1993; ErtSz";"EWUng: 1015; Aikio 2020: 54";;;2;;;A diminutive or a possessive form of an obsole nap. Belonging to PU *a/ëno-ëppə 'mother-in-law' is doubtful because there is no good explanation for the loss of the initial stressed vowel. Aikio even rejects the word.;;
+Affines;female speaker's wife's father;fWF;após;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 42;;;3;;;A diminutive -ós from ap(a)-. Earliest attestation in 1608 as 'bejahrter Mann, Väterchen', meaning 'Schwiegervater' from 1736;;
+Affines;female speaker's wife's father;fWF;ipa;;;0;;;;Inherited, PU *ëppə 'father-in-law';"Papp & Jakab 1993; ErtSz";EWUng: 620;;;1;;;A diminutive or a possessive of now obsolete op.;;
+Affines;female speaker's wife's mother;fWM;anyós;;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 40;;;3;;;"A diminutive -ós from any(a)- 'mother'. Earliest attestation in 1608 as 'bejahrtes Weib, Mütterchen; alte Mutter, meaning 'Schwiegermutter' from 1761";;
+Affines;female speaker's wife's mother;fWM;napa;;;0;;;;Hungarian-specific/?Inherited, PU *a/ëno-ëppə 'mother-in-law';"Papp & Jakab 1993; ErtSz";"EWUng: 1015; Aikio 2020: 54";;;2;;;A diminutive or a possessive form of an obsole nap. Belonging to PU *a/ëno-ëppə 'mother-in-law' is doubtful because there is no good explanation for the loss of the initial stressed vowel. Aikio even rejects the word.;;
+Affines;female speaker's brother's wife;fBW;ángy;;;0;;;;? Inherited, PU *ańə 'sister-in-law';"Papp & Jakab 1993; ErtSz";"EWUng: 39; Aikio 2020: 18–19";;;3;;;Perhaps together with Khanty, the Hungarian word reflects a derivation *ańə(k)kV-;;
+Affines;female speaker's sister's husband;fZH;sógor;;swoger;4;;;Austrian High German;Medieval Germanic loan;"Papp & Jakab 1993; ErtSz";EWUng: 1342;;;1;;;;PIE;Milanova 2020: 144-147
+Affines;female speaker's wife's brother;fWB;sógor;;swoger;4;;;Austrian High German;Medieval Germanic loan;"Papp & Jakab 1993; ErtSz";EWUng: 1342;;;1;;;;;
+Affines;female speaker's wife's sister;fWZ;sógornő;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of sógor 'brother-in-law' and nő 'woman';;
+Affines;female speaker's husband's brother;fHB;sógor;;swoger;4;;;Austrian High German;Medieval Germanic loan;"Papp & Jakab 1993; ErtSz";EWUng: 1342;;;1;;;;;
+Affines;female speaker's husband's sister;fHZ;sógornő;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;A compound of sógor 'brother-in-law' and nő 'woman';;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);mostoha;;мащеха;4;;;Bulgarian;Medieval Slavic loan;"Papp & Jakab 1993; ErtSz";EWUng: 998;step-mother;replacement;1;;;;possibly Proto-Slavic;ESSJa XVII / 266-269
+Affines;female speaker's father's wife (not mother);fFW(notM);mostohaanya;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of mostoha 'strict, harsh; stepmother' and anya 'mother'";possibly Proto-Slavic;ESSJa XVII / 266-269
+Affines;female speaker's mother's husband (not father);fMH(notF);mostohaapa;;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";;;;4;;;"A compound of mostoha 'strict, harsh; stepmother' and apa 'father'";possibly Proto-Slavic;ESSJa XVII / 266-269
+Affines;female speaker's son's wife;fSW;meny;;;0;;;;Inherited, PU *mińä;"Papp & Jakab 1993; ErtSz";UEW: 276;;;1;;;;;
+Affines;female speaker's son's wife's mother;fSWM;nászasszony(om);;;0;;One of the constituents is borrowed;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";"EWUng: 1016; 55";;;4;;;"A compound of nász 'wedding; father-in-law' and asszony 'lady, dame'  (< Alanian aχsina (WOT: 1331)), cf. also Holopainen (2019: 379) ";;
+Affines;female speaker's son's wife's father;fSWF;nász(om);;;0;;;;Hungarian-specific;"Papp & Jakab 1993; ErtSz";EWUng: 1016;;;1;;;Mainly 'wedding', but also 'my own child's father-in-law', (-om) 1P.POSS. Nász is of unknown origin.;;
+Affines;female speaker's daughter's husband;fDH;vő;;;0;;;;Inherited, PU *wäŋəw;"Papp & Jakab 1993; ErtSz";UEW: 565–566;;;1;;;;;
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;;;

@@ -1,251 +1,251 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","oarbinaččat",,,"",,"sammallahti_sami-suoma_1989","334 plural"
-"mB","viellja",,,"",,"sammallahti_sami-suoma_1989","472 "
-"mZ","oabbá",,,"",,"sammallahti_sami-suoma_1989","330 "
-"meB","stuorraviellja",,,"",,"sammallahti_sami-suoma-sami_1993","268 "
-"myB","uhcaviellja",,,"",,"sammallahti_sami-suoma-sami_1993","408 "
-"meZ","stuorraoabbá",,,"",,"sammallahti_sami-suoma-sami_1993","268 "
-"myZ","uhcaoabbá",,,"",,"sammallahti_sami-suoma-sami_1993","407 "
-"mP","váhnen",,,"",,"sammallahti_sami-suoma_1989","460 "
-"mF","áhčči",,,"",,"sammallahti_sami-suoma_1989","11 "
-"mM","eadni",,,"",,"sammallahti_sami-suoma_1989","130 "
-"mC","mánná",,,"",,"sammallahti_sami-suoma_1989","283 "
-"mS","bárdni",,,"",,"sammallahti_sami-suoma_1989","32 "
-"mS","gánda",,,"",,"sammallahti_sami-suoma_1989","157 "
-"mD","nieida",,,"",,"sammallahti_sami-suoma_1989","307 "
-"mA","máttar",,,"",,"sammallahti_sami-suoma_1989","285 "
-"mPP","",,,"",,"",""
-"mFF","áddjá",,,"",,"sammallahti_sami-suoma_1989","10 "
-"mFM","áhkku",,,"",,"sammallahti_sami-suoma_1989","11 "
-"mMF","áddjá",,,"",,"sammallahti_sami-suoma_1989","10 "
-"mMM","áhkku",,,"",,"sammallahti_sami-suoma_1989","11 "
-"mCC","áddjut",,,"",,"sammallahti_sami-suoma_1989","10 grandchild of a man"
-"mSS","",,,"",,"",""
-"mSD","",,,"",,"",""
-"mDS","",,,"",,"",""
-"mDD","",,,"",,"",""
-"mFB","",,,"",,"",""
-"mFZ","siessá",,,"",,"sammallahti_sami-suoma_1989","394 "
-"mMB","eanu",,,"",,"sammallahti_sami-suoma_1989","133 "
-"mMZ","",,,"",,"",""
-"mFeB","eahki",,,"",,"sammallahti_sami-suoma_1989","130 "
-"mFyB","čeahci",,,"",,"sammallahti_sami-suoma_1989","80 "
-"mFeZ","",,,"",,"",""
-"mFyZ","",,,"",,"",""
-"mMeZ","goaski",,,"",,"sammallahti_sami-suoma_1989","183 "
-"mMyZ","muoŧŧá",,,"",,"sammallahti_sami-suoma_1989","300 "
-"mMeB","",,,"",,"",""
-"mMyB","",,,"",,"",""
-"mBS","",,,"",,"",""
-"mBD","",,,"",,"",""
-"mZS","neahpi",,,"neahpát, nebá",,"sammallahti_sami-suoma_1989","306 son or daughter of a man’s sister"
-"mZD","neahpi",,,"neahpát, nebá",,"sammallahti_sami-suoma_1989","306 son or daughter of a man’s sister"
-"meBS","čeahcit",,,"čeahcet",,"sammallahti_sami-suoma_1989","80 son or daughter of a man’s elder brother"
-"myBS","eahkit",,,"eahket",,"sammallahti_sami-suoma_1989","130 son or daughter of a manʼs younger brother"
-"meBD","čeahcit",,,"čeahcet",,"sammallahti_sami-suoma_1989","80 son or daughter of a man’s elder brother"
-"myBD","eahkit",,,"eahket",,"sammallahti_sami-suoma_1989","130 son or daughter of a manʼs younger brother"
-"meZS","",,,"",,"",""
-"myZS","",,,"",,"",""
-"meZD","",,,"",,"",""
-"myZD","",,,"",,"",""
-"mFZD","oarpmealle",,,"oambealli oambealle, oarpmealli",,"sammallahti_sami-suoma_1989","335 female cousin"
-"mFBD","oarpmealle",,,"oambealli oambealle, oarpmealli",,"sammallahti_sami-suoma_1989","335 female cousin"
-"mMBD","oarpmealle",,,"oambealli oambealle, oarpmealli",,"sammallahti_sami-suoma_1989","335 female cousin"
-"mMZD","oarpmealle",,,"oambealli oambealle, oarpmealli",,"sammallahti_sami-suoma_1989","335 female cousin"
-"mFBS","vilbealle",,,"vilbealli, vilba",,"sammallahti_sami-suoma_1989","475 male cousin"
-"mFZS","vilbealle",,,"vilbealli, vilba",,"sammallahti_sami-suoma_1989","475 male cousin"
-"mMBS","vilbealle",,,"vilbealli, vilba",,"sammallahti_sami-suoma_1989","475 male cousin"
-"mMZS","vilbealle",,,"vilbealli, vilba",,"sammallahti_sami-suoma_1989","475 male cousin"
-"mFeBS","",,,"",,"",""
-"mFyBS","",,,"",,"",""
-"mFeZS","",,,"",,"",""
-"mFyZS","",,,"",,"",""
-"mFeBD","",,,"",,"",""
-"mFyBD","",,,"",,"",""
-"mFeZD","",,,"",,"",""
-"mFyZD","",,,"",,"",""
-"mMeBS","",,,"",,"",""
-"mMyBS","",,,"",,"",""
-"mMeZS","",,,"",,"",""
-"mMyZS","",,,"",,"",""
-"mMeBD","",,,"",,"",""
-"mMyBD","",,,"",,"",""
-"mMeZD","",,,"",,"",""
-"mMyZD","",,,"",,"",""
-"mFBeS","",,,"",,"",""
-"mFByS","",,,"",,"",""
-"mFZeS","",,,"",,"",""
-"mFZyS","",,,"",,"",""
-"mFBeD","",,,"",,"",""
-"mFByD","",,,"",,"",""
-"mFZeD","",,,"",,"",""
-"mFZyD","",,,"",,"",""
-"mMBeS","",,,"",,"",""
-"mMByS","",,,"",,"",""
-"mMZeS","",,,"",,"",""
-"mMZyS","",,,"",,"",""
-"mMBeD","",,,"",,"",""
-"mMByD","",,,"",,"",""
-"mMZeD","",,,"",,"",""
-"mMZyD","",,,"",,"",""
-"mE","guoibmi",,,"",,"sammallahti_sami-suoma_1989","198 "
-"mE","beallelaš",,,"",,"sammallahti_sami-suoma_1989","36 "
-"mH","boadnjá",,,"boadnji",,"sammallahti_sami-suoma_1989","48 "
-"mH","gállis",,,"",,"sammallahti_sami-suoma_1989","156 "
-"mH","isit",,,"",,"sammallahti_sami-suoma_1989","226 "
-"mW","gálgu",,,"",,"sammallahti_sami-suoma_1989","156 "
-"mW","eamit",,,"",,"sammallahti_sami-suoma_1989","132 "
-"mW","áhkká",,,"",,"sammallahti_sami-suoma_1989","11 "
-"mHF","vuohppa",,,"",,"sammallahti_sami-suoma_1989","480 "
-"mHM","vuoni",,,"",,"sammallahti_sami-suoma_1989","484 "
-"mWF","vuohppa",,,"",,"sammallahti_sami-suoma_1989","480 "
-"mWM","vuoni",,,"",,"sammallahti_sami-suoma_1989","484 "
-"mBW","sivjjot",,,"",,"sammallahti_sami-suoma_1989","398 a womanʼs brother-in-law, a manʼs sister-in-law"
-"mZH","máhka",,,"",,"sammallahti_sami-suoma_1989","281 brother-in-law, uncle, husband of a relative, which is not spile or sivjjot"
-"mWB","máhka",,,"",,"sammallahti_sami-suoma_1989","281 brother-in-law, uncle, husband of a relative, which is not spile or sivjjot"
-"mWZ","sivjjot",,,"",,"sammallahti_sami-suoma_1989","398 a womanʼs brother-in-law, a manʼs sister-in-law"
-"mHB","",,,"",,"",""
-"mHZ","",,,"",,"",""
-"mco-W","",,,"",,"",""
-"mco-H","",,,"",,"",""
-"mFW(notM)","eadnebealle",,,"",,"sammallahti_sami-suoma_1989","130 "
-"mMH(notF)","áhččebealle",,,"",,"sammallahti_sami-suoma_1989","11 "
-"mSW","mannji",,,"",,"sammallahti_sami-suoma_1989","278 "
-"mSWM","láža",,,"",,"sammallahti_sami-suoma_1989","257 sonʼs or daughterʼs father-in-law or mother-in-law"
-"mSWF","láža",,,"",,"sammallahti_sami-suoma_1989","257 sonʼs or daughterʼs father-in-law or mother-in-law"
-"mDH","vivva",,,"",,"sammallahti_sami-suoma_1989","477 "
-"mDHM","láža",,,"",,"sammallahti_sami-suoma_1989","257 sonʼs or daughterʼs father-in-law or mother-in-law"
-"mDHF","láža",,,"",,"sammallahti_sami-suoma_1989","257 sonʼs or daughterʼs father-in-law or mother-in-law"
-"mFZH","",,,"",,"",""
-"mFBW","ipmi",,,"",,"sammallahti_sami-suoma_1989","225 "
-"mMZH","",,,"",,"",""
-"mMBW","ipmi",,,"",,"sammallahti_sami-suoma_1989","225 "
-"mWZH","spile",,,"",,"sammallahti_sami-suoma_1989","423 spouse of one’s wife’s sister or brother, husband of one’s husband’s sister"
-"mWBW","spile",,,"",,"sammallahti_sami-suoma_1989","423 spouse of one’s wife’s sister or brother, husband of one’s husband’s sister"
-"mHZH","spile",,,"",,"sammallahti_sami-suoma_1989","423 spouse of one’s wife’s sister or brother, husband of one’s husband’s sister"
-"mHBW","gálojeatni",,,"",,"sammallahti_sami-suoma_1989","156 "
-"fG","oarbinaččat",,,"",,"sammallahti_sami-suoma_1989","334 plural"
-"fB","viellja",,,"",,"sammallahti_sami-suoma_1989","472 "
-"fZ","oabbá",,,"",,"sammallahti_sami-suoma_1989","330 "
-"feB","stuorraviellja",,,"",,"sammallahti_sami-suoma-sami_1993","268 "
-"fyB","uhcaviellja",,,"",,"sammallahti_sami-suoma-sami_1993","408 "
-"feZ","stuorraoabbá",,,"",,"sammallahti_sami-suoma-sami_1993","268 "
-"fyZ","uhcaoabbá",,,"",,"sammallahti_sami-suoma-sami_1993","407 "
-"fP","váhnen",,,"",,"sammallahti_sami-suoma_1989","460 "
-"fF","áhčči",,,"",,"sammallahti_sami-suoma_1989","11 "
-"fM","eadni",,,"",,"sammallahti_sami-suoma_1989","130 "
-"fC","mánná",,,"",,"sammallahti_sami-suoma_1989","283 "
-"fS","bárdni",,,"",,"sammallahti_sami-suoma_1989","32 "
-"fS","gánda",,,"",,"sammallahti_sami-suoma_1989","157 "
-"fD","nieida",,,"",,"sammallahti_sami-suoma_1989","307 "
-"fA","máttar",,,"",,"sammallahti_sami-suoma_1989","285 "
-"fPP","",,,"",,"",""
-"fFF","áddjá",,,"",,"sammallahti_sami-suoma_1989","10 "
-"fFM","áhkku",,,"",,"sammallahti_sami-suoma_1989","11 "
-"fMF","áddjá",,,"",,"sammallahti_sami-suoma_1989","10 "
-"fMM","áhkku",,,"",,"sammallahti_sami-suoma_1989","11 "
-"fCC","áhkkut",,,"",,"sammallahti_sami-suoma_1989","11 grandchild of a woman"
-"fSS","",,,"",,"",""
-"fSD","",,,"",,"",""
-"fDS","",,,"",,"",""
-"fDD","",,,"",,"",""
-"fFB","",,,"",,"",""
-"fFZ","siessá",,,"",,"sammallahti_sami-suoma_1989","394 "
-"fMB","eanu",,,"",,"sammallahti_sami-suoma_1989","133 "
-"fMZ","",,,"",,"",""
-"fFeB","eahki",,,"",,"sammallahti_sami-suoma_1989","130 "
-"fFyB","čeahci",,,"",,"sammallahti_sami-suoma_1989","80 "
-"fFeZ","",,,"",,"",""
-"fFyZ","",,,"",,"",""
-"fMeZ","goaski",,,"",,"sammallahti_sami-suoma_1989","183 "
-"fMyZ","muoŧŧá",,,"",,"sammallahti_sami-suoma_1989","300 "
-"fMeB","",,,"",,"",""
-"fMyB","",,,"",,"",""
-"fBS","siessal",,,"",,"sammallahti_sami-suoma_1989","394 "
-"fBD","siessal",,,"",,"sammallahti_sami-suoma_1989","394 "
-"fZS","",,,"",,"",""
-"fZD","",,,"",,"",""
-"feBS","",,,"",,"",""
-"fyBS","",,,"",,"",""
-"feBD","",,,"",,"",""
-"fyBD","",,,"",,"",""
-"feZS","muoŧŧal",,,"",,"sammallahti_sami-suoma_1989","300 son or daughter of a woman’s elder sister"
-"fyZS","goaskit",,,"",,"sammallahti_sami-suoma_1989","183 son or daughter of a woman’s younger sister"
-"feZD","muoŧŧal",,,"",,"sammallahti_sami-suoma_1989","300 son or daughter of a womanʼs elder sister"
-"fyZD","goaskit",,,"",,"sammallahti_sami-suoma_1989","183 son or daughter of a woman’s younger sister"
-"fFZD","oarpmealle",,,"oambealli oambealle, oarpmealli",,"sammallahti_sami-suoma_1989","335 female cousin"
-"fFBD","oarpmealle",,,"oambealli oambealle, oarpmealli",,"sammallahti_sami-suoma_1989","335 female cousin"
-"fMBD","oarpmealle",,,"oambealli oambealle, oarpmealli",,"sammallahti_sami-suoma_1989","335 female cousin"
-"fMZD","oarpmealle",,,"oambealli oambealle, oarpmealli",,"sammallahti_sami-suoma_1989","335 female cousin"
-"fFBS","vilbealle",,,"vilbealli, vilba",,"sammallahti_sami-suoma_1989","475 male cousin"
-"fFZS","vilbealle",,,"vilbealli, vilba",,"sammallahti_sami-suoma_1989","475 male cousin"
-"fMBS","vilbealle",,,"vilbealli, vilba",,"sammallahti_sami-suoma_1989","475 male cousin"
-"fMZS","vilbealle",,,"vilbealli, vilba",,"sammallahti_sami-suoma_1989","475 male cousin"
-"fFeBS","",,,"",,"",""
-"fFyBS","",,,"",,"",""
-"fFeZS","",,,"",,"",""
-"fFyZS","",,,"",,"",""
-"fFeBD","",,,"",,"",""
-"fFyBD","",,,"",,"",""
-"fFeZD","",,,"",,"",""
-"fFyZD","",,,"",,"",""
-"fMeBS","",,,"",,"",""
-"fMyBS","",,,"",,"",""
-"fMeZS","",,,"",,"",""
-"fMyZS","",,,"",,"",""
-"fMeBD","",,,"",,"",""
-"fMyBD","",,,"",,"",""
-"fMeZD","",,,"",,"",""
-"fMyZD","",,,"",,"",""
-"fFBeS","",,,"",,"",""
-"fFByS","",,,"",,"",""
-"fFZeS","",,,"",,"",""
-"fFZyS","",,,"",,"",""
-"fFBeD","",,,"",,"",""
-"fFByD","",,,"",,"",""
-"fFZeD","",,,"",,"",""
-"fFZyD","",,,"",,"",""
-"fMBeS","",,,"",,"",""
-"fMByS","",,,"",,"",""
-"fMZeS","",,,"",,"",""
-"fMZyS","",,,"",,"",""
-"fMBeD","",,,"",,"",""
-"fMByD","",,,"",,"",""
-"fMZeD","",,,"",,"",""
-"fMZyD","",,,"",,"",""
-"fE","guoibmi",,,"",,"sammallahti_sami-suoma_1989","198 "
-"fE","beallelaš",,,"",,"sammallahti_sami-suoma_1989","36 "
-"fH","boadnjá",,,"boadnji",,"sammallahti_sami-suoma_1989","48 "
-"fH","gállis",,,"",,"sammallahti_sami-suoma_1989","156 "
-"fH","isit",,,"",,"sammallahti_sami-suoma_1989","226 "
-"fW","gálgu",,,"",,"sammallahti_sami-suoma_1989","156 "
-"fW","eamit",,,"",,"sammallahti_sami-suoma_1989","132 "
-"fW","áhkká",,,"",,"sammallahti_sami-suoma_1989","11 "
-"fHF","vuohppa",,,"",,"sammallahti_sami-suoma_1989","480 "
-"fHM","vuoni",,,"",,"sammallahti_sami-suoma_1989","484 "
-"fWF","vuohppa",,,"",,"sammallahti_sami-suoma_1989","480 "
-"fWM","vuoni",,,"",,"sammallahti_sami-suoma_1989","484 "
-"fBW","mannji",,,"",,"sammallahti_sami-suoma_1989","278 "
-"fZH","sivjjot",,,"",,"sammallahti_sami-suoma_1989","398 a womanʼs brother-in-law, a manʼs sister-in-law"
-"fWB","",,,"",,"",""
-"fWZ","",,,"",,"",""
-"fHB","sivjjot",,,"",,"sammallahti_sami-suoma_1989","398 a womanʼs brother-in-law, a manʼs sister-in-law"
-"fHZ","mannji",,,"",,"sammallahti_sami-suoma_1989","278 "
-"fco-W","",,,"",,"",""
-"fco-H","",,,"",,"",""
-"fFW(notM)","eadnebealle",,,"",,"sammallahti_sami-suoma_1989","130 "
-"fMH(notF)","áhččebealle",,,"",,"sammallahti_sami-suoma_1989","11 "
-"fSW","mannji",,,"",,"sammallahti_sami-suoma_1989","278 "
-"fSWM","láža",,,"",,"sammallahti_sami-suoma_1989","257 sonʼs or daughterʼs father-in-law or mother-in-law"
-"fSWF","láža",,,"",,"sammallahti_sami-suoma_1989","257 sonʼs or daughterʼs father-in-law or mother-in-law"
-"fDH","vivva",,,"",,"sammallahti_sami-suoma_1989","477 "
-"fDHM","láža",,,"",,"sammallahti_sami-suoma_1989","257 sonʼs or daughterʼs father-in-law or mother-in-law"
-"fDHF","láža",,,"",,"sammallahti_sami-suoma_1989","257 sonʼs or daughterʼs father-in-law or mother-in-law"
-"fFZH","",,,"",,"",""
-"fFBW","ipmi",,,"",,"sammallahti_sami-suoma_1989","225 "
-"fMZH","",,,"",,"",""
-"fMBW","ipmi",,,"",,"sammallahti_sami-suoma_1989","225 "
-"fWZH","spile",,,"",,"sammallahti_sami-suoma_1989","423 spouse of one’s wife’s sister or brother, husband of one’s husband’s sister"
-"fWBW","spile",,,"",,"sammallahti_sami-suoma_1989","423 spouse of one’s wife’s sister or brother, husband of one’s husband’s sister"
-"fHZH","spile",,,"",,"sammallahti_sami-suoma_1989","423 spouse of one’s wife’s sister or brother, husband of one’s husband’s sister"
-"fHBW","gálojeatni",,,"",,"sammallahti_sami-suoma_1989","156 "
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments;Deeper donor language;Ref. for deeper donor language
+Siblings;male speaker's sibling;mG;oarbinaččat;;sisarukset / syskon;3;1;One of the constituents is borrowed;Finnish/Swedish ;Recent centuries ;Sammallahti 1989: 334;"Lehtiranta 2001: 92–93; Holopainen 2019: 168–170; Milanova et al. 2024: 332–333";;;3;;;plural of oabbá 'sister', the ultimate source of the calque may be NHG Geschwister (DWDS s.v);;
+Siblings;male speaker's brother;mB;viellja;;*velji-;3;;;Proto-Finnic;?;Sammallahti 1989: 472;Metsäranta 2023: 172–177;;replacement;1;;;According to LägLoS (386–387), a Proto-Germanic loanword. ;;
+Siblings;male speaker's sister;mZ;oabbá;;*Hárbha-;0;;One of the constituents might be borrowed;Proto-Indo-Iranian;Bronze Age ;Sammallahti 1989: 330;"Lehtiranta 2001: 92–93; Holopainen 2019: 168–170";;;2;;;;;
+Siblings;male speaker's elder brother;meB;stuorraviellja;;;0;;Both of the constituents might be borrowed;;?;Sammallahti 1993: 268;;;;4;;;;;
+Siblings;male speaker's younger brother;myB;uhcaviellja;;;0;;;;?;Sammallahti 1993: 408;;;;4;;;;;
+Siblings;male speaker's elder sister;meZ;stuorraoabbá;;;0;;;;?;Sammallahti 1993: 268;;;;4;;;;;
+Siblings;male speaker's younger sister;myZ;uhcaoabbá;;;0;;;;?;Sammallahti 1993: 407;;;;4;;;;;
+Parents;male speaker's parent;mP;váhnen;;vanhempi;4;;;Finnish;?;Sammallahti 1989: 460;Sammallahti 1998: 265;;replacement;1;;;;;
+Parents;male speaker's father;mF;áhčči;;;0;;;;Inherited, PU *äććä;Sammallahti 1989: 11;Aikio 2020: 30–32;;;1;;;;;
+Parents;male speaker's mother;mM;eadni;;;0;;;;Inherited, PS *eannē;Sammallahti 1989: 130;Sammallahti 1998: 240;;;1;;;As a kinship term a PS innovation;;
+Children;male speaker's child;mC;mánná;;man;3;;;Proto-Norse;Mid 1st millennium CE;Sammallahti 1989: 283;Sammallahti 1998: 253;man;replacement;1;;;;Proto-Germanic with obscure parallels in other IE branches;Milanova 2020: 103
+Children;male speaker's son;mS;bárdni;;barn;4;;;Proto-Norse;Mid 1st millennium CE;Sammallahti 1989: 32;Sammallahti 1998: 230;;replacement;1;;;Proto-Norse replaced PU *pojka?;Proto-Germanic;Milanova 2020: 112-113
+Children;male speaker's son;mS;gánda;;ganti;3;;;Old Norse;800–1000 CE;Sammallahti 1989: 157;Qvigstad 1893: 163;;;1;;;;;
+Children;male speaker's daughter;mD;nieida;;;0;;;;Inherited, PU *näjδə;Sammallahti 1989: 307;;;;1;;;;;
+Grandparents;male speaker's ancestor;mA;máttar;;*mandër;4;;;Proto-Finnic;?;Sammallahti 1989: 285;SSA: 147;mainland, continent;replacement;1;;;In some Sami languages 'foundation of a hut', metaphorical extension in North Sami?;;
+Grandparents;male speaker's grandparent;mPP;;;;;;;;;;;;;;;;;;
+Grandparents;male speaker's father's father;mFF;áddjá;;;0;;;;Inherited, PU *äjjä;Sammallahti 1989: 10;Aikio 2015: 62;;;1;;;;;
+Grandparents;male speaker's father's mother;mFM;áhkku;;*akka;0;;One of the constituents is borrowed;Proto-Finnic;Sami-specific;Sammallahti 1989: 11;Aikio 2009: 244;;;3;;;;;
+Grandparents;male speaker's mother's father;mMF;áddjá;;;0;;;;Inherited, PU *äjjä;Sammallahti 1989: 10;Aikio 2015: 62;;;1;;;;;
+Grandparents;male speaker's mother's mother;mMM;áhkku;;*akka;0;;One of the constituents is borrowed;Proto-Finnic;Sami-specific;Sammallahti 1989: 11;Aikio 2009: 244;;;3;;;;;
+Grandchildren;male speaker's grandchild;mCC;áddjut;;;0;;;;Sami-specific;Sammallahti 1989: 10;;;;3;;;A grandchild to a grandfather;;
+Grandchildren;male speaker's son's son;mSS;;;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's son's daughter;mSD;;;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's son;mDS;;;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's daughter;mDD;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's brother;mFB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;siessá;;;0;;;;Sami-specific;Sammallahti 1989: 394;"UEW: 432–433; Lehtiranta 2001: 124–125";;;1;;;Comparison in UEW is irregular to the extent that it should probably be discarded.;;
+ParentsSiblings;male speaker's mother's brother;mMB;eanu;;*enoi;3;;;Proto-Finnic;?;Sammallahti 1989: 133;Kuokkala 2018: 39;;;1;;;Also 'sister's child (to their uncle), cousin's child';;
+ParentsSiblings;male speaker's mother's sister;mMZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;eahki;;;0;;;;Inherited, PU *ekä 'older male relative';Sammallahti 1989: 130;Aikio 2020: 42–43;;;1;;;Also 'father's male cousin' and '(younger) brother's child (to their uncle)';;
+ParentsSiblings;male speaker's father's younger brother;mFyB;čeahci;;;0;;;;Inherited, PU *čečä;Sammallahti 1989: 80;;;;1;;;;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;goaski;;;0;;;;Inherited, PU *koska 'aunt, grandmother';Sammallahti 1989: 183;Sammallahti 1998: 118;;;1;;;Also 'mother's female cousin' and 'younger sister's child or female cousin's child (to their aunt)';;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;muoŧŧá;;*mōþō(n);3;;;Proto-Germanic;700 BCE–500 CE;Sammallahti 1989: 300;Kümmel 2015;;replacement;1;;;Also 'mother's younger female cousin' and 'sister's child (older sister's child to their aunt)';PIE;Kümmel 2015
+ParentsSiblings;male speaker's mother's older brother;mMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's daughter;mBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's son;mZS;neahpi;;;4;;;Proto-Baltic;1st millennium BCE;Sammallahti 1989: 306;"Sammallahti 1998: 127; Sammallahti 1999: 86 SSA: 213";;;1;;neahpát, nebá;Ultimately borrowed from IE *nepōt, but by which route the word has reached Sami is less clear (through Finnish?), sister's child in relation to his uncle. Also eanu refers to ZC, specifically when the speaker is a male. ;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+SiblingsChildren;male speaker's sister's daughter;mZD;neahpi;;;4;;;Proto-Baltic;1st millennium BCE;Sammallahti 1989: 306;"Sammallahti 1998: 127; Sammallahti 1999: 86; SSA: 213";;;1;;neahpát, nebá;Ultimately borrowed from IE *nepōt, but by which route the word has reached Sami is less clear (through Finnish?), sister's child in relation to his uncle. Also eanu refers to ZC, specifically when the speaker is a male. ;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+SiblingsChildren;male speaker's older brother's son;meBS;čeahcit;;;0;;;;Sami-specific;Sammallahti 1989: 80;;;;3;;čeahcet;Older brother's child to their uncle;;
+SiblingsChildren;male speaker's younger brother's son;myBS;eahkit;;;0;;;;Sami-specific;Sammallahti 1989: 130;;;;3;;eahket;Younger brother's child to their uncle. Also eahki.;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;čeahcit;;;0;;;;Sami-specific;Sammallahti 1989: 80;;;;3;;čeahcet;Older brother's child to their uncle;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;eahkit;;;0;;;;Sami-specific;Sammallahti 1989: 130;;;;3;;eahket;Younger brother's child to their uncle. Also eahki.;;
+SiblingsChildren;male speaker's older sister's son;meZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;oarpmealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 335;;;;4;;oambealli oambealle, oarpmealli;Compound consisting of *oarben and bealli 'half';;
+Cousins;male speaker's father's brother's daughter;mFBD;oarpmealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 335;;;;4;;oambealli oambealle, oarpmealli;Compound consisting of *oarben and bealli 'half';;
+Cousins;male speaker's mother's brother's daughter;mMBD;oarpmealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 335;;;;4;;oambealli oambealle, oarpmealli;Compound consisting of *oarben and bealli 'half';;
+Cousins;male speaker's mother's sister's daughter;mMZD;oarpmealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 335;;;;4;;oambealli oambealle, oarpmealli;Compound consisting of *oarben and bealli 'half';;
+Cousins;male speaker's father's brother's son;mFBS;vilbealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 475;;;;4;;vilbealli, vilba;Compound consisting of viellja 'brother' and bealli 'half';;
+Cousins;male speaker's father's sister's son;mFZS;vilbealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 475;;;;4;;vilbealli, vilba;Compound consisting of viellja 'brother' and bealli 'half';;
+Cousins;male speaker's mother's brother's son;mMBS;vilbealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 475;;;;4;;vilbealli, vilba;Compound consisting of viellja 'brother' and bealli 'half';;
+Cousins;male speaker's mother's sister's son;mMZS;vilbealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 475;;;;4;;vilbealli, vilba;Compound consisting of viellja 'brother' and bealli 'half';;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;guoibmi;;*kaima;3;;;Proto-Finnic;?;Sammallahti 1989: 198;SSA: 276;namesake;;1;;;In Finnic a borrowing from Baltic, cf. Lith káimas 'village' ;PIE;Derksen 2015, s.v. kiemas
+Affines;male speaker's spouse;mE;beallelaš;;;0;;;;Sami-specific;Sammallahti 1989: 36;;;;3;;;;;
+Affines;male speaker's husband;mH;boadnjá;;;2;;;Scandinavian;?;Sammallahti 1989: 48;Lagercrantz 1939: 675;;;1;;boadnji;;;
+Affines;male speaker's husband;mH;gállis;;*karlaz;3;;;Proto-Norse;Mid 1st millennium CE;Sammallahti 1989: 156;Sammallahti 1998: 129;;;1;;;;PIE;Kroonen 2013 s.v. *kerla- 
+Affines;male speaker's husband;mH;isit;;*isäntä;4;;;Finnic;?;Sammallahti 1989: 226;Sammallhti 1998: 246;;coexistence;1;;;;;
+Affines;male speaker's wife;mW;gálgu;;*kelg- < kelling;2;;;Old Norse;800–1000 CE;Sammallahti 1989: 156;Qvigstad 1893: 161;;coexistence;1;;;;;
+Affines;male speaker's wife;mW;eamit;;emäntä;4;;;Finnish;?;Sammallahti 1989: 132;Sammallahti 1998: 240;;coexistence;1;;;;;
+Affines;male speaker's wife;mW;áhkká;;*akka;4;;;Proto-Finnic;?;Sammallahti 1989: 11;Aikio 2009: 54;;coexistence;1;;;;;
+Affines;male speaker's husband's father;mHF;vuohppa;;;0;;;;Inherited, PU *ëppə;Sammallahti 1989: 480;Aikio 2020: 55–56;;;1;;;;;
+Affines;male speaker's husband's mother;mHM;vuoni;;;0;;;;Inherited, PU *ë/ana(mə);Sammallahti 1989: 484;Aikio 2020: 53–54;;;1;;;;;
+Affines;male speaker's wife's father;mWF;vuohppa;;;0;;;;Inherited, PU *ëppə;Sammallahti 1989: 480;Aikio 2020: 55–56;;;1;;;;;
+Affines;male speaker's wife's mother;mWM;vuoni;;;0;;;;Inherited, PU *ë/ana(mə);Sammallahti 1989: 484;Aikio 2020: 53–54;;;1;;;;;
+Affines;male speaker's brother's wife;mBW;sivjjot;;sifjungr;4;;;Old Norse;800–1000 CE;Sammallahti 1989: 398;Lagercrantz 1939: 781;;;1;;;Brother's wife to her husband's brother;;
+Affines;male speaker's sister's husband;mZH;máhka;;māgr;3;;;Proto-Norse;Mid 1st millennium CE;Sammallahti 1989: 281;Sammallahti 1998: 127;;;1;;;;;
+Affines;male speaker's wife's brother;mWB;máhka;;māgr;3;;;Proto-Norse;Mid 1st millennium CE;Sammallahti 1989: 281;Sammallahti 1998: 127;;;1;;;;;
+Affines;male speaker's wife's sister;mWZ;sivjjot;;sifjungr;4;;;Old Norse;800–1000 CE;Sammallahti 1989: 398;Lagercrantz 1939: 781;;;1;;;;;
+Affines;male speaker's husband's brother;mHB;;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's sister;mHZ;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);eadnebealle;;;0;;;;Sami-specific;Sammallahti 1989: 130;;;;4;;;compound, eadni 'mother' and bealli 'half', cf. similar structure in Fi äitipuoli;;
+Affines;male speaker's mother's husband (not father);mMH(notF);áhččebealle;;;0;;;;Sami-specific;Sammallahti 1989: 11;;;;4;;;compound, áhčči and bealli 'half', cf. similar structure in Finnish isäpuoli;;
+Affines;male speaker's son's wife;mSW;mannji;;;0;;;;Inherited, PU *mińä;Sammallahti 1989: 278;;;;1;;;Also 'husband's sister' and 'brother's wife';;
+Affines;male speaker's son's wife's mother;mSWM;láža;;;0;;;;Sami-specific;Sammallahti 1989: 257;;;;1;;;;;
+Affines;male speaker's son's wife's father;mSWF;láža;;;0;;;;Sami-specific;Sammallahti 1989: 257;;;;1;;;;;
+Affines;male speaker's daughter's husband;mDH;vivva;;*vävy;2;;;;Proto-Finnic;Sammallahti 1989: 477;SSA: 485;;replcament;1;;;Sometimes also regarded as inherited from PU *wäŋəw, PS *vivvë, however, points to PU *wejwə/*wijwə;;
+Affines;male speaker's daughter's husband's mother;mDHM;láža;;;0;;;;Sami-specific;Sammallahti 1989: 257;;;;1;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;láža;;;0;;;;Sami-specific;Sammallahti 1989: 257;;;;1;;;;;
+Affines;male speaker's father's sister's husband;mFZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's brother's wife;mFBW;ipmi;;;0;;;;Inherited, PU 'ijmä 'older female relative';Sammallahti 1989: 225;Aikio 2020: 58–59;;;1;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's brother's wife;mMBW;ipmi;;;0;;;;Inherited, PU 'ijmä 'older female relative';Sammallahti 1989: 225;Aikio 2020: 58–59;;;1;;;;;
+Affines;male speaker's wife's sister's husband;mWZH;spile;;svilar;4;;;Old Norse;800–1000 CE;Sammallahti 1989: 423;Qvigstad 1893: 314;;;1;;;;;
+Affines;male speaker's wife's brother's wife;mWBW;spile;;svilar;4;;;Old Norse;800–1000 CE;Sammallahti 1989: 423;Qvigstad 1893: 314;;;1;;;;;
+Affines;male speaker's husband's sister's husband;mHZH;spile;;svilar;4;;;Old Norse;800–1000 CE;Sammallahti 1989: 423;Qvigstad 1893: 314;;;1;;;;;
+Affines;male speaker's husband's brother's wife;mHBW;gálojeatni;;;0;;;;Inherited, PU *käliw;Sammallahti 1989: 156;;;;4;;;A compound of gáloj 'sister-in-law' and eatni 'mother', husband's brother's or cousin's wife';;
+Siblings;female speaker's sibling;fG;oarbinaččat;;sisarukset / syskon;3;1;One of the constituents is borrowed;Finnish/Swedish ;Recent centuries;Sammallahti 1989: 334;"Lehtiranta 2001: 92–93; Holopainen 2019: 168–170; Milanova et al. 2024: 332–333";;;3;;;plural of oabbá 'sister', the ultimate source of the calque may be NHG Geschwister (DWDS s.v);;
+Siblings;female speaker's brother;fB;viellja;;*velji-;3;;;Proto-Finnic;?;Sammallahti 1989: 472;Milanova et al. (2024, appendix 1.1);;replacement;1;;;According to LägLoS (386–387), a Proto-Germanic loanword. ;;
+Siblings;female speaker's sister;fZ;oabbá;;*Hárbha-;0;;One of the constituents might be borrowed;Proto-Indo-Iranian;Bronze Age;Sammallahti 1989: 330;"Lehtiranta 2001: 92–93; Holopainen 2019: 168–170";;;2;;;;;
+Siblings;female speaker's elder brother;feB;stuorraviellja;;;0;;Both of the constituents might be borrowed;;?;Sammallahti 1993: 268;;;;4;;;;;
+Siblings;female speaker's younger brother;fyB;uhcaviellja;;;0;;;;?;Sammallahti 1993: 408;;;;4;;;;;
+Siblings;female speaker's elder sister;feZ;stuorraoabbá;;;0;;;;?;Sammallahti 1993: 268;;;;4;;;;;
+Siblings;female speaker's younger sister;fyZ;uhcaoabbá;;;0;;;;?;Sammallahti 1993: 407;;;;4;;;;;
+Parents;female speaker's parent;fP;váhnen;;vanhempi;4;;;Finnish;?;Sammallahti 1989: 460;Sammallahti 1998: 265;;replacement;1;;;;;
+Parents;female speaker's father;fF;áhčči;;;0;;;;Inherited, PU *äććä;Sammallahti 1989: 11;Aikio 2020: 30–32;;;1;;;;;
+Parents;female speaker's mother;fM;eadni;;;0;;;;Inherited, PS *eannē;Sammallahti 1989: 130;Sammallahti 1998: 240;;;1;;;As a kinship term a PS innovation;;
+Children;female speaker's child;fC;mánná;;man;3;;;Proto-Norse;Mid 1st millennium CE;Sammallahti 1989: 283;Sammallahti 1998: 253;man;replacement;1;;;;Proto-Germanic with obscure parallels in other IE branches;Milanova 2020: 103
+Children;female speaker's son;fS;bárdni;;barn;4;;;Proto-Norse;Mid 1st millennium CE;Sammallahti 1989: 32;Sammallahti 1998: 230;;replacement;1;;;Proto-Norse replaced PU *pojka?;Proto-Germanic;Milanova 2020: 112-113
+Children;female speaker's son;fS;gánda;;ganti;3;;;Old Norse;800–1000 CE;Sammallahti 1989: 157;Qvigstad 1893: 163;;;1;;;;;
+Children;female speaker's daughter;fD;nieida;;;0;;;;Inherited, PU *näjδə;Sammallahti 1989: 307;;;;1;;;;;
+Grandparents;female speaker's ancestor;fA;máttar;;*mandër;4;;;Proto-Finnic;?;Sammallahti 1989: 285;SSA: 147;mainland, continent;replacement;1;;;In some Sami languages 'foundation of a hut', metaphorical extension in North Sami?;;
+Grandparents;female speaker's grandparent;fPP;;;;;;;;;;;;;;;;;;
+Grandparents;female speaker's father's father;fFF;áddjá;;;0;;;;Inherited, PU *äjjä;Sammallahti 1989: 10;Aikio 2015: 62;;;1;;;;;
+Grandparents;female speaker's father's mother;fFM;áhkku;;*akka;0;;One of the constituents is borrowed;Proto-Finnic;Sami-specific;Sammallahti 1989: 11;Aikio 2009: 244;;;3;;;;;
+Grandparents;female speaker's mother's father;fMF;áddjá;;;0;;;;Inherited, PU *äjjä;Sammallahti 1989: 10;Aikio 2015: 62;;;1;;;;;
+Grandparents;female speaker's mother's mother;fMM;áhkku;;*akka;0;;One of the constituents is borrowed;Proto-Finnic;Sami-specific;Sammallahti 1989: 11;Aikio 2009: 244;;;3;;;;;
+Grandchildren;female speaker's grandchild;fCC;áhkkut;;;0;;One of the constituents is borrowed;Finnic;Sami-specific;Sammallahti 1989: 11;;;;3;;;A grandchild to a grandmother;;
+Grandchildren;female speaker's son's son;fSS;;;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's son's daughter;fSD;;;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's son;fDS;;;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's daughter;fDD;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's brother;fFB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;siessá;;;0;;;;Sami-specific;Sammallahti 1989: 394;"UEW: 432–433; Lehtiranta 2001: 124–125";;;1;;;Comparison in UEW is irregular to the extent that it should probably be discarded.;PIE;
+ParentsSiblings;female speaker's mother's brother;fMB;eanu;;*enoi;3;;;Proto-Finnic;?;Sammallahti 1989: 133;Kuokkala 2018: 39;;;1;;;Also 'sister's child (to their uncle), cousin's child';;
+ParentsSiblings;female speaker's mother's sister;fMZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;eahki;;;0;;;;Inherited, PU *ekä 'older male relative';Sammallahti 1989: 130;Aikio 2020: 42–43;;;1;;;Also 'father's male cousin' and '(younger) brother's child (to their uncle)';;
+ParentsSiblings;female speaker's father's younger brother;fFyB;čeahci;;;0;;;;Inherited, PU *čečä;Sammallahti 1989: 80;;;;1;;;;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;goaski;;;0;;;;Inherited, PU *koska 'aunt, grandmother';Sammallahti 1989: 183;Sammallahti 1998: 118;;;1;;;Also 'mother's female cousin' and 'younger sister's child or female cousin's child (to their aunt)';;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;muoŧŧá;;*mōþō(n);3;;;Proto-Germanic;700 BCE–500 CE;Sammallahti 1989: 300;Kümmel 2015;;replacement;1;;;Also 'mother's younger female cousin' and 'sister's child (older sister's child to their aunt)';PIE;Kümmel 2015
+ParentsSiblings;female speaker's mother's older brother;fMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;siessal;;;0;;;;Sami-specific;Sammallahti 1989: 394;;;;3;;;Brother's child to her sister;;
+SiblingsChildren;female speaker's brother's daughter;fBD;siessal;;;0;;;;Sami-specific;Sammallahti 1989: 394;;;;3;;;Brother's child to her sister;;
+SiblingsChildren;female speaker's sister's son;fZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's daughter;fZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;;;;;;;;;;;;;3;;;Older sister's child to her aunt;;
+SiblingsChildren;female speaker's older sister's son;feZS;muoŧŧal;;;0;;One of the constituents might be borrowed, cf. muoŧŧá;;Sami-specific;Sammallahti 1989: 300;;;;3;;;Younger sister's child to her aunt. Also muoŧŧá.;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;goaskit;;;0;;;;Sami-specific;Sammallahti 1989: 183;;;;3;;;Older sister's child to her aunt. Also goaski.;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;muoŧŧal;;;0;;One of the constituents might be borrowed, cf. muoŧŧá;;Sami-specific;Sammallahti 1989: 300;;;;3;;;Younger sister's child to her aunt. Also muoŧŧá.;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;goaskit;;;0;;;;Sami-specific;Sammallahti 1989: 183;;;;;;;Older sister's child to her aunt. Also goaski.;;
+Cousins;female speaker's father's sister's daughter;fFZD;oarpmealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 335;;;;4;;oambealli oambealle, oarpmealli;Compound consisting of *oarben and bealli 'half';;
+Cousins;female speaker's father's brother's daughter;fFBD;oarpmealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 335;;;;4;;oambealli oambealle, oarpmealli;Compound consisting of *oarben and bealli 'half';;
+Cousins;female speaker's mother's brother's daughter;fMBD;oarpmealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 335;;;;4;;oambealli oambealle, oarpmealli;Compound consisting of *oarben and bealli 'half';;
+Cousins;female speaker's mother's sister's daughter;fMZD;oarpmealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 335;;;;4;;oambealli oambealle, oarpmealli;Compound consisting of *oarben and bealli 'half';;
+Cousins;female speaker's father's brother's son;fFBS;vilbealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 475;;;;4;;vilbealli, vilba;Compound consisting of viellja 'brother' and bealli 'half';;
+Cousins;female speaker's father's sister's son;fFZS;vilbealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 475;;;;4;;vilbealli, vilba;Compound consisting of viellja 'brother' and bealli 'half';;
+Cousins;female speaker's mother's brother's son;fMBS;vilbealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 475;;;;4;;vilbealli, vilba;Compound consisting of viellja 'brother' and bealli 'half';;
+Cousins;female speaker's mother's sister's son;fMZS;vilbealle;;;0;;One of the constituents might be borrowed;;Sami-specific;Sammallahti 1989: 475;;;;4;;vilbealli, vilba;Compound consisting of viellja 'brother' and bealli 'half';;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;guoibmi;;*kaima;3;;;Proto-Finnic;?;Sammallahti 1989: 198;SSA: 276;namesake;;1;;;In Finnic a borrowing from Baltic, cf. Lith káimas 'village' ;PIE;Derksen 2015, s.v. kiemas
+Affines;female speaker's spouse;fE;beallelaš;;;0;;;;Sami-specific;Sammallahti 1989: 36;;;;3;;;;;
+Affines;female speaker's husband;fH;boadnjá;;;2;;;Scandinavian;?;Sammallahti 1989: 48;Lagercrantz 1939: 675;;;1;;boadnji;;;
+Affines;female speaker's husband;fH;gállis;;*karlaz;3;;;Proto-Norse;Mid 1st millennium CE;Sammallahti 1989: 156;Sammallahti 1998: 129;;;1;;;;PIE;Kroonen 2013 s.v. *kerla- 
+Affines;female speaker's husband;fH;isit;;*isäntä;4;;;Finnic;?;Sammallahti 1989: 226;Sammallhti 1998: 246;;coexistence;1;;;;;
+Affines;female speaker's wife;fW;gálgu;;*kelg- < kelling;2;;;Old Norse;800–1000 CE;Sammallahti 1989: 156;Qvigstad 1893: 161;;coexistence;1;;;;;
+Affines;female speaker's wife;fW;eamit;;emäntä;4;;;Finnish;?;Sammallahti 1989: 132;Sammallahti 1998: 240;;coexistence;1;;;;;
+Affines;female speaker's wife;fW;áhkká;;*akka;4;;;Proto-Finnic;?;Sammallahti 1989: 11;Aikio 2009: 54;;coexistence;1;;;;;
+Affines;female speaker's husband's father;fHF;vuohppa;;;0;;;;Inherited, PU *ëppə;Sammallahti 1989: 480;Aikio 2020: 55–56;;;1;;;;;
+Affines;female speaker's husband's mother;fHM;vuoni;;;0;;;;Inherited, PU *ë/ana(mə);Sammallahti 1989: 484;Aikio 2020: 53–54;;;1;;;;;
+Affines;female speaker's wife's father;fWF;vuohppa;;;0;;;;Inherited, PU *ëppə;Sammallahti 1989: 480;Aikio 2020: 55–56;;;1;;;;;
+Affines;female speaker's wife's mother;fWM;vuoni;;;0;;;;Inherited, PU *ë/ana(mə);Sammallahti 1989: 484;Aikio 2020: 53–54;;;1;;;;;
+Affines;female speaker's brother's wife;fBW;mannji;;;0;;;;Inherited, PU *mińä;Sammallahti 1989: 278;;;;1;;;;;
+Affines;female speaker's sister's husband;fZH;sivjjot;;sifjungr;4;;;Old Norse;800–1000 CE;Sammallahti 1989: 398;Lagercrantz 1939: 781;;;1;;;;;
+Affines;female speaker's wife's brother;fWB;;;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's sister;fWZ;;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's brother;fHB;sivjjot;;sifjungr;4;;;Old Norse;800–1000 CE;Sammallahti 1989: 398;Lagercrantz 1939: 781;;;1;;;;;
+Affines;female speaker's husband's sister;fHZ;mannji;;;0;;;;Inherited, PU *mińä;Sammallahti 1989: 278;;;;1;;;;;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);eadnebealle;;;0;;;;Sami-specific;Sammallahti 1989: 130;;;;4;;;compound, eadni 'mother' and bealli 'half', cf. similar structure in Fi äitipuoli;;
+Affines;female speaker's mother's husband (not father);fMH(notF);áhččebealle;;;0;;;;Sami-specific;Sammallahti 1989: 11;;;;4;;;compound, áhčči and bealli 'half', cf. similar structure in Finnish isäpuoli;;
+Affines;female speaker's son's wife;fSW;mannji;;;0;;;;Inherited, PU *mińä;Sammallahti 1989: 278;;;;1;;;Also 'husband's sister' and 'brother's wife';;
+Affines;female speaker's son's wife's mother;fSWM;láža;;;0;;;;Sami-specific;Sammallahti 1989: 257;;;;1;;;;;
+Affines;female speaker's son's wife's father;fSWF;láža;;;0;;;;Sami-specific;Sammallahti 1989: 257;;;;1;;;;;
+Affines;female speaker's daughter's husband;fDH;vivva;;*vävy;2;;;;Proto-Finnic;Sammallahti 1989: 477;SSA: 485;;replcament;1;;;Sometimes also regarded as inherited from PU *wäŋəw, PS *vivvë, however, points to PU *wejwə/*wijwə;;
+Affines;female speaker's daughter's husband's mother;fDHM;láža;;;0;;;;Sami-specific;Sammallahti 1989: 257;;;;1;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;láža;;;0;;;;Sami-specific;Sammallahti 1989: 257;;;;1;;;;;
+Affines;female speaker's father's sister's husband;fFZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's brother's wife;fFBW;ipmi;;;0;;;;Inherited, PU 'ijmä 'older female relative';Sammallahti 1989: 225;Aikio 2020: 58–59;;;1;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's brother's wife;fMBW;ipmi;;;0;;;;Inherited, PU 'ijmä 'older female relative';Sammallahti 1989: 225;Aikio 2020: 58–59;;;1;;;;;
+Affines;female speaker's wife's sister's husband;fWZH;spile;;svilar;4;;;Old Norse;800–1000 CE;Sammallahti 1989: 423;Qvigstad 1893: 314;;;1;;;;;
+Affines;female speaker's wife's brother's wife;fWBW;spile;;svilar;4;;;Old Norse;800–1000 CE;Sammallahti 1989: 423;Qvigstad 1893: 314;;;1;;;;;
+Affines;female speaker's husband's brother's wife;fHZH;spile;;svilar;4;;;Old Norse;800–1000 CE;Sammallahti 1989: 423;Qvigstad 1893: 314;;;1;;;;;
+Affines;female speaker's husband's sister's husband;fHBW;gálojeatni;;;0;;;;Inherited, PU *käliw;Sammallahti 1989: 156;;;;4;;;A compound of gáloj 'sister-in-law' and eatni 'mother', husband's brother's or cousin's wife';;

@@ -1,261 +1,259 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","ṕɛb́is",,,,,"sorokina_eneckij_2009","334"
-"mG","soko",,,,,"sorokina_eneckij_2009","397"
-"mB","kasa",,,,,"sorokina_eneckij_2009","162"
-"mB","kasa kasa",,,,,"sorokina_eneckij_2009","162"
-"mZ","ne kasa",,,,,"sorokina_eneckij_2009","288"
-"meB","ina",,,,,"sorokina_eneckij_2009","146"
-"meB","aga kasa",,,,,"sorokina_slovar_2001","167"
-"myB","ńab́i",,,,,"sorokina_eneckij_2009","294"
-"myB","ṕɛb́i",,,,,"sorokina_eneckij_2009","334"
-"myB","sooku",,,,,"sorokina_eneckij_2009","399"
-"meZ","abaa",,,,,"sorokina_eneckij_2009","41"
-"meZ","ńabaku",,,,,"sorokina_eneckij_2009","294"
-"myZ","ne soku",,,,,"sorokina_slovar_2001","88"
-"myZ","ṕɛb́i",,,,,"sorokina_eneckij_2009","334"
-"mP","eexi-eśixi",,,,,"sorokina_slovar_2001","154"
-"mF","eśi",,,,,"sorokina_slovar_2001","154"
-"mM","ee",,,,,"sorokina_eneckij_2009","486"
-"mC","ńe",,,,,"sorokina_eneckij_2009","266"
-"mS","kasa ńe",,,,,"sorokina_eneckij_2009","162"
-"mD","ne ńe",,,,,"sorokina_eneckij_2009","288"
-"mA","",,,,,"",""
-"mPP","",,,,,"",""
-"mFF","dʹiśi",,,,,"sorokina_eneckij_2009","119"
-"mFF","dʹiśiku",,,,,"sorokina_eneckij_2009","119"
-"mFM","kađa",,,,,"sorokina_eneckij_2009","154"
-"mMF","dʹiśi",,,,,"sorokina_eneckij_2009","119"
-"mMF","dʹisiku",,,,,"sorokina_eneckij_2009","119"
-"mMM","kađa",,,,,"sorokina_eneckij_2009","154"
-"mCC","ńeɁ ńe",,,,,"sorokina_eneckij_2009","266"
-"mSS","",,,,,"",""
-"mSD","",,,,,"",""
-"mDS","",,,,,"",""
-"mDD","",,,,,"",""
-"mFB","",,,,,"",""
-"mFZ","",,,,,"",""
-"mMB","",,,,,"",""
-"mMZ","",,,,,"",""
-"mFeB","",,,,,"",""
-"mFyB","",,,,,"",""
-"mFeZ","kađa",,,,,"sorokina_eneckij_2009","154"
-"mFyZ","abaa",,,,,"sorokina_eneckij_2009","41"
-"mMeZ","kađa",,,,,"sorokina_eneckij_2009","154"
-"mMyZ","abaa",,,,,"sorokina_eneckij_2009","41"
-"mMeB","",,,,,"",""
-"mMyB","",,,,,"",""
-"mBS","kasa ńe",,,,,"sorokina_eneckij_2009","162"
-"mBD","",,,,,"",""
-"mZS","kasa ńe",,,,,"sorokina_eneckij_2009","162"
-"mZD","",,,,,"",""
-"meBS","",,,,,"",""
-"myBS","",,,,,"",""
-"meBD","",,,,,"",""
-"myBD","",,,,,"",""
-"meZS","",,,,,"",""
-"myZS","",,,,,"",""
-"meZD","",,,,,"",""
-"myZD","",,,,,"",""
-"mFZD","",,,,,"",""
-"mFBD","",,,,,"",""
-"mMBD","",,,,,"",""
-"mMZD","",,,,,"",""
-"mFBS","",,,,,"",""
-"mFZS","",,,,,"",""
-"mMBS","",,,,,"",""
-"mMZS","",,,,,"",""
-"mFeBS","",,,,,"",""
-"mFyBS","",,,,,"",""
-"mFeZS","",,,,,"",""
-"mFyZS","",,,,,"",""
-"mFeBD","",,,,,"",""
-"mFyBD","",,,,,"",""
-"mFeZD","",,,,,"",""
-"mFyZD","",,,,,"",""
-"mMeBS","",,,,,"",""
-"mMyBS","",,,,,"",""
-"mMeZS","",,,,,"",""
-"mMyZS","",,,,,"",""
-"mMeBD","",,,,,"",""
-"mMyBD","",,,,,"",""
-"mMeZD","",,,,,"",""
-"mMyZD","",,,,,"",""
-"mFBeS","",,,,,"",""
-"mFByS","",,,,,"",""
-"mFZeS","",,,,,"",""
-"mFZyS","",,,,,"",""
-"mFBeD","",,,,,"",""
-"mFByD","",,,,,"",""
-"mFZeD","",,,,,"",""
-"mFZyD","",,,,,"",""
-"mMBeS","",,,,,"",""
-"mMByS","",,,,,"",""
-"mMZeS","",,,,,"",""
-"mMZyS","",,,,,"",""
-"mMBeD","",,,,,"",""
-"mMByD","",,,,,"",""
-"mMZeD","",,,,,"",""
-"mMZyD","",,,,,"",""
-"mE","nɛs",,,,,"sorokina_eneckij_2009","270"
-"mH","buśi",,,,,"sorokina_eneckij_2009","86"
-"mW","ḿenśi",,,,,"sorokina_eneckij_2009","231"
-"mW","ne",,,,,"sorokina_eneckij_2009","288"
-"mHF","kasa inboi",,,,,"sorokina_eneckij_2009","162"
-"mHF","ne eśi",,,,,"sorokina_eneckij_2009","288"
-"mHM","kađa",,,,,"sorokina_eneckij_2009","154"
-"mHM","ne inboi",,,,,"sorokina_eneckij_2009","288"
-"mWF","kasa inboi",,,,,"sorokina_eneckij_2009","162"
-"mWF","ne eśi",,,,,"sorokina_eneckij_2009","288"
-"mWM","kađa",,,,,"sorokina_eneckij_2009","154"
-"mWM","ne inboi",,,,,"sorokina_eneckij_2009","288"
-"mBW","",,,,,"",""
-"myBW","mɛa",,,,,"sorokina_eneckij_2009","232"
-"mZH","",,,,,"",""
-"mWB","",,,,,"",""
-"mWZ","",,,,,"",""
-"mHB","",,,,,"",""
-"mHZ","",,,,,"",""
-"mco-W","",,,,,"",""
-"mco-H","",,,,,"",""
-"mFW(notM)","",,,,,"",""
-"mMH(notF)","",,,,,"",""
-"mSW","mɛa",,,,,"sorokina_eneckij_2009","232"
-"mSWM","",,,,,"",""
-"mSWF","",,,,,"",""
-"mDH","b́i",,,,,"sorokina_eneckij_2009","66"
-"mDHM","",,,,,"",""
-"mDHF","",,,,,"",""
-"mFZH","",,,,,"",""
-"mFBW","",,,,,"",""
-"mMZH","",,,,,"",""
-"mMBW","",,,,,"",""
-"fG","ṕɛb́is",,,,,"sorokina_eneckij_2009","334"
-"fG","soko",,,,,"sorokina_eneckij_2009","397"
-"fB","kasa",,,,,"sorokina_eneckij_2009","162"
-"fB","kasa kasa",,,,,"sorokina_eneckij_2009","162"
-"fZ","ne kasa",,,,,"sorokina_eneckij_2009","288"
-"feB","ina",,,,,"sorokina_eneckij_2009","146"
-"feB","aga kasa",,,,,"sorokina_slovar_2001","167"
-"fyB","ńab́i",,,,,"sorokina_eneckij_2009","294"
-"fyB","ṕɛb́i",,,,,"sorokina_eneckij_2009","334"
-"fyB","sooku",,,,,"sorokina_eneckij_2009","399"
-"feZ","abaa",,,,,"sorokina_eneckij_2009","41"
-"feZ","ńabaku",,,,,"sorokina_eneckij_2009","294"
-"fyZ","ne soku",,,,,"sorokina_slovar_2001","88"
-"fyZ","pɛ́b́i",,,,,"sorokina_eneckij_2009","334"
-"fP","eexi-eśixi",,,,,"sorokina_slovar_2001","154"
-"fF","eśi",,,,,"sorokina_slovar_2001","154"
-"fM","ee",,,,,"sorokina_eneckij_2009","486"
-"fC","ńe",,,,,"sorokina_eneckij_2009","266"
-"fS","kasa ńe",,,,,"sorokina_eneckij_2009","162"
-"fD","ne ńe",,,,,"sorokina_eneckij_2009","288"
-"fA","",,,,,"",""
-"fPP","",,,,,"",""
-"fFF","dʹiśi",,,,,"sorokina_eneckij_2009","119"
-"fFF","dʹiśiku",,,,,"sorokina_eneckij_2009","119"
-"fFM","kađa",,,,,"sorokina_eneckij_2009","154"
-"fMF","dʹiśi",,,,,"sorokina_eneckij_2009","119"
-"fMF","dʹisiku",,,,,"sorokina_eneckij_2009","119"
-"fMM","kađa",,,,,"sorokina_eneckij_2009","154"
-"fCC","ńeɁ ńe",,,,,"sorokina_slovar_2001; sorokina_eneckij_2009","173;266"
-"fSS","",,,,,"",""
-"fSD","",,,,,"",""
-"fDS","",,,,,"",""
-"fDD","",,,,,"",""
-"fFB","",,,,,"",""
-"fFZ","",,,,,"",""
-"fMB","",,,,,"",""
-"fMZ","",,,,,"",""
-"fFeB","",,,,,"",""
-"fFyB","",,,,,"",""
-"fFeZ","kađa",,,,,"sorokina_eneckij_2009","154"
-"fFyZ","abaa",,,,,"sorokina_eneckij_2009","41"
-"fMeZ","kađa",,,,,"sorokina_eneckij_2009","154"
-"fMyZ","abaa",,,,,"sorokina_eneckij_2009","41"
-"fMeB","",,,,,"",""
-"fMyB","",,,,,"",""
-"fBS","kasa ńe",,,,,"sorokina_eneckij_2009","162"
-"fBD","",,,,,"",""
-"fZS","kasa ńe",,,,,"sorokina_eneckij_2009","162"
-"fZD","",,,,,"",""
-"feBS","",,,,,"",""
-"fyBS","",,,,,"",""
-"feBD","",,,,,"",""
-"fyBD","",,,,,"",""
-"feZS","",,,,,"",""
-"fyZS","",,,,,"",""
-"feZD","",,,,,"",""
-"fyZD","",,,,,"",""
-"fFZD","",,,,,"",""
-"fFBD","",,,,,"",""
-"fMBD","",,,,,"",""
-"fMZD","",,,,,"",""
-"fFBS","",,,,,"",""
-"fFZS","",,,,,"",""
-"fMBS","",,,,,"",""
-"fMZS","",,,,,"",""
-"fFeBS","",,,,,"",""
-"fFyBS","",,,,,"",""
-"fFeZS","",,,,,"",""
-"fFyZS","",,,,,"",""
-"fFeBD","",,,,,"",""
-"fFyBD","",,,,,"",""
-"fFeZD","",,,,,"",""
-"fFyZD","",,,,,"",""
-"fMeBS","",,,,,"",""
-"fMyBS","",,,,,"",""
-"fMeZS","",,,,,"",""
-"fMyZS","",,,,,"",""
-"fMeBD","",,,,,"",""
-"fMyBD","",,,,,"",""
-"fMeZD","",,,,,"",""
-"fMyZD","",,,,,"",""
-"fFBeS","",,,,,"",""
-"fFByS","",,,,,"",""
-"fFZeS","",,,,,"",""
-"fFZyS","",,,,,"",""
-"fFBeD","",,,,,"",""
-"fFByD","",,,,,"",""
-"fFZeD","",,,,,"",""
-"fFZyD","",,,,,"",""
-"fMBeS","",,,,,"",""
-"fMByS","",,,,,"",""
-"fMZeS","",,,,,"",""
-"fMZyS","",,,,,"",""
-"fMBeD","",,,,,"",""
-"fMByD","",,,,,"",""
-"fMZeD","",,,,,"",""
-"fMZyD","",,,,,"",""
-"fE","nɛs",,,,,"sorokina_eneckij_2009","270"
-"fH","buśi",,,,,"sorokina_eneckij_2009","86"
-"fW","ḿenśi",,,,,"sorokina_eneckij_2009","231"
-"fW","ne",,,,,"sorokina_eneckij_2009","288"
-"fHF","kasa inboi",,,,,"sorokina_eneckij_2009","162"
-"fHF","ne eśi",,,,,"sorokina_eneckij_2009","288"
-"fHM","kađa",,,,,"sorokina_eneckij_2009","154"
-"fHM","ne inboi",,,,,"sorokina_eneckij_2009","288"
-"fWF","kasa inboi",,,,,"sorokina_eneckij_2009","162"
-"fWF","ne eśi",,,,,"sorokina_eneckij_2009","288"
-"fWM","kađa",,,,,"sorokina_eneckij_2009","154"
-"fWM","ne inboi",,,,,"sorokina_eneckij_2009","288"
-"fBW","",,,,,"",""
-"fyBW","mɛa",,,,,"sorokina_eneckij_2009","232"
-"fZH","",,,,,"",""
-"fWB","",,,,,"",""
-"fWZ","",,,,,"",""
-"fHB","",,,,,"",""
-"fHZ","",,,,,"",""
-"fco-W","",,,,,"",""
-"fco-H","",,,,,"",""
-"fFW(notM)","",,,,,"",""
-"fMH(notF)","",,,,,"",""
-"fSW","mɛa",,,,,"sorokina_eneckij_2009","232"
-"fSWM","",,,,,"",""
-"fSWF","",,,,,"",""
-"fDH","b́i",,,,,"sorokina_eneckij_2009","66"
-"fDHM","",,,,,"",""
-"fDHF","",,,,,"",""
-"fFZH","",,,,,"",""
-"fFBW","",,,,,"",""
-"fMZH","",,,,,"",""
-"fMBW","",,,,,"",""
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Register;Alternative;Comments
+Siblings;male speaker's sibling;mG;ṕɛb́is;пɛбис;;0;;;;Enets-specific;Sorokina & Bolina 2009: 334;;;;3;;;;Translated as 'братья и сестры', in all likehood formed on ṕɛb́i 'younger brother or sister'
+Siblings;male speaker's sibling;mG;soko;соко;;0;;;;?;Sorokina & Bolina 2009: 397;;;;?;;;;Translated as 'брат или сестра (младшие)'. Etymology unknown.
+Siblings;male speaker's brother;mB;kasa;каса;;0;;;;PS *kåә̑-så 'Mann, Mensch' ('Sterblicher)';Sorokina & Bolina 2009: 162;SW: 61;;;2;;;;"Meanings given in Sorokina & Bolina 2009 are 'man; brother; friend, comrade'. On PS level derived from the verb *kåә̑- 'to die'.  It may be a Siberian contact phenomenon with Indo-Iranian and Tocharian parallels, but the direction of borrowing is unlcear (Peyrot 2019: 103)."
+Siblings;male speaker's brother;mB;kasa kasa;каса каса;;0;;;;Enets-specific;Sorokina & Bolina 2009: 162;;;;4;;;;Probably analyzable as a tautological compound.
+Siblings;male speaker's sister;mZ;ne kasa;нэ каса;;0;;;;Enets-specific;Sorokina & Bolina 2009: 288;Siegl 2013: 317;;;4;;;;"A compound of ne 'wife, woman' and kasa 'man; brother; friend, comrade'. Also glossed as 'girl person' by Siegl 2013"
+Siblings;male speaker's elder brother;meB;ina;ина;;0;;;;PU *enä 'big' >  PS *enä 'older brother';Sorokina & Bolina 2009: 146;"Aikio 2020: 45–47; SW: 27";;;1;;;;
+Siblings;male speaker's elder brother;meB;aga kasa;ага каса;;0;;;;Enets-specific;Sorokina & Bolina 2001: 167;;;;5;;;;"Phrasal consisting of aga 'big, grown-up, elderly, old' and kasa 'man; brother; friend, comrade', cf. Udm. agaj 'm/feB'"
+Siblings;male speaker's younger brother;myB;ńab́i;няби;;0;;;;?;Sorokina & Bolina 2009: 294;;;;?;;;;Etymology unknown.
+Siblings;male speaker's younger brother;myB;ṕɛb́i;пɛби;;0;;;;PS *päpä 'jüngerer Bruder, jüngere Schwester';Sorokina & Bolina 2009: 334;SW: 121–122;;;1;;;;
+Siblings;male speaker's younger brother;myB;sooku;сооку;;0;;;;?;Sorokina & Bolina 2009: 399;;;;?;;;;Etymology unknown, perhaps. -ku is a diminutive suffix, perhaps a derivation.
+Siblings;male speaker's elder sister;meZ;abaa;абаа;;0;;;;PS *apå 'ältere Schwester';Sorokina & Bolina 2009: 41;SW: 21;;;1;;;;
+Siblings;male speaker's elder sister;meZ;ńabaku;нябаку;;4;;;Tundra Nenets;?;Sorokina & Bolina 2009: 294;;;;1;;;;
+Siblings;male speaker's younger sister;myZ;ne soku;нэ соку;;0;;;;?;Sorokina & Bolina 2001: 88;;;;?;;;;A compound of ne 'wife, woman' and soku, connected to sooku 'younger brother'
+Siblings;male speaker's younger sister;myZ;ṕɛb́i;пɛби;;0;;;;PS *päpä 'jüngerer Bruder, jüngere Schwester';Sorokina & Bolina 2009: 334;SW: 121–122;;;1;;;;
+Parents;male speaker's parent;mP;eexi-eśixi;эхи-эсихи;;0;;;;Enets-specific;Sorokina & Bolina 2001: 154;;;;4;;;;This very much seems like a copulative compound of ee 'mother' + dual marker and eśi + dual marker.
+Parents;male speaker's father;mF;eśi;эси;;0;;;;PU *äjćä 'father', PS *äjsä;Sorokina & Bolina 2001: 154;"Aikio 2020: 30–32; SW: 22–23";;;1;;;;
+Parents;male speaker's mother;mM;ee;э;;0;;;;PU *ämä 'mother', PS *ämä;Sorokina & Bolina 2009: 486;"Aikio 2020: 44–45; SW: 23";;;1;;;;"Also transcribed as ää (Siegl 2013; Aikio 2020)."
+Children;male speaker's child;mC;ńe;не;;0;;;;"PS *ńuә̑ 'Kind; Junges'";Sorokina & Bolina 2009: 266;SW: 111;;;1;;;;
+Children;male speaker's son;mS;kasa ńe;каса не;;0;;;;Enets-specific;Sorokina & Bolina 2009: 162;;;;4;;;;"A compound of kasa 'man; brother; friend, comrade' and ńe 'child'"
+Children;male speaker's daughter;mD;ne ńe;нэ не;;0;;;;Enets-specific;Sorokina & Bolina 2009: 288;;;;4;;;;A compound of ne 'wife, woman' and ńe 'child'
+Grandparents;male speaker's ancestor;mA;;;;;;;;;;;;;;;;;
+Grandparents;male speaker's grandparent;mPP;;;;;;;;;;;;;;;;;
+Grandparents;male speaker's father's father;mFF;dʹiśi;диси;;0;;;;PU *ekä 'older male relative', PS *jekä;Sorokina & Bolina 2009: 119;Aikio 2020: 42–43;;;1;;;;Only surviving Samoyed cognate of the PU word
+Grandparents;male speaker's father's father;mFF;dʹiśiku;дисику;;0;;;;PU *ekä 'older male relative', PS *jekä;Sorokina & Bolina 2009: 119;Aikio 2020: 42–43;;;3;;;;A diminutive derivation of dʹiśi
+Grandparents;male speaker's father's mother;mFM;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+Grandparents;male speaker's mother's father;mMF;dʹiśi;диси;;0;;;;PU *ekä 'older male relative', PS *jekä;Sorokina & Bolina 2009: 119;Aikio 2020: 42–43;;;1;;;;Only surviving Samoyed cognate of the PU word
+Grandparents;male speaker's mother's father;mMF;dʹisiku;дисику;;0;;;;PU *ekä 'older male relative', PS *jekä;Sorokina & Bolina 2009: 119;Aikio 2020: 42–43;;;3;;;;A diminutive derivation of dʹiśi
+Grandparents;male speaker's mother's mother;mMM;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+Grandchildren;male speaker's grandchild;mCC;ńeɁ ńe;не' не;;0;;;;Enets-specific;"Sorokina & Bolina 2001: 173; Sorokina & Bolina 2009: 266";;;;4 or 5;;;;The glottal stop is only marked in Sorokina & Bolina 2001 Russian-Enets part, either phrasal 'child's child' or a compound 'child child'
+Grandchildren;male speaker's son's son;mSS;;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's son's daughter;mSD;;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's son;mDS;;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's daughter;mDD;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's brother;mFB;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's brother;mMB;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's sister;mMZ;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;abaa;абаа;;0;;;;PS *apå 'ältere Schwester';Sorokina & Bolina 2009: 41;SW: 21;;;1;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;abaa;абаа;;0;;;;PS *apå 'ältere Schwester';Sorokina & Bolina 2009: 41;SW: 21;;;1;;;;
+ParentsSiblings;male speaker's mother's older brother;mMeB;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;kasa ńe;каса не;;0;;;;Enets-specific;Sorokina & Bolina 2009: 162;;;;4;;;;"A compound of kasa 'man; brother; friend, comrade' and ńe 'child'"
+SiblingsChildren;male speaker's brother's daughter;mBD;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's son;mZS;kasa ńe;каса не;;0;;;;Enets-specific;Sorokina & Bolina 2009: 162;;;;4;;;;"A compound of kasa 'man; brother; friend, comrade' and ńe 'child'"
+SiblingsChildren;male speaker's sister's daughter;mZD;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's son;meBS;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's son;meZS;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's brother's daughter;mFBD;;;;;;;;;;;;;;;;;
+Cousins;male speaker's mother's brother's daughter;mMBD;;;;;;;;;;;;;;;;;
+Cousins;male speaker's mother's sister's daughter;mMZD;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's brother's son;mFBS;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's son;mFZS;;;;;;;;;;;;;;;;;
+Cousins;male speaker's mother's brother's son;mMBS;;;;;;;;;;;;;;;;;
+Cousins;male speaker's mother's sister's son;mMZS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;nɛs;нɛс;;0;;;;?;Sorokina & Bolina 2009: 270;;;;3;;;;Translated as 'супруги'. Etymology unknown.
+Affines;male speaker's husband;mH;buśi;буси;;0;;;;PS *wә̑js- 'Greis, Ehemann';Sorokina & Bolina 2009: 86;SW: 169–170;;;3;;;;Also 'old man, grandfather', according to SW the word is a derivation, but does not specify further.
+Affines;male speaker's wife;mW;ḿenśi;менси;;0;;;;PS *mi/enәsä 'Frau, die Alte';Sorokina & Bolina 2009: 231;SW: 92;;;1;;;;Meanings given in Sorokina & Bolina 'old woman, wife'
+Affines;male speaker's wife;mW;ne;нэ;;0;;;;PS *nä 'Frau';Sorokina & Bolina 2009: 288;SW: 100;;;1;;;;
+Affines;male speaker's husband's father;mHF;inbu;инбу;;0;;;;PU *a/e̮na-e̮ppә 'parents-in-law', PS *i̮nә̑pә̑ ;Shluinsky 2025: 72;;;;4;;;;A compound of kasa 'man' and inboj 'father-in-law'
+Affines;male speaker's husband's mother;mHM;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+Affines;male speaker's wife's father;mWF;inbu;инбу;;0;;;;PU *a/e̮na-e̮ppә 'parents-in-law', PS *i̮nә̑pә̑ ;Shluinsky 2025: 72;;;;4;;;;A compound of kasa 'man' and inboj 'father-in-law'
+Affines;male speaker's wife's father;mWF;kasa inboi;каса инбой;;0;;;;PU *a/e̮na-e̮ppә 'parents-in-law', PS *i̮nә̑pә̑ ;Sorokina & Bolina 2009: 162;;;;4;;;;A compound of kasa 'man' and inboj 'father-in-law'
+Affines;male speaker's wife's father;mWF;ne eśi;нэ эси;;0;;;;Enets-specific;Sorokina & Bolina 2009: 288;;;;4;;;;A compound of ne 'wife, woman' and eśi 'father'
+Affines;male speaker's wife's mother;mWM;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+Affines;male speaker's wife's mother;mWM;ne inboi;нэ инбой;;0;;;;PU *a/e̮na-e̮ppә 'parents-in-law', PS *i̮nә̑pә̑ ;Sorokina & Bolina 2009: 288;;;;4;;;;A compound ne 'wife, woman' and inboj 'father-in-law', a similar compound exists in Tundra Nenets
+Affines;male speaker's brother's wife;mBW;;;;;;;;;;;;;;;;;
+Affines;male speaker's younger brother's wife;myBW;mɛa;мɛа;;0;;;;PU *mińä 'daughter-in-law', PS *mejä;Sorokina & Bolina 2009: 232;"UEW: 276; SW: 92";;;1;;;;younger brother's wife
+Affines;male speaker's sister's husband;mZH;;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's brother;mWB;;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's sister;mWZ;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's brother;mHB;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's sister;mHZ;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's husband (not father);mMH(notF);;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife;mSW;mɛa;мɛа;;0;;;;PU *mińä 'daughter-in-law', PS *mejä;Sorokina & Bolina 2009: 232;"UEW: 276; SW: 92";;;1;;;;
+Affines;male speaker's son's wife's mother;mSWM;;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife's father;mSWF;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband;mDH;b́i;би;;0;;;;PU *wäŋәw 'son-in-law', PS *wiŋә;Sorokina & Bolina 2009: 66;"UEW: 565–566; SW: 176";;;1;;;;
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;;
+Siblings;female speaker's sibling;fG;ṕɛb́is;пɛбис;;0;;;;Enets-specific;Sorokina & Bolina 2009: 334;;;;3;;;;Translated as 'братья и сестры', in all likehood formed on ṕɛb́i 'younger brother or sister'
+Siblings;female speaker's sibling;fG;soko;соко;;0;;;;?;Sorokina & Bolina 2009: 397;;;;?;;;;Translated as 'брат или сестра (младшие)'. Etymology unknown.
+Siblings;female speaker's brother;fB;kasa;каса;;0;;;;PS *kåә̑-så 'Mann, Mensch' ('Sterblicher)';Sorokina & Bolina 2009: 162;SW: 61;;;2;;;;"Meanings given in Sorokina & Bolina 2009 are 'man; brother; friend, comrade'. On PS level derived from the verb *kåә̑- 'to die'."
+Siblings;female speaker's brother;fB;kasa kasa;каса каса;;0;;;;Enets-specific;Sorokina & Bolina 2009: 162;;;;4;;;;Probably analyzable as a tautological compound.
+Siblings;female speaker's sister;fZ;ne kasa;нэ каса;;0;;;;Enets-specific;Sorokina & Bolina 2009: 288;Siegl 2013: 317;;;4;;;;"A compound of ne 'wife, woman' and kasa 'man; brother; friend, comrade'. Also glossed as 'girl person' by Siegl 2013"
+Siblings;female speaker's elder brother;feB;ina;ина;;0;;;;PU *enä 'big' >  PS *enä 'older brother';Sorokina & Bolina 2009: 146;"Aikio 2020: 45–47; SW: 27";;;1;;;;
+Siblings;female speaker's elder brother;feB;aga kasa;ага каса;;0;;;;Enets-specific;Sorokina & Bolina 2001: 167;;;;5;;;;"Phrasal consisting of aga 'big, grown-up, elderly, old' and kasa 'man; brother; friend, comrade', cf. Udm. agaj 'm/feB'"
+Siblings;female speaker's younger brother;fyB;ńab́i;няби;;0;;;;?;Sorokina & Bolina 2009: 294;;;;?;;;;Etymology unknown.
+Siblings;female speaker's younger brother;fyB;ṕɛb́i;пɛби;;0;;;;PS *päpä 'jüngerer Bruder, jüngere Schwester';Sorokina & Bolina 2009: 334;SW: 121–122;;;1;;;;
+Siblings;female speaker's younger brother;fyB;sooku;сооку;;0;;;;?;Sorokina & Bolina 2009: 399;;;;?;;;;Etymology unknown, perhaps. -ku is a diminutive suffix, perhaps a derivation.
+Siblings;female speaker's elder sister;feZ;abaa;абаа;;0;;;;PS *apå 'ältere Schwester';Sorokina & Bolina 2009: 41;SW: 21;;;1;;;;
+Siblings;female speaker's elder sister;feZ;ńabaku;нябаку;;4;;;Tundra Nenets;?;Sorokina & Bolina 2009: 294;;;;1;;;;
+Siblings;female speaker's younger sister;fyZ;ne soku;нэ соку;;0;;;;?;Sorokina & Bolina 2001: 88;;;;?;;;;A compound of ne 'wife, woman' and soku, connected to sooku 'younger brother'
+Siblings;female speaker's younger sister;fyZ;ṕɛb́i;пɛби;;0;;;;PS *päpä 'jüngerer Bruder, jüngere Schwester';Sorokina & Bolina 2009: 334;SW: 121–122;;;1;;;;
+Parents;female speaker's parent;fP;eexi-eśixi;эхи-эсихи;;0;;;;Enets-specific;Sorokina & Bolina 2001: 154;;;;4;;;;This very much seems like a copulative compound of ee 'mother' + dual marker and eśi + dual marker.
+Parents;female speaker's father;fF;eśi;эси;;0;;;;PU *äjćä 'father', PS *äjsä;Sorokina & Bolina 2001: 154;"Aikio 2020: 30–32; SW: 22–23";;;1;;;;
+Parents;female speaker's mother;fM;ee;э;;0;;;;PU *ämä 'mother', PS *ämä;Sorokina & Bolina 2009: 486;"Aikio 2020: 44–45; SW: 23";;;1;;;;"Also transcribed as ää (Siegl 2013; Aikio 2020)."
+Children;female speaker's child;fC;ńe;не;;0;;;;"PS *ńuә̑ 'Kind; Junges'";Sorokina & Bolina 2009: 266;SW: 111;;;1;;;;
+Children;female speaker's son;fS;kasa ńe;каса не;;0;;;;Enets-specific;Sorokina & Bolina 2009: 162;;;;4;;;;"A compound of kasa 'man; brother; friend, comrade' and ńe 'child'"
+Children;female speaker's daughter;fD;ne ńe;нэ не;;0;;;;Enets-specific;Sorokina & Bolina 2009: 288;;;;4;;;;A compound of ne 'wife, woman' and ńe 'child'
+Grandparents;female speaker's ancestor;fA;;;;;;;;;;;;;;;;;
+Grandparents;female speaker's grandparent;fPP;;;;;;;;;;;;;;;;;
+Grandparents;female speaker's father's father;fFF;dʹiśi;диси;;0;;;;PU *ekä 'older male relative', PS *jekä;Sorokina & Bolina 2009: 119;Aikio 2020: 42–43;;;1;;;;Only surviving Samoyed cognate of the PU word
+Grandparents;female speaker's father's father;fFF;dʹiśiku;дисику;;0;;;;PU *ekä 'older male relative', PS *jekä;Sorokina & Bolina 2009: 119;Aikio 2020: 42–43;;;3;;;;A diminutive derivation of dʹiśi
+Grandparents;female speaker's father's mother;fFM;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+Grandparents;female speaker's mother's father;fMF;dʹiśi;диси;;0;;;;PU *ekä 'older male relative', PS *jekä;Sorokina & Bolina 2009: 119;Aikio 2020: 42–43;;;1;;;;Only surviving Samoyed cognate of the PU word
+Grandparents;female speaker's mother's father;fMF;dʹisiku;дисику;;0;;;;PU *ekä 'older male relative', PS *jekä;Sorokina & Bolina 2009: 119;Aikio 2020: 42–43;;;3;;;;A diminutive derivation of dʹiśi
+Grandparents;female speaker's mother's mother;fMM;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+Grandchildren;female speaker's grandchild;fCC;ńeɁ ńe;не' не;;0;;;;Enets-specific;"Sorokina & Bolina 2001: 173; Sorokina & Bolina 2009: 266";;;;4 or 5;;;;The glottal stop is only marked in Sorokina & Bolina 2001 Russian-Enets part, either phrasal 'child's child' or a compound 'child child'
+Grandchildren;female speaker's son's son;fSS;;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's son's daughter;fSD;;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's son;fDS;;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's daughter;fDD;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's brother;fFB;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's brother;fMB;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's sister;fMZ;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;abaa;абаа;;0;;;;PS *apå 'ältere Schwester';Sorokina & Bolina 2009: 41;SW: 21;;;1;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;abaa;абаа;;0;;;;PS *apå 'ältere Schwester';Sorokina & Bolina 2009: 41;SW: 21;;;1;;;;
+ParentsSiblings;female speaker's mother's older brother;fMeB;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;kasa ńe;каса не;;0;;;;Enets-specific;Sorokina & Bolina 2009: 162;;;;4;;;;"A compound of kasa 'man; brother; friend, comrade' and ńe 'child'"
+SiblingsChildren;female speaker's brother's daughter;fBD;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's son;fZS;kasa ńe;каса не;;0;;;;Enets-specific;Sorokina & Bolina 2009: 162;;;;4;;;;"A compound of kasa 'man; brother; friend, comrade' and ńe 'child'"
+SiblingsChildren;female speaker's sister's daughter;fZD;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's sister's daughter;fFZD;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's brother's daughter;fFBD;;;;;;;;;;;;;;;;;
+Cousins;female speaker's mother's brother's daughter;fMBD;;;;;;;;;;;;;;;;;
+Cousins;female speaker's mother's sister's daughter;fMZD;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's brother's son;fFBS;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's sister's son;fFZS;;;;;;;;;;;;;;;;;
+Cousins;female speaker's mother's brother's son;fMBS;;;;;;;;;;;;;;;;;
+Cousins;female speaker's mother's sister's son;fMZS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;nɛs;нɛс;;0;;;;?;Sorokina & Bolina 2009: 270;;;;3;;;;Translated as 'супруги'. Etymology unknown.
+Affines;female speaker's husband;fH;buśi;буси;;0;;;;PS *wә̑js- 'Greis, Ehemann';Sorokina & Bolina 2009: 86;SW: 169–170;;;3;;;;Also 'old man, grandfather', according to SW the word is a derivation, but does not specify further.
+Affines;female speaker's wife;fW;ḿenśi;менси;;0;;;;PS *mi/enәsä 'Frau, die Alte';Sorokina & Bolina 2009: 231;SW: 92;;;1;;;;Meanings given in Sorokina & Bolina 'old woman, wife'
+Affines;female speaker's wife;fW;ne;нэ;;0;;;;PS *nä 'Frau';Sorokina & Bolina 2009: 288;SW: 100;;;1;;;;
+Affines;female speaker's husband's father;fHF;inbu;инбу;;0;;;;PU *a/e̮na-e̮ppә 'parents-in-law', PS *i̮nә̑pә̑ ;Shluinsky 2025: 72;;;;4;;;;A compound of kasa 'man' and inboj 'father-in-law'
+Affines;female speaker's husband's mother;fHM;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+Affines;female speaker's wife's father;fWF;inbu;инбу;;0;;;;PU *a/e̮na-e̮ppә 'parents-in-law', PS *i̮nә̑pә̑ ;Shluinsky 2025: 72;;;;4;;;;A compound of kasa 'man' and inboj 'father-in-law'
+Affines;female speaker's wife's father;fWF;kasa inboi;каса инбой;;0;;;;PU *a/e̮na-e̮ppә 'parents-in-law', PS *i̮nә̑pә̑ ;Sorokina & Bolina 2009: 162;;;;4;;;;A compound of kasa 'man' and inboj 'father-in-law'
+Affines;female speaker's wife's father;fWF;ne eśi;нэ эси;;0;;;;Enets-specific;Sorokina & Bolina 2009: 288;;;;4;;;;A compound of ne 'wife, woman' and eśi 'father'
+Affines;female speaker's wife's mother;fWM;kađa;каза;;0;;;;PU *koska 'aunt, grandmother', PS *kåtå;Sorokina & Bolina 2009: 154;"Aikio 2015: 61; SW: 62";;;1;;;;
+Affines;female speaker's wife's mother;fWM;ne inboi;нэ инбой;;0;;;;PU *a/e̮na-e̮ppә 'parents-in-law', PS *i̮nә̑pә̑ ;Sorokina & Bolina 2009: 288;;;;4;;;;A compound ne 'wife, woman' and inboj 'father-in-law', a similar compound exists in Tundra Nenets
+Affines;female speaker's brother's wife;fBW;;;;;;;;;;;;;;;;;
+Affines;female speaker's younger brother's wife;fyBW;mɛa;мɛа;;0;;;;PU *mińä 'daughter-in-law', PS *mejä;Sorokina & Bolina 2009: 232;"UEW: 276; SW: 92";;;1;;;;younger brother's wife
+Affines;female speaker's sister's husband;fZH;;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's brother;fWB;;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's sister;fWZ;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's brother;fHB;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's sister;fHZ;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's husband (not father);fMH(notF);;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife;fSW;mɛa;мɛа;;0;;;;PU *mińä 'daughter-in-law', PS *mejä;Sorokina & Bolina 2009: 232;"UEW: 276; SW: 92";;;1;;;;
+Affines;female speaker's son's wife's mother;fSWM;;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife's father;fSWF;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband;fDH;b́i;би;;0;;;;PU *wäŋәw 'son-in-law', PS *wiŋә;Sorokina & Bolina 2009: 66;"UEW: 565–566; SW: 176";;;1;;;;
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;;

@@ -1,241 +1,241 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","",,,,,"",
-"mB","vel'l'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mZ","sizar",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mZ","čiža",,,,,"Zaiceva_2010",
-"meB","veik",,,,,"",
-"myB","",,,,,"",
-"meZ","čižoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"myZ","",,,,,"",
-"mP","kazvatajad",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mP","vanhembad",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mF","tat",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mM","mam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mC","laps'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mS","poig",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mD","tütär",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mA","ezitat",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mPP","",,,,,"",
-"mFF","dedoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mFM","baboi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mFM","bab",,,,,"Zaiceva_2010",
-"mMF","dedoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mMM","baboi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mMM","bab",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mCC","vunuk",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mSS","",,,,,"",
-"mSD","",,,,,"",
-"mDS","",,,,,"",
-"mDD","",,,,,"",
-"mFB","däd'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mFZ","tädi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mMB","däd'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mMZ","tädi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mFeB","",,,,,"",
-"mFyB","",,,,,"",
-"mFeZ","",,,,,"",
-"mFyZ","",,,,,"",
-"mMeZ","",,,,,"",
-"mMyZ","",,,,,"",
-"mMeB","",,,,,"",
-"mMyB","",,,,,"",
-"mBS","",,,,,"",
-"mBD","",,,,,"",
-"mZS","",,,,,"",
-"mZD","",,,,,"",
-"meBS","",,,,,"",
-"myBS","",,,,,"",
-"meBD","",,,,,"",
-"myBD","",,,,,"",
-"meZS","",,,,,"",
-"myZS","",,,,,"",
-"meZD","",,,,,"",
-"myZD","",,,,,"",
-"mFZD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mFBD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mMBD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mMZD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mFBS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mFZS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mMBS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mMZS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mFeBS","",,,,,"",
-"mFyBS","",,,,,"",
-"mFeZS","",,,,,"",
-"mFyZS","",,,,,"",
-"mFeBD","",,,,,"",
-"mFyBD","",,,,,"",
-"mFeZD","",,,,,"",
-"mFyZD","",,,,,"",
-"mMeBS","",,,,,"",
-"mMyBS","",,,,,"",
-"mMeZS","",,,,,"",
-"mMyZS","",,,,,"",
-"mMeBD","",,,,,"",
-"mMyBD","",,,,,"",
-"mMeZD","",,,,,"",
-"mMyZD","",,,,,"",
-"mFBeS","",,,,,"",
-"mFByS","",,,,,"",
-"mFZeS","",,,,,"",
-"mFZyS","",,,,,"",
-"mFBeD","",,,,,"",
-"mFByD","",,,,,"",
-"mFZeD","",,,,,"",
-"mFZyD","",,,,,"",
-"mMBeS","",,,,,"",
-"mMByS","",,,,,"",
-"mMZeS","",,,,,"",
-"mMZyS","",,,,,"",
-"mMBeD","",,,,,"",
-"mMByD","",,,,,"",
-"mMZeD","",,,,,"",
-"mMZyD","",,,,,"",
-"mE","",,,,,"",
-"mH","mužik",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mW","ak",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mW","mur'zain",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mHF","ap'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mHM","anop'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mWF","ap'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mWM","anop'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mBW","kälü",,,,,"Zaiceva_2010",
-"mZH","vävu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mWB","",,,,,"",
-"mWZ","",,,,,"",
-"fHB","küdu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fHZ","nado",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mco-W","",,,,,"",
-"mco-H","",,,,,"",
-"mFW(notM)","emindam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mMH(notF)","ižindam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mSW","mil'l'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mSWM","",,,,,"",
-"mSWF","",,,,,"",
-"mDH","vävu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"mDHM","",,,,,"",
-"mDHF","",,,,,"",
-"mFZH","",,,,,"",
-"mFBW","",,,,,"",
-"mMZH","",,,,,"",
-"mMBW","",,,,,"",
-"fG","",,,,,"",
-"fB","vel'l'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fZ","sizar",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fZ","čiža",,,,,"Zaiceva_2010",
-"feB","veik",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fyB","",,,,,"",
-"feZ","čižoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fyZ","",,,,,"",
-"fP","kazvatajad",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fP","vanhembad",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fF","tat",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fM","mam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fC","laps'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fS","poig",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fD","tütär",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fA","ezitat",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fPP","",,,,,"",
-"fFF","dedoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fFM","baboi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fFM","bab",,,,,"Zaiceva_2010",
-"fMF","dedoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fMM","baboi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fMM","bab",,,,,"Zaiceva_2010",
-"fCC","vunuk",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fSS","",,,,,"",
-"fSD","",,,,,"",
-"fDS","",,,,,"",
-"fDD","",,,,,"",
-"fFB","däd'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fFZ","tädi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fMB","däd'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fMZ","tädi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fFeB","",,,,,"",
-"fFyB","",,,,,"",
-"fFeZ","",,,,,"",
-"fFyZ","",,,,,"",
-"fMeZ","",,,,,"",
-"fMyZ","",,,,,"",
-"fMeB","",,,,,"",
-"fMyB","",,,,,"",
-"fBS","",,,,,"",
-"fBD","",,,,,"",
-"fZS","",,,,,"",
-"fZD","",,,,,"",
-"feBS","",,,,,"",
-"fyBS","",,,,,"",
-"feBD","",,,,,"",
-"fyBD","",,,,,"",
-"feZS","",,,,,"",
-"fyZS","",,,,,"",
-"feZD","",,,,,"",
-"fyZD","",,,,,"",
-"fFZD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fFBD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fMBD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fMZD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fFBS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fFZS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fMBS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fMZS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fFeBS","",,,,,"",
-"fFyBS","",,,,,"",
-"fFeZS","",,,,,"",
-"fFyZS","",,,,,"",
-"fFeBD","",,,,,"",
-"fFyBD","",,,,,"",
-"fFeZD","",,,,,"",
-"fFyZD","",,,,,"",
-"fMeBS","",,,,,"",
-"fMyBS","",,,,,"",
-"fMeZS","",,,,,"",
-"fMyZS","",,,,,"",
-"fMeBD","",,,,,"",
-"fMyBD","",,,,,"",
-"fMeZD","",,,,,"",
-"fMyZD","",,,,,"",
-"fFBeS","",,,,,"",
-"fFByS","",,,,,"",
-"fFZeS","",,,,,"",
-"fFZyS","",,,,,"",
-"fFBeD","",,,,,"",
-"fFByD","",,,,,"",
-"fFZeD","",,,,,"",
-"fFZyD","",,,,,"",
-"fMBeS","",,,,,"",
-"fMByS","",,,,,"",
-"fMZeS","",,,,,"",
-"fMZyS","",,,,,"",
-"fMBeD","",,,,,"",
-"fMByD","",,,,,"",
-"fMZeD","",,,,,"",
-"fMZyD","",,,,,"",
-"fE","",,,,,"",
-"fH","mužik",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fW","ak",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fW","mur'zain",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fHF","ap'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fHM","anop'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fWF","ap'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fWM","anop'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fBW","kälü",,,,,"Zaiceva_2010",
-"fZH","vävu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fWB","",,,,,"",
-"fWZ","",,,,,"",
-"fHB","küdu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fHZ","nado",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fco-W","",,,,,"",
-"fco-H","",,,,,"",
-"fFW(notM)","emindam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fMH(notF)","ižindam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fSW","mil'l'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fSWM","",,,,,"",
-"fSWF","",,,,,"",
-"fDH","vävu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
-"fDHM","",,,,,"",
-"fDHF","",,,,,"",
-"fFZH","",,,,,"",
-"fFBW","",,,,,"",
-"fMZH","",,,,,"",
-"fMBW","",,,,,"",
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments;Deeper donor language;Ref. for deeper donor language
+Siblings;male speaker's sibling;mG;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's brother;mB;vel'l';;*sweljan-;2;;;Proto-Germanic;1st millennium BCE;"Zaiceva & Mullonen 2007: 461; Zaiceva 2010: 47";"LägLoS: 386–387; Metsäranta 2023";;replacement;1;;;;Late PIE ;Olsen (2020: 133-134), Milanova (2020: 160)
+Siblings;male speaker's sister;mZ;sizar;;*ses-(e)r;4;;;Baltic;1st millennium BCE;"Zaiceva & Mullonen 2007: 380; Zaiceva 2010: 414";SSA: 187;;replacement;1;;;;PIE ;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Siblings;male speaker's elder brother;meB;veik;;;0;;One of the constituents is borrowed;Proto-Germanic/Eastern Finnic;Veps-specific ;"Zaiceva & Mullonen 2007: 461; Zaiceva 2010: 47";;;;2;;;;;
+Siblings;male speaker's younger brother;myB;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's elder sister;meZ;čižoi;;;0;;;Karelo-Veps/Finnic;Veps-specific ;"Zaiceva & Mullonen 2007: 414; Zaiceva 2010: 50";ETY;;;3;;;A diminutive -oi derivative of čiža 'older sister'. Usually thought to be connected with sizar, but the derivational relationship is far from clear. Somewhat similar words (Fi siso, Estonian sõtse) exit in Finnic languages, but Veps seems to be more closely connected with Olonets Karelian čidž(o)i and Ludic ťš́idž́oi.;;
+Siblings;male speaker's elder sister;meZ;čiža;;;0;;;Karelo-Veps/Finnic;Veps-specific;Zaiceva 2010: 50;ETY;;;1;;;;;
+Siblings;male speaker's younger sister;myZ;;;;;;;;;;;;;;;;;;
+Parents;male speaker's parent;mP;kazvatajad;;;0;;;;Veps-specific;"Zaiceva & Mullonen 2007: 397; Zaiceva 2010: 146";;;;3;;;A derivation on the verb kazvatada 'to raise (children)', plural form.;;
+Parents;male speaker's parent;mP;vanhembad;;vanhemmat;3;1;;Karelian ;after the 12th century ;Zaiceva & Mullonen 2007: 397;;;;3;;;"Lexicalized comparative plural of vanha 'old', ""olders"" = parents (same occurs in Finnish, vanhemmat = parents and Estonian vanemad), eventually a calque of Middle Low German elderen. Strong grade mb instead of mm as there is no consonant gradation in Veps unlike many other Finnic languages.";;
+Parents;male speaker's father;mF;tat;;тятя;2;;;;Russian/Finnic-specific;"Zaiceva & Mullonen 2007: 304; Zaiceva 2010: 411";SSA: 249–250;;;1;;;Similar words exit throughout Finnic, Finnish taata, taatto, Karealian toatto, Estonian taat. SSA expects the words to be Kinderspr. in origin, but mentions that some of the Finnic words might be borrowed from Russian;;
+Parents;male speaker's mother;mM;mam;;мама;2;;;;Russian/Veps-specific;"Zaiceva & Mullonen 2007: 228; Zaiceva 2010: 243";;;;1;;;A common Lallwort. Veps has been under heavy Russian influence so a borrowing from Russian мама is a possibility, although probably very difficult to prove in any conclusive way.;;
+Children;male speaker's child;mC;laps';;;0;;;;Inherited, PU *lëpćə 'cradle';"Zaiceva & Mullonen 2007: 393; Zaiceva 2010: 210";Aikio 2015: 58;;;1;;;;;
+Children;male speaker's son;mS;poig;;;0;;;;Inherited, PU *pojka;"Zaiceva & Mullonen 2007: 438–439; Zaiceva 2010: 320";SSA: 385;;;1;;;;;
+Children;male speaker's daughter;mD;tütär;;*duktēr-;4;;;Baltic;1st millennium BCE;"Zaiceva & Mullonen 2007: 129; Zaiceva 2010: 433";SSA: 349;;replacement;1;;;;PIE;Olsen (2020: 60-62), Milanova (2020: 94-95, 167-175)
+Grandparents;male speaker's ancestor;mA;ezitat;;esi-isät;3;1;;Finnish/Karelian;after the 12th century ;"Zaiceva & Mullonen 2007: 351; Zaiceva 2010: 72";;;;4;;;A compound of ezi 'front, pre-' and tat 'father', also attested in Finnish, eventually a calque of Middle Low German vȫrvāder. ;;
+Grandparents;male speaker's grandparent;mPP;;;;;;;;;;;;;;;;;;
+Grandparents;male speaker's father's father;mFF;dedoi;;дед;0;;One of the constituents is borrowed;Russian;recent centuries;"Zaiceva & Mullonen 2007: 115; Zaiceva 2010: 56";;;replacement;3;;;A diminutive -oi derivation. Kinbank also lists uk as 'grandfather', but this is glossed only as 'старик' in Zaitseva (2010: 441). ;;
+Grandparents;male speaker's father's mother;mFM;baboi;;баба;0;;One of the constituents is borrowed;Russian;recent centuries;"Zaiceva & Mullonen 2007: 28; Zaiceva 2010: 39";;;replacement;3;;;"A diminutive -oi derivation. Kinbank also lists ak 'grandmother', but this is glossed only as 'женщина, жена; старуха' in Zaitseva (2010: 23).";;
+Grandparents;male speaker's father's mother;mFM;bab;;баба;4;;;Russian;recent centuries;Zaiceva 2010: 39;;;replacement;1;;;;;
+Grandparents;male speaker's mother's father;mMF;dedoi;;дед;0;;One of the constituents is borrowed;Russian;recent centuries;"Zaiceva & Mullonen 2007: 115; Zaiceva 2010: 56";;;replacement;3;;;A diminutive -oi derivation. Kinbank also lists uk as 'grandfather', but this is glossed only as 'старик' in Zaitseva (2010: 441).;;
+Grandparents;male speaker's mother's mother;mMM;baboi;;баба;0;;One of the constituents is borrowed;Russian;recent centuries;"Zaiceva & Mullonen 2007: 28; Zaiceva 2010: 39";;;replacement;3;;;"A diminutive -oi derivation. Kinbank also lists ak 'grandmother', but this is glossed only as 'женщина, жена; старуха' in Zaitseva (2010: 23).";;
+Grandparents;male speaker's mother's mother;mMM;bab;;баба;4;;;Russian;recent centuries;Zaiceva 2010: 39;;;replacement;1;;;;;
+Grandchildren;male speaker's grandchild;mCC;vunuk;;внук;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 68; Zaiceva 2010: 473";;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;male speaker's son's son;mSS;;;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's son's daughter;mSD;;;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's son;mDS;;;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's daughter;mDD;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's brother;mFB;däd';;дядя;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 133; Zaiceva 2010: 58";;;replacement;1;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;tädi;;;0;;;;Finnic-specific;"Zaiceva & Mullonen 2007: 447; Zaiceva 2010: 434";SSA: 358;;;1;;;;;
+ParentsSiblings;male speaker's mother's brother;mMB;däd';;дядя;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 133; Zaiceva 2010: 58";;;replacement;1;;;;;
+ParentsSiblings;male speaker's mother's sister;mMZ;tädi;;;0;;;;Finnic-specific;"Zaiceva & Mullonen 2007: 447; Zaiceva 2010: 434";SSA: 358;;;1;;;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older brother;mMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's daughter;mBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's son;mZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's daughter;mZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's son;meBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's son;meZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;sestrii;;сестра;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 374";;sister;;1;;;Ultimately from Russian сестра 'sister'. Perhaps clipped from двоюродная сестра '(female) cousin'. Veps sestrii might reflect rather the genitive singular сестры than the nominative singular сестра or a genetival adjective сестрий 'sister's' (cf. вдовий 'widow's').;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Cousins;male speaker's father's brother's daughter;mFBD;sestrii;;сестра;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 374";;sister;;1;;;Ultimately from Russian сестра 'sister'. Perhaps clipped from двоюродная сестра '(female) cousin'. Veps sestrii might reflect rather the genitive singular сестры than the nominative singular сестра or a genetival adjective сестрий 'sister's' (cf. вдовий 'widow's').;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Cousins;male speaker's mother's brother's daughter;mMBD;sestrii;;сестра;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 374";;sister;;1;;;Ultimately from Russian сестра 'sister'. Perhaps clipped from двоюродная сестра '(female) cousin'. Veps sestrii might reflect rather the genitive singular сестры than the nominative singular сестра or a genetival adjective сестрий 'sister's' (cf. вдовий 'widow's').;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Cousins;male speaker's mother's sister's daughter;mMZD;sestrii;;сестра;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 374";;sister;;1;;;Ultimately from Russian сестра 'sister'. Perhaps clipped from двоюродная сестра '(female) cousin'. Veps sestrii might reflect rather the genitive singular сестры than the nominative singular сестра or a genetival adjective сестрий 'sister's' (cf. вдовий 'widow's').;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Cousins;male speaker's father's brother's son;mFBS;bratan;;братан;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 44";;;replacement;1;;;cf. Komi bratan 'cousin';(Proto-)Slavic;Olsen 2010: 164-165
+Cousins;male speaker's father's sister's son;mFZS;bratan;;братан;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 44";;;replacement;1;;;;(Proto-)Slavic;Olsen 2010: 164-165
+Cousins;male speaker's mother's brother's son;mMBS;bratan;;братан;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 44";;;replacement;1;;;;(Proto-)Slavic;Olsen 2010: 164-165
+Cousins;male speaker's mother's sister's son;mMZS;bratan;;братан;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 44";;;replacement;1;;;;(Proto-)Slavic;Olsen 2010: 164-165
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband;mH;mužik;;мужик;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 239; Zaiceva 2010: 262";;man, husband, boyfriend, (obsolete) peasant;;1;;;;Proto-Slavic with debated IE parallels;Milanova 2020: 103
+Affines;male speaker's wife;mW;ak;;;0;;;;Finnic-specific;"Zaiceva & Mullonen 2007: 139; Zaiceva 2010: 23";SSA: 64–65;;;1;;;Meaning 'wife' is mostly Karelo-Veps.;;
+Affines;male speaker's wife;mW;mur'zain;;*marti̭a- ;4;;;Baltic;1st millennium BCE;Zaiceva 2010: 259–260;"SSA: 172, Junttila 2015: 56; 94; 145";;coexistence;1;;;"The meaning in Veps is 'young wife'. This meaning is not unknown in other Finnic languages, but in Finnish for example the prevailing meaning is 'bride' although dialectally also 'young wife (until the birth of the first child)'. Similar meanings seem to be present on the Baltic side, Lithuanian 'bride; young wife; daughter-in-law; sister-in-law'.";;
+Affines;male speaker's husband's father;mHF;ap';;;0;;;;Inherited, PU *ëppə 'father-in-law';"Zaiceva & Mullonen 2007: 407, 447; Zaiceva 2010: 29";Aikio 2020: 55–56;;;1;;;;;
+Affines;male speaker's husband's mother;mHM;anop';;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law;"Zaiceva & Mullonen 2007: 407; 447; Zaiceva 2010: 29";Aikio 2020: 54;;;1;;;;;
+Affines;male speaker's wife's father;mWF;ap';;;0;;;;Inherited, PU *ëppə 'father-in-law';"Zaiceva & Mullonen 2007: 407, 447; Zaiceva 2010: 29";Aikio 2020: 55–56;;;1;;;;;
+Affines;male speaker's wife's mother;mWM;anop';;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law;"Zaiceva & Mullonen 2007: 407; 447; Zaiceva 2010: 29";Aikio 2020: 54;;;1;;;;;
+Affines;male speaker's brother's wife;mBW;kälü;;;0;;;;Inherited, PU *käləw 'sister-in-law';Zaiceva 2010: 198;SSA: 471;;;1;;;;;
+Affines;male speaker's sister's husband;mZH;vävu;;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"Zaiceva & Mullonen 2007: 165; Zaiceva 2010: 479";SSA: 485;;;1;;;;;
+Affines;male speaker's wife's brother;mWB;;;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's sister;mWZ;;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's brother;mHB;küdu;;;0;;;;Finnic-specific;"Zaiceva & Mullonen 2007: 115; Zaiceva 2010: 193";SSA: 467;;;1;;;;;
+Affines;male speaker's husband's sister;mHZ;nado;;;0;;;;Inherited, PU *nataw 'in-law';"Zaiceva & Mullonen 2007: 164; Zaiceva 2010: 268";Aikio 2015:  55;;;1;;;;;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);emindam;;;0;;;;Eastern Finnish-Karelian-Veps;"Zaiceva & Mullonen 2007: 229; Zaiceva 2010: 66";SSA: 104;;;3;;;A derivation from emä 'mother'. This derivation seems to form an interesting isogloss within Finnic.;;
+Affines;male speaker's mother's husband (not father);mMH(notF);ižindam;;;0;;;;Eastern Finnish-Karelian-Veps-Votic;"Zaiceva & Mullonen 2007: 309; Zaiceva 2010: 116";SSA: 228;;;3;;;A derivation from isä 'father' (Veps iža). This derivation seems to form an interesting isogloss within Finnic.;;
+Affines;male speaker's son's wife;mSW;mil'l';;;0;;;;"? Inherited, PU *mińä 'daughter-in-law; young bride'";"Zaiceva & Mullonen 2007: 258; Zaiceva 2010: 253";SSA: 167;;;1;;;This word's relationship to Veps mindʹ, mińdʹ mentioned in SSA is unclear.;;
+Affines;male speaker's son's wife's mother;mSWM;;;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife's father;mSWF;;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband;mDH;vävu;;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"Zaiceva & Mullonen 2007: 165; Zaiceva 2010: 479";SSA: 485;;;1;;;;;
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's sibling;fG;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's brother;fB;vel'l';;*sweljan-;2;;;Proto-Germanic;1st millennium BCE;"Zaiceva & Mullonen 2007: 461; Zaiceva 2010: 47";"LägLoS: 386–387; Metsäranta 2023";;replacement;1;;;;Late PIE ;Olsen (2020: 133-134), Milanova (2020: 160)
+Siblings;female speaker's sister;fZ;sizar;;*ses-(e)r;4;;;Baltic;1st millennium BCE;"Zaiceva & Mullonen 2007: 380; Zaiceva 2010: 414";SSA: 187;;replacement;1;;;;PIE ;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Siblings;female speaker's elder brother;feB;veik;;;0;;One of the constituents is borrowed;Proto-Germanic/Eastern Finnic;Veps-specific ;"Zaiceva & Mullonen 2007: 461; Zaiceva 2010: 47";;;;2;;;;;
+Siblings;female speaker's younger brother;fyB;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's elder sister;feZ;čižoi;;;0;;;Karelo-Veps/Finnic;Veps-specific;"Zaiceva & Mullonen 2007: 414; Zaiceva 2010: 50";ETY;;;3;;;A diminutive -oi derivative of čiža 'older sister'. Usually thought to be connected with sizar, but the derivational relationship is far from clear. Somewhat similar words (Fi siso, Estonian sõtse) exit in Finnic languages, but Veps seems to be more closely connected with Olonets Karelian čidž(o)i and Ludic ťš́idž́oi.;;
+Siblings;female speaker's elder sister;feZ;čiža;;;0;;;Karelo-Veps/Finnic;Veps-specific;Zaiceva 2010: 50;ETY;;;1;;;;;
+Siblings;female speaker's younger sister;fyZ;;;;;;;;;;;;;;;;;;
+Parents;female speaker's parent;fP;kazvatajad;;;0;;;;Veps-specific;"Zaiceva & Mullonen 2007: 397; Zaiceva 2010: 146";;;;3;;;A derivation on the verb kazvatada 'to raise (children)', plural form.;;
+Parents;female speaker's parent;fP;vanhembad;;vanhemmat;3;1;;Karelian;after the 12th century ;Zaiceva & Mullonen 2007: 397;;;;3;;;"Lexicalized comparative plural of vanha 'old', ""olders"" = parents (same occurs in Finnish, vanhemmat = parents and Estonian vanemad), eventually a calque of Middle Low German elderen. Strong grade mb instead of mm as there is no consonant gradation in Veps unlike many other Finnic languages.";;
+Parents;female speaker's father;fF;tat;;тятя;2;;;;Russian/Finnic-specific;"Zaiceva & Mullonen 2007: 304; Zaiceva 2010: 411";SSA: 249–250;;;1;;;Similar words exit throughout Finnic, Finnish taata, taatto, Karealian toatto, Estonian taat. SSA expects the words to be Kinderspr. in origin, but mentions that some of the Finnic words might be borrowed from Russian;;
+Parents;female speaker's mother;fM;mam;;мама;2;;;;Russian/Veps-specific;"Zaiceva & Mullonen 2007: 228; Zaiceva 2010: 243";;;;1;;;A common Lallwort. Veps has been under heavy Russian influence so a borrowing from Russian мама is a possibility, although probably very difficult to prove in any conclusive way.;;
+Children;female speaker's child;fC;laps';;;0;;;;Inherited, PU *lëpćə 'cradle';"Zaiceva & Mullonen 2007: 393; Zaiceva 2010: 210";Aikio 2015: 58;;;1;;;;;
+Children;female speaker's son;fS;poig;;;0;;;;Inherited, PU *pojka;"Zaiceva & Mullonen 2007: 438–439; Zaiceva 2010: 320";SSA: 385;;;1;;;;;
+Children;female speaker's daughter;fD;tütär;;*duktēr-;4;;;Baltic;1st millennium BCE;"Zaiceva & Mullonen 2007: 129; Zaiceva 2010: 433";SSA: 349;;replacement;1;;;;PIE;Olsen (2020: 60-62), Milanova (2020: 94-95, 167-175)
+Grandparents;female speaker's ancestor;fA;ezitat;;esi-isät;3;1;;Karelian/Finnish;after the 12th century ;"Zaiceva & Mullonen 2007: 351; Zaiceva 2010: 72";;;;4;;;A compound of ezi 'front, pre-' and tat 'father', also attested in Finnish, eventually a calque of Middle Low German vȫrvāder. ;;
+Grandparents;female speaker's grandparent;fPP;;;;;;;;;;;;;;;;;;
+Grandparents;female speaker's father's father;fFF;dedoi;;дед;0;;One of the constituents is borrowed;Russian;recent centuries;"Zaiceva & Mullonen 2007: 115; Zaiceva 2010: 56";;;replacement;3;;;A diminutive -oi derivation. Kinbank also lists uk as 'grandfather', but this is glossed only as 'старик' in Zaitseva (2010: 441). ;;
+Grandparents;female speaker's father's mother;fFM;baboi;;баба;0;;One of the constituents is borrowed;Russian;recent centuries;"Zaiceva & Mullonen 2007: 28; Zaiceva 2010: 39";;;replacement;3;;;"A diminutive -oi derivation. Kinbank also lists ak 'grandmother', but this is glossed only as 'женщина, жена; старуха' in Zaitseva (2010: 23).";;
+Grandparents;female speaker's father's mother;fFM;bab;;баба;4;;;Russian;recent centuries;Zaiceva 2010: 39;;;replacement;1;;;;;
+Grandparents;female speaker's mother's father;fMF;dedoi;;дед;0;;One of the constituents is borrowed;Russian;recent centuries;"Zaiceva & Mullonen 2007: 115; Zaiceva 2010: 56";;;replacement;3;;;A diminutive -oi derivation. Kinbank also lists uk as 'grandfather', but this is glossed only as 'старик' in Zaitseva (2010: 441).;;
+Grandparents;female speaker's mother's mother;fMM;baboi;;баба;0;;One of the constituents is borrowed;Russian;recent centuries;"Zaiceva & Mullonen 2007: 28; Zaiceva 2010: 39";;;replacement;3;;;"A diminutive -oi derivation. Kinbank also lists ak 'grandmother', but this is glossed only as 'женщина, жена; старуха' in Zaitseva (2010: 23).";;
+Grandparents;female speaker's mother's mother;fMM;bab;;баба;4;;;Russian;recent centuries;Zaiceva 2010: 39;;;replacement;1;;;;;
+Grandchildren;female speaker's grandchild;fCC;vunuk;;внук;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 68; Zaiceva 2010: 473";;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;female speaker's son's son;fSS;;;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's son's daughter;fSD;;;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's son;fDS;;;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's daughter;fDD;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's brother;fFB;däd';;дядя;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 133; Zaiceva 2010: 58";;;replacement;1;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;tädi;;;0;;;;Finnic-specific;"Zaiceva & Mullonen 2007: 447; Zaiceva 2010: 434";SSA: 358;;;1;;;;;
+ParentsSiblings;female speaker's mother's brother;fMB;däd';;дядя;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 133; Zaiceva 2010: 58";;;replacement;1;;;;;
+ParentsSiblings;female speaker's mother's sister;fMZ;tädi;;;0;;;;Finnic-specific;"Zaiceva & Mullonen 2007: 447; Zaiceva 2010: 434";SSA: 358;;;1;;;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older brother;fMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's daughter;fBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's son;fZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's daughter;fZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's sister's daughter;fFZD;sestrii;;сестра;4;;;Russian;recent centuries ;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 374";;sister;;1;;;Ultimately from Russian сестра 'sister'. Perhaps clipped from двоюродная сестра '(female) cousin'. Veps sestrii might reflect rather the genitive singular сестры than the nominative singular сестра or a genetival adjective сестрий 'sister's' (cf. вдовий 'widow's').;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Cousins;female speaker's father's brother's daughter;fFBD;sestrii;;сестра;4;;;Russian;recent centuries ;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 374";;sister;;1;;;Ultimately from Russian сестра 'sister'. Perhaps clipped from двоюродная сестра '(female) cousin'. Veps sestrii might reflect rather the genitive singular сестры than the nominative singular сестра or a genetival adjective сестрий 'sister's' (cf. вдовий 'widow's').;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Cousins;female speaker's mother's brother's daughter;fMBD;sestrii;;сестра;4;;;Russian;recent centuries ;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 374";;sister;;1;;;Ultimately from Russian сестра 'sister'. Perhaps clipped from двоюродная сестра '(female) cousin'. Veps sestrii might reflect rather the genitive singular сестры than the nominative singular сестра or a genetival adjective сестрий 'sister's' (cf. вдовий 'widow's').;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Cousins;female speaker's mother's sister's daughter;fMZD;sestrii;;сестра;4;;;Russian;recent centuries ;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 374";;sister;;1;;;Ultimately from Russian сестра 'sister'. Perhaps clipped from двоюродная сестра '(female) cousin'. Veps sestrii might reflect rather the genitive singular сестры than the nominative singular сестра or a genetival adjective сестрий 'sister's' (cf. вдовий 'widow's').;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Cousins;female speaker's father's brother's son;fFBS;bratan;;братан;4;;;Russian;recent centuries ;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 44";;;replacement;1;;;cf. Komi bratan 'cousin';(Proto-)Slavic;Olsen 2010: 164-165
+Cousins;female speaker's father's sister's son;fFZS;bratan;;братан;4;;;Russian;recent centuries ;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 44";;;replacement;1;;;;(Proto-)Slavic;Olsen 2010: 164-165
+Cousins;female speaker's mother's brother's son;fMBS;bratan;;братан;4;;;Russian;recent centuries ;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 44";;;replacement;1;;;;(Proto-)Slavic;Olsen 2010: 164-165
+Cousins;female speaker's mother's sister's son;fMZS;bratan;;братан;4;;;Russian;recent centuries ;"Zaiceva & Mullonen 2007: 114; Zaiceva 2010: 44";;;replacement;1;;;;(Proto-)Slavic;Olsen 2010: 164-165
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband;fH;mužik;;мужик;4;;;Russian;recent centuries;"Zaiceva & Mullonen 2007: 239; Zaiceva 2010: 262";;man, husband, boyfriend, (obsolete) peasant;;1;;;;Proto-Slavic with debated IE parallels;Milanova 2020: 103
+Affines;female speaker's wife;fW;ak;;;0;;;;Finnic-specific;"Zaiceva & Mullonen 2007: 139; Zaiceva 2010: 23";SSA: 64–65;;;1;;;Meaning 'wife' is mostly Karelo-Veps.;;
+Affines;female speaker's wife;fW;mur'zain;;*marti̭a- ;4;;;Baltic;1st millennium BCE;Zaiceva 2010: 259–260;"SSA: 172, Junttila 2015: 56; 94; 145";;coexistence;1;;;"The meaning in Veps is 'young wife'. This meaning is not unknown in other Finnic languages, but in Finnish for example the prevailing meaning is 'bride' although dialectally also 'young wife (until the birth of the first child)'. Similar meanings seem to be present on the Baltic side, Lithuanian 'bride; young wife; daughter-in-law; sister-in-law'.";;
+Affines;female speaker's husband's father;fHF;ap';;;0;;;;Inherited, PU *ëppə 'father-in-law';"Zaiceva & Mullonen 2007: 407, 447; Zaiceva 2010: 29";Aikio 2020: 55–56;;;1;;;;;
+Affines;female speaker's husband's mother;fHM;anop';;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law;"Zaiceva & Mullonen 2007: 407; 447; Zaiceva 2010: 29";Aikio 2020: 54;;;1;;;;;
+Affines;female speaker's wife's father;fWF;ap';;;0;;;;Inherited, PU *ëppə 'father-in-law';"Zaiceva & Mullonen 2007: 407, 447; Zaiceva 2010: 29";Aikio 2020: 55–56;;;1;;;;;
+Affines;female speaker's wife's mother;fWM;anop';;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law;"Zaiceva & Mullonen 2007: 407; 447; Zaiceva 2010: 29";Aikio 2020: 54;;;1;;;;;
+Affines;female speaker's brother's wife;fBW;kälü;;;0;;;;Inherited, PU *käləw 'sister-in-law';Zaiceva 2010: 198;SSA: 471;;;1;;;;;
+Affines;female speaker's sister's husband;fZH;vävu;;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"Zaiceva & Mullonen 2007: 165; Zaiceva 2010: 479";SSA: 485;;;1;;;;;
+Affines;female speaker's wife's brother;fWB;;;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's sister;fWZ;;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's brother;fHB;küdu;;;0;;;;Finnic-specific;"Zaiceva & Mullonen 2007: 115; Zaiceva 2010: 193";SSA: 467;;;1;;;;;
+Affines;female speaker's husband's sister;fHZ;nado;;;0;;;;Inherited, PU *nataw 'in-law';"Zaiceva & Mullonen 2007: 164; Zaiceva 2010: 268";Aikio 2015:  55;;;1;;;;;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);emindam;;;0;;;;EasternFinnish-Karelian-Veps;"Zaiceva & Mullonen 2007: 229; Zaiceva 2010: 66";SSA: 104;;;3;;;A derivation from emä 'mother'. This derivation seems to form an interesting isogloss within Finnic.;;
+Affines;female speaker's mother's husband (not father);fMH(notF);ižindam;;;0;;;;EasternFinnish-Karelian-Veps-Votic;"Zaiceva & Mullonen 2007: 309; Zaiceva 2010: 116";SSA: 228;;;3;;;A derivation from isä 'father' (Veps iža). This derivation seems to form an interesting isogloss within Finnic.;;
+Affines;female speaker's son's wife;fSW;mil'l';;;0;;;;"? Inherited, PU *mińä 'daughter-in-law; young bride'";"Zaiceva & Mullonen 2007: 258; Zaiceva 2010: 253";SSA: 167;;;1;;;This word's relationship to Veps mindʹ, mińdʹ mentioned in SSA is unclear.;;
+Affines;female speaker's son's wife's mother;fSWM;;;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife's father;fSWF;;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband;fDH;vävu;;;0;;;;Inherited, PU *wäŋəw 'son-in-law';"Zaiceva & Mullonen 2007: 165; Zaiceva 2010: 479";SSA: 485;;;1;;;;;
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;;;

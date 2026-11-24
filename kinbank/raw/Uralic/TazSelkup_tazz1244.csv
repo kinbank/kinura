@@ -1,0 +1,305 @@
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments
+Siblings;male speaker's sibling;mG;;;;;;;;;;;;;;;;
+Siblings;male speaker's brother;mB;ti̢mńa;;;0;;;;PS *tepä 'Mann';Helimski 2007;"SW: 106; 163";;;4;;;Possibly originally a compound word, the first part being PS *tepä and second *ńa 'Kamerad, Bruder, Schwester'. The mń cluster probably rose through syncope and assimilation, cf. типыня.
+Siblings;male speaker's brother;mB;ti̢pyńa;типыня;;0;;;;PS *tepä 'Mann';Irikov 1988: 72;"SW: 106; 163";;;4;;;Possibly originally a compound word, the first part being PS *tepä and second *ńa 'Kamerad, Bruder, Schwester'.
+Siblings;male speaker's brother;mB;copa;чопа;;0;;;;Selkup-specific;Irikov 1988: 89;SlkWb: 404;;;1;;;According to SlkWb a Lallwort
+Siblings;male speaker's sister;mZ;ńeńńa;нення;;0;;;;PS *nä 'Frau' and PS *ńa 'Kamerad, Bruder, Schwester';Irikov 1988: 43;"SW: 100; 106; SlkWb: 193";;;4;;;A compound of nelʹ 'weiblich' (< ne 'Frau') and ńa 
+Siblings;male speaker's sister;mZ;ńi̢ŋka;ниӈка;;0;;;;Selkup-specific;Irikov 1988: 44;SlkWb: 241;;;1;;;According to SlkWb a Lallwort
+Siblings;male speaker's elder brother;meB;wәrqy ti̢mńa;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;"Phrasal of wәrqy 'big; old' and ti̢mńa 'brother'"
+Siblings;male speaker's elder brother;meB;wәrqy ńē;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;"Phrasal of wәrqy 'big; old' and ńē 'living being; individual; person; fellow traveller, interlocutor, partner, collegue; comrade; female friend; brother, sister'"
+Siblings;male speaker's younger brother;myB;kypa ti̢mńa;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;Phrasal of kypa 'small, little' and ti̢mńa 'brother' 
+Siblings;male speaker's younger brother;myB;kypa ńē;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;"Phrasal of kypa 'small, little' and ńē 'living being; individual; person; fellow traveller, interlocutor, partner, collegue; comrade; female friend; brother, sister'"
+Siblings;male speaker's elder sister;meZ;wәrqy ńeńńa;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;"Phrasal of wәrqy 'big; old' and ńeńńa 'sister'"
+Siblings;male speaker's elder sister;meZ;mәrqy ńeńńamy;мэрқы неннямы;;0;;;;Selkup-specific;Irikov 1988: 195;;;;5;;;Phrasal of merqy 'big, great' and ńeńńamy (POSS.1SG) of ńeńńa 'sister'
+Siblings;male speaker's elder sister;meZ;ńi̢ŋkamy;ниӈкамы;;0;;;;Selkup-specific;Irikov 1988: 195;;;;3;;;POSS.1SG of ńi̢ŋka 'sister' or perhaps a collective derivation, cf. mZ
+Siblings;male speaker's younger sister;myZ;kypa ńeńńa;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;Phrasal of kypa 'small, little' and ńeńńa 'sister'
+Siblings;male speaker's younger sister;myZ;kypa ńeńńamy;кыпа неннямы;;0;;;;Selkup-specific;Irikov 1988: 195;;;;5;;;Phrasal of kypa 'small, little' and ńeńńamy 'sister' (POSS.1SG or collective)
+Siblings;male speaker's younger sister;myZ;ńi̢ŋkamy;ниӈкамы;;0;;;;Selkup-specific;Irikov 1988: 195;;;;3;;;POSS.1SG of ńi̢ŋka 'sister' or perhaps a collective derivation, cf. mZ
+Parents;male speaker's parent;mP;әsyity;эсыиты;;0;;;;Selkup-specific;Irikov 1988: 97;;;;3;;;Clearly connected to әsy 'father', but I'm unsure of the ending
+Parents;male speaker's parent;mP;әmylʹ әsy;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;A collective copulative compound/phrasal, әmylʹ is an adjectival derivation of әmy 'mother' and әsy 'father'
+Parents;male speaker's parent;mP;әmylʹ myqǟqi̢;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;әsylʹ әmylʹ müqǟqi̢, әmylʹ myt;"An adjectival derivation әmylʹ  'mother' and my-qǟqį, a dual of my 'нечто, вещь; то, что; это самое; как там его'"
+Parents;male speaker's parent;mP;әsylʹ myqǟqi̢;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;әsylʹ әmylʹ müqǟqi̢, әsylʹ myt;"An adjectival derivation әsylʹ  'father' and my-qǟqį, a dual of my 'нечто, вещь; то, что; это самое; как там его'"
+Parents;male speaker's parent;mP;amalʹ myqǟqi̢;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;apalʹ amalʹ müqǟqi̢;A construction similar to әmylʹ myqǟqi̢, but instead with ama 'мама' as the base
+Parents;male speaker's parent;mP;apalʹ myqǟqi̢;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;A construction similar to әsylʹ myqǟqi̢, but instead with apa 'папа' as the base
+Parents;male speaker's father;mF;әsy;эсы;;0;;;;PU *äjćä 'father', PS *äjsä;Irikov 1988: 97;"Aikio 2020: 30–32; SW: 23";;;1;;;
+Parents;male speaker's mother;mM;әmy;эмы;;0;;;;PU *emä / *ämä, PS *ämä 'mother';Irikov 1988: 96;"Aikio 2020: 44–45; SW: 24";;;1;;;
+Children;male speaker's child;mC;ījja;ийяя;;0;;;;Selkup-specific;Irikov 1988: 14;;;;2;;;Connection to īja 'son' is unclear
+Children;male speaker's son;mS;īja;ийя;;0;;;;? PU *ülkä 'son, boy', PS *ij;Irikov 1988: 14;Aikio 2020: 95;;;3;;;A diminutive derivation on SlkTaz Tym Ket ī (PS < *ij). The underived word does not survive outside Selkup. The connection to PU *ülkä is also somewhat phonologically contentious and depends on whether or not PU *-lkä > PS *j is considered regular.
+Children;male speaker's daughter;mD;nälʹa;;;0;;;;PU *nä 'Frau';Helimski 2007;SW: 100;;;3;;;A diminutive derivation of ne 'woman, wife'
+Children;male speaker's daughter;mD;ńeja;нея;;0;;;;PS *nä 'Frau';Irikov 1988: 43;SW: 100;;;3;;;A diminutive derivation of ne 'woman, wife'
+Grandparents;male speaker's ancestor;mA;;;;;;;;;;;;;;;;
+Grandparents;male speaker's grandparent;mPP;;;;;;;;;;;;;;;;
+Grandparents;male speaker's father's father;mFF;ilʹca;илча;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+Grandparents;male speaker's father's mother;mFM;imyja;имыя;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Irikov 1988: 15;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+Grandparents;male speaker's father's mother;mFM;imylʹa;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+Grandparents;male speaker's mother's father;mMF;ilʹca;илча;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+Grandparents;male speaker's mother's mother;mMM;imyja;имыя;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Irikov 1988: 15;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+Grandparents;male speaker's mother's mother;mMM;imylʹa;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+Grandchildren;male speaker's grandchild;mCC;kәtsan;кэтсан;;0;;;;PS *wåtå- 'to bring up, raise', Slk *kuәtәpsan 'Pflegekind';Irikov 1988: 23;"SW: 172; SlkWb: 276";;;3;;;According to SlkWb a nominative instrumental of kuәtә- 'to bring up, raise (a child)', the word probably origally meant 'foster child'.
+Grandchildren;male speaker's son's son;mSS;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's son's daughter;mSD;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's son;mDS;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's daughter;mDD;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's brother;mFB;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's brother;mMB;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's sister;mMZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;ilʹca;илча;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+ParentsSiblings;male speaker's father's younger brother;mFyB;aca;;;2;;;;Selkup-specific;Helimski 2007;SlkWb: 29;;;1;;;SlkWb makes note of Vach-Vasyugan Khanty ăći 'older brother, father's younger brother etc.' that according to DeWoS (225–226) is a loan from Selkup.  The Selkup word in turn is a loan from Tatar according to Steinitz in Acta linguistica Academiae Scientiarum Hungaricae 13: 2019 (which I cannot access at this point).
+ParentsSiblings;male speaker's father's younger brother;mFyB;copa;чопа;;0;;;;Selkup-specific;Irikov 1988: 89;SlkWb: 404;;;1;;;According to SlkWb a Lallwort
+ParentsSiblings;male speaker's father's younger brother;mFyB;ti̢mńa;;;0;;;;PS *tepä 'Mann';Helimski 2007;"SW: 106; 163";;;4;;;Possibly originally a compound word, the first part being PS *tepä and second *ńa 'Kamerad, Bruder, Schwester'. The mń cluster probably rose through syncope and assimilation, cf. типыня.
+ParentsSiblings;male speaker's father's older sister;mFeZ;imylʹa;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+ParentsSiblings;male speaker's father's younger sister;mFyZ;ńeńńa;;;0;;;;PS *ńa 'Kamerad, Bruder, Schwester';Irikov 1988: 43;"SW: 100; 106";;;4;;;A compound of PS *nä 'Frau' and *ńa 'Kamerad, Bruder, Schwester'
+ParentsSiblings;male speaker's mother's older sister;mMeZ;imyja;имыя;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Irikov 1988: 15;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+ParentsSiblings;male speaker's mother's older sister;mMeZ;imylʹa;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;ōńa;;;0;;;;PU *ańə 'sister-in-law', PS *åńö, *ońö;Helimski 2007;Aikio 2020: 18–19;;;2;;;Analyzable on the Proto-Samoyed level, but not contemporarily.
+ParentsSiblings;male speaker's mother's older brother;mMeB;ilʹca;илча;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+ParentsSiblings;male speaker's mother's younger brother;mMyB;ti̢tä;;;0;;;;PU *čečä 'uncle', PS *cicä;Helimski 2007;"UEW: 34–35; SW: 33";;;1;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;ti̢tä-ira;;;0;;;;PU *čečä 'uncle', PS *cicä;Helimski 2007;;;;4;;;A compound of ti̢tä 'MyB' and ira 'man, husband, old man'
+SiblingsChildren;male speaker's brother's son;mBS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's daughter;mBD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's son;mZS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's daughter;mZD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's son;meBS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;kәtsan;кэтсан;;0;;;;PS *wåtå- 'to bring up, raise', Slk *kuәtәpsan 'Pflegekind';Irikov 1988: 23;"SW: 172; SlkWb: 276";;;3;;;According to SlkWb a nominative instrumental of kuәtә- 'to bring up, raise (a child)', the word probably origally meant 'foster child'.
+SiblingsChildren;male speaker's older brother's daughter;meBD;;;;;;;;;;;;;1;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;kәtsan;кэтсан;;0;;;;PS *wåtå- 'to bring up, raise', Slk *kuәtәpsan 'Pflegekind';Irikov 1988: 23;"SW: 172; SlkWb: 276";;;3;;;According to SlkWb a nominative instrumental of kuәtә- 'to bring up, raise (a child)', the word probably origally meant 'foster child'.
+SiblingsChildren;male speaker's older sister's son;meZS;kәca;;;0;;;;Selkup-specific;Helimski 2007;;;;1;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;kәtsan;кэтсан;;0;;;;PS *wåtå- 'to bring up, raise', Slk *kuәtәpsan 'Pflegekind';Irikov 1988: 23;"SW: 172; SlkWb: 276";;;3;;;According to SlkWb a nominative instrumental of kuәtә- 'to bring up, raise (a child)', the word probably origally meant 'foster child'.
+SiblingsChildren;male speaker's older sister's daughter;meZD;kәca;;;0;;;;Selkup-specific;Helimski 2007;;;;1;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;kәtsan;кэтсан;;0;;;;PS *wåtå- 'to bring up, raise', Slk *kuәtәpsan 'Pflegekind';Irikov 1988: 23;"SW: 172; SlkWb: 276";;;3;;;According to SlkWb a nominative instrumental of kuәtә- 'to bring up, raise (a child)', the word probably origally meant 'foster child'.
+Cousins;male speaker's father's sister's daughter;mFZD;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's brother's daughter;mFBD;;;;;;;;;;;;;;;;
+Cousins;male speaker's mother's brother's daughter;mMBD;;;;;;;;;;;;;;;;
+Cousins;male speaker's mother's sister's daughter;mMZD;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's brother's son;mFBS;aca;;;2;;;;Selkup-specific;Helimski 2007;SlkWb: 29;;;1;;;SlkWb makes note of Vach-Vasyugan Khanty ăći 'older brother, father's younger brother etc.' that according to DeWoS (225–226) is a loan from Selkup.  The Selkup word in turn is a loan from Tatar according to Steinitz in Acta linguistica Academiae Scientiarum Hungaricae 13: 2019 (which I cannot access at this point).
+Cousins;male speaker's father's sister's son;mFZS;aca;;;2;;;;Selkup-specific;Helimski 2007;SlkWb: 29;;;1;;;SlkWb makes note of Vach-Vasyugan Khanty ăći 'older brother, father's younger brother etc.' that according to DeWoS (225–226) is a loan from Selkup.  The Selkup word in turn is a loan from Tatar according to Steinitz in Acta linguistica Academiae Scientiarum Hungaricae 13: 2019 (which I cannot access at this point).
+Cousins;male speaker's mother's brother's son;mMBS;aca;;;2;;;;Selkup-specific;Helimski 2007;SlkWb: 29;;;1;;;SlkWb makes note of Vach-Vasyugan Khanty ăći 'older brother, father's younger brother etc.' that according to DeWoS (225–226) is a loan from Selkup.  The Selkup word in turn is a loan from Tatar according to Steinitz in Acta linguistica Academiae Scientiarum Hungaricae 13: 2019 (which I cannot access at this point).
+Cousins;male speaker's mother's sister's son;mMZS;aca;;;2;;;;Selkup-specific;Helimski 2007;SlkWb: 29;;;1;;;SlkWb makes note of Vach-Vasyugan Khanty ăći 'older brother, father's younger brother etc.' that according to DeWoS (225–226) is a loan from Selkup.  The Selkup word in turn is a loan from Tatar according to Steinitz in Acta linguistica Academiae Scientiarum Hungaricae 13: 2019 (which I cannot access at this point).
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;;;;;;;;;;;;;;;;
+Affines;male speaker's husband;mH;ira;;;0;;;;? PU *ürä- 'big, old', PS *iräj;Helimski 2007;Aikio 2020: 97–97;;;2;;;A kinship term only on the Samoyedic side. Tundra Nenets jiŕi 'grandfather' and Nganasan iri mean 'grandfather', Proto-Selkup *ira ~ *era means 'man, husband', but also 'old man'. The meaning does make one wonder whether Proto-Selkup has something to do with Iranian *wīra- that underwent *wi > i in the Iranian steppe languages. It's also perhaps notable that Nganasan iri lacks the otherwise regular prothetic nasal.
+Affines;male speaker's husband;mH;iraty;ираты;;0;;;;? PU *ürä- 'big, old', PS *iräj;Irikov 1988: 15;;;;3;;;A derivative on ira 'man, husband, old man'
+Affines;male speaker's wife;mW;ima;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;
+Affines;male speaker's wife;mW;imaty;иматы;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Irikov 1988: 15;;;;3;;;Likely a derivation on ima, but I haven't been able to identify the suffix
+Affines;male speaker's husband's father;mHF;ilʹca;;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+Affines;male speaker's husband's mother;mHM;әmylʹ ima;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;Phrasal, adjective derivative of əmy 'mother' and ima 'woman, wife'
+Affines;male speaker's wife's father;mWF;әsylʹ ira;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;Phrasal, adjective derivative of əsy 'father' and ira 'man, husband, old man'
+Affines;male speaker's wife's mother;mWM;imylʹalʹ ima;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;5;;;Adjective derivate with lʹ from imylʹa (< ima) and ima 'woman, wife'
+Affines;male speaker's brother's wife;mBW;;;;;;;;;;;;;;;;
+Affines;male speaker's older brother's wife;meBW;ōńa;;;0;;;;PU *ańə 'sister-in-law', PS *åńö, *ońö;Helimski 2007;Aikio 2020: 18–19;;;2;;;"Analyzable on the Proto-Samoyed level, but not contemporarily, 'older brother's wife', wife's or husband's older sister; mother's younger sister'"
+Affines;male speaker's younger brother's wife;myBW;ämnä;;;0;;;;Selkup-specific;Helimski 2007;SlkWb: 13;;;1;;;younger brother's wife'
+Affines;male speaker's sister's husband;mZH;;;;;;;;;;;;;;;;
+Affines;male speaker's older sister's husband;meZH;kәrmä;;;0;;;;Selkup-specific, *kuərmä 'Mann der älteren Schwester';Helimski 2007;SlkWb: 327;;;1;;;older sister's husband'
+Affines;male speaker's younger sister's husband;myZH;qәnyŋ;;;0;;;;Selkup-specific;Helimski 2007;;;;1;;;younger sister's husband'
+Affines;male speaker's wife's brother;mWB;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's older brother;mWeB;kәrmä;;;0;;;;Selkup-specific, *kuərmä 'Mann der älteren Schwester';Helimski 2007;SlkWb: 327;;;1;;;wife's older brother'
+Affines;male speaker's wife's younger brother;mWyB;mω̄qqy;;;0;;;;PS *maŋkə̑  'Schwestersohn';Helimski 2007;SW: 90;;;1;;;wife's younger brother'
+Affines;male speaker's wife's sister;mWZ;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's younger sister;mWyZ;ylynta;;;0;;;;?;Helimski 2007;;;;;;;spouse's younger sister'
+Affines;male speaker's husband's brother;mHB;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's older brother;mHeB;ilʹca;;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+Affines;male speaker's husband's younger brother;mHyB;mω̄qqy;;;0;;;;PS *maŋkə̑  'Schwestersohn';Helimski 2007;SW: 90;;;1;;;husband's younger brother'
+Affines;male speaker's husband's sister;mHZ;imylʹa;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+Affines;male speaker's husband's older sister;mHeZ;ōńa;;;0;;;;PU *ańə 'sister-in-law', PS *åńö, *ońö;Helimski 2007;Aikio 2020: 18–19;;;2;;;"Analyzable on the Proto-Samoyed level, but not contemporarily, 'older brother's wife', wife's or husband's older sister; mother's younger sister'"
+Affines;male speaker's husband's younger sister;mHyZ;ylynta;;;0;;;;;Helimski 2007;;;;;;;spouse's younger sister'
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);әmyku;;;0;;;;Selkup-specific;Helimski 2007;SlkWb: 253;;;4;;;According to SlkWb -ku 'Stief-' is borrowed from Turkic ögäj
+Affines;male speaker's father's wife (not mother);mFW(notM);әmykulʹ ima;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;Adjective derivation with lʹ from əmyku and ima 'woman, wife'
+Affines;male speaker's mother's husband (not father);mMH(notF);әsyku;;;0;;;;Selkup-specific;Helimski 2007;SlkWb: 253;;;4;;;According to SlkWb -ku 'Stief-' is borrowed from Turkic ögäj
+Affines;male speaker's mother's husband (not father);mMH(notF);әsykulʹ ira;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;"Adjective derivation with lʹ əsyku and ira 'man, husband; old man'"
+Affines;male speaker's son's wife;mSW;ämnä;;;0;;;;Selkup-specific;Helimski 2007;SlkWb: 13;;;1;;;
+Affines;male speaker's son's wife's mother;mSWM;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife's father;mSWF;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband;mDH;ämnä;;;0;;;;Selkup-specific;Helimski 2007;SlkWb: 13;;;1;;;
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;kәrmä;;;0;;;;Selkup-specific, *kuərmä 'Mann der älteren Schwester';Helimski 2007;SlkWb: 327;;;1;;;
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's sister's husband;mWZH;šely;;;0;;;;Inherited, PU *käləw;Helimski 2007;;;;1;;;
+Siblings;female speaker's sibling;fG;;;;;;;;;;;;;;;;
+Siblings;female speaker's brother;fB;ti̢mńa;;;0;;;;PS *tepä 'Mann';Helimski 2007;"SW: 106; 163";;;4;;;Possibly originally a compound word, the first part being PS *tepä and second *ńa 'Kamerad, Bruder, Schwester'. The mń cluster probably rose through syncope and assimilation, cf. типыня.
+Siblings;female speaker's brother;fB;ti̢pyńa;типыня;;0;;;;PS *tepä 'Mann';Irikov 1988: 72;"SW: 106; 163";;;4;;;Possibly originally a compound word, the first part being PS *tepä and second *ńa 'Kamerad, Bruder, Schwester'.
+Siblings;female speaker's brother;fB;copa;чопа;;0;;;;Selkup-specific;Irikov 1988: 89;SlkWb: 404;;;1;;;According to SlkWb a Lallwort
+Siblings;female speaker's sister;fZ;ńeńńa;нення;;0;;;;PS *nä 'Frau' and PS *ńa 'Kamerad, Bruder, Schwester';Irikov 1988: 43;"SW: 100; 106; SlkWb: 193";;;4;;;A compound of nelʹ 'weiblich' (< ne 'Frau') and ńa 
+Siblings;female speaker's sister;fZ;ńi̢ŋka;ниӈка;;0;;;;Selkup-specific;Irikov 1988: 44;SlkWb: 241;;;1;;;According to SlkWb a Lallwort
+Siblings;female speaker's elder brother;feB;wәrqy ti̢mńa;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;"Phrasal of wәrqy 'big; old' and ti̢mńa 'brother'"
+Siblings;female speaker's elder brother;feB;wәrqy ńē;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;"Phrasal of wәrqy 'big; old' and ńē 'living being; individual; person; fellow traveller, interlocutor, partner, collegue; comrade; female friend; brother, sister'"
+Siblings;female speaker's younger brother;fyB;kypa ti̢mńa;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;Phrasal of kypa 'small, little' and ti̢mńa 'brother' 
+Siblings;female speaker's younger brother;fyB;kypa ńē;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;"Phrasal of kypa 'small, little' and ńē 'living being; individual; person; fellow traveller, interlocutor, partner, collegue; comrade; female friend; brother, sister'"
+Siblings;female speaker's elder sister;feZ;wәrqy ńeńńa;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;"Phrasal of wәrqy 'big; old' and ńeńńa 'sister'"
+Siblings;female speaker's elder sister;feZ;mәrqy ńeńńamy;мэрқы неннямы;;0;;;;Selkup-specific;Irikov 1988: 195;;;;5;;;Phrasal of merqy 'big, great' and ńeńńamy (POSS.1SG) of ńeńńa 'sister'
+Siblings;female speaker's elder sister;feZ;ńi̢ŋkamy;ниӈкамы;;0;;;;Selkup-specific;Irikov 1988: 195;;;;3;;;POSS.1SG of ńi̢ŋka 'sister' or perhaps a collective derivation, cf. mZ
+Siblings;female speaker's younger sister;fyZ;kypa ńeńńa;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;Phrasal of kypa 'small, little' and ńeńńa 'sister'
+Siblings;female speaker's younger sister;fyZ;kypa ńeńńamy;кыпа неннямы;;0;;;;Selkup-specific;Irikov 1988: 195;;;;5;;;Phrasal of kypa 'small, little' and ńeńńamy 'sister' (POSS.1SG or collective)
+Siblings;female speaker's younger sister;fyZ;ńi̢ŋkamy;ниӈкамы;;0;;;;Selkup-specific;Irikov 1988: 195;;;;3;;;POSS.1SG of ńi̢ŋka 'sister' or perhaps a collective derivation, cf. mZ
+Parents;female speaker's parent;fP;әsyity;эсыиты;;0;;;;Selkup-specific;Irikov 1988: 97;;;;3;;;Clearly connected to әsy 'father', but I'm unsure of the ending
+Parents;female speaker's parent;fP;әmylʹ әsy;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;A collective copulative compound/phrasal, әmylʹ is an adjectival derivation of әmy 'mother' and әsy 'father'
+Parents;female speaker's parent;fP;әmylʹ myqǟqi̢;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;әsylʹ әmylʹ müqǟqi̢, әmylʹ myt;"An adjectival derivation әmylʹ  'mother' and my-qǟqį, a dual of my 'нечто, вещь; то, что; это самое; как там его'"
+Parents;female speaker's parent;fP;әsylʹ myqǟqi̢;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;әsylʹ әmylʹ müqǟqi̢, әsylʹ myt;"An adjectival derivation әsylʹ  'father' and my-qǟqį, a dual of my 'нечто, вещь; то, что; это самое; как там его'"
+Parents;female speaker's parent;fP;amalʹ myqǟqi̢;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;apalʹ amalʹ müqǟqi̢;A construction similar to әmylʹ myqǟqi̢, but instead with ama 'мама' as the base
+Parents;female speaker's parent;fP;apalʹ myqǟqi̢;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;A construction similar to әsylʹ myqǟqi̢, but instead with apa 'папа' as the base
+Parents;female speaker's father;fF;әsy;эсы;;0;;;;PU *äjćä 'father', PS *äjsä;Irikov 1988: 97;"Aikio 2020: 30–32; SW: 23";;;1;;;
+Parents;female speaker's mother;fM;әmy;эмы;;0;;;;PU *emä / *ämä, PS *ämä 'mother';Irikov 1988: 96;"Aikio 2020: 44–45; SW: 24";;;1;;;
+Children;female speaker's child;fC;ījja;ийяя;;0;;;;Selkup-specific;Irikov 1988: 14;;;;2;;;Connection to īja 'son' is unclear
+Children;female speaker's son;fS;īja;ийя;;0;;;;? PU *ülkä 'son, boy', PS *ij;Irikov 1988: 14;Aikio 2020: 95;;;3;;;A diminutive derivation on SlkTaz Tym Ket ī (PS < *ij). The underived word does not survive outside Selkup. The connection to PU *ülkä is also somewhat phonologically contentious and depends on whether or not PU *-lkä > PS *j is considered regular.
+Children;female speaker's daughter;fD;nälʹa;;;0;;;;PU *nä 'Frau';Helimski 2007;SW: 100;;;3;;;A diminutive derivation of ne 'woman, wife'
+Children;female speaker's daughter;fD;ńeja;нея;;0;;;;PS *nä 'Frau';Irikov 1988: 43;SW: 100;;;3;;;A diminutive derivation of ne 'woman, wife'
+Grandparents;female speaker's ancestor;fA;;;;;;;;;;;;;;;;
+Grandparents;female speaker's grandparent;fPP;;;;;;;;;;;;;;;;
+Grandparents;female speaker's father's father;fFF;ilʹca;илча;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+Grandparents;female speaker's father's mother;fFM;imyja;имыя;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Irikov 1988: 15;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+Grandparents;female speaker's father's mother;fFM;imylʹa;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+Grandparents;female speaker's mother's father;fMF;ilʹca;илча;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+Grandparents;female speaker's mother's mother;fMM;imyja;имыя;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Irikov 1988: 15;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+Grandparents;female speaker's mother's mother;fMM;imylʹa;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+Grandchildren;female speaker's grandchild;fCC;kәtsan;кэтсан;;0;;;;PS *wåtå- 'to bring up, raise', Slk *kuәtәpsan 'Pflegekind';Irikov 1988: 23;"SW: 172; SlkWb: 276";;;3;;;According to SlkWb a nominative instrumental of kuәtә- 'to bring up, raise (a child)', the word probably origally meant 'foster child'.
+Grandchildren;female speaker's son's son;fSS;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's son's daughter;fSD;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's son;fDS;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's daughter;fDD;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's brother;fFB;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's brother;fMB;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's sister;fMZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;ilʹca;илча;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+ParentsSiblings;female speaker's father's younger brother;fFyB;aca;;;2;;;;Selkup-specific;Helimski 2007;SlkWb: 29;;;1;;;SlkWb makes note of Vach-Vasyugan Khanty ăći 'older brother, father's younger brother etc.' that according to DeWoS (225–226) is a loan from Selkup.  The Selkup word in turn is a loan from Tatar according to Steinitz in Acta linguistica Academiae Scientiarum Hungaricae 13: 2019 (which I cannot access at this point).
+ParentsSiblings;female speaker's father's younger brother;fFyB;copa;чопа;;0;;;;Selkup-specific;Irikov 1988: 89;SlkWb: 404;;;1;;;According to SlkWb a Lallwort
+ParentsSiblings;female speaker's father's younger brother;fFyB;ti̢mńa;;;0;;;;PS *tepä 'Mann';Helimski 2007;"SW: 106; 163";;;4;;;Possibly originally a compound word, the first part being PS *tepä and second *ńa 'Kamerad, Bruder, Schwester'. The mń cluster probably rose through syncope and assimilation, cf. типыня.
+ParentsSiblings;female speaker's father's older sister;fFeZ;imylʹa;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+ParentsSiblings;female speaker's father's younger sister;fFyZ;ńeńńa;;;0;;;;PS *ńa 'Kamerad, Bruder, Schwester';Irikov 1988: 43;"SW: 100; 106";;;4;;;A compound of PS *nä 'Frau' and *ńa 'Kamerad, Bruder, Schwester'
+ParentsSiblings;female speaker's mother's older sister;fMeZ;imyja;имыя;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Irikov 1988: 15;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+ParentsSiblings;female speaker's mother's older sister;fMeZ;imylʹa;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;ōńa;;;0;;;;PU *ańə 'sister-in-law', PS *åńö, *ońö;Helimski 2007;Aikio 2020: 18–19;;;2;;;Analyzable on the Proto-Samoyed level, but not contemporarily.
+ParentsSiblings;female speaker's mother's older brother;fMeB;ilʹca;илча;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+ParentsSiblings;female speaker's mother's younger brother;fMyB;ti̢tä;;;0;;;;PU *čečä 'uncle', PS *cicä;Helimski 2007;"UEW: 34–35; SW: 33";;;1;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;ti̢tä-ira;;;0;;;;PU *čečä 'uncle', PS *cicä;Helimski 2007;;;;4;;;A compound of ti̢tä 'MyB' and ira 'man, husband, old man'
+SiblingsChildren;female speaker's brother's son;fBS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's daughter;fBD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's son;fZS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's daughter;fZD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;kәtsan;кэтсан;;0;;;;PS *wåtå- 'to bring up, raise', Slk *kuәtәpsan 'Pflegekind';Irikov 1988: 23;"SW: 172; SlkWb: 276";;;3;;;According to SlkWb a nominative instrumental of kuәtә- 'to bring up, raise (a child)', the word probably origally meant 'foster child'.
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;1;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;kәtsan;кэтсан;;0;;;;PS *wåtå- 'to bring up, raise', Slk *kuәtәpsan 'Pflegekind';Irikov 1988: 23;"SW: 172; SlkWb: 276";;;3;;;According to SlkWb a nominative instrumental of kuәtә- 'to bring up, raise (a child)', the word probably origally meant 'foster child'.
+SiblingsChildren;female speaker's older sister's son;feZS;kәca;;;0;;;;Selkup-specific;Helimski 2007;;;;1;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;kәtsan;кэтсан;;0;;;;PS *wåtå- 'to bring up, raise', Slk *kuәtәpsan 'Pflegekind';Irikov 1988: 23;"SW: 172; SlkWb: 276";;;3;;;According to SlkWb a nominative instrumental of kuәtә- 'to bring up, raise (a child)', the word probably origally meant 'foster child'.
+SiblingsChildren;female speaker's older sister's daughter;feZD;kәca;;;0;;;;Selkup-specific;Helimski 2007;;;;1;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;kәtsan;кэтсан;;0;;;;PS *wåtå- 'to bring up, raise', Slk *kuәtәpsan 'Pflegekind';Irikov 1988: 23;"SW: 172; SlkWb: 276";;;3;;;According to SlkWb a nominative instrumental of kuәtә- 'to bring up, raise (a child)', the word probably origally meant 'foster child'.
+Cousins;female speaker's father's sister's daughter;fFZD;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's brother's daughter;fFBD;;;;;;;;;;;;;;;;
+Cousins;female speaker's mother's brother's daughter;fMBD;;;;;;;;;;;;;;;;
+Cousins;female speaker's mother's sister's daughter;fMZD;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's brother's son;fFBS;aca;;;2;;;;Selkup-specific;Helimski 2007;SlkWb: 29;;;1;;;SlkWb makes note of Vach-Vasyugan Khanty ăći 'older brother, father's younger brother etc.' that according to DeWoS (225–226) is a loan from Selkup.  The Selkup word in turn is a loan from Tatar according to Steinitz in Acta linguistica Academiae Scientiarum Hungaricae 13: 2019 (which I cannot access at this point).
+Cousins;female speaker's father's sister's son;fFZS;aca;;;2;;;;Selkup-specific;Helimski 2007;SlkWb: 29;;;1;;;SlkWb makes note of Vach-Vasyugan Khanty ăći 'older brother, father's younger brother etc.' that according to DeWoS (225–226) is a loan from Selkup.  The Selkup word in turn is a loan from Tatar according to Steinitz in Acta linguistica Academiae Scientiarum Hungaricae 13: 2019 (which I cannot access at this point).
+Cousins;female speaker's mother's brother's son;fMBS;aca;;;2;;;;Selkup-specific;Helimski 2007;SlkWb: 29;;;1;;;SlkWb makes note of Vach-Vasyugan Khanty ăći 'older brother, father's younger brother etc.' that according to DeWoS (225–226) is a loan from Selkup.  The Selkup word in turn is a loan from Tatar according to Steinitz in Acta linguistica Academiae Scientiarum Hungaricae 13: 2019 (which I cannot access at this point).
+Cousins;female speaker's mother's sister's son;fMZS;aca;;;2;;;;Selkup-specific;Helimski 2007;SlkWb: 29;;;1;;;SlkWb makes note of Vach-Vasyugan Khanty ăći 'older brother, father's younger brother etc.' that according to DeWoS (225–226) is a loan from Selkup.  The Selkup word in turn is a loan from Tatar according to Steinitz in Acta linguistica Academiae Scientiarum Hungaricae 13: 2019 (which I cannot access at this point).
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;;;;;;;;;;;;;;;;
+Affines;female speaker's husband;fH;ira;;;0;;;;? PU *ürä- 'big, old', PS *iräj;Helimski 2007;Aikio 2020: 97–97;;;2;;;A kinship term only on the Samoyedic side. Tundra Nenets jiŕi 'grandfather' and Nganasan iri mean 'grandfather', Proto-Selkup *ira ~ *era means 'man, husband', but also 'old man'. The meaning does make one wonder whether Proto-Selkup has something to do with Iranian *wīra- that underwent *wi > i in the Iranian steppe languages. It's also perhaps notable that Nganasan iri lacks the otherwise regular prothetic nasal.
+Affines;female speaker's husband;fH;iraty;ираты;;0;;;;? PU *ürä- 'big, old', PS *iräj;Irikov 1988: 15;;;;3;;;A derivative on ira 'man, husband, old man'
+Affines;female speaker's wife;fW;ima;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;
+Affines;female speaker's wife;fW;imaty;иматы;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Irikov 1988: 15;;;;3;;;Likely a derivation on ima, but I haven't been able to identify the suffix
+Affines;female speaker's husband's father;fHF;ilʹca;;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+Affines;female speaker's husband's mother;fHM;әmylʹ ima;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;Phrasal, adjective derivative of əmy 'mother' and ima 'woman, wife'
+Affines;female speaker's wife's father;fWF;әsylʹ ira;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;Phrasal, adjective derivative of əsy 'father' and ira 'man, husband, old man'
+Affines;female speaker's wife's mother;fWM;imylʹalʹ ima;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;5;;;Adjective derivate with lʹ from imylʹa (< ima) and ima 'woman, wife'
+Affines;female speaker's brother's wife;fBW;;;;;;;;;;;;;;;;
+Affines;female speaker's older brother's wife;feBW;ōńa;;;0;;;;PU *ańə 'sister-in-law', PS *åńö, *ońö;Helimski 2007;Aikio 2020: 18–19;;;2;;;"Analyzable on the Proto-Samoyed level, but not contemporarily, 'older brother's wife', wife's or husband's older sister; mother's younger sister'"
+Affines;female speaker's younger brother's wife;fyBW;ämnä;;;0;;;;Selkup-specific;Helimski 2007;SlkWb: 13;;;1;;;younger brother's wife'
+Affines;female speaker's sister's husband;fZH;;;;;;;;;;;;;;;;
+Affines;female speaker's older sister's husband;feZH;kәrmä;;;0;;;;Selkup-specific, *kuərmä 'Mann der älteren Schwester';Helimski 2007;SlkWb: 327;;;1;;;older sister's husband'
+Affines;female speaker's younger sister's husband;fyZH;qәnyŋ;;;0;;;;Selkup-specific;Helimski 2007;;;;1;;;younger sister's husband'
+Affines;female speaker's wife's brother;fWB;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's older brother;fWeB;kәrmä;;;0;;;;Selkup-specific, *kuərmä 'Mann der älteren Schwester';Helimski 2007;SlkWb: 327;;;1;;;wife's older brother'
+Affines;female speaker's wife's younger brother;fWyB;mω̄qqy;;;0;;;;PS *maŋkə̑  'Schwestersohn';Helimski 2007;SW: 90;;;1;;;wife's younger brother'
+Affines;female speaker's wife's sister;fWZ;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's younger sister;fWyZ;ylynta;;;0;;;;?;Helimski 2007;;;;;;;spouse's younger sister'
+Affines;female speaker's husband's brother;fHB;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's older brother;fHeB;ilʹca;;;0;;;;Selkup-specific;Irikov 1988: 14;;;;1;;;No known etymology, Slk *ilʹtʹa
+Affines;female speaker's husband's younger brother;fHyB;mω̄qqy;;;0;;;;PS *maŋkə̑  'Schwestersohn';Helimski 2007;SW: 90;;;1;;;husband's younger brother'
+Affines;female speaker's husband's sister;fHZ;imylʹa;;;0;;;;? PU *ijmä 'older female relative', PS *imäj;Helimski 2007;"Aikio 2020: 58–59; SW: 27";;;3;;;A diminutive derivation on ima 'woman, wife'
+Affines;female speaker's husband's older sister;fHeZ;ōńa;;;0;;;;PU *ańə 'sister-in-law', PS *åńö, *ońö;Helimski 2007;Aikio 2020: 18–19;;;2;;;"Analyzable on the Proto-Samoyed level, but not contemporarily, 'older brother's wife', wife's or husband's older sister; mother's younger sister'"
+Affines;female speaker's husband's younger sister;fHyZ;ylynta;;;0;;;;;Helimski 2007;;;;;;;spouse's younger sister'
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);әmyku;;;0;;;;Selkup-specific;Helimski 2007;SlkWb: 253;;;4;;;According to SlkWb -ku 'Stief-' is borrowed from Turkic ögäj
+Affines;female speaker's father's wife (not mother);fFW(notM);әmykulʹ ima;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;Adjective derivation with lʹ from əmyku and ima 'woman, wife'
+Affines;female speaker's mother's husband (not father);fMH(notF);әsyku;;;0;;;;Selkup-specific;Helimski 2007;SlkWb: 253;;;4;;;According to SlkWb -ku 'Stief-' is borrowed from Turkic ögäj
+Affines;female speaker's mother's husband (not father);fMH(notF);әsykulʹ ira;;;0;;;;Selkup-specific;Helimski 2007;;;;5;;;"Adjective derivation with lʹ əsyku and ira 'man, husband; old man'"
+Affines;female speaker's son's wife;fSW;ämnä;;;0;;;;Selkup-specific;Helimski 2007;SlkWb: 13;;;1;;;
+Affines;female speaker's son's wife's mother;fSWM;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife's father;fSWF;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband;fDH;ämnä;;;0;;;;Selkup-specific;Helimski 2007;SlkWb: 13;;;1;;;
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;kәrmä;;;0;;;;Selkup-specific, *kuərmä 'Mann der älteren Schwester';Helimski 2007;SlkWb: 327;;;1;;;
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's sister's husband;fWZH;šely;;;0;;;;Inherited, PU *käləw;Helimski 2007;;;;1;;;

@@ -1,299 +1,301 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","",,,,,"",""
-"mB","",,,,,"",""
-"mZ","jaγāγi",,,,,"WogWb",""
-"meB","jaγ-pi̮γ",,,,,"WogWb",""
-"meB","kaŋk",,,,,"WogWb",""
-"myB","āpš́i",,,,,"WogWb",""
-"myB","kaš́",,,,,"WogWb",""
-"meZ","uwš́i",,,,,"WogWb","also 'ältere Cousine'"
-"myZ","āpš́iāγikwe",,,,,"WogWb",""
-"myZ","jaγikwe, jiγikwe",,,,,"WogWb",""
-"myZ","jiγiriš́",,,,,"WogWb",""
-"myZ","ɛ̄š́",,,,,"WogWb",""
-"mP","š́āń-āš́",,,,,"WogWb",""
-"mF","āš́",,,,,"WogWb",""
-"mF","jaγ",,,,,"WogWb",""
-"mM","āŋkw",,,,,"WogWb",""
-"mM","š́āń",,,,,"WogWb",""
-"mM","oma",,,,,"WogWb",""
-"mC","āγi-pi̮γ",,,,,"WogWb",""
-"mC","ńāwram",,,,,"WogWb",""
-"mS","pi̮γ",,,,,"WogWb",""
-"mD","āγi",,,,,"WogWb",""
-"mA","",,,,,"",""
-"mPP","",,,,,"",""
-"mFF","ɔ̄pariš́",,,,,"WogWb",""
-"mFM","š́āš́ɛ̄kwa",,,,,"WogWb",""
-"mMF","āš́ɔ̄jka",,,,,"WogWb",""
-"mMM","āńɛ̄kwa",,,,,"WogWb",""
-"mCC","",,,,,"",""
-"mSS","pi̮γpi̮γ",,,,,"WogWb",""
-"mSD","pi̮γāγi",,,,,"WogWb",""
-"mDS","",,,,,"",""
-"mDD","āγiāγi",,,,,"WogWb",""
-"mFB","",,,,,"",""
-"mFZ","ɔ̄pāγi",,,,,"WogWb",""
-"mMB","sasi̮γ",,,,,"WogWb",""
-"mMZ","nij",,,,,"WogWb",""
-"mFeB","aki",,,,,"WogWb",""
-"mFyB","kaŋk",,,,,"WogWb",""
-"mFeZ","",,,,,"",""
-"mFyZ","",,,,,"",""
-"mMeZ","",,,,,"",""
-"mMyZ","",,,,,"",""
-"mMeB","aki",,,,,"WogWb",""
-"mMyB","",,,,,"",""
-"mBS","āpš́i",,,,,"WogWb",""
-"mBD","ɛ̄š́",,,,,"WogWb",""
-"mZS","",,,,,"",""
-"mZD","ɛ̄š́",,,,,"WogWb",""
-"meBS","",,,,,"",""
-"myBS","api̮γ",,,,,"WogWb",""
-"meBD","",,,,,"",""
-"myBD","",,,,,"",""
-"meZS","",,,,,"",""
-"myZS","",,,,,"",""
-"meZD","",,,,,"",""
-"myZD","",,,,,"",""
-"mFZD","uwš́i",,,,,"WogWb","older than ego, also 'ältere Schwester'"
-"mFZD","ɛ̄š́",,,,,"WogWb","younger than ego"
-"mFBD","uwš́i",,,,,"WogWb","older than ego, also 'ältere Schwester'"
-"mFBD","ɛ̄š́",,,,,"WogWb","younger than ego"
-"mMBD","uwš́i",,,,,"WogWb","older than ego, also 'ältere Schwester'"
-"mMBD","ɛ̄š́",,,,,"WogWb","younger than ego"
-"mMZD","uwš́i",,,,,"WogWb","older than ego, also 'ältere Schwester'"
-"mMZD","ɛ̄š́",,,,,"WogWb","younger than ego"
-"mMZD","āŋkw-āγi",,,,,"WogWb",""
-"mFBS","āpš́i",,,,,"WogWb","younger than ego"
-"mFZS","āpš́i",,,,,"WogWb","younger than ego"
-"mMBS","āpš́i",,,,,"WogWb","younger than ego"
-"mMZS","āpš́i",,,,,"WogWb","younger than ego"
-"mMZS","āŋkw-pi̮γ",,,,,"WogWb",""
-"mFeBS","",,,,,"",""
-"mFyBS","",,,,,"",""
-"mFeZS","",,,,,"",""
-"mFyZS","",,,,,"",""
-"mFeBD","",,,,,"",""
-"mFyBD","",,,,,"",""
-"mFeZD","",,,,,"",""
-"mFyZD","",,,,,"",""
-"mMeBS","",,,,,"",""
-"mMyBS","",,,,,"",""
-"mMeZS","",,,,,"",""
-"mMyZS","",,,,,"",""
-"mMeBD","",,,,,"",""
-"mMyBD","",,,,,"",""
-"mMeZD","",,,,,"",""
-"mMyZD","",,,,,"",""
-"mFBeS","",,,,,"",""
-"mFByS","",,,,,"",""
-"mFZeS","",,,,,"",""
-"mFZyS","",,,,,"",""
-"mFBeD","",,,,,"",""
-"mFByD","",,,,,"",""
-"mFZeD","",,,,,"",""
-"mFZyD","",,,,,"",""
-"mMBeS","",,,,,"",""
-"mMByS","",,,,,"",""
-"mMZeS","",,,,,"",""
-"mMZyS","",,,,,"",""
-"mMBeD","",,,,,"",""
-"mMByD","",,,,,"",""
-"mMZeD","",,,,,"",""
-"mMZyD","",,,,,"",""
-"mE","",,,,,"",""
-"mH","ɔ̄jka",,,,,"WogWb",""
-"mH","χum",,,,,"WogWb",""
-"mW","ɛ̄kwa",,,,,"WogWb",""
-"mW","nɛ̄",,,,,"WogWb",""
-"mHF","aki",,,,,"WogWb",""
-"mHM","ɔ̄nip",,,,,"WogWb","mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
-"mWF","up",,,,,"WogWb",""
-"mWF","aki",,,,,"WogWb",""
-"mWM","ɔ̄nip",,,,,"WogWb","mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
-"mBW","",,,,,"",""
-"meBW","ɔ̄ńi̮γ",,,,,"WogWb","also 'stepmother'"
-"myBW","mań",,,,,"WogWb","daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
-"mZH","kil",,,,,"WogWb","wife's (older or younger) sister; sister's husband; wife's sister's husband'"
-"mZH","wāps",,,,,"WogWb","son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
-"mWB","up",,,,,"WogWb",""
-"mWyB","upńāwram",,,,,"WogWb",""
-"mWZ","kil",,,,,"WogWb",""
-"mHB","",,,,,"",""
-"mHeB","aki",,,,,"WogWb",""
-"mHyB","pānt",,,,,"WogWb","husband's younger brother, sister's son'"
-"mHZ","ɛ̄ŋk",,,,,"WogWb",""
-"mco-W","",,,,,"",""
-"mco-H","",,,,,"",""
-"mFW(notM)","ɔ̄ńi̮γ",,,,,"WogWb",""
-"mMH(notF)","jaγlaŋ",,,,,"WogWb",""
-"mSW","mań",,,,,"WogWb","daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
-"mSW","mańnɛ",,,,,"WogWb",""
-"mSWM","",,,,,"",""
-"mSWF","",,,,,"",""
-"mDH","wāps",,,,,"WogWb","son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
-"mDH","wāpsχum",,,,,"WogWb",""
-"mDHM","",,,,,"",""
-"mDHF","",,,,,"",""
-"mFZH","wāps",,,,,"WogWb","son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
-"mFeBW","ākw",,,,,"WogWb","older brother's wife'"
-"mMZH","jaγlaŋ",,,,,"WogWb",""
-"mMBW","",,,,,"",""
-"mMeBW","ākw",,,,,"WogWb","older brother's wife'"
-"mMyBW","ūp",,,,,"WogWb","mother's younger brother's wife'"
-"mWZH","kil",,,,,"WogWb","wife's (older or younger) sister; sister's husband; wife's sister's husband'"
-"mWBW","ɔ̄nip",,,,,"WogWb","mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
-"mWyBW","mań",,,,,"WogWb","daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
-"mHZH","ɛ̄ŋkwāps",,,,,"WogWb",""
-"mHyZH","wāps",,,,,"WogWb","son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
-"mHeBW","ɔ̄nip",,,,,"WogWb","mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
-"fG","",,,,,"",""
-"fB","",,,,,"",""
-"fZ","jaγāγi",,,,,"WogWb",""
-"feB","jaγ-pi̮γ",,,,,"WogWb",""
-"feB","kaŋk",,,,,"WogWb",""
-"fyB","āpš́i",,,,,"WogWb",""
-"fyB","kaš́",,,,,"WogWb",""
-"feZ","uwš́i",,,,,"WogWb","also 'ältere Cousine'"
-"fyZ","āpš́iāγikwe",,,,,"WogWb",""
-"fyZ","jaγikwe, jiγikwe",,,,,"WogWb",""
-"fyZ","jiγiriš́",,,,,"WogWb",""
-"fyZ","ɛ̄š́",,,,,"WogWb",""
-"fP","š́āń-āš́",,,,,"WogWb",""
-"fF","āš́",,,,,"WogWb",""
-"fF","jaγ",,,,,"WogWb",""
-"fM","āŋkw",,,,,"WogWb",""
-"fM","š́āń",,,,,"WogWb",""
-"fM","oma",,,,,"WogWb",""
-"fC","āγi-pi̮γ",,,,,"WogWb",""
-"fC","ńāwram",,,,,"WogWb",""
-"fS","pi̮γ",,,,,"WogWb",""
-"fD","āγi",,,,,"WogWb",""
-"fA","",,,,,"",""
-"fPP","",,,,,"",""
-"fFF","ɔ̄pariš́",,,,,"WogWb",""
-"fFM","š́āš́ɛ̄kwa",,,,,"WogWb",""
-"fMF","āš́ɔ̄jka",,,,,"WogWb",""
-"fMM","āńɛ̄kwa",,,,,"WogWb",""
-"fCC","",,,,,"",""
-"fSS","pi̮γpi̮γ",,,,,"WogWb",""
-"fSD","pi̮γāγi",,,,,"WogWb",""
-"fDS","",,,,,"",""
-"fDD","āγiāγi",,,,,"WogWb",""
-"fFB","",,,,,"",""
-"fFZ","ɔ̄pāγi",,,,,"WogWb",""
-"fMB","sasi̮γ",,,,,"WogWb",""
-"fMZ","nij",,,,,"WogWb",""
-"fFeB","aki",,,,,"WogWb",""
-"fFyB","kaŋk",,,,,"WogWb",""
-"fFeZ","",,,,,"",""
-"fFyZ","",,,,,"",""
-"fMeZ","",,,,,"",""
-"fMyZ","",,,,,"",""
-"fMeB","aki",,,,,"WogWb",""
-"fMyB","",,,,,"",""
-"fBS","āpš́i",,,,,"WogWb",""
-"fBD","ɛ̄š́",,,,,"WogWb",""
-"fZS","pānt",,,,,"WogWb","a term used by mother's sister of their nephew according to WogWb"
-"fZD","ɛ̄š́",,,,,"WogWb",""
-"feBS","",,,,,"",""
-"fyBS","api̮γ",,,,,"WogWb",""
-"feBD","",,,,,"",""
-"fyBD","",,,,,"",""
-"feZS","",,,,,"",""
-"fyZS","",,,,,"",""
-"feZD","",,,,,"",""
-"fyZD","",,,,,"",""
-"fFZD","uwš́i",,,,,"WogWb","older than ego, also 'ältere Schwester'"
-"fFZD","ɛ̄š́",,,,,"WogWb","younger than ego"
-"fFBD","uwš́i",,,,,"WogWb","older than ego, also 'ältere Schwester'"
-"fFBD","ɛ̄š́",,,,,"WogWb","younger than ego"
-"fMBD","uwš́i",,,,,"WogWb","older than ego, also 'ältere Schwester'"
-"fMBD","ɛ̄š́",,,,,"WogWb","younger than ego"
-"fMZD","uwš́i",,,,,"WogWb","older than ego, also 'ältere Schwester'"
-"fMZD","ɛ̄š́",,,,,"WogWb","younger than ego"
-"fMZD","āŋkw-āγi",,,,,"WogWb",""
-"fFBS","āpš́i",,,,,"WogWb","younger than ego"
-"fFZS","āpš́i",,,,,"WogWb","younger than ego"
-"fMBS","āpš́i",,,,,"WogWb","younger than ego"
-"fMZS","āpš́i",,,,,"WogWb","younger than ego"
-"fMZS","āŋkw-pi̮γ",,,,,"WogWb",""
-"fFeBS","",,,,,"",""
-"fFyBS","",,,,,"",""
-"fFeZS","",,,,,"",""
-"fFyZS","",,,,,"",""
-"fFeBD","",,,,,"",""
-"fFyBD","",,,,,"",""
-"fFeZD","",,,,,"",""
-"fFyZD","",,,,,"",""
-"fMeBS","",,,,,"",""
-"fMyBS","",,,,,"",""
-"fMeZS","",,,,,"",""
-"fMyZS","",,,,,"",""
-"fMeBD","",,,,,"",""
-"fMyBD","",,,,,"",""
-"fMeZD","",,,,,"",""
-"fMyZD","",,,,,"",""
-"fFBeS","",,,,,"",""
-"fFByS","",,,,,"",""
-"fFZeS","",,,,,"",""
-"fFZyS","",,,,,"",""
-"fFBeD","",,,,,"",""
-"fFByD","",,,,,"",""
-"fFZeD","",,,,,"",""
-"fFZyD","",,,,,"",""
-"fMBeS","",,,,,"",""
-"fMByS","",,,,,"",""
-"fMZeS","",,,,,"",""
-"fMZyS","",,,,,"",""
-"fMBeD","",,,,,"",""
-"fMByD","",,,,,"",""
-"fMZeD","",,,,,"",""
-"fMZyD","",,,,,"",""
-"fE","",,,,,"",""
-"fH","ɔ̄jka",,,,,"WogWb",""
-"fH","χum",,,,,"WogWb",""
-"fW","ɛ̄kwa",,,,,"WogWb",""
-"fW","nɛ̄",,,,,"WogWb",""
-"fHF","aki",,,,,"WogWb",""
-"fHM","ɔ̄nip",,,,,"WogWb","mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
-"fWF","up",,,,,"WogWb",""
-"fWF","aki",,,,,"WogWb",""
-"fWM","ɔ̄nip",,,,,"WogWb","mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
-"fBW","",,,,,"",""
-"feBW","ɔ̄ńi̮γ",,,,,"WogWb","also 'stepmother'"
-"fyBW","mań",,,,,"WogWb","daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
-"fZH","kil",,,,,"WogWb","wife's (older or younger) sister; sister's husband; wife's sister's husband'"
-"fZH","wāps",,,,,"WogWb","son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
-"fWB","up",,,,,"WogWb",""
-"fWyB","upńāwram",,,,,"WogWb",""
-"fWZ","kil",,,,,"WogWb",""
-"fHB","",,,,,"",""
-"fHeB","aki",,,,,"WogWb",""
-"fHyB","pānt",,,,,"WogWb","husband's younger brother, sister's son'"
-"fHZ","ɛ̄ŋk",,,,,"WogWb",""
-"fco-W","",,,,,"",""
-"fco-H","",,,,,"",""
-"fFW(notM)","ɔ̄ńi̮γ",,,,,"WogWb",""
-"fMH(notF)","jaγlaŋ",,,,,"WogWb",""
-"fSW","mań",,,,,"WogWb","daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
-"fSW","mańnɛ",,,,,"WogWb",""
-"fSWM","",,,,,"",""
-"fSWF","",,,,,"",""
-"fDH","wāps",,,,,"WogWb","son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
-"fDH","wāpsχum",,,,,"WogWb",""
-"fDHM","",,,,,"",""
-"fDHF","",,,,,"",""
-"fFZH","wāps",,,,,"WogWb","son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
-"fFeBW","ākw",,,,,"WogWb","older brother's wife'"
-"fMZH","jaγlaŋ",,,,,"WogWb",""
-"fMBW","",,,,,"",""
-"fMeBW","ākw",,,,,"WogWb","older brother's wife'"
-"fMyBW","ūp",,,,,"WogWb","mother's younger brother's wife'"
-"fWZH","kil",,,,,"WogWb","wife's (older or younger) sister; sister's husband; wife's sister's husband'"
-"fWBW","ɔ̄nip",,,,,"WogWb","mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
-"fWyBW","mań",,,,,"WogWb","daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
-"fHZH","ɛ̄ŋkwāps",,,,,"WogWb",""
-"fHyZH","wāps",,,,,"WogWb","son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
-"fHeBW","ɔ̄nip",,,,,"WogWb","mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'f"
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments
+Siblings;male speaker's sibling;mG;;;;;;;;;;;;;;;;
+Siblings;male speaker's brother;mB;;;;;;;;;;;;;;;;
+Siblings;male speaker's sister;mZ;jaγāγi;яга̄ги;;0;;;;Ob-Ugric;WogWb: 188;;;;4;;;compound of jaγ 'father' and āγi 'girl, daughter', etymologically similar compound exists in some Khanty dialects jĭw-ewi 'sister' (DeWoS: 325)
+Siblings;male speaker's elder brother;meB;jaγ-pi̮γ;;;0;;;;Ob-Ugric;WogWb: 189;;;;4;;;compound of jaγ 'father' and pi̮γ 'son', in Khanty etymologically similar compound means 'brother'
+Siblings;male speaker's elder brother;meB;kaŋk;каӈк;;0;;;;Northern Mansi;WogWb: 332;;;;1;;;cf. mFyB
+Siblings;male speaker's younger brother;myB;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;coexistence;1;;;
+Siblings;male speaker's younger brother;myB;kaš́;;;0;;;;Mansi-specific;WogWb: 383;;;;1;;;
+Siblings;male speaker's elder sister;meZ;uwš́i;увщи;;0;;;;Sosva-specific;WogWb: 5;;;;1;;;Also 'ältere Cousine'
+Siblings;male speaker's younger sister;myZ;āpš́iāγikwe;;;0;;;;Sosva-specific;WogWb: 84;;;;4;;;compound of āpš́i 'younger brother' and āγi 'girl, daughter', further derived with -kwe
+Siblings;male speaker's younger sister;myZ;jaγikwe, jiγikwe;;;0;;;;Northern Mansi;WogWb: 196;;;;3;;;also secret word for 'Bärenweibchen'
+Siblings;male speaker's younger sister;myZ;jiγiriš́;йигрищ;;0;;;;Northern Mansi;WogWb: 196;;;;2;;;
+Siblings;male speaker's younger sister;myZ;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;Comparison presented in UEW is unlikely to be true in its entirety
+Parents;male speaker's parent;mP;š́āń-āš́;;;0;;;;Sosva-specific;WogWb: 833;;;;4;;;copulative compound of š́āń 'mother' and āš́ 'father'
+Parents;male speaker's father;mF;āš́;ащ;;0;;;;Inherited, PU *äććä 'father';WogWb: 118;Aikio 2020: 30–32;;;1;;;In most Mansi dialects the word refers to 'grandfather', in Northern Mansi (Upper Lozva and Sosva) 'father'
+Parentts;male speaker's father;mF;jaγ;яг;;0;;;;Inherited, PU *ekä 'older male relative';WogWb: 188;Aikio 2020: 42–43;;;1;;;
+Parents;male speaker's mother;mM;āŋkw;а̄ӈкв;;0;;;;Ob-Ugric;WogWb: 77;;;;1;;;
+Parents;male speaker's mother;mM;š́āń;щань;;0;;;;Northern Mansi;WogWb: 833;;;;1;;;
+Parents;male speaker's mother;mM;oma;ома;;0;;;;Sosva-specific;WogWb: 60;;;;1;;;Kinderspr.
+Children;male speaker's child;mC;āγi-pi̮γ;;;0;;;;Mansi-specific;WogWb: 3;;;;4;;;copulative compound of āγi 'girl' and pi̮γ 'boy'
+Children;male speaker's child;mC;ńāwram;ня̄врам;ńawrɛm;3;;;Khanty;Recent centuries;WogWb: 524;;;coexistence;1;;;
+Children;male speaker's son;mS;pi̮γ;пы̄г;;0;;;;Inherited, PU *pojka 'son, boy';WogWb: 556–557;;;;1;;;
+Children;male speaker's daughter;mD;āγi;а̄ги;;0;;;;Ugric;WogWb: 2;UEW: 835–836;;;1;;;
+Grandparents;male speaker's ancestor;mA;;;;;;;;;;;;;;;;
+Grandparents;male speaker's grandparent;mPP;;;;;;;;;;;;;;;;
+Grandparents;male speaker's father's father;mFF;ɔ̄pariš́;;;0;;One of the constituents is borrowed;Tatar;Northern Mansi;WogWb: 82;;;;3;;;
+Grandparents;male speaker's father's mother;mFM;š́āš́ɛ̄kwa;щасеква;;0;;;;Northern Mansi;WogWb: 850;;;;4;;;"compound of š́āš́ 'father' (not found in Sosva as an independent lexeme, but is present in some other Mansi dialects) ɛ̄kwa 'Frau, Gattin; alte Frau, Greisin'"
+Grandparents;male speaker's mother's father;mMF;āš́ɔ̄jka;ащойка;ajka;0;;One of the constituents is borrowed;Komi;Northern Mansi;WogWb: 118;;;;4;;;compound of āš́ 'father' and ɔ̄jka 'Mann, Ehemann, Gatte, Greis' 
+Grandparents;male speaker's mother's mother;mMM;āńɛ̄kwa;анеква;;0;;;;Northern Mansi;WogWb: 74;;;;4;;;"compound of āń 'Frau des älteren Mutterbruders' (not found in Sosva as an independent lexeme, PMs *ǟńa (WogWb: 73) and  ɛ̄kwa 'Frau, Gattin; alte Frau, Greisin'"
+Grandchildren;male speaker's grandchild;mCC;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's son's son;mSS;pi̮γpi̮γ;;;0;;;;Mansi-specific;WogWb: 557;;;;4;;;compound of pi̮γ 'boy, son'
+Grandchildren;male speaker's son's daughter;mSD;pi̮γāγi;;;0;;;;Mansi-specific;WogWb: 557;;;;4;;;compound of pi̮γ 'boy, son' and āγi 'girl, daughter'
+Grandchildren;male speaker's daughter's son;mDS;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's daughter;mDD;āγiāγi;;;0;;;;Mansi-specific;WogWb: 3;;;;4;;;compound of āγi 'girl, daughter'
+ParentsSiblings;male speaker's father's brother;mFB;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;ɔ̄pāγi;о̄па̄ги;;0;;One of the constituents is borrowed;Tatar;Northern Mansi;WogWb: 82;;;;4;;;compound of ɔ̄pa- 'paternal grandfather' and āγi 'daughter, girl'
+ParentsSiblings;male speaker's mother's brother;mMB;sasi̮γ;сасыг;;0;;;;Inherited, PU *čečä 'uncle';WogWb: 797;UEW: 34–35;;;2;;;
+ParentsSiblings;male speaker's mother's sister;mMZ;nij;ный;nĭj;3;;;Khanty;Recent centuries;WogWb: 497;;;;1;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;aki;аки;;0;;;;Ob-Ugric;WogWb: 22;Aikio 2020: 42–43;;;1;;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;kaŋk;каӈк;;0;;;;Northern Mansi;WogWb: 332;;;;1;;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older brother;mMeB;aki;аки;;0;;;;Ob-Ugric;WogWb: 22;Aikio 2020: 42–43;;;1;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;;1;;;
+SiblingsChildren;male speaker's brother's daughter;mBD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120;UEW: 70;;;1;;;
+SiblingsChildren;male speaker's sister's son;mZS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's daughter;mZD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;
+SiblingsChildren;male speaker's older brother's son;meBS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;api̮γ;апыг;;0;;;;Mansi-specific;WogWb: 81;;;;1;;;According to WogWb: So nennen die alten Männer allgemein die jüngeren Männer.
+SiblingsChildren;male speaker's older brother's daughter;meBD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's son;meZS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;uwš́i;ӯвщи;;0;;;;Sosva-specific;WogWb: 5;;;;1;;;older than ego, also 'ältere Schwester'
+Cousins;male speaker's father's sister's daughter;mFZD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;younger than ego
+Cousins;male speaker's father's brother's daughter;mFBD;uwš́i;ӯвщи;;0;;;;Sosva-specific;WogWb: 5;;;;1;;;older than ego, also 'ältere Schwester'
+Cousins;male speaker's father's brother's daughter;mFBD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;younger than ego
+Cousins;male speaker's mother's brother's daughter;mMBD;uwš́i;ӯвщи;;0;;;;Sosva-specific;WogWb: 5;;;;1;;;older than ego, also 'ältere Schwester'
+Cousins;male speaker's mother's brother's daughter;mMBD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;younger than ego
+Cousins;male speaker's mother's sister's daughter;mMZD;uwš́i;ӯвщи;;0;;;;Sosva-specific;WogWb: 5;;;;1;;;older than ego, also 'ältere Schwester'
+Cousins;male speaker's mother's sister's daughter;mMZD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;younger than ego
+Cousins;male speaker's mother's sister's daughter;mMZD;āŋkw-āγi;а̄ӈкваги;;0;;;;Mansi-specific;WogWb: 77;;;;4;;;compound of āŋkw 'mother' and āγi 'daughter, girl'
+Cousins;male speaker's father's brother's son;mFBS;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;;1;;;younger than ego
+Cousins;male speaker's father's sister's son;mFZS;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;;1;;;younger than ego
+Cousins;male speaker's mother's brother's son;mMBS;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;;1;;;younger than ego
+Cousins;male speaker's mother's sister's son;mMZS;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;;1;;;younger than ego
+Cousins;male speaker's mother's sister's son;mMZS;āŋkw-pi̮γ;а̄ӈквпыг;;0;;;;Mansi-specific;WogWb: 77;;;;4;;;compound of āŋkw 'mother' and pi̮γ 'son, boy'
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;;;;;;;;;;;;;;;;
+Affines;male speaker's husband;mH;ɔ̄jka;ойка;ajka;4;;;Komi;10th century onwards;WogWb: 18;Rédei 1970: 91;;coexistence;1;;;
+Affines;male speaker's husband;mH;χum;хум;;0;;;;Inherited, PU *koj-ma;WogWb: 306;UEW: 168;;;2;;;
+Affines;male speaker's wife;mW;ɛ̄kwa;э̄ква;;0;;;;Mansi-specific;WogWb: 198;;;;1;;;
+Affines;male speaker's wife;mW;nɛ̄;нэ̄;;0;;;;Inherited, PU *niŋä;WogWb: 494;UEW: 305–306;;;1;;;
+Affines;male speaker's husband's father;mHF;aki;аки;;0;;;;Ob-Ugric;WogWb: 22;Aikio 2020: 42–43;;;1;;;
+Affines;male speaker's husband's mother;mHM;ɔ̄nip;о̄нып;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law';WogWb: 68;Aikio 2020: 54;;;1;;;"mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
+Affines;male speaker's wife's father;mWF;up;;;0;;;;Inherited, PU *ëppə 'father-in-law';WogWb: 81;Aikio 2015b: 6;;;1;;;The Mansi word has been sometimes considered a Khanty loan, but apparently PMs *u can be considered a regular development before PU *pp cluster
+Affines;male speaker's wife's father;mWF;aki;аки;;0;;;;Ob-Ugric;WogWb: 22;Aikio 2020: 42–43;;;1;;;
+Affines;male speaker's wife's mother;mWM;ɔ̄nip;о̄нып;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law';WogWb: 68;Aikio 2020: 54;;;1;;;"mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
+Affines;male speaker's brother's wife;mBW;;;;;;;;;;;;;;;;
+Affines;male speaker's older brother's wife;meBW;ɔ̄ńi̮γ;о̄ниг;;0;;;;Inherited, PU *ańə 'sister-in-law';WogWb: 72;Aikio 2020: 18–19;;;2;;;Also 'stepmother'
+Affines;male speaker's younger brother's wife;myBW;mań;мань;;0;;;;Inherited, PU *mińä 'daughter-in-law';WogWb: 472;;;;1;;;"daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
+Affines;male speaker's sister's husband;mZH;kil;кил;kĭʌi;3;;;Khanty;Recent centuries;WogWb: 282;;;;1;;;"wife's (older or younger) sister; sister's husband; wife's sister's husband'"
+Affines;male speaker's sister's husband;mZH;wāps;ва̄пс;;0;;;;Mansi-specific;WogWb: 158;;;;1;;;"son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
+Affines;male speaker's wife's brother;mWB;up;;;0;;;;Inherited, PU *ëppə 'father-in-law';WogWb: 81;Aikio 2015b: 6;;;1;;;The Mansi word has been sometimes considered a Khanty loan, but apparently PMs *u can be considered a regular development before PU *pp cluster
+Affines;male speaker's wife's younger brother;mWyB;upńāwram;;;0;;;;Mansi-specific;WogWb: 81;;;;4;;;compound of up and ńāwram 'child'
+Affines;male speaker's wife's sister;mWZ;kil;кил;kĭʌi;3;;;Khanty;Recent centuries;WogWb: 282;;;;1;;;
+Affines;male speaker's husband's brother;mHB;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's older brother;mHeB;aki;аки;;0;;;;Ob-Ugric;WogWb: 22;Aikio 2020: 42–43;;;1;;;
+Affines;male speaker's husband's younger brother;mHyB;pānt;;*band-;3;;;Middle Iranian;From around 500 BCE to 500 CE;WogWb: 603;Korenchy 1972: 63;;;1;;;husband's younger brother, sister's son'
+Affines;male speaker's husband's sister;mHZ;ɛ̄ŋk;;;0;;;;Mansi-specific;WogWb: 79;;;;1;;;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);ɔ̄ńi̮γ;о̄ниг;;0;;;;Inherited, PU *ańə 'sister-in-law';WogWb: 72;Aikio 2020: 18–19;;;2;;;
+Affines;male speaker's mother's husband (not father);mMH(notF);jaγlaŋ;яглаӈ;jĭwʌeŋ, jəγʌəŋ (Trj.);4;;;Khanty;Recent centuries;WogWb: 196;;;;1;;;
+Affines;male speaker's son's wife;mSW;mań;мань;;0;;;;Inherited, PU *mińä 'daughter-in-law';WogWb: 472;;;;1;;;"daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
+Affines;male speaker's son's wife;mSW;mańnɛ;;;0;;;;Mansi-specific;WogWb: 472;;;;4;;; 'daughter-in-law' and nɛ 'wife'
+Affines;male speaker's son's wife's mother;mSWM;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife's father;mSWF;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband;mDH;wāps;ва̄пс;;0;;;;Mansi-specific;WogWb: 158;;;;1;;;"son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
+Affines;male speaker's daughter's husband;mDH;wāpsχum;;;0;;;;Mansi-specific;WogWb: 158;;;;4;;;"compound of wāps 'son-in-law; sister's husband' and χum 'husband'"
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;wāps;ва̄пс;;0;;;;Mansi-specific;WogWb: 158;;;;1;;;"son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;
+Affines;male speaker's father's older brother's wife;mFeBW;ākw;а̄кв;;0;;;;Mansi-specific;WogWb: 22–23;;;;1;;;older brother's wife'
+Affines;male speaker's mother's sister's husband;mMZH;jaγlaŋ;яглаӈ;jĭwʌeŋ, jəγʌəŋ (Trj.);4;;;Khanty;Recent centuries;WogWb: 196;;;;1;;;
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's older brother's wife;mMeBW;ākw;а̄кв;;0;;;;Mansi-specific;WogWb: 22–23;;;;1;;;older brother's wife'
+Affines;male speaker's mother's younger brother's wife;mMyBW;ūp;;;0;;;;Inherited;WogWb: 82; UEW: 15;;;1;;;mother's younger brother's wife'
+Affines;male speaker's wife's sister's husband;mWZH;kil;кил;kĭʌi;3;;;Khanty;Recent centuries;WogWb: 282;;;;1;;;"wife's (older or younger) sister; sister's husband; wife's sister's husband'"
+Affines;male speaker's wife's brother's wife;mWBW;ɔ̄nip;о̄нып;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law';WogWb: 68;Aikio 2020: 54;;;1;;;"mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
+Affines;male speaker's wife's younger brother's wife;mWyBW;mań;мань;;0;;;;Inherited, PU *mińä 'daughter-in-law';WogWb: 472;;;;1;;;"daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
+Affines;male speaker's husband's sister's husband;mHZH;ɛ̄ŋkwāps;;;0;;;;North Mansi-specific;WogWb: 79;;;;4;;;a compound of ɛ̄ŋk and wāps
+Affines;male speaker's husband's younger sister's husband;mHyZH;wāps;ва̄пс;;0;;;;Mansi-specific;WogWb: 158;;;;1;;;"son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
+Affines;male speaker's husband's older brother's wife;mHeBW;ɔ̄nip;о̄нып;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law';WogWb: 68;Aikio 2020: 54;;;1;;;"mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
+Siblings;female speaker's sibling;fG;;;;;;;;;;;;;;;;
+Siblings;female speaker's brother;fB;;;;;;;;;;;;;;;;
+Siblings;female speaker's sister;fZ;jaγāγi;яга̄ги;;0;;;;Ob-Ugric;WogWb: 188;;;;4;;;compound of jaγ 'father' and āγi 'girl, daughter', etymologically similar compound exists in some Khanty dialects jĭw-ewi 'sister' (DeWoS: 325)
+Siblings;female speaker's elder brother;feB;jaγ-pi̮γ;;;0;;;;Ob-Ugric;WogWb: 189;;;;4;;;compound of jaγ 'father' and pi̮γ 'son', in Khanty etymologically similar compound means 'brother'
+Siblings;female speaker's elder brother;feB;kaŋk;каӈк;;0;;;;Northern Mansi;WogWb: 332;;;;1;;;cf. mFyB
+Siblings;female speaker's younger brother;fyB;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;coexistence;1;;;
+Siblings;female speaker's younger brother;fyB;kaš́;;;0;;;;Mansi-specific;WogWb: 383;;;;1;;;
+Siblings;female speaker's elder sister;feZ;uwš́i;увщи;;0;;;;Sosva-specific;WogWb: 5;;;;1;;;Also 'ältere Cousine'
+Siblings;female speaker's younger sister;fyZ;āpš́iāγikwe;;;0;;;;Sosva-specific;WogWb: 84;;;;4;;;compound of āpš́i 'younger brother' and āγi 'girl, daughter', further derived with -kwe
+Siblings;female speaker's younger sister;fyZ;jaγikwe, jiγikwe;;;0;;;;Northern Mansi;WogWb: 196;;;;3;;;also secret word for 'Bärenweibchen'
+Siblings;female speaker's younger sister;fyZ;jiγiriš́;йигрищ;;0;;;;Northern Mansi;WogWb: 196;;;;2;;;
+Siblings;female speaker's younger sister;fyZ;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;Comparison presented in UEW is unlikely to be true in its entirety
+Parents;female speaker's parent;fP;š́āń-āš́;;;0;;;;Sosva-specific;WogWb: 833;;;;4;;;copulative compound of š́āń 'mother' and āš́ 'father'
+Parents;female speaker's father;fF;āš́;ащ;;0;;;;Inherited, PU *äććä 'father';WogWb: 118;Aikio 2020: 30–32;;;1;;;In most Mansi dialects the word refers to 'grandfather', in Northern Mansi (Upper Lozva and Sosva) 'father'
+Parents;female speaker's father;fF;jaγ;яг;;0;;;;Inherited, PU *ekä 'older male relative';WogWb: 188;Aikio 2020: 42–43;;;1;;;
+Parents;female speaker's mother;fM;āŋkw;а̄ӈкв;;0;;;;Ob-Ugric;WogWb: 77;;;;1;;;
+Parents;female speaker's mother;fM;š́āń;щань;;0;;;;Northern Mansi;WogWb: 833;;;;1;;;
+Parents;female speaker's mother;fM;oma;ома;;0;;;;Sosva-specific;WogWb: 60;;;;1;;;Kinderspr.
+Children;female speaker's child;fC;āγi-pi̮γ;;;0;;;;Mansi-specific;WogWb: 3;;;;4;;;copulative compound of āγi 'girl' and pi̮γ 'boy'
+Children;female speaker's child;fC;ńāwram;ня̄врам;ńawrɛm;3;;;Khanty;Recent centuries;WogWb: 524;;;coexistence;1;;;
+Children;female speaker's son;fS;pi̮γ;пы̄г;;0;;;;Inherited, PU *pojka 'son, boy';WogWb: 556–557;;;;1;;;
+Children;female speaker's daughter;fD;āγi;а̄ги;;0;;;;Ugric;WogWb: 2;UEW: 835–836;;;1;;;
+Grandparents;female speaker's ancestor;fA;;;;;;;;;;;;;;;;
+Grandparents;female speaker's grandparent;fPP;;;;;;;;;;;;;;;;
+Grandparents;female speaker's father's father;fFF;ɔ̄pariš́;;;0;;One of the constituents is borrowed;Tatar;Northern Mansi;WogWb: 82;;;;3;;;
+Grandparents;female speaker's father's mother;fFM;š́āš́ɛ̄kwa;щасеква;;0;;;;Northern Mansi;WogWb: 850;;;;4;;;"compound of š́āš́ 'father' (not found in Sosva as an independent lexeme, but is present in some other Mansi dialects) ɛ̄kwa 'Frau, Gattin; alte Frau, Greisin'"
+Grandparents;female speaker's mother's father;fMF;āš́ɔ̄jka;ащойка;ajka;0;;One of the constituents is borrowed;Komi;Northern Mansi;WogWb: 118;;;;4;;;compound of āš́ 'father' and ɔ̄jka 'Mann, Ehemann, Gatte, Greis' 
+Grandparents;female speaker's mother's mother;fMM;āńɛ̄kwa;анеква;;0;;;;Northern Mansi;WogWb: 74;;;;4;;;"compound of āń 'Frau des älteren Mutterbruders' (not found in Sosva as an independent lexeme, PMs *ǟńa (WogWb: 73) and  ɛ̄kwa 'Frau, Gattin; alte Frau, Greisin'"
+Grandchildren;female speaker's grandchild;fCC;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's son's son;fSS;pi̮γpi̮γ;;;0;;;;Mansi-specific;WogWb: 557;;;;4;;;compound of pi̮γ 'boy, son'
+Grandchildren;female speaker's son's daughter;fSD;pi̮γāγi;;;0;;;;Mansi-specific;WogWb: 557;;;;4;;;compound of pi̮γ 'boy, son' and āγi 'girl, daughter'
+Grandchildren;female speaker's daughter's son;fDS;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's daughter;fDD;āγiāγi;;;0;;;;Mansi-specific;WogWb: 3;;;;4;;;compound of āγi 'girl, daughter'
+ParentsSiblings;female speaker's father's brother;fFB;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;ɔ̄pāγi;о̄па̄ги;;0;;One of the constituents is borrowed;Tatar;Northern Mansi;WogWb: 82;;;;4;;;compound of ɔ̄pa- 'paternal grandfather' and āγi 'daughter, girl'
+ParentsSiblings;female speaker's mother's brother;fMB;sasi̮γ;сасыг;;0;;;;Inherited, PU *čečä 'uncle';WogWb: 797;UEW: 34–35;;;2;;;
+ParentsSiblings;female speaker's mother's sister;fMZ;nij;ный;nĭj;3;;;Khanty;Recent centuries;WogWb: 497;;;;1;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;aki;аки;;0;;;;Ob-Ugric;WogWb: 22;Aikio 2020: 42–43;;;1;;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;kaŋk;каӈк;;0;;;;Northern Mansi;WogWb: 332;;;;1;;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older brother;fMeB;aki;аки;;0;;;;Ob-Ugric;WogWb: 22;Aikio 2020: 42–43;;;1;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;;1;;;
+SiblingsChildren;female speaker's brother's daughter;fBD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120;UEW: 70;;;1;;;
+SiblingsChildren;female speaker's sister's son;fZS;pānt;;*band-;3;;;Middle Iranian;Second half of the first millennium BCE onwards;WogWb: 603;Korenchy 1972: 63;;;1;;;husband's younger brother, sister's son'
+SiblingsChildren;female speaker's sister's daughter;fZD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;api̮γ;апыг;;0;;;;Mansi-specific;WogWb: 81;;;;1;;;According to WogWb: So nennen die alten Männer allgemein die jüngeren Männer.
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's sister's daughter;fFZD;uwš́i;ӯвщи;;0;;;;Sosva-specific;WogWb: 5;;;;1;;;older than ego, also 'ältere Schwester'
+Cousins;female speaker's father's sister's daughter;fFZD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;younger than ego
+Cousins;female speaker's father's brother's daughter;fFBD;uwš́i;ӯвщи;;0;;;;Sosva-specific;WogWb: 5;;;;1;;;older than ego, also 'ältere Schwester'
+Cousins;female speaker's father's brother's daughter;fFBD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;younger than ego
+Cousins;female speaker's mother's brother's daughter;fMBD;uwš́i;ӯвщи;;0;;;;Sosva-specific;WogWb: 5;;;;1;;;older than ego, also 'ältere Schwester'
+Cousins;female speaker's mother's brother's daughter;fMBD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;younger than ego
+Cousins;female speaker's mother's sister's daughter;fMZD;uwš́i;ӯвщи;;0;;;;Sosva-specific;WogWb: 5;;;;1;;;older than ego, also 'ältere Schwester'
+Cousins;female speaker's mother's sister's daughter;fMZD;ɛ̄š́;э̄щ;;0;;;;Inherited, PU ?;WogWb: 119–120; UEW: 70;;;1;;;younger than ego
+Cousins;female speaker's mother's sister's daughter;fMZD;āŋkw-āγi;а̄ӈкваги;;0;;;;Mansi-specific;WogWb: 77;;;;4;;;compound of āŋkw 'mother' and āγi 'daughter, girl'
+Cousins;female speaker's father's brother's son;fFBS;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;;1;;;younger than ego
+Cousins;female speaker's father's sister's son;fFZS;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;;1;;;younger than ego
+Cousins;female speaker's mother's brother's son;fMBS;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;;1;;;younger than ego
+Cousins;female speaker's mother's sister's son;fMZS;āpš́i;а̄пщи;apśi;4;;;Khanty;Recent centuries;WogWb: 84;;;;1;;;younger than ego
+Cousins;female speaker's mother's sister's son;fMZS;āŋkw-pi̮γ;а̄ӈквпыг;;0;;;;Mansi-specific;WogWb: 77;;;;4;;;compound of āŋkw 'mother' and pi̮γ 'son, boy'
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;;;;;;;;;;;;;;;;
+Affines;female speaker's husband;fH;ɔ̄jka;ойка;ajka;4;;;Komi;10th century onwards;WogWb: 18;Rédei 1970: 91;;coexistence;1;;;
+Affines;female speaker's husband;fH;χum;хум;;0;;;;Inherited, PU *koj-ma;WogWb: 306;UEW: 168;;;2;;;
+Affines;female speaker's wife;fW;ɛ̄kwa;э̄ква;;0;;;;Mansi-specific;WogWb: 198;;;;1;;;
+Affines;female speaker's wife;fW;nɛ̄;нэ̄;;0;;;;Inherited, PU *niŋä;WogWb: 494;UEW: 305–306;;;1;;;
+Affines;female speaker's husband's father;fHF;aki;аки;;0;;;;Ob-Ugric;WogWb: 22;Aikio 2020: 42–43;;;1;;;
+Affines;female speaker's husband's mother;fHM;ɔ̄nip;о̄нып;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law';WogWb: 68;Aikio 2020: 54;;;1;;;"mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
+Affines;female speaker's wife's father;fWF;up;;;0;;;;Inherited, PU *ëppə 'father-in-law';WogWb: 81;Aikio 2015b: 6;;;1;;;The Mansi word has been sometimes considered a Khanty loan, but apparently PMs *u can be considered a regular development before PU *pp cluster
+Affines;female speaker's wife's father;fWF;aki;аки;;0;;;;Ob-Ugric;WogWb: 22;Aikio 2020: 42–43;;;1;;;
+Affines;female speaker's wife's mother;fWM;ɔ̄nip;о̄нып;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law';WogWb: 68;Aikio 2020: 54;;;1;;;"mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
+Affines;female speaker's brother's wife;fBW;;;;;;;;;;;;;;;;
+Affines;female speaker's older brother's wife;feBW;ɔ̄ńi̮γ;о̄ниг;;0;;;;Inherited, PU *ańə 'sister-in-law';WogWb: 72;Aikio 2020: 18–19;;;2;;;Also 'stepmother'
+Affines;female speaker's younger brother's wife;fyBW;mań;мань;;0;;;;Inherited, PU *mińä 'daughter-in-law';WogWb: 472;;;;1;;;"daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
+Affines;female speaker's sister's husband;fZH;kil;кил;kĭʌi;3;;;Khanty;Recent centuries;WogWb: 282;;;;1;;;"wife's (older or younger) sister; sister's husband; wife's sister's husband'"
+Affines;female speaker's sister's husband;fZH;wāps;ва̄пс;;0;;;;Mansi-specific;WogWb: 158;;;;1;;;"son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
+Affines;female speaker's wife's brother;fWB;up;;;0;;;;Inherited, PU *ëppə 'father-in-law';WogWb: 81;Aikio 2015b: 6;;;1;;;The Mansi word has been sometimes considered a Khanty loan, but apparently PMs *u can be considered a regular development before PU *pp cluster
+Affines;female speaker's wife's younger brother;fWyB;upńāwram;;;0;;;;Mansi-specific;WogWb: 81;;;;4;;;compound of up and ńāwram 'child'
+Affines;female speaker's wife's sister;fWZ;kil;кил;kĭʌi;3;;;Khanty;Recent centuries;WogWb: 282;;;;1;;;
+Affines;female speaker's husband's brother;fHB;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's older brother;fHeB;aki;аки;;0;;;;Ob-Ugric;WogWb: 22;Aikio 2020: 42–43;;;1;;;
+Affines;female speaker's husband's younger brother;fHyB;pānt;;*band-;3;;;Middle Iranian;From around 500 BCE to 500 CE;WogWb: 603;Korenchy 1972: 63;;;1;;;husband's younger brother, sister's son'
+Affines;female speaker's husband's sister;fHZ;ɛ̄ŋk;;;0;;;;Mansi-specific;WogWb: 79;;;;1;;;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);ɔ̄ńi̮γ;о̄ниг;;0;;;;Inherited, PU *ańə 'sister-in-law';WogWb: 72;Aikio 2020: 18–19;;;2;;;
+Affines;female speaker's wife's husband (not father);fMH(notF);jaγlaŋ;яглаӈ;jĭwʌeŋ, jəγʌəŋ (Trj.);4;;;Khanty;Recent centuries;WogWb: 196;;;;1;;;
+Affines;female speaker's son's wife;fSW;mań;мань;;0;;;;Inherited, PU *mińä 'daughter-in-law';WogWb: 472;;;;1;;;"daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
+Affines;female speaker's son's wife;fSW;mańnɛ;;;0;;;;Mansi-specific;WogWb: 472;;;;4;;; 'daughter-in-law' and nɛ 'wife'
+Affines;female speaker's son's wife's mother;fSWM;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife's father;fSWF;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband;fDH;wāps;ва̄пс;;0;;;;Mansi-specific;WogWb: 158;;;;1;;;"son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
+Affines;female speaker's daughter's husband;fDH;wāpsχum;;;0;;;;Mansi-specific;WogWb: 158;;;;4;;;"compound of wāps 'son-in-law; sister's husband' and χum 'husband'"
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;wāps;ва̄пс;;0;;;;Mansi-specific;WogWb: 158;;;;1;;;"son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;
+Affines;female speaker's father's older brother's wife;fFeBW;ākw;а̄кв;;0;;;;Mansi-specific;WogWb: 22–23;;;;1;;;older brother's wife'
+Affines;female speaker's mother's sister's husband;fMZH;jaγlaŋ;яглаӈ;jĭwʌeŋ, jəγʌəŋ (Trj.);4;;;Khanty;Recent centuries;WogWb: 196;;;;1;;;
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's older brother's wife;fMeBW;ākw;а̄кв;;0;;;;Mansi-specific;WogWb: 22–23;;;;1;;;older brother's wife'
+Affines;female speaker's mother's younger brother's wife;fMyBW;ūp;;;0;;;;Inherited;WogWb: 82; UEW: 15;;;1;;;mother's younger brother's wife'
+Affines;female speaker's wife's sister's husband;fWZH;kil;кил;kĭʌi;3;;;Khanty;Recent centuries;WogWb: 282;;;;1;;;"wife's (older or younger) sister; sister's husband; wife's sister's husband'"
+Affines;female speaker's wife's brother's wife;fWBW;ɔ̄nip;о̄нып;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law';WogWb: 68;Aikio 2020: 54;;;1;;;"mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"
+Affines;female speaker's wife's younger brother's wife;fWyBW;mań;мань;;0;;;;Inherited, PU *mińä 'daughter-in-law';WogWb: 472;;;;1;;;"daughter-in-law, younger brother's wife; wife's or husband's younger brother's wife; older or younger brother's son's wife'"
+Affines;female speaker's husband's sister's husband;fHZH;ɛ̄ŋkwāps;;;0;;;;North Mansi-specific;WogWb: 79;;;;4;;;a compound of ɛ̄ŋk and wāps
+Affines;female speaker's husband's younger sister's husband;fHyZH;wāps;ва̄пс;;0;;;;Mansi-specific;WogWb: 158;;;;1;;;"son-in-law; sister's husband; husband's younger sister's husband; husband's older sister's husband; father's sister's husband'"
+Affines;female speaker's husband's older brother's wife;fHeBW;ɔ̄nip;о̄нып;;0;;;;Inherited, PU *ana/ëna-ëppə 'parent-in-law';WogWb: 68;Aikio 2020: 54;;;1;;;"mother-in-law; wife's brother's wife'; husband's older brother's wife; husband's father's older brother's wife; husband's father's sister; husband's mother's younger brother's wife'"

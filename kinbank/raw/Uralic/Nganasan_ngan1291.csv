@@ -1,289 +1,289 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","",,,,,"",
-"mB","",,,,,"",
-"mZ","",,,,,"",
-"meB","əʔə",,,,,"kosterkina_slovar_2001",219
-"meB","ńini̮",,,,,"kosterkina_slovar_2001",116
-"myB","ŋaaŋku",,,,,"kosterkina_slovar_2001",128
-"myB","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"meZ","ŋahu",,,,,"kosterkina_slovar_2001",131
-"meZ","abaʔa",,,,,"kosterkina_slovar_2001",17
-"myZ","ŋaaŋku",,,,,"kosterkina_slovar_2001",128
-"myZ","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"mP","dʹesi̮-ńemi̮",,,,,"kosterkina_slovar_2001",40
-"mF","dʹesi̮",,,,,"kosterkina_slovar_2001",40
-"mF","idʹaʔa",,,,,"kosterkina_slovar_2001",57
-"mM","abaʔa",,,,,"kosterkina_slovar_2001",17
-"mM","ńemi̮",,,,,"kosterkina_slovar_2001",110
-"mC","ńüo",,,,,"kosterkina_slovar_2001",124
-"mC","ńüoʔkü",,,,,"kosterkina_slovar_2001",124
-"mS","",,,,,"",
-"mD","kobtua",,,,,"kosterkina_slovar_2001",66
-"mA","",,,,,"",
-"mPP","",,,,,"",
-"mFF","iri",,,,,"kosterkina_slovar_2001",58
-"mFM","imidʹi",,,,,"kosterkina_slovar_2001",57
-"mMF","iri",,,,,"kosterkina_slovar_2001",58
-"mMM","imidʹi",,,,,"kosterkina_slovar_2001",57
-"mCC","ńüodʹe ńüo",,,,,"kosterkina_slovar_2001",124
-"mSS","",,,,,"",
-"mSD","",,,,,"",
-"mDS","",,,,,"",
-"mDD","",,,,,"",
-"mFB","",,,,,"",
-"mFZ","",,,,,"",
-"mMB","",,,,,"",
-"mMZ","",,,,,"",
-"mFeB","iśi",,,,,"kosterkina_slovar_2001",58
-"mFyB","əʔə",,,,,"kosterkina_slovar_2001",219
-"mFyB","ńini̮",,,,,"kosterkina_slovar_2001",116
-"mFeZ","kotu",,,,,"kosterkina_slovar_2001",70
-"mFyZ","abaʔa",,,,,"kosterkina_slovar_2001",17
-"mFyZ","ŋahu",,,,,"kosterkina_slovar_2001",131
-"mMeZ","kotu",,,,,"kosterkina_slovar_2001",70
-"mMyZ","ŋaaga",,,,,"kosterkina_slovar_2001",128
-"mMeB","iśi",,,,,"kosterkina_slovar_2001",58
-"mMyB","ti̮ti̮dʹa",,,,,"kosterkina_slovar_2001",183
-"mBS","",,,,,"",
-"mBD","",,,,,"",
-"mZS","",,,,,"",
-"mZD","",,,,,"",
-"meBS","",,,,,"",
-"myBS","",,,,,"",
-"meBD","",,,,,"",
-"myBD","",,,,,"",
-"meZS","",,,,,"",
-"myZS","",,,,,"",
-"meZD","",,,,,"",
-"myZD","",,,,,"",
-"mFZD","maŋkə",,,,,"kosterkina_slovar_2001",95
-"mFZD","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"mFBD","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"mMBD","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"mMZD","śüamu",,,,,"kosterkina_slovar_2001",165
-"mMZD","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"mFBS","ńini̮",,,,,"kosterkina_slovar_2001",116
-"mFBS","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"mFZS","ńini̮",,,,,"kosterkina_slovar_2001",116
-"mFZS","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"mFZS","maŋkə",,,,,"kosterkina_slovar_2001",95
-"mMBS","ńini̮",,,,,"kosterkina_slovar_2001",116
-"mMBS","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"mMZS","ńini̮",,,,,"kosterkina_slovar_2001",116
-"mMZS","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"mMZS","śüamu",,,,,"kosterkina_slovar_2001",165
-"mFeBS","",,,,,"",
-"mFyBS","",,,,,"",
-"mFeZS","",,,,,"",
-"mFyZS","",,,,,"",
-"mFeBD","",,,,,"",
-"mFyBD","",,,,,"",
-"mFeZD","",,,,,"",
-"mFyZD","",,,,,"",
-"mMeBS","",,,,,"",
-"mMyBS","",,,,,"",
-"mMeZS","",,,,,"",
-"mMyZS","",,,,,"",
-"mMeBD","",,,,,"",
-"mMyBD","",,,,,"",
-"mMeZD","",,,,,"",
-"mMyZD","",,,,,"",
-"mFBeS","",,,,,"",
-"mFByS","",,,,,"",
-"mFZeS","",,,,,"",
-"mFZyS","",,,,,"",
-"mFBeD","",,,,,"",
-"mFByD","",,,,,"",
-"mFZeD","",,,,,"",
-"mFZyD","",,,,,"",
-"mMBeS","",,,,,"",
-"mMByS","",,,,,"",
-"mMZeS","",,,,,"",
-"mMZyS","",,,,,"",
-"mMBeD","",,,,,"",
-"mMByD","",,,,,"",
-"mMZeD","",,,,,"",
-"mMZyD","",,,,,"",
-"mE","",,,,,"",
-"mH","bəjkaʔa",,,,,"kosterkina_slovar_2001",29
-"mH","bəjkuo",,,,,"kosterkina_slovar_2001",29
-"mH","kuodʹümu",,,,,"kosterkina_slovar_2001",75
-"mH","bəbə čerə",,,,,"kosterkina_slovar_2001",28
-"mW","inïʔia",,,,,"kosterkina_slovar_2001",58
-"mW","inïʔiaˮku",,,,,"kosterkina_slovar_2001",58
-"mW","ńemi̮bti̮ʔi̮a",,,,,"kosterkina_slovar_2001",110
-"mW","bəbə čerə ni̮",,,,,"kosterkina_slovar_2001",28
-"mHF","ŋinəbə",,,,,"kosterkina_slovar_2001",133
-"mHM","ŋinəbə",,,,,"kosterkina_slovar_2001",133
-"mWF","ŋinəbə",,,,,"kosterkina_slovar_2001",133
-"mWM","ŋinəbə",,,,,"kosterkina_slovar_2001",133
-"mBW","",,,,,"",
-"myBW","miai",,,,,"kosterkina_slovar_2001",106
-"mZH","",,,,,"",
-"myZH","biŋi",,,,,"kosterkina_slovar_2001",24
-"mWB","",,,,,"",
-"mWZ","",,,,,"",
-"mHB","",,,,,"",
-"mHZ","",,,,,"",
-"mco-W","",,,,,"",
-"mco-H","",,,,,"",
-"mFW(notM)","ńemi̮ti̮",,,,,"kosterkina_slovar_2001",110
-"mMH(notF)","dʹedʹiʔti̮",,,,,"kosterkina_slovar_2001",36
-"mSW","miai",,,,,"kosterkina_slovar_2001",106
-"mSWM","",,,,,"",
-"mSWF","",,,,,"",
-"mDH","biŋi",,,,,"kosterkina_slovar_2001",24
-"mDHM","",,,,,"",
-"mDHF","",,,,,"",
-"mFZH","",,,,,"",
-"mFeZH","iśi",,,,,"kosterkina_slovar_2001",58
-"mFBW","",,,,,"",
-"mFeBW","kotu",,,,,"kosterkina_slovar_2001",70
-"mMZH","",,,,,"",
-"mMeZH","iśi",,,,,"kosterkina_slovar_2001",58
-"mMBW","",,,,,"",
-"mMeBW","kotu",,,,,"kosterkina_slovar_2001",70
-"fG","",,,,,"",
-"fB","",,,,,"",
-"fZ","",,,,,"",
-"feB","əʔə",,,,,"kosterkina_slovar_2001",219
-"feB","ńini̮",,,,,"kosterkina_slovar_2001",116
-"fyB","ŋaaŋku",,,,,"kosterkina_slovar_2001",128
-"fyB","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"feZ","ŋahu",,,,,"kosterkina_slovar_2001",131
-"feZ","abaʔa",,,,,"kosterkina_slovar_2001",17
-"fyZ","ŋaaŋku",,,,,"kosterkina_slovar_2001",128
-"fyZ","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"fP","dʹesi̮-ńemi̮",,,,,"kosterkina_slovar_2001",40
-"fF","dʹesi̮",,,,,"kosterkina_slovar_2001",40
-"fF","idʹaʔa",,,,,"kosterkina_slovar_2001",57
-"fM","abaʔa",,,,,"kosterkina_slovar_2001",17
-"fM","ńemi̮",,,,,"kosterkina_slovar_2001",110
-"fC","ńüo",,,,,"kosterkina_slovar_2001",124
-"fC","ńüoʔkü",,,,,"kosterkina_slovar_2001",124
-"fS","",,,,,"",
-"fD","kobtua",,,,,"kosterkina_slovar_2001",66
-"fA","",,,,,"",
-"fPP","",,,,,"",
-"fFF","iri",,,,,"kosterkina_slovar_2001",58
-"fFM","imidʹi",,,,,"kosterkina_slovar_2001",57
-"fMF","iri",,,,,"kosterkina_slovar_2001",58
-"fMM","imidʹi",,,,,"kosterkina_slovar_2001",57
-"fCC","ńüodʹe ńüo",,,,,"kosterkina_slovar_2001",124
-"fSS","",,,,,"",
-"fSD","",,,,,"",
-"fDS","",,,,,"",
-"fDD","",,,,,"",
-"fFB","",,,,,"",
-"fFZ","",,,,,"",
-"fMB","",,,,,"",
-"fMZ","",,,,,"",
-"fFeB","iśi",,,,,"kosterkina_slovar_2001",58
-"fFyB","əʔə",,,,,"kosterkina_slovar_2001",219
-"fFyB","ńini̮",,,,,"kosterkina_slovar_2001",116
-"fFeZ","kotu",,,,,"kosterkina_slovar_2001",70
-"fFyZ","abaʔa",,,,,"kosterkina_slovar_2001",17
-"fFyZ","ŋahu",,,,,"kosterkina_slovar_2001",131
-"fMeZ","kotu",,,,,"kosterkina_slovar_2001",70
-"fMyZ","ŋaaga",,,,,"kosterkina_slovar_2001",128
-"fMeB","iśi",,,,,"kosterkina_slovar_2001",58
-"fMyB","ti̮ti̮dʹa",,,,,"kosterkina_slovar_2001",183
-"fBS","",,,,,"",
-"fBD","",,,,,"",
-"fZS","",,,,,"",
-"fZD","",,,,,"",
-"feBS","",,,,,"",
-"fyBS","",,,,,"",
-"feBD","",,,,,"",
-"fyBD","",,,,,"",
-"feZS","",,,,,"",
-"fyZS","",,,,,"",
-"feZD","",,,,,"",
-"fyZD","",,,,,"",
-"fFZD","maŋkə",,,,,"kosterkina_slovar_2001",95
-"fFZD","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"fFBD","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"fMBD","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"fMZD","śüamu",,,,,"kosterkina_slovar_2001",165
-"fMZD","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"fFBS","ńini̮",,,,,"kosterkina_slovar_2001",116
-"fFBS","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"fFZS","ńini̮",,,,,"kosterkina_slovar_2001",116
-"fFZS","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"fFZS","maŋkə",,,,,"kosterkina_slovar_2001",95
-"fMBS","ńini̮",,,,,"kosterkina_slovar_2001",116
-"fMBS","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"fMZS","ńini̮",,,,,"kosterkina_slovar_2001",116
-"fMZS","ŋadʹa",,,,,"kosterkina_slovar_2001",128
-"fMZS","śüamu",,,,,"kosterkina_slovar_2001",165
-"fFeBS","",,,,,"",
-"fFyBS","",,,,,"",
-"fFeZS","",,,,,"",
-"fFyZS","",,,,,"",
-"fFeBD","",,,,,"",
-"fFyBD","",,,,,"",
-"fFeZD","",,,,,"",
-"fFyZD","",,,,,"",
-"fMeBS","",,,,,"",
-"fMyBS","",,,,,"",
-"fMeZS","",,,,,"",
-"fMyZS","",,,,,"",
-"fMeBD","",,,,,"",
-"fMyBD","",,,,,"",
-"fMeZD","",,,,,"",
-"fMyZD","",,,,,"",
-"fFBeS","",,,,,"",
-"fFByS","",,,,,"",
-"fFZeS","",,,,,"",
-"fFZyS","",,,,,"",
-"fFBeD","",,,,,"",
-"fFByD","",,,,,"",
-"fFZeD","",,,,,"",
-"fFZyD","",,,,,"",
-"fMBeS","",,,,,"",
-"fMByS","",,,,,"",
-"fMZeS","",,,,,"",
-"fMZyS","",,,,,"",
-"fMBeD","",,,,,"",
-"fMByD","",,,,,"",
-"fMZeD","",,,,,"",
-"fMZyD","",,,,,"",
-"fE","",,,,,"",
-"fH","bəjkaʔa",,,,,"kosterkina_slovar_2001",29
-"fH","bəjkuo",,,,,"kosterkina_slovar_2001",29
-"fH","kuodʹümu",,,,,"kosterkina_slovar_2001",75
-"fH","bəbə čerə",,,,,"kosterkina_slovar_2001",28
-"fW","inïʔia",,,,,"kosterkina_slovar_2001",58
-"fW","inïʔiaˮku",,,,,"kosterkina_slovar_2001",58
-"fW","ńemi̮bti̮ʔi̮a",,,,,"kosterkina_slovar_2001",110
-"fW","bəbə čerə ni̮",,,,,"kosterkina_slovar_2001",28
-"fHF","ŋinəbə",,,,,"kosterkina_slovar_2001",133
-"fHM","ŋinəbə",,,,,"kosterkina_slovar_2001",133
-"fWF","ŋinəbə",,,,,"kosterkina_slovar_2001",133
-"fWM","ŋinəbə",,,,,"kosterkina_slovar_2001",133
-"fBW","",,,,,"",
-"fyBW","miai",,,,,"kosterkina_slovar_2001",106
-"fZH","",,,,,"",
-"fyZH","biŋi",,,,,"kosterkina_slovar_2001",24
-"fWB","",,,,,"",
-"fWZ","",,,,,"",
-"fHB","",,,,,"",
-"fHZ","",,,,,"",
-"fco-W","",,,,,"",
-"fco-H","",,,,,"",
-"fFW(notM)","ńemi̮ti̮",,,,,"kosterkina_slovar_2001",110
-"fMH(notF)","dʹedʹiʔti̮",,,,,"kosterkina_slovar_2001",36
-"fSW","miai",,,,,"kosterkina_slovar_2001",106
-"fSWM","",,,,,"",
-"fSWF","",,,,,"",
-"fDH","biŋi",,,,,"kosterkina_slovar_2001",24
-"fDHM","",,,,,"",
-"fDHF","",,,,,"",
-"fFZH","",,,,,"",
-"fFeZH","iśi",,,,,"kosterkina_slovar_2001",58
-"fFBW","",,,,,"",
-"fFeBW","kotu",,,,,"kosterkina_slovar_2001",70
-"fMZH","",,,,,"",
-"fMeZH","iśi",,,,,"kosterkina_slovar_2001",58
-"fMBW","",,,,,"",
-"fMeBW","kotu",,,,,"kosterkina_slovar_2001",70
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments
+Siblings;male speaker's sibling;mG;;;;;;;;;;;;;;;;
+Siblings;male speaker's brother;mB;;;;;;;;;;;;;;;;
+Siblings;male speaker's sister;mZ;;;;;;;;;;;;;;;;
+Siblings;male speaker's elder brother;meB;əʔə;ә”ә ;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 219;;;;1;;;No etymology.
+Siblings;male speaker's elder brother;meB;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem. The Samoyed word has also sometimes been considered a Turkic loanword of AT ini 'younger brother' (Róna-Tas 1988: 743).
+Siblings;male speaker's younger brother;myB;ŋaaŋku;ӈааӈку;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;No etymology.
+Siblings;male speaker's younger brother;myB;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Siblings;male speaker's elder sister;meZ;ŋahu;ӈаху;;0;;;;Samoyed-specific, PS *äpå 'ältere Schwester';Kosterkina & Momde & Zhdanova 2001: 131;SW: 21;;;1;;;"Also 'father's younger sister'. In this respect symmetrical with ńini̮ 'older brother; father's younger brother'"
+Siblings;male speaker's elder sister;meZ;abaʔa;абаˮа;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 17;;;;1;;;Also means 'mother' and 'father's younger sister', cf. mM and mFyZ. No etymology. The lack of prothetic nasal does suggest a word of recent origin. Perhaps has something to do with the Turkic word borrowed into Udmurt and Mari, e.g. Udm abi 'grandmother' etc.
+Siblings;male speaker's younger sister;myZ;ŋaaŋku;ӈааӈку;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;No etymology.
+Siblings;male speaker's younger sister;myZ;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Parents;male speaker's parent;mP;dʹesi̮-ńemi̮;десы-немы;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 40;;;;4;;;A collective compound consisting of dʹesi̮ 'father' and ńemi̮ 'mother'. Similar constructions exist in other Uralic languages, although the specific words can be of different origin. Plural 'родители'.
+Parents;male speaker's father;mF;dʹesi̮;десы;;0;;;;Nganasan-specific / Inherited, PU ? *äjćä 'father';Kosterkina & Momde & Zhdanova 2001: 40;Aikio 2020: 30–32;;;1;;;Nganasan is peculiar in that it alone points to PS *jäsä (< PU *jäćä) while than other Samoyed languages reflect PS *äjsä (< PU *äjćä). Usually thought to be an inherited word, although reconstructing a singular proto-form for all the Uralic words seems to be impossible.
+Parents;male speaker's father;mF;idʹaʔa;идяˮа;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 57;;;;1;;;
+Parents;male speaker's mother;mM;abaʔa;абаˮа;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 17;;;;1;;;Also means 'mother' and 'father's younger sister', cf. mM and mFyZ. No etymology. The lack of prothetic nasal does suggest a word of recent origin. Perhaps has something to do with the Turkic word borrowed into Udmurt and Mari, e.g. Udm abi 'grandmother' etc.
+Parents;male speaker's mother;mM;ńemi̮;немы;;0;;;;Inherited, PU *emä / *ämä 'mother';Kosterkina & Momde & Zhdanova 2001: 110;Aikio 2020: 44–45;;;1;;;Samoyed together with Hungarian points to PU *ämä, Sami and Finnic to PU emä. 
+Children;male speaker's child;mC;ńüo;нюо;;0;;;;"Samoyed-specific, PS *ńuə̑ 'Kind; Junges'";Kosterkina & Momde & Zhdanova 2001: 124;SW: 111;;;1;;;
+Children;male speaker's child;mC;ńüoʔkü;нюоˮку;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 124;;;;3;;;A diminutive derivative of ńüo (Wagner-Nagy 2001: 149–150)
+Children;male speaker's son;mS;;;;;;;;;;;;;;;;
+Children;male speaker's daughter;mD;kobtua;кобтуа;;0;;;;Samoyed-specific, PS *kåptɜ 'Mädchen, Tochter';Kosterkina & Momde & Zhdanova 2001: 66;SW: 60;;;2;;;According to SW the Nganasan word is a derivation.
+Grandparents;male speaker's ancestor;mA;;;;;;;;;;;;;;;;
+Grandparents;male speaker's grandparent;mPP;;;;;;;;;;;;;;;;
+Grandparents;male speaker's father's father;mFF;iri;ири;;0;;;;Inherited, PU *ürä- 'big, old';Kosterkina & Momde & Zhdanova 2001: 58;Aikio 2020: 96–97;;;1;;;Aikio notes the Nganasan word with an exclamation point, perhaps because the word lacks a prothetic nasal ń- that should be present.
+Grandparents;male speaker's father's mother;mFM;imidʹi;имиди;;2;;;;Inherited, ? PU *ijmä 'older female relative';Kosterkina & Momde & Zhdanova 2001: 57;"SW: 27; Aikio 2020: 58–59";;;3;;;SW mentions that the Nganasan word is a derivation, but does not specify further, the vocative is imi. According to Aikio we might be dealing with an inherited word, but there are no parallels for *j > Ø / i_C and Samoyed might be borrowed from Khanty, cf. V Vj. imi  'old woman'. What seems to suggest Samoyed < Khanty is the fact that Nganasan lacks the prothetic nasal that is otherwise expected in inherited vocabulary.
+Grandparents;male speaker's mother's father;mMF;iri;ири;;0;;;;Inherited, PU *ürä- 'big, old';Kosterkina & Momde & Zhdanova 2001: 58;Aikio 2020: 96–97;;;1;;;Aikio notes the Nganasan word with an exclamation point, perhaps because the word lacks a prothetic nasal ń- that should be present.
+Grandparents;male speaker's mother's mother;mMM;imidʹi;имиди;;2;;;;Inherited, ? PU *ijmä 'older female relative';Kosterkina & Momde & Zhdanova 2001: 57;"SW: 27; Aikio 2020: 58–59";;;3;;;SW mentions that the Nganasan word is a derivation, but does not specify further, the vocative is imi. According to Aikio we might be dealing with an inherited word, but there are no parallels for *j > Ø / i_C and Samoyed might be borrowed from Khanty, cf. V Vj. imi  'old woman'. What seems to suggest Samoyed < Khanty is the fact that Nganasan lacks the prothetic nasal that is otherwise expected in inherited vocabulary.
+Grandchildren;male speaker's grandchild;mCC;ńüodʹe ńüo;нюоде нюо ;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 124;;;;5;;;
+Grandchildren;male speaker's son's son;mSS;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's son's daughter;mSD;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's son;mDS;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's daughter;mDD;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's brother;mFB;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's brother;mMB;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's sister;mMZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;iśi;иси;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;1;;;Also 'mother's or father's older sister's husband'. No etymology found in standard etymological sources for Ngan iśi. Considering that Ngan ś reflects earlier k before *i and *e, perhaps somehow connected to PU *ekä 'older male relative' (Aikio 2020: 42–43) or PKh *īkī 'old man' ~ *ǟkī 'father's or mother's older brother'.
+ParentsSiblings;male speaker's father's younger brother;mFyB;əʔə;ә”ә ;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 219;;;;1;;;No etymology.
+ParentsSiblings;male speaker's father's younger brother;mFyB;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem.
+ParentsSiblings;male speaker's father's older sister;mFeZ;kotu;коту;;0;;;;Inherited, PU *koska 'older female relative' (> PS *kåtå);Kosterkina & Momde & Zhdanova 2001: 70;"SW: 62; Zhivlov 2014: 137";;;1;;;Also 'mother's or father's older brother's wife'. 
+ParentsSiblings;male speaker's father's younger sister;mFyZ;abaʔa;абаˮа;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 17;;;;1;;;Also means 'mother' and 'father's younger sister', cf. mM and mFyZ. No etymology. The lack of prothetic nasal does suggest a word of recent origin. Perhaps has something to do with the Turkic word borrowed into Udmurt and Mari, e.g. Udm abi 'grandmother' etc.
+ParentsSiblings;male speaker's father's younger sister;mFyZ;ŋahu;ӈаху;;0;;;;Samoyed-specific, PS *äpå 'ältere Schwester';Kosterkina & Momde & Zhdanova 2001: 131;SW: 21;;;1;;;"Also 'father's younger sister'. In this respect symmetrical with ńini̮ 'older brother; father's younger brother'"
+ParentsSiblings;male speaker's mother's older sister;mMeZ;kotu;коту;;0;;;;Inherited, PU *koska 'older female relative' (> PS *kåtå);Kosterkina & Momde & Zhdanova 2001: 70;"SW: 62; Zhivlov 2014: 137";;;1;;;Also 'mother's or father's older brother's wife'
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;ŋaaga;ӈаага;;0;;;;Samoyed-specific, PS *äńaka 'aunt (mother's younger sister)';Kosterkina & Momde & Zhdanova 2001: 128;Aikio 2020: 19;;;2;;;Nganasan reflects a derivation on PS *äńa 'aunt', found for example NenT ńeja 'mother's younger sister'. The Samoyed word could perhaps even belong together with Mansi *ǟńǟ 'grandmother reflect PU *äńä, this according to Aikio is questionable due to anomalous vowel combination *ä-a in PS.
+ParentsSiblings;male speaker's mother's older brother;mMeB;iśi;иси;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;1;;;Also 'mother's or father's older sister's husband'. No etymology found in standard etymological sources for Ngan iśi. Considering that Ngan ś reflects earlier k before *i and *e, perhaps somehow connected to PU *ekä 'older male relative' (Aikio 2020: 42–43) or PKh *īkī 'old man' ~ *ǟkī 'father's or mother's older brother'.
+ParentsSiblings;male speaker's mother's younger brother;mMyB;ti̮ti̮dʹa;тытыдя;;0;;;;Inherited, PU *čečä 'uncle';Kosterkina & Momde & Zhdanova 2001: 183;"SW: 33; UEW: 34–35";;;3;;;According to SW the Nganasan word is a derivative, but doesn't specify further.
+SiblingsChildren;male speaker's brother's son;mBS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's daughter;mBD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's son;mZS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's daughter;mZD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's son;meBS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's son;meZS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;maŋkə;маӈкə;;0;;;;Samoyed-specific, PS *mäŋkə̑ 'Schwestersohn';Kosterkina & Momde & Zhdanova 2001: 95;SW: 90;;;1;;;The Nganasan word is not listed in SW, but it quite clearly is etymologically connected with for example Tundra Nenets мяңг 'older sister's child'. 
+Cousins;male speaker's father's sister's daughter;mFZD;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;male speaker's father's brother's daughter;mFBD;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;male speaker's mother's brother's daughter;mMBD;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;male speaker's mother's sister's daughter;mMZD;śüamu;сюаму;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 165;;;;1;;;No etymology.
+Cousins;male speaker's mother's sister's daughter;mMZD;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;male speaker's father's brother's son;mFBS;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem.
+Cousins;male speaker's father's brother's son;mFBS;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;male speaker's father's sister's son;mFZS;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem.
+Cousins;male speaker's father's sister's son;mFZS;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;male speaker's father's sister's son;mFZS;maŋkə;маӈкə;;0;;;;Samoyed-specific, PS *mäŋkə̑ 'Schwestersohn';Kosterkina & Momde & Zhdanova 2001: 95;SW: 90;;;1;;;The Nganasan word is not listed in SW, but it quite clearly is etymologically connected with for example Tundra Nenets мяңг 'older sister's child'. 
+Cousins;male speaker's mother's brother's son;mMBS;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem.
+Cousins;male speaker's mother's brother's son;mMBS;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;male speaker's mother's sister's son;mMZS;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem.
+Cousins;male speaker's mother's sister's son;mMZS;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;male speaker's mother's sister's son;mMZS;śüamu;сюаму;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 165;;;;1;;;No etymology.
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;;;;;;;;;;;;;;;;
+Affines;male speaker's husband;mH;bəjkaʔa;бәйка”а;;0;;;;Samoyed-specific, PS *wə̑js- 'Greis, Ehemann';Kosterkina & Momde & Zhdanova 2001: 29;SW: 169–170;;;3;;;"According to SW the Nganasan word is a derivative, but does not specify further. Means both 'old man; husband'."
+Affines;male speaker's husband;mH;bəjkuo;бәйкуо;;0;;;;Samoyed-specific, PS *wə̑js- 'Greis, Ehemann';Kosterkina & Momde & Zhdanova 2001: 29;SW: 169–170;;;3;;;"According to SW the Nganasan word is a derivative, but does not specify further. Means both 'old man; husband'."
+Affines;male speaker's husband;mH;kuodʹümu;куодюму;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 75;;;;2;;;Also 'man', perhaps connected to kuo- 'to die'. It may be a Siberian contact phenomenon with Indo-Iranian and Tocharian parallels, but the direction of borrowing is unclear (Peyrot 2019: 103)
+Affines;male speaker's husband;mH;bəbə čerə;бәбә черә;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 28;;;;4 or 5;;;"Seems to be either a compound or phrasal, bəbə 'место; постель, кровать' and čerə 'содержимое; житель'."
+Affines;male speaker's wife;mW;inïʔia;инi”иа ;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;1;;;Also 'старуха'
+Affines;male speaker's wife;mW;inïʔiaˮku;инi”иаˮку;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;3;;;Also 'старушка', a diminutive derivation on inïˮia 'wife'.
+Affines;male speaker's wife;mW;ńemi̮bti̮ʔi̮a;немыбтыˮыа;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 110;;;;3;;;"Possibly a derivation of ńemi̮ 'mother; female'"
+Affines;male speaker's wife;mW;bəbə čerə ni̮;бәбә черә ны;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 28;;;;4 or 5;;;Either a compound of phrasal or bəbə čerə 'husband' (itself either a compound or phrasal) and ni̮ 'woman'
+Affines;male speaker's husband's father;mHF;ŋinəbə;ӈинəбə;;0;;;;Inherited, PU *ëna-ëppə 'parents-in-law';Kosterkina & Momde & Zhdanova 2001: 133;Aikio 2020: 54;;;2;;;Synchronically opaque, but historically probably a copulative compound. In Nganasan both 'father-in-law' and 'mother-in-law', in other Samoyed languages 'father-in-law', and elsewhere in Uralic 'mother-in-law'.
+Affines;male speaker's husband's mother;mHM;ŋinəbə;ӈинəбə;;0;;;;Inherited, PU *ëna-ëppə 'parents-in-law';Kosterkina & Momde & Zhdanova 2001: 133;Aikio 2020: 54;;;2;;;Synchronically opaque, but historically probably a copulative compound. In Nganasan both 'father-in-law' and 'mother-in-law', in other Samoyed languages 'father-in-law', and elsewhere in Uralic 'mother-in-law'.
+Affines;male speaker's wife's father;mWF;ŋinəbə;ӈинəбə;;0;;;;Inherited, PU *ëna-ëppə 'parents-in-law';Kosterkina & Momde & Zhdanova 2001: 133;Aikio 2020: 54;;;2;;;Synchronically opaque, but historically probably a copulative compound. In Nganasan both 'father-in-law' and 'mother-in-law', in other Samoyed languages 'father-in-law', and elsewhere in Uralic 'mother-in-law'.
+Affines;male speaker's wife's mother;mWM;ŋinəbə;ӈинəбə;;0;;;;Inherited, PU *ëna-ëppə 'parents-in-law';Kosterkina & Momde & Zhdanova 2001: 133;Aikio 2020: 54;;;2;;;Synchronically opaque, but historically probably a copulative compound. In Nganasan both 'father-in-law' and 'mother-in-law', in other Samoyed languages 'father-in-law', and elsewhere in Uralic 'mother-in-law'.
+Affines;male speaker's brother's wife;mBW;;;;;;;;;;;;;;;;
+Affines;male speaker's younger brother's wife;myBW;miai;мяи;;0;;;;Inherited, PU *mińä 'daughter-in-law';Kosterkina & Momde & Zhdanova 2001: 106;"SW: 92; UEW: 276";;;1;;;Both 'daughter's husband' and 'younger brother's wife'
+Affines;male speaker's sister's husband;mZH;;;;;;;;;;;;;;;;
+Affines;male speaker's younger sister's husband;myZH;biŋi;биӈи;;0;;;;Inherited, PU *wäŋəw 'son-in-law';Kosterkina & Momde & Zhdanova 2001: 24;"SW: 176; UEW: 565–566";;;1;;;Both 'daughter's husband' and 'younger sister's husband'
+Affines;male speaker's wife's brother;mWB;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's sister;mWZ;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's brother;mHB;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's sister;mHZ;;;;;;;;;;;;;;;;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);ńemi̮ti̮;немыты;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 110;;;;3;;;Derived from ńemi̮ 'mother'
+Affines;male speaker's mother's husband (not father);mMH(notF);dʹedʹiʔti̮;дедиˮты;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 36;;;;3;;;Derived from dʹesi̮ 'father', 
+Affines;male speaker's son's wife;mSW;miai;мяи;;0;;;;Inherited, PU *mińä 'daughter-in-law';Kosterkina & Momde & Zhdanova 2001: 106;"SW: 92; UEW: 276";;;1;;;Both 'daughter's husband' and 'younger brother's wife'
+Affines;male speaker's son's wife's mother;mSWM;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife's father;mSWF;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband;mDH;biŋi;биӈи;;0;;;;Inherited, PU *wäŋəw 'son-in-law';Kosterkina & Momde & Zhdanova 2001: 24;"SW: 176; UEW: 565–566";;;1;;;Both 'daughter's husband' and 'younger sister's husband'
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;;;;;;;;;;;;;;;;
+Affines;male speaker's father's older sister's husband;mFeZH;iśi;иси;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;1;;;Also 'mother's or father's older sister's husband'. No etymology found in standard etymological sources for Ngan iśi. Considering that Ngan ś reflects earlier k before *i and *e, perhaps somehow connected to PU *ekä 'older male relative' (Aikio 2020: 42–43) or PKh *īkī 'old man' ~ *ǟkī 'father's or mother's older brother'.
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;
+Affines;male speaker's father's older brother's wife;mFeBW;kotu;коту;;0;;;;Inherited, PU *koska 'older female relative' (> PS *kåtå);Kosterkina & Momde & Zhdanova 2001: 70;"SW: 62; Zhivlov 2014: 137";;;1;;;
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's older sister's husband;mMeZH;iśi;иси;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;1;;;Also 'mother's or father's older sister's husband'. No etymology found in standard etymological sources for Ngan iśi. Considering that Ngan ś reflects earlier k before *i and *e, perhaps somehow connected to PU *ekä 'older male relative' (Aikio 2020: 42–43) or PKh *īkī 'old man' ~ *ǟkī 'father's or mother's older brother'.
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's older brother's wife;mMeBW;kotu;коту;;0;;;;Inherited, PU *koska 'older female relative' (> PS *kåtå);Kosterkina & Momde & Zhdanova 2001: 70;"SW: 62; Zhivlov 2014: 137";;;1;;;
+Siblings;female speaker's sibling;fG;;;;;;;;;;;;;;;;
+Siblings;female speaker's brother;fB;;;;;;;;;;;;;;;;
+Siblings;female speaker's sister;fZ;;;;;;;;;;;;;;;;
+Siblings;female speaker's elder brother;feB;əʔə;ә”ә ;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 219;;;;1;;;No etymology.
+Siblings;female speaker's elder brother;feB;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem. The Samoyed word has also sometimes been considered a Turkic loanword of AT ini 'younger brother' (Róna-Tas 1988: 743).
+Siblings;female speaker's younger brother;fyB;ŋaaŋku;ӈааӈку;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;No etymology.
+Siblings;female speaker's younger brother;fyB;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Siblings;female speaker's elder sister;feZ;ŋahu;ӈаху;;0;;;;Samoyed-specific, PS *äpå 'ältere Schwester';Kosterkina & Momde & Zhdanova 2001: 131;SW: 21;;;1;;;"Also 'father's younger sister'. In this respect symmetrical with ńini̮ 'older brother; father's younger brother'"
+Siblings;female speaker's elder sister;feZ;abaʔa;абаˮа;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 17;;;;1;;;Also means 'mother' and 'father's younger sister', cf. mM and mFyZ. No etymology. The lack of prothetic nasal does suggest a word of recent origin. Perhaps has something to do with the Turkic word borrowed into Udmurt and Mari, e.g. Udm abi 'grandmother' etc.
+Siblings;female speaker's younger sister;fyZ;ŋaaŋku;ӈааӈку;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;No etymology.
+Siblings;female speaker's younger sister;fyZ;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Parents;female speaker's parent;fP;dʹesi̮-ńemi̮;десы-немы;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 40;;;;4;;;A collective compound consisting of dʹesi̮ 'father' and ńemi̮ 'mother'. Similar constructions exist in other Uralic languages, although the specific words can be of different origin. Plural 'родители'.
+Parents;female speaker's father;fF;dʹesi̮;десы;;0;;;;Nganasan-specific / Inherited, PU ? *äjćä 'father';Kosterkina & Momde & Zhdanova 2001: 40;Aikio 2020: 30–32;;;1;;;Nganasan is peculiar in that it alone points to PS *jäsä (< PU *jäćä) while than other Samoyed languages reflect PS *äjsä (< PU *äjćä). Usually thought to be an inherited word, although reconstructing a singular proto-form for all the Uralic words seems to be impossible.
+Parents;female speaker's father;fF;idʹaʔa;идяˮа;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 57;;;;1;;;
+Parents;female speaker's mother;fM;abaʔa;абаˮа;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 17;;;;1;;;Also means 'mother' and 'father's younger sister', cf. mM and mFyZ. No etymology. The lack of prothetic nasal does suggest a word of recent origin. Perhaps has something to do with the Turkic word borrowed into Udmurt and Mari, e.g. Udm abi 'grandmother' etc.
+Parents;female speaker's mother;fM;ńemi̮;немы;;0;;;;Inherited, PU *emä / *ämä 'mother';Kosterkina & Momde & Zhdanova 2001: 110;Aikio 2020: 44–45;;;1;;;Samoyed together with Hungarian points to PU *ämä, Sami and Finnic to PU emä. 
+Children;female speaker's child;fC;ńüo;нюо;;0;;;;"Samoyed-specific, PS *ńuə̑ 'Kind; Junges'";Kosterkina & Momde & Zhdanova 2001: 124;SW: 111;;;1;;;
+Children;female speaker's child;fC;ńüoʔkü;нюоˮку;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 124;;;;3;;;A diminutive derivative of ńüo (Wagner-Nagy 2001: 149–150)
+Children;female speaker's son;fS;;;;;;;;;;;;;;;;
+Children;female speaker's daughter;fD;kobtua;кобтуа;;0;;;;Samoyed-specific, PS *kåptɜ 'Mädchen, Tochter';Kosterkina & Momde & Zhdanova 2001: 66;SW: 60;;;2;;;According to SW the Nganasan word is a derivation.
+Grandparents;female speaker's ancestor;fA;;;;;;;;;;;;;;;;
+Grandparents;female speaker's grandparent;fPP;;;;;;;;;;;;;;;;
+Grandparents;female speaker's father's father;fFF;iri;ири;;0;;;;Inherited, PU *ürä- 'big, old';Kosterkina & Momde & Zhdanova 2001: 58;Aikio 2020: 96–97;;;1;;;Aikio notes the Nganasan word with an exclamation point, perhaps because the word lacks a prothetic nasal ń- that should be present.
+Grandparents;female speaker's father's mother;fFM;imidʹi;имиди;;2;;;;Inherited, ? PU *ijmä 'older female relative';Kosterkina & Momde & Zhdanova 2001: 57;"SW: 27; Aikio 2020: 58–59";;;3;;;SW mentions that the Nganasan word is a derivation, but does not specify further, the vocative is imi. According to Aikio we might be dealing with an inherited word, but there are no parallels for *j > Ø / i_C and Samoyed might be borrowed from Khanty, cf. V Vj. imi  'old woman'. What seems to suggest Samoyed < Khanty is the fact that Nganasan lacks the prothetic nasal that is otherwise expected in inherited vocabulary.
+Grandparents;female speaker's mother's father;fMF;iri;ири;;0;;;;Inherited, PU *ürä- 'big, old';Kosterkina & Momde & Zhdanova 2001: 58;Aikio 2020: 96–97;;;1;;;Aikio notes the Nganasan word with an exclamation point, perhaps because the word lacks a prothetic nasal ń- that should be present.
+Grandparents;female speaker's mother's mother;fMM;imidʹi;имиди;;2;;;;Inherited, ? PU *ijmä 'older female relative';Kosterkina & Momde & Zhdanova 2001: 57;"SW: 27; Aikio 2020: 58–59";;;3;;;SW mentions that the Nganasan word is a derivation, but does not specify further, the vocative is imi. According to Aikio we might be dealing with an inherited word, but there are no parallels for *j > Ø / i_C and Samoyed might be borrowed from Khanty, cf. V Vj. imi  'old woman'. What seems to suggest Samoyed < Khanty is the fact that Nganasan lacks the prothetic nasal that is otherwise expected in inherited vocabulary.
+Grandchildren;female speaker's grandchild;fCC;ńüodʹe ńüo;нюоде нюо ;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 124;;;;5;;;
+Grandchildren;female speaker's son's son;fSS;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's son's daughter;fSD;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's son;fDS;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's daughter;fDD;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's brother;fFB;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's brother;fMB;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's sister;fMZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;iśi;иси;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;1;;;Also 'mother's or father's older sister's husband'. No etymology found in standard etymological sources for Ngan iśi. Considering that Ngan ś reflects earlier k before *i and *e, perhaps somehow connected to PU *ekä 'older male relative' (Aikio 2020: 42–43) or PKh *īkī 'old man' ~ *ǟkī 'father's or mother's older brother'.
+ParentsSiblings;female speaker's father's younger brother;fFyB;əʔə;ә”ә ;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 219;;;;1;;;No etymology.
+ParentsSiblings;female speaker's father's younger brother;fFyB;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem.
+ParentsSiblings;female speaker's father's older sister;fFeZ;kotu;коту;;0;;;;Inherited, PU *koska 'older female relative' (> PS *kåtå);Kosterkina & Momde & Zhdanova 2001: 70;"SW: 62; Zhivlov 2014: 137";;;1;;;Also 'mother's or father's older brother's wife'. 
+ParentsSiblings;female speaker's father's younger sister;fFyZ;abaʔa;абаˮа;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 17;;;;1;;;Also means 'mother' and 'father's younger sister', cf. mM and mFyZ. No etymology. The lack of prothetic nasal does suggest a word of recent origin. Perhaps has something to do with the Turkic word borrowed into Udmurt and Mari, e.g. Udm abi 'grandmother' etc.
+ParentsSiblings;female speaker's father's younger sister;fFyZ;ŋahu;ӈаху;;0;;;;Samoyed-specific, PS *äpå 'ältere Schwester';Kosterkina & Momde & Zhdanova 2001: 131;SW: 21;;;1;;;"Also 'father's younger sister'. In this respect symmetrical with ńini̮ 'older brother; father's younger brother'"
+ParentsSiblings;female speaker's mother's older sister;fMeZ;kotu;коту;;0;;;;Inherited, PU *koska 'older female relative' (> PS *kåtå);Kosterkina & Momde & Zhdanova 2001: 70;"SW: 62; Zhivlov 2014: 137";;;1;;;Also 'mother's or father's older brother's wife'
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;ŋaaga;ӈаага;;0;;;;Samoyed-specific, PS *äńaka 'aunt (mother's younger sister)';Kosterkina & Momde & Zhdanova 2001: 128;Aikio 2020: 19;;;2;;;Nganasan reflects a derivation on PS *äńa 'aunt', found for example NenT ńeja 'mother's younger sister'. The Samoyed word could perhaps even belong together with Mansi *ǟńǟ 'grandmother reflect PU *äńä, this according to Aikio is questionable due to anomalous vowel combination *ä-a in PS.
+ParentsSiblings;female speaker's mother's older brother;fMeB;iśi;иси;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;1;;;Also 'mother's or father's older sister's husband'. No etymology found in standard etymological sources for Ngan iśi. Considering that Ngan ś reflects earlier k before *i and *e, perhaps somehow connected to PU *ekä 'older male relative' (Aikio 2020: 42–43) or PKh *īkī 'old man' ~ *ǟkī 'father's or mother's older brother'.
+ParentsSiblings;female speaker's mother's younger brother;fMyB;ti̮ti̮dʹa;тытыдя;;0;;;;Inherited, PU *čečä 'uncle';Kosterkina & Momde & Zhdanova 2001: 183;"SW: 33; UEW: 34–35";;;3;;;According to SW the Nganasan word is a derivative, but doesn't specify further.
+SiblingsChildren;female speaker's brother's son;fBS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's daughter;fBD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's son;fZS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's daughter;fZD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's sister's daughter;fFZD;maŋkə;маӈкə;;0;;;;Samoyed-specific, PS *mäŋkə̑ 'Schwestersohn';Kosterkina & Momde & Zhdanova 2001: 95;SW: 90;;;1;;;The Nganasan word is not listed in SW, but it quite clearly is etymologically connected with for example Tundra Nenets мяңг 'older sister's child'. 
+Cousins;female speaker's father's sister's daughter;fFZD;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;female speaker's father's brother's daughter;fFBD;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;female speaker's mother's brother's daughter;fMBD;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;female speaker's mother's sister's daughter;fMZD;śüamu;сюаму;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 165;;;;1;;;No etymology.
+Cousins;female speaker's mother's sister's daughter;fMZD;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;female speaker's father's brother's son;fFBS;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem.
+Cousins;female speaker's father's brother's son;fFBS;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;female speaker's father's sister's son;fFZS;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem.
+Cousins;female speaker's father's sister's son;fFZS;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;female speaker's father's sister's son;fFZS;maŋkə;маӈкə;;0;;;;Samoyed-specific, PS *mäŋkə̑ 'Schwestersohn';Kosterkina & Momde & Zhdanova 2001: 95;SW: 90;;;1;;;The Nganasan word is not listed in SW, but it quite clearly is etymologically connected with for example Tundra Nenets мяңг 'older sister's child'. 
+Cousins;female speaker's mother's brother's son;fMBS;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem.
+Cousins;female speaker's mother's brother's son;fMBS;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;female speaker's mother's sister's son;fMZS;ńini̮;нины;;0;;;;Inherited, PU *enä 'big';Kosterkina & Momde & Zhdanova 2001: 116;Aikio 2020: 45–47;;;1;;;It it perhaps noteworthy that PF *ënoi 'maternal uncle' is a derivation of the same stem.
+Cousins;female speaker's mother's sister's son;fMZS;ŋadʹa;ӈадя;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 128;;;;1;;;Both 'younger brother' and 'younger sister' as well as 'younger cousin of both sexes'. No etymology.
+Cousins;female speaker's mother's sister's son;fMZS;śüamu;сюаму;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 165;;;;1;;;No etymology.
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;;;;;;;;;;;;;;;;
+Affines;female speaker's husband;fH;bəjkaʔa;бәйка”а;;0;;;;Samoyed-specific, PS *wə̑js- 'Greis, Ehemann';Kosterkina & Momde & Zhdanova 2001: 29;SW: 169–170;;;3;;;"According to SW the Nganasan word is a derivative, but does not specify further. Means both 'old man; husband'."
+Affines;female speaker's husband;fH;bəjkuo;бәйкуо;;0;;;;Samoyed-specific, PS *wə̑js- 'Greis, Ehemann';Kosterkina & Momde & Zhdanova 2001: 29;SW: 169–170;;;3;;;"According to SW the Nganasan word is a derivative, but does not specify further. Means both 'old man; husband'."
+Affines;female speaker's husband;fH;kuodʹümu;куодюму;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 75;;;;2;;;Also 'man', perhaps connected to kuo- 'to die'. It may be a Siberian contact phenomenon with Indo-Iranian and Tocharian parallels, but the direction of borrowing is unclear (Peyrot 2019: 103)
+Affines;female speaker's husband;fH;bəbə čerə;бәбә черә;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 28;;;;4 or 5;;;"Seems to be either a compound or phrasal, bəbə 'место; постель, кровать' and čerə 'содержимое; житель'."
+Affines;female speaker's wife;fW;inïʔia;инi”иа ;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;1;;;Also 'старуха'
+Affines;female speaker's wife;fW;inïʔiaˮku;инi”иаˮку;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;3;;;Also 'старушка', a diminutive derivation on inïˮia 'wife'.
+Affines;female speaker's wife;fW;ńemi̮bti̮ʔi̮a;немыбтыˮыа;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 110;;;;3;;;"Possibly a derivation of ńemi̮ 'mother; female'"
+Affines;female speaker's wife;fW;bəbə čerə ni̮;бәбә черә ны;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 28;;;;4 or 5;;;Either a compound of phrasal or bəbə čerə 'husband' (itself either a compound or phrasal) and ni̮ 'woman'
+Affines;female speaker's husband's father;fHF;ŋinəbə;ӈинəбə;;0;;;;Inherited, PU *ëna-ëppə 'parents-in-law';Kosterkina & Momde & Zhdanova 2001: 133;Aikio 2020: 54;;;2;;;Synchronically opaque, but historically probably a copulative compound. In Nganasan both 'father-in-law' and 'mother-in-law', in other Samoyed languages 'father-in-law', and elsewhere in Uralic 'mother-in-law'.
+Affines;female speaker's husband's mother;fHM;ŋinəbə;ӈинəбə;;0;;;;Inherited, PU *ëna-ëppə 'parents-in-law';Kosterkina & Momde & Zhdanova 2001: 133;Aikio 2020: 54;;;2;;;Synchronically opaque, but historically probably a copulative compound. In Nganasan both 'father-in-law' and 'mother-in-law', in other Samoyed languages 'father-in-law', and elsewhere in Uralic 'mother-in-law'.
+Affines;female speaker's wife's father;fWF;ŋinəbə;ӈинəбə;;0;;;;Inherited, PU *ëna-ëppə 'parents-in-law';Kosterkina & Momde & Zhdanova 2001: 133;Aikio 2020: 54;;;2;;;Synchronically opaque, but historically probably a copulative compound. In Nganasan both 'father-in-law' and 'mother-in-law', in other Samoyed languages 'father-in-law', and elsewhere in Uralic 'mother-in-law'.
+Affines;female speaker's wife's mother;fWM;ŋinəbə;ӈинəбə;;0;;;;Inherited, PU *ëna-ëppə 'parents-in-law';Kosterkina & Momde & Zhdanova 2001: 133;Aikio 2020: 54;;;2;;;Synchronically opaque, but historically probably a copulative compound. In Nganasan both 'father-in-law' and 'mother-in-law', in other Samoyed languages 'father-in-law', and elsewhere in Uralic 'mother-in-law'.
+Affines;female speaker's brother's wife;fBW;;;;;;;;;;;;;;;;
+Affines;female speaker's younger brother's wife;fyBW;miai;мяи;;0;;;;Inherited, PU *mińä 'daughter-in-law';Kosterkina & Momde & Zhdanova 2001: 106;"SW: 92; UEW: 276";;;1;;;Both 'daughter's husband' and 'younger brother's wife'
+Affines;female speaker's sister's husband;fZH;;;;;;;;;;;;;;;;
+Affines;female speaker's younger sister's husband;fyZH;biŋi;биӈи;;0;;;;Inherited, PU *wäŋəw 'son-in-law';Kosterkina & Momde & Zhdanova 2001: 24;"SW: 176; UEW: 565–566";;;1;;;Both 'daughter's husband' and 'younger sister's husband'
+Affines;female speaker's wife's brother;fWB;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's sister;fWZ;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's brother;fHB;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's sister;fHZ;;;;;;;;;;;;;;;;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);ńemi̮ti̮;немыты;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 110;;;;3;;;Derived from ńemi̮ 'mother'
+Affines;female speaker's wife's husband (not father);fMH(notF);dʹedʹiʔti̮;дедиˮты;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 36;;;;3;;;Derived from dʹesi̮ 'father', 
+Affines;female speaker's son's wife;fSW;miai;мяи;;0;;;;Inherited, PU *mińä 'daughter-in-law';Kosterkina & Momde & Zhdanova 2001: 106;"SW: 92; UEW: 276";;;1;;;Both 'daughter's husband' and 'younger brother's wife'
+Affines;female speaker's son's wife's mother;fSWM;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife's father;fSWF;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband;fDH;biŋi;биӈи;;0;;;;Inherited, PU *wäŋəw 'son-in-law';Kosterkina & Momde & Zhdanova 2001: 24;"SW: 176; UEW: 565–566";;;1;;;Both 'daughter's husband' and 'younger sister's husband'
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;;;;;;;;;;;;;;;;
+Affines;female speaker's father's older sister's husband;fFeZH;iśi;иси;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;1;;;Also 'mother's or father's older sister's husband'. No etymology found in standard etymological sources for Ngan iśi. Considering that Ngan ś reflects earlier k before *i and *e, perhaps somehow connected to PU *ekä 'older male relative' (Aikio 2020: 42–43) or PKh *īkī 'old man' ~ *ǟkī 'father's or mother's older brother'.
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;
+Affines;female speaker's father's older brother's wife;fFeBW;kotu;коту;;0;;;;Inherited, PU *koska 'older female relative' (> PS *kåtå);Kosterkina & Momde & Zhdanova 2001: 70;"SW: 62; Zhivlov 2014: 137";;;1;;;
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's older sister's husband;fMeZH;iśi;иси;;0;;;;Nganasan-specific;Kosterkina & Momde & Zhdanova 2001: 58;;;;1;;;Also 'mother's or father's older sister's husband'. No etymology found in standard etymological sources for Ngan iśi. Considering that Ngan ś reflects earlier k before *i and *e, perhaps somehow connected to PU *ekä 'older male relative' (Aikio 2020: 42–43) or PKh *īkī 'old man' ~ *ǟkī 'father's or mother's older brother'.
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's older brother's wife;fMeBW;kotu;коту;;0;;;;Inherited, PU *koska 'older female relative' (> PS *kåtå);Kosterkina & Momde & Zhdanova 2001: 70;"SW: 62; Zhivlov 2014: 137";;;1;;;

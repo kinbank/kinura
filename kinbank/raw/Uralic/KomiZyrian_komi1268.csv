@@ -1,315 +1,311 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","ćoj-vok",,,"ćoja-voka",,"KRS",""
-"mB","vok",,,"",,"KRS",""
-"mZ","ćoj",,,"",,"KRS",""
-"mZ","soć",,,"",,"KRS",""
-"meB","",,,"",,"",""
-"myB","",,,"",,"",""
-"meZ","",,,"",,"",""
-"myZ","",,,"",,"",""
-"mP","batʹ-mam",,,"mam-batʹ",,"KRS",""
-"mP","aj-mam",,,"",,"KRS",""
-"mF","batʹ",,,"",,"KRS",""
-"mF","aj",,,"",,"KRS",""
-"mM","mam",,,"",,"KRS",""
-"mC","ćelʹadʹ",,,"",,"KRS",""
-"mC","ji̮le̮m",,,"",,"KRS",""
-"mC","kaga",,,"",,"KRS",""
-"mC","ni̮vpi",,,"",,"KRS",""
-"mS","pi",,,"",,"KRS",""
-"mD","ni̮v",,,"",,"KRS",""
-"mA","pe̮lʹjas",,,"",,"KRS","only in plural"
-"mA","pe̮ri̮ś pe̮lʹ",,,"",,"KRS",""
-"mA","pe̮ri̮ś pe̮ć",,,"",,"KRS",""
-"mPP","pe̮lʹ-pe̮ć",,,"",,"KRS",""
-"mFF","pe̮lʹ",,,"",,"KRS",""
-"mFF","dʹed",,,"",,"KRS",""
-"mFM","pe̮ć",,,"",,"KRS",""
-"mFM","bab",,,"",,"KRS",""
-"mMF","i̮ǯi̮d aj",,,"",,"KRS",""
-"mMF","dʹed",,,"",,"KRS",""
-"mMM","i̮ǯi̮d mam",,,"",,"KRS",""
-"mMM","bab",,,"",,"KRS",""
-"mCC","vnuk",,,"",,"KRS","male grandchild"
-"mCC","vnučka",,,"",,"KRS","female grandchild"
-"mCC","pe̮lʹe̮n šui̮ś",,,"",,"KRS",""
-"mCC","pe̮će̮n šui̮ś",,,"",,"KRS",""
-"mCC","dʹede̮n šui̮ś",,,"",,"KRS",""
-"mCC","babe̮n šui̮ś",,,"",,"KRS",""
-"mSS","",,,"",,"",""
-"mSD","",,,"",,"",""
-"mDS","",,,"",,"",""
-"mDD","",,,"",,"",""
-"mFB","dʹadʹ",,,"",,"KRS",""
-"mFZ","ob",,,"",,"KRS",""
-"mFZ","tʹe̮t",,,"tʹe̮tka",,"KRS",""
-"mMB","ćož",,,"",,"KRS",""
-"mMB","dʹadʹ",,,"",,"KRS",""
-"mMZ","ićiń",,,"",,"KRS",""
-"mMZ","tʹe̮t",,,"tʹe̮tka",,"KRS",""
-"mFeB","unaj",,,"",,"KRS",""
-"mFyB","",,,"",,"",""
-"mFeZ","",,,"",,"",""
-"mFyZ","",,,"",,"",""
-"mMeZ","un",,,"",,"KRS",""
-"mMyZ","",,,"",,"",""
-"mMeB","",,,"",,"",""
-"mMyB","",,,"",,"",""
-"mBS","plemjannik",,,"",,"KRS",""
-"mBS","voća pi",,,"",,"KRS",""
-"mBS","vokle̮n pi",,,"",,"KRS",""
-"mBS","dʹadʹe̮n šui̮ś",,,"",,"KRS",""
-"mBD","plemjannića",,,"",,"KRS",""
-"mBD","vokle̮n ni̮v",,,"",,"KRS",""
-"mBD","dʹadʹe̮n šui̮ś",,,"",,"KRS",""
-"mZS","plemjannik",,,"",,"KRS",""
-"mZS","voća pi",,,"",,"KRS",""
-"mZS","ćojle̮n pi",,,"",,"KRS",""
-"mZS","ćože̮n šui̮ś",,,"",,"KRS",""
-"mZD","plemjannića",,,"",,"KRS",""
-"mZD","ćojle̮n ni̮v",,,"",,"KRS",""
-"mZD","ćože̮n šui̮ś",,,"",,"KRS",""
-"mZD","dʹadʹe̮n šui̮ś",,,"",,"KRS",""
-"meBS","",,,"",,"",""
-"myBS","",,,"",,"",""
-"meBD","",,,"",,"",""
-"myBD","",,,"",,"",""
-"meZS","",,,"",,"",""
-"myZS","",,,"",,"",""
-"meZD","",,,"",,"",""
-"myZD","",,,"",,"",""
-"mFZD","voća ćoj",,,"",,"KRS",""
-"mFBD","voća ćoj",,,"",,"KRS",""
-"mMBD","voća ćoj",,,"",,"KRS",""
-"mMZD","voća ćoj",,,"",,"KRS",""
-"mFBS","voća vok",,,"",,"KRS",""
-"mFBS","bratan",,,"",,"KRS",""
-"mFBS","vokan",,,"",,"KRS",""
-"mFZS","voća vok",,,"",,"KRS",""
-"mFZS","bratan",,,"",,"KRS",""
-"mFZS","vokan",,,"",,"KRS",""
-"mMBS","voća vok",,,"",,"KRS",""
-"mMBS","bratan",,,"",,"KRS",""
-"mMBS","vokan",,,"",,"KRS",""
-"mMZS","voća vok",,,"",,"KRS",""
-"mMZS","bratan",,,"",,"KRS",""
-"mMZS","vokan",,,"",,"KRS",""
-"mFeBS","",,,"",,"",""
-"mFyBS","",,,"",,"",""
-"mFeZS","",,,"",,"",""
-"mFyZS","",,,"",,"",""
-"mFeBD","",,,"",,"",""
-"mFyBD","",,,"",,"",""
-"mFeZD","",,,"",,"",""
-"mFyZD","",,,"",,"",""
-"mMeBS","",,,"",,"",""
-"mMyBS","",,,"",,"",""
-"mMeZS","",,,"",,"",""
-"mMyZS","",,,"",,"",""
-"mMeBD","",,,"",,"",""
-"mMyBD","",,,"",,"",""
-"mMeZD","",,,"",,"",""
-"mMyZD","",,,"",,"",""
-"mFBeS","",,,"",,"",""
-"mFByS","",,,"",,"",""
-"mFZeS","",,,"",,"",""
-"mFZyS","",,,"",,"",""
-"mFBeD","",,,"",,"",""
-"mFByD","",,,"",,"",""
-"mFZeD","",,,"",,"",""
-"mFZyD","",,,"",,"",""
-"mMBeS","",,,"",,"",""
-"mMByS","",,,"",,"",""
-"mMZeS","",,,"",,"",""
-"mMZyS","",,,"",,"",""
-"mMBeD","",,,"",,"",""
-"mMByD","",,,"",,"",""
-"mMZeD","",,,"",,"",""
-"mMZyD","",,,"",,"",""
-"mE","gozja",,,"",,"KRS",""
-"mH","vere̮s",,,"",,"KRS",""
-"mW","ge̮ti̮r",,,"",,"KRS",""
-"mHF","ajka",,,"",,"KRS",""
-"mHM","eńka",,,"ińka",,"KRS",""
-"mWF","tʹestʹ",,,"",,"KRS",""
-"mWM","tʹe̮š́a",,,"",,"KRS",""
-"mBW","ońa",,,"",,"KRS",""
-"mBW","kev",,,"",,"KRS",""
-"mBW","moń",,,"",,"KRS",""
-"mZH","źatʹ",,,"",,"KRS",""
-"mWB","šurin",,,"",,"KRS",""
-"mWZ","svestʹa",,,"",,"KRS",""
-"mHB","piver",,,"",,"KRS",""
-"mHZ","ajani̮v",,,"",,"KRS",""
-"mco-W","",,,"",,"",""
-"mco-H","",,,"",,"",""
-"mFW(notM)","ićiń",,,"",,"KRS",""
-"mFW(notM)","tʹe̮t",,,"",,"KRS",""
-"mMH(notF)","dʹadʹ",,,"",,"KRS",""
-"mSW","moń",,,"",,"KRS",""
-"mSWM","",,,"",,"",""
-"mSWF","",,,"",,"",""
-"mDH","źatʹ",,,"",,"KRS",""
-"mDHM","",,,"",,"",""
-"mDHF","",,,"",,"",""
-"mFZH","dʹadʹ",,,"",,"KRS",""
-"mFBW","",,,"",,"",""
-"mMZH","dʹadʹ",,,"",,"KRS",""
-"mMBW","",,,"",,"",""
-"fG","ćoj-vok",,,"ćoja-voka",,"KRS",""
-"fB","vok",,,"",,"KRS",""
-"fZ","ćoj",,,"",,"KRS",""
-"fZ","soć",,,"",,"KRS",""
-"feB","",,,"",,"",""
-"fyB","",,,"",,"",""
-"feZ","",,,"",,"",""
-"fyZ","",,,"",,"",""
-"fP","batʹ-mam",,,"mam-batʹ",,"KRS",""
-"fP","aj-mam",,,"",,"KRS",""
-"fF","batʹ",,,"",,"KRS",""
-"fF","aj",,,"",,"KRS",""
-"fM","mam",,,"",,"KRS",""
-"fC","ćelʹadʹ",,,"",,"KRS",""
-"fC","ji̮le̮m",,,"",,"KRS",""
-"fC","kaga",,,"",,"KRS",""
-"fC","ni̮vpi",,,"",,"KRS",""
-"fS","pi",,,"",,"KRS",""
-"fD","ni̮v",,,"",,"KRS",""
-"fA","pe̮lʹjas",,,"",,"KRS","only in plural"
-"fA","pe̮ri̮ś pe̮lʹ",,,"",,"KRS",""
-"fA","pe̮ri̮ś pe̮ć",,,"",,"KRS",""
-"fPP","pe̮lʹ-pe̮ć",,,"",,"KRS",""
-"fFF","pe̮lʹ",,,"",,"KRS",""
-"fFF","dʹed",,,"",,"KRS",""
-"fFM","pe̮ć",,,"",,"KRS",""
-"fFM","bab",,,"",,"KRS",""
-"fMF","i̮ǯi̮d aj",,,"",,"KRS",""
-"fMF","dʹed",,,"",,"KRS",""
-"fMM","i̮ǯi̮d mam",,,"",,"KRS",""
-"fMM","bab",,,"",,"KRS",""
-"fCC","vnuk",,,"",,"KRS","male grandchild"
-"fCC","vnučka",,,"",,"KRS","female grandchild"
-"fCC","pe̮lʹe̮n šui̮ś",,,"",,"KRS",""
-"fCC","pe̮će̮n šui̮ś",,,"",,"KRS",""
-"fCC","dʹede̮n šui̮ś",,,"",,"KRS",""
-"fCC","babe̮n šui̮ś",,,"",,"KRS",""
-"fSS","",,,"",,"",""
-"fSD","",,,"",,"",""
-"fDS","",,,"",,"",""
-"fDD","",,,"",,"",""
-"fFB","dʹadʹ",,,"",,"KRS",""
-"fFZ","ob",,,"",,"KRS",""
-"fFZ","tʹe̮t",,,"tʹe̮tka",,"KRS",""
-"fMB","ćož",,,"",,"KRS",""
-"fMB","dʹadʹ",,,"",,"KRS",""
-"fMZ","ićiń",,,"",,"KRS",""
-"fMZ","tʹe̮t",,,"tʹe̮tka",,"KRS",""
-"fFeB","unaj",,,"",,"KRS",""
-"fFyB","",,,"",,"",""
-"fFeZ","",,,"",,"",""
-"fFyZ","",,,"",,"",""
-"fMeZ","un",,,"",,"KRS",""
-"fMyZ","",,,"",,"",""
-"fMeB","",,,"",,"",""
-"fMyB","",,,"",,"",""
-"fBS","plemjannik",,,"",,"KRS",""
-"fBS","voća pi",,,"",,"KRS",""
-"fBS","vokle̮n pi",,,"",,"KRS",""
-"fBS","dʹadʹe̮n šui̮ś",,,"",,"KRS",""
-"fBD","plemjannića",,,"",,"KRS",""
-"fBD","vokle̮n ni̮v",,,"",,"KRS",""
-"fBD","dʹadʹe̮n šui̮ś",,,"",,"KRS",""
-"fZS","plemjannik",,,"",,"KRS",""
-"fZS","voća pi",,,"",,"KRS",""
-"fZS","ćojle̮n pi",,,"",,"KRS",""
-"fZS","ćože̮n šui̮ś",,,"",,"KRS",""
-"fZD","plemjannića",,,"",,"KRS",""
-"fZD","ćojle̮n ni̮v",,,"",,"KRS",""
-"fZD","ćože̮n šui̮ś",,,"",,"KRS",""
-"fZD","dʹadʹe̮n šui̮ś",,,"",,"KRS",""
-"feBS","",,,"",,"",""
-"fyBS","",,,"",,"",""
-"feBD","",,,"",,"",""
-"fyBD","",,,"",,"",""
-"feZS","",,,"",,"",""
-"fyZS","",,,"",,"",""
-"feZD","",,,"",,"",""
-"fyZD","",,,"",,"",""
-"fFZD","voća ćoj",,,"",,"KRS",""
-"fFBD","voća ćoj",,,"",,"KRS",""
-"fMBD","voća ćoj",,,"",,"KRS",""
-"fMZD","voća ćoj",,,"",,"KRS",""
-"fFBS","voća vok",,,"",,"KRS",""
-"fFBS","bratan",,,"",,"KRS",""
-"fFBS","vokan",,,"",,"KRS",""
-"fFZS","voća vok",,,"",,"KRS",""
-"fFZS","bratan",,,"",,"KRS",""
-"fFZS","vokan",,,"",,"KRS",""
-"fMBS","voća vok",,,"",,"KRS",""
-"fMBS","bratan",,,"",,"KRS",""
-"fMBS","vokan",,,"",,"KRS",""
-"fMZS","voća vok",,,"",,"KRS",""
-"fMZS","bratan",,,"",,"KRS",""
-"fMZS","vokan",,,"",,"KRS",""
-"fFeBS","",,,"",,"",""
-"fFyBS","",,,"",,"",""
-"fFeZS","",,,"",,"",""
-"fFyZS","",,,"",,"",""
-"fFeBD","",,,"",,"",""
-"fFyBD","",,,"",,"",""
-"fFeZD","",,,"",,"",""
-"fFyZD","",,,"",,"",""
-"fMeBS","",,,"",,"",""
-"fMyBS","",,,"",,"",""
-"fMeZS","",,,"",,"",""
-"fMyZS","",,,"",,"",""
-"fMeBD","",,,"",,"",""
-"fMyBD","",,,"",,"",""
-"fMeZD","",,,"",,"",""
-"fMyZD","",,,"",,"",""
-"fFBeS","",,,"",,"",""
-"fFByS","",,,"",,"",""
-"fFZeS","",,,"",,"",""
-"fFZyS","",,,"",,"",""
-"fFBeD","",,,"",,"",""
-"fFByD","",,,"",,"",""
-"fFZeD","",,,"",,"",""
-"fFZyD","",,,"",,"",""
-"fMBeS","",,,"",,"",""
-"fMByS","",,,"",,"",""
-"fMZeS","",,,"",,"",""
-"fMZyS","",,,"",,"",""
-"fMBeD","",,,"",,"",""
-"fMByD","",,,"",,"",""
-"fMZeD","",,,"",,"",""
-"fMZyD","",,,"",,"",""
-"fE","gozja",,,"",,"KRS",""
-"fH","vere̮s",,,"",,"KRS",""
-"fW","ge̮ti̮r",,,"",,"KRS",""
-"fHF","ajka",,,"",,"KRS",""
-"fHM","eńka",,,"ińka",,"KRS",""
-"fWF","tʹestʹ",,,"",,"KRS",""
-"fWM","tʹe̮š́a",,,"",,"KRS",""
-"fBW","ońa",,,"",,"KRS",""
-"fBW","kev",,,"",,"KRS",""
-"fBW","moń",,,"",,"KRS",""
-"fZH","źatʹ",,,"",,"KRS",""
-"fWB","šurin",,,"",,"KRS",""
-"fWZ","svestʹa",,,"",,"KRS",""
-"fHB","piver",,,"",,"KRS",""
-"fHZ","ajani̮v",,,"",,"KRS",""
-"fco-W","",,,"",,"",""
-"fco-H","",,,"",,"",""
-"fFW(notM)","ićiń",,,"",,"KRS",""
-"fFW(notM)","tʹe̮t",,,"",,"KRS",""
-"fMH(notF)","dʹadʹ",,,"",,"KRS",""
-"fSW","moń",,,"",,"KRS",""
-"fSWM","",,,"",,"",""
-"fSWF","",,,"",,"",""
-"fDH","źatʹ",,,"",,"KRS",""
-"fDHM","",,,"",,"",""
-"fDHF","",,,"",,"",""
-"fFZH","dʹadʹ",,,"",,"KRS",""
-"fFBW","",,,"",,"",""
-"fMZH","dʹadʹ",,,"",,"KRS",""
-"fMBW","",,,"",,"",""
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments;Deeper donor language;Ref. for deeper donor language
+Siblings;male speaker's sibling;mG;ćoj-vok;чой-вок;;0;;;;Komi-specific;"KRS: 705; 707";;;;4;;ćoja-voka;copulative compound consisting of ćoj 'sister' and vok 'brother';;
+Siblings;male speaker's brother;mB;vok;вок;;0;;;;Komi-specific;KRS: 107;;;;1;;;;;
+Siblings;male speaker's sister;mZ;ćoj;чой;;0;;;;Komi-specific;KRS: 705;;;;1;;;;;
+Siblings;male speaker's sister;mZ;soć;соч;;0;;;;Komi-specific;KRS: 601;;;;1;;;dial.;;
+Siblings;male speaker's elder brother;meB;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's younger brother;myB;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's elder sister;meZ;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's younger sister;myZ;;;;;;;;;;;;;;;;;;
+Parents;male speaker's parent;mP;batʹ-mam;бать-мам;;0;;One of the constituents is borrowed;;Komi-specific;"KRS: 36; 379";;;;4;;mam-batʹ;copulative compound;;
+Parents;male speaker's parent;mP;aj-mam;ай-мам;;0;;;;Komi-specific;KRS: 22;;;;4;;;copulative compound;;
+Parents;male speaker's father;mF;batʹ;бать;батя;4;;;Russian;18th century AD onwards;KRS: 36;Kalima 1910: 40;;replacement;1;;;;Balkan Slavic languages;Milanova 2020: 76-78
+Parents;male speaker's father;mF;aj;ай;;0;;;;Inherited word, PU *äjjä;KRS: 22;Aikio 2015: 62;;;1;;;archaic/obsolete as 'father';;
+Parents;male speaker's mother;mM;mam;мам;;0;;;;Inherited, PP *måm;KRS: 379;KESKJ: 169;;;1;;;Similar words exist in world's languages, no compelling reasons to assume borrowing.;;
+Children;male speaker's child;mC;ćelʹadʹ;челядь;челядь;4;;;Russian;18th century AD onwards;KRS: 695;Kalima 1910: 150;servants;coexistence;1;;;collective word, Komi meaning 'children' perhaps due to the word being used dialectally as a curse word meaning 'children' , from the same Slavic word also Hungarian család 'family';Balto-Slavic with debated IE parallels;Cherhykh 1999: 378-379, Derksen 2008: 80
+Children;male speaker's child;mC;ji̮le̮m;йылӧм;;0;;;;Komi-specific;KRS: 250;;;;3;;;dial., more 'offspring';;
+Children;male speaker's child;mC;kaga;кага;;0;;;;Komi-specific;KRS: 251;;;;1;;;Lallwort, cf. Fi kakara, KhtV kaki̮ 'younger brother'. Some Russian dialects have the same word кага, кагонька 'infant'. Vasmer (кага, s.v.) assumes that it is a Komi borrowing.;;
+Children;male speaker's child;mC;ni̮vpi;нывпи;;0;;;;Inherited PP *ni̮l-pi, same copulative compound exists in Udmurt;KRS: 435;;;;4;;;collective copulative compound;;
+Children;male speaker's son;mS;pi;пи;;0;;;;Inherited, PU *pojka;KRS: 496;UEW: 390;;;1;;;;;
+Children;male speaker's daughter;mD;ni̮v;ныв;;0;;;;Inherited, PU *näjδə;KRS: 435;UEW: 302–303;;;1;;;;;
+Grandparents;male speaker's ancestor;mA;pe̮lʹjas;пӧльяс;;0;;;;Komi-specific;KRS: 520;;;;3;;;Only in plural;;
+Grandparents;male speaker's ancestor;mA;pe̮ri̮ś pe̮lʹ;пӧрысь пӧль;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 519;;;;5;;;Phrasal of pe̮ri̮ś 'old' and pe̮l' paternal grandfather' ('прадед, прадедушка');;
+Grandparents;male speaker's ancestor;mA;pe̮ri̮ś pe̮ć;пӧрысь пӧч;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 524;;;;5;;pe̮ri̮ś bab;Phrasal of pe̮ri̮ś 'old' and pe̮ć 'paternal grandmother' ('прабабушка');;
+Grandparents;male speaker's grandparent;mPP;pe̮lʹ-pe̮ć;пӧль-пӧч;;0;;;;Komi-specific;"KRS: 520; 524";;;;4;;pe̮ć-pe̮lʹ;collective copulative compound;;
+Grandparents;male speaker's father's father;mFF;pe̮lʹ;пӧль;;0;;;;Komi-specific;KRS: 519;;;;1;;;contracted from pe̮ri̮ś 'old'?;;
+Grandparents;male speaker's father's father;mFF;dʹed;дед;дед;4;;;Russian;18th century AD onwards;KRS: 167;Kalima 1910: 46;;coexistence;1;;;;;
+Grandparents;male speaker's father's mother;mFM;pe̮ć;пӧч;;0;;;;Komi-specific;KRS: 524;;;;1;;;contracted from pe̮ri̮ś 'old'?;;
+Grandparents;male speaker's father's mother;mFM;bab;баб;;4;;;Russian;18th century AD onwards;KRS: 31;Kalima 1910: 37;;coexistence;1;;;;;
+Grandparents;male speaker's mother's father;mMF;i̮ǯi̮d aj;ыджыд ай;;0;;;;Komi-specific;KRS: 22;;;;5;;;;;
+Grandparents;male speaker's mother's father;mMF;dʹed;дед;;4;;;Russian;18th century AD onwards;KRS: 167;Kalima 1910: 46;;coexistence;1;;;;;
+Grandparents;male speaker's mother's mother;mMM;i̮ǯi̮d mam;ыджыд мам;;0;;;;Komi-specific;KRS: 379;;;;5;;;;;
+Grandparents;male speaker's mother's mother;mMM;bab;баб;;4;;;Russian;18th century AD onwards;KRS: 31;Kalima 1910: 37;;coexistence;1;;;;;
+Grandchildren;male speaker's grandchild;mCC;pe̮lʹe̮n šui̮ś;пӧльӧн шуысь;;0;;;;Komi-specific;KRS: 519;;;;5;;;Phrasal pe̮l' 'paternal grandfather' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+Grandchildren;male speaker's grandchild;mCC;pe̮će̮n šui̮ś;пӧчöн шуышь;;0;;;;Komi-specific;KRS: 524;;;;5;;;;;
+Grandchildren;male speaker's grandchild;mCC;dʹede̮n šui̮ś;дедӧн шуысь;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 167;;;;5;;;Phrasal dʹed 'grandfather' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+Grandchildren;male speaker's grandchild;mCC;babe̮n šui̮ś;бабöн шуышь ;;0;;One of the constituents is borrowed;;Komi-specific;BKRS;;;;5;;;;;
+Grandchildren;male speaker's son's son;mSS;vnuk;внук;внук;4;;;Russian;18th century AD onwards;KRS: 103;Kalima 1910: 167;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;male speaker's son's daughter;mSD;vnučka;внучка;внучка;4;;;Russian;18th century AD onwards;KRS: 103;Kalima 1910: 167;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;male speaker's daughter's son;mDS;vnuk;внук;внук;4;;;Russian;18th century AD onwards;KRS: 103;Kalima 1910: 167;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;male speaker's daughter's daughter;mDD;vnučka;внучка;внучка;4;;;Russian;18th century AD onwards;KRS: 103;Kalima 1910: 167;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+ParentsSiblings;male speaker's father's brother;mFB;dʹadʹ;дядь;;4;;;Russian;18th century AD onwards;KRS: 203;Kalima 1910: 45;;;1;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;ob;об;;0;;;;Komi-specific;KRS: 447;;;;1;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;tʹe̮t;тьӧт;тёта, тётя;4;;;Russian;18th century AD onwards;KRS: 671;Kalima 1910: 147;;coexistence;1;;tʹe̮tka;;;
+ParentsSiblings;male speaker's mother's brother;mMB;ćož;чож;;0;;;;Inherited, PU *čečä;KRS: 705;;;;1;;;;;
+ParentsSiblings;male speaker's mother's brother;mMB;dʹadʹ;дядь;дядя;4;;;Russian;18th century AD onwards;KRS: 203;Kalima 1910: 45;;coexistence;1;;;;;
+ParentsSiblings;male speaker's mother's sister;mMZ;ićiń;ичинь;;0;;;;Komi-specific;KRS: 241;;;;4;;;compound word, ić- 'small'  and iń/eń;;
+ParentsSiblings;male speaker's mother's sister;mMZ;tʹe̮t;тьӧт;тёта, тётя;4;;;Russian;18th century AD onwards;KRS: 671;Kalima 1910: 147;;coexistence;1;;tʹe̮tka;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;unaj;унай;;0;;;;Komi-specific;KRS: 683;;;;4;;;dial.;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;un;ун;;0;;;;Komi-specific/Inherited?;KRS: 683;Metsäranta et al. 2025: 157-158;;;1;;;dial.;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older brother;mMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;plemjannik;племянник;племянник;4;;;Russian;18th century AD onwards;KRS: 502;Kalima 1910: 106;;coexistence;1;;;"Rus. племянник acquired the meaning 'nephew' in 16-17th. cc., the earlier meaing was 'tribesman; associate > relative'.";mostly East Slavic with parallels in other Slavic languages;Chernykh 1999: II/ 40
+SiblingsChildren;male speaker's brother's son;mBS;voća pi;воча пи;;0;;;;Komi-specific;KRS: 113;;;;5;;;Phrasal of voća 'towards, against etc.' and pi 'son, boy';;
+SiblingsChildren;male speaker's brother's son;mBS;vokle̮n pi;воклӧн пи;;0;;;;Komi-specific;KRS: 496;;;;5;;;Phrasal of vokle̮n 'brother's' (-le̮n genitive) and pi 'son, boy';;
+SiblingsChildren;male speaker's brother's son;mBS;dʹadʹe̮n šui̮ś;дядьӧн шуысь;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 203;;;;5;;;Phrasal dʹadʹ 'uncle' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+SiblingsChildren;male speaker's brother's daughter;mBD;plemjannića;племянница;племянница;4;;;Russian;18th century AD onwards;KRS: 502;Kalima 1990: 106;;coexistence;1;;;;mostly East Slavic with parallels in other Slavic languages;Chernykh 1999: II / 40
+SiblingsChildren;male speaker's brother's daughter;mBD;vokle̮n ni̮v;воклӧн ныв;;0;;;;Komi-specific;KRS: 435;;;;5;;;Phrasal of voke̮n 'brother's' (-le̮n genitive) and ni̮v  'daughter, girl';;
+SiblingsChildren;male speaker's brother's daughter;mBD;dʹadʹe̮n šui̮ś;дядьӧн шуысь;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 203;;;;5;;;Phrasal dʹadʹ 'uncle' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+SiblingsChildren;male speaker's sister's son;mZS;plemjannik;племянник;племянник;4;;;Russian;18th century AD onwards;KRS: 502;Kalima 1910: 106;;coexistence;1;;;;mostly East Slavic with parallels in other Slavic languages;Chernykh 1999: II / 40
+SiblingsChildren;male speaker's sister's son;mZS;voća pi;воча пи;;0;;;;Komi-specific;KRS: 113;;;;5;;;Phrasal of voća 'towards, against etc.' and pi 'son, boy';;
+SiblingsChildren;male speaker's sister's son;mZS;ćojle̮n pi;чойлӧн пи;;0;;;;Komi-specific;KRS: 496;;;;5;;;Phrasal of ćojle̮n 'sister's (-le̮n genitive) and pi 'son, boy';;
+SiblingsChildren;male speaker's sister's son;mZS;ćože̮n šui̮ś;чожӧн шуысь;;0;;;;Komi-specific;KRS: 705;;;;5;;;Phrasal ćož 'maternal uncle' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+SiblingsChildren;male speaker's sister's daughter;mZD;plemjannića;племянница;племянница;4;;;Russian;18th century AD onwards;KRS: 502;Kalima 1990: 106;;coexistence;1;;;;mostly East Slavic with parallels in other Slavic languages;Chernykh 1999: II / 40
+SiblingsChildren;male speaker's sister's daughter;mZD;ćojle̮n ni̮v;чойлӧн ныв;;0;;;;Komi-specific;KRS: 435;;;;5;;;Phrasal of ćojle̮n 'sister's '(-le̮n genitive) and ni̮v  'daughter, girl';;
+SiblingsChildren;male speaker's sister's daughter;mZD;ćože̮n šui̮ś;чожӧн шуысь;;0;;;;Komi-specific;KRS: 705;;;;5;;;Phrasal ćož 'maternal uncle' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+SiblingsChildren;male speaker's sister's daughter;mZD;dʹadʹe̮n šui̮ś;дядьӧн шуысь;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 203;;;;5;;;Phrasal dʹadʹ 'uncle' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+SiblingsChildren;male speaker's older brother's son;meBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's son;meZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;voća ćoj;воча чой;;0;;;;Komi-specific;"KRS: 113; 705";;;;5;;;;;
+Cousins;male speaker's father's brother's daughter;mFBD;voća ćoj;воча чой;;0;;;;Komi-specific;"KRS: 113; 705";;;;5;;;;;
+Cousins;male speaker's mother's brother's daughter;mMBD;voća ćoj;воча чой;;0;;;;Komi-specific;"KRS: 113; 705";;;;5;;;;;
+Cousins;male speaker's mother's sister's daughter;mMZD;voća ćoj;воча чой;;0;;;;Komi-specific;"KRS: 113; 705";;;;5;;;;;
+Cousins;male speaker's father's brother's son;mFBS;voća vok;воча вок;;0;;;;Komi-specific;KRS: 113;;;;5;;;;;
+Cousins;male speaker's father's brother's son;mFBS;bratan;братан;братан;4;;;Russian;18th century AD onwards;KRS: 55;;;coexistence;1;;;<bratan> must be a rather old borrowing. It was registered in texts in the meaning 'nephew/male cousin' since 11 c. (SRJa XI-XVII / I: 319), but does not have this meaning in the contemporary language, cf. Veps bratan 'male cousin';;
+Cousins;male speaker's father's brother's son;mFBS;vokan;вокан;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 107;;;;3;;;;;
+Cousins;male speaker's father's sister's son;mFZS;voća vok;воча вок;;0;;;;Komi-specific;KRS: 113;;;;5;;;;;
+Cousins;male speaker's father's sister's son;mFZS;bratan;братан;братан;4;;;Russian;18th century AD onwards;KRS: 55;;;coexistence;1;;;;;
+Cousins;male speaker's father's sister's son;mFZS;vokan;вокан;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 107;;;;3;;;;;
+Cousins;male speaker's mother's brother's son;mMBS;voća vok;воча вок;;0;;;;Komi-specific;KRS: 113;;;;5;;;;;
+Cousins;male speaker's mother's brother's son;mMBS;bratan;братан;братан;4;;;Russian;18th century AD onwards;KRS: 55;;;coexistence;1;;;;;
+Cousins;male speaker's mother's brother's son;mMBS;vokan;вокан;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 107;;;;3;;;;;
+Cousins;male speaker's mother's sister's son;mMZS;voća vok;воча вок;;0;;;;Komi-specific;KRS: 113;;;;5;;;;;
+Cousins;male speaker's mother's sister's son;mMZS;bratan;братан;братан;4;;;Russian;18th century AD onwards;KRS: 55;;;coexistence;1;;;;;
+Cousins;male speaker's mother's sister's son;mMZS;vokan;вокан;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 107;;;;3;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;gozja;гозя;;0;;;;Komi-specific;KRS: 142;;;;3;;;collective word;;
+Affines;male speaker's husband;mH;vere̮s;верӧс;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 89;Holopainen (2019: 308-309);;;3;;;;;
+Affines;male speaker's wife;mW;ge̮ti̮r;гӧтыр;;2;;;Old Norse;?;KRS: 153;KESKJ: 81;;;1;;;The word does bear some resemblance to Germanic words like Grm Gatte;;
+Affines;male speaker's husband's father;mHF;ajka;айка;;0;;;;Komi-specific;KRS: 22;;;;3;;;;;
+Affines;male speaker's husband's mother;mHM;eńka;энька;;0;;;;Komi-specific;KRS: 765;;;;3;;ińka;;;
+Affines;male speaker's wife's father;mWF;tʹestʹ;тесть;тесть;4;;;Russian;18th century AD onwards;KRS: 635;Kalima 1910: 145;;replacement;1;;;"No trace of PU *e̮ppə in Permic so effect inferred as ""replacement""";Proto-Slavic;Milanova 2020: 158
+Affines;male speaker's wife's mother;mWM;tʹe̮š́a;тьӧща;теща;4;;;Russian;18th century AD onwards;KRS: 671;Kalima 1910: 146;;replacement;1;;;;Proto-Slavic;Milanova 2020: 158
+Affines;male speaker's brother's wife;mBW;ońa;оня;;0;;;;Inherited, PU *ańə 'sister-in-law';KRS: 454;Aikio 2020: 18–19;;;3;;;dial. 'older brother's wife';;
+Affines;male speaker's brother's wife;mBW;kev;кев;;0;;;;Inherited, PU *käləw;KRS: 261;KESKJ: 120;;;1;;;one brother's wife to another';;
+Affines;male speaker's brother's wife;mBW;moń;монь;;0;;;;Inherited, PU *mińä;KRS: 394;KESKJ: 174;;;1;;;;;
+Affines;male speaker's sister's husband;mZH;źatʹ;зять;зять;4;;;Russian;18th century AD onwards;KRS: 233;Kalima 1910: 171;;replacement;1;;;Assumably some other word existed prior to the Russian loan;PIE or Proto-Slavic;Milanova 2020: 147-148
+Affines;male speaker's wife's brother;mWB;šurin;шурин;шурин;4;;;Russian;18th century AD onwards;KRS: 744;Kalima 1910: 142;;replacement;1;;;Assumably some other word existed prior to the Russian loan;Proto-Slavic with uncertain Indo-Aryan parallels;Milanova 2020: 159
+Affines;male speaker's wife's sister;mWZ;svestʹa;свестя;свестья;4;;;Russian;18th century AD onwards;KRS: 576;Kalima 1910: 135;;replacement;1;;;;;
+Affines;male speaker's husband's brother;mHB;piver;пивер;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 497;;;;4;;;compound word, i̮ǯi̮d piver for 'older' and iće̮t piver for 'younger';;
+Affines;male speaker's husband's sister;mHZ;ajani̮v;аяныв;;0;;;;Komi-specific;KRS: 31;;;;4;;;compound, last component clearly ni̮v 'girl, daughter', first probably aj 'male, (father)', cf. ajka 'husband's father';;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);ićiń;ичинь;;0;;;;Komi-specific;KRS: 241;;;;4;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);tʹe̮t;тьӧт;тёта, тётя;4;;;Russian;18th century AD onwards;KRS: 671;Kalima 1910: 147;;;1;;;Also 'father's or mother's sister';;
+Affines;male speaker's mother's husband (not father);mMH(notF);dʹadʹ;дядь;дядя;4;;;Russian;18th century AD onwards;KRS: 203;Kalima 1910: 45;;;1;;;;;
+Affines;male speaker's son's wife;mSW;moń;монь;;0;;;;Inherited, PU *mińä;KRS: 394;KESKJ: 174;;;1;;;;;
+Affines;male speaker's son's wife's mother;mSWM;;;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife's father;mSWF;;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband;mDH;źatʹ;зять;зять;4;;;Russian;18th century AD onwards;KRS: 233;Kalima 1910: 171;;replacement;1;;;Assumably some other word existed prior to the Russian loan;PIE or Proto-Slavic;Milanova 2020: 147-148
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;dʹadʹ;дядь;;4;;;Russian;18th century AD onwards;KRS: 203;Kalima 1910: 45;;;1;;;;;
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;dʹadʹ;дядь;;4;;;Russian;18th century AD onwards;KRS: 203;Kalima 1910: 45;;;1;;;;;
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's sibling;fG;ćoj-vok;чой-вок;;0;;;;Komi-specific;"KRS: 705; 707";;;;4;;ćoja-voka;copulative compound consisting of ćoj 'sister' and vok 'brother';;
+Siblings;female speaker's brother;fB;vok;вок;;0;;;;Komi-specific;KRS: 107;;;;1;;;;;
+Siblings;female speaker's sister;fZ;ćoj;чой;;0;;;;Komi-specific;KRS: 705;;;;1;;;;;
+Siblings;female speaker's sister;fZ;soć;соч;;0;;;;Komi-specific;KRS: 601;;;;1;;;dial.;;
+Siblings;female speaker's elder brother;feB;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's younger brother;fyB;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's elder sister;feZ;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's younger sister;fyZ;;;;;;;;;;;;;;;;;;
+Parents;female speaker's parent;fP;batʹ-mam;бать-мам;;0;;One of the constituents is borrowed;;Komi-specific;"KRS: 36; 379";;;;4;;mam-batʹ;copulative compound;;
+Parents;female speaker's parent;fP;aj-mam;ай-мам;;0;;;;Komi-specific;KRS: 22;;;;4;;;copulative compound;;
+Parents;female speaker's father;fF;batʹ;бать;батя;4;;;Russian;18th century AD onwards;KRS: 36;Kalima 1910: 40;;replacement;1;;;;Balkan Slavic languages;Milanova 2020: 76-78
+Parents;female speaker's father;fF;aj;ай;;0;;;;Inherited word, PU *äjjä;KRS: 22;Aikio 2015: 62;;;1;;;archaic/obsolete as 'father';;
+Parents;female speaker's mother;fM;mam;мам;;0;;;;Inherited, PP *måm;KRS: 379;KESKJ: 169;;;1;;;Similar words exist in world's languages, no compelling reasons to assume borrowing.;;
+Children;female speaker's child;fC;ćelʹadʹ;челядь;челядь;4;;;Russian;18th century AD onwards;KRS: 695;Kalima 1910: 150;servants;coexistence;1;;;collective word, Komi meaning 'children' perhaps due to the word being used dialectally as a curse word meaning 'children' , from the same Slavic word also Hungarian család 'family';Balto-Slavic with debated IE parallels;Cherhykh 1999: 378-379, Derksen 2008: 80
+Children;female speaker's child;fC;ji̮le̮m;йылӧм;;0;;;;Komi-specific;KRS: 250;;;;3;;;dial., more 'offspring';;
+Children;female speaker's child;fC;kaga;кага;;0;;;;Komi-specific;KRS: 251;;;;1;;;Lallwort, cf. Fi kakara, KhtV kaki̮ 'younger brother'. Some Russian dialects have the same word кага, кагонька 'infant'. Vasmer (кага, s.v.) assumes that it is a Komi borrowing. V. should look it up in dial. dictionaries!;;
+Children;female speaker's child;fC;ni̮vpi;нывпи;;0;;;;Inherited PP *ni̮l-pi, same copulative compound exists in Udmurt;KRS: 435;;;;4;;;collective copulative compound;;
+Children;female speaker's son;fS;pi;пи;;0;;;;Inherited, PU *pojka;KRS: 496;UEW: 390;;;1;;;;;
+Children;female speaker's daughter;fD;ni̮v;ныв;;0;;;;Inherited, PU *näjδə;KRS: 435;UEW: 302–303;;;1;;;;;
+Grandparents;female speaker's ancestor;fA;pe̮lʹjas;пӧльяс;;0;;;;Komi-specific;KRS: 520;;;;3;;;Only in plural;;
+Grandparents;female speaker's ancestor;fA;pe̮ri̮ś pe̮lʹ;пӧрысь пӧль;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 519;;;;5;;;Phrasal of pe̮ri̮ś 'old' and pe̮l' paternal grandfather' ('прадед, прадедушка');;
+Grandparents;female speaker's ancestor;fA;pe̮ri̮ś pe̮ć;пӧрысь пӧч;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 524;;;;5;;pe̮ri̮ś bab;Phrasal of pe̮ri̮ś 'old' and pe̮ć 'paternal grandmother' ('прабабушка');;
+Grandparents;female speaker's grandparent;fPP;pe̮lʹ-pe̮ć;пӧль-пӧч;;0;;;;Komi-specific;"KRS: 520; 524";;;;4;;pe̮ć-pe̮lʹ;collective copulative compound;;
+Grandparents;female speaker's father's father;fFF;pe̮lʹ;пӧль;;0;;;;Komi-specific;KRS: 519;;;;1;;;contracted from pe̮ri̮ś 'old'?;;
+Grandparents;female speaker's father's father;fFF;dʹed;дед;дед;4;;;Russian;18th century AD onwards;KRS: 167;Kalima 1910: 46;;coexistence;1;;;;;
+Grandparents;female speaker's father's mother;fFM;pe̮ć;пӧч;;0;;;;Komi-specific;KRS: 524;;;;1;;;contracted from pe̮ri̮ś 'old'?;;
+Grandparents;female speaker's father's mother;fFM;bab;баб;;4;;;Russian;18th century AD onwards;KRS: 31;Kalima 1910: 37;;coexistence;1;;;;;
+Grandparents;female speaker's mother's father;fMF;i̮ǯi̮d aj;ыджыд ай;;0;;;;Komi-specific;KRS: 22;;;;5;;;;;
+Grandparents;female speaker's mother's father;fMF;dʹed;дед;;4;;;Russian;18th century AD onwards;KRS: 167;Kalima 1910: 46;;coexistence;1;;;;;
+Grandparents;female speaker's mother's mother;fMM;i̮ǯi̮d mam;ыджыд мам;;0;;;;Komi-specific;KRS: 379;;;;5;;;;;
+Grandparents;female speaker's mother's mother;fMM;bab;баб;;4;;;Russian;18th century AD onwards;KRS: 31;Kalima 1910: 37;;coexistence;1;;;;;
+Grandchildren;female speaker's grandchild;fCC;pe̮lʹe̮n šui̮ś;пӧльӧн шуысь;;0;;;;Komi-specific;KRS: 519;;;;5;;;Phrasal pe̮l' 'paternal grandfather' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+Grandchildren;female speaker's grandchild;fCC;pe̮će̮n šui̮ś;пӧчöн шуышь;;0;;;;Komi-specific;KRS: 524;;;;5;;;;;
+Grandchildren;female speaker's grandchild;fCC;dʹede̮n šui̮ś;дедӧн шуысь;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 167;;;;5;;;Phrasal dʹed 'grandfather' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+Grandchildren;female speaker's grandchild;fCC;babe̮n šui̮ś;бабöн шуышь ;;0;;One of the constituents is borrowed;;Komi-specific;BKRS;;;;5;;;;;
+Grandchildren;female speaker's son's son;fSS;vnuk;внук;внук;4;;;Russian;18th century AD onwards;KRS: 103;Kalima 1910: 167;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;female speaker's son's daughter;fSD;vnučka;внучка;внучка;4;;;Russian;18th century AD onwards;KRS: 103;Kalima 1910: 167;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;female speaker's daughter's son;fDS;vnuk;внук;внук;4;;;Russian;18th century AD onwards;KRS: 103;Kalima 1910: 167;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;female speaker's daughter's daughter;fDD;vnučka;внучка;внучка;4;;;Russian;18th century AD onwards;KRS: 103;Kalima 1910: 167;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+ParentsSiblings;female speaker's father's brother;fFB;dʹadʹ;дядь;;4;;;Russian;18th century AD onwards;KRS: 203;Kalima 1910: 45;;;1;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;ob;об;;0;;;;Komi-specific;KRS: 447;;;;1;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;tʹe̮t;тьӧт;тёта, тётя;4;;;Russian;18th century AD onwards;KRS: 671;Kalima 1910: 147;;coexistence;1;;tʹe̮tka;;;
+ParentsSiblings;female speaker's mother's brother;fMB;ćož;чож;;0;;;;Inherited, PU *čečä;KRS: 705;;;;1;;;;;
+ParentsSiblings;female speaker's mother's brother;fMB;dʹadʹ;дядь;дядя;4;;;Russian;18th century AD onwards;KRS: 203;Kalima 1910: 45;;coexistence;1;;;;;
+ParentsSiblings;female speaker's mother's sister;fMZ;ićiń;ичинь;;0;;;;Komi-specific;KRS: 241;;;;4;;;compound word, ić- 'small'  and iń/eń;;
+ParentsSiblings;female speaker's mother's sister;fMZ;tʹe̮t;тьӧт;тёта, тётя;4;;;Russian;18th century AD onwards;KRS: 671;Kalima 1910: 147;;coexistence;1;;tʹe̮tka;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;unaj;унай;;0;;;;Komi-specific;KRS: 683;;;;4;;;dial.;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;un;ун;;0;;;;Komi-specific/Inherited?;KRS: 683;Metsäranta et al. 2025: 157-158;;;1;;;dial.;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older brother;fMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;plemjannik;племянник;племянник;4;;;Russian;18th century AD onwards;KRS: 502;Kalima 1910: 106;;coexistence;1;;;"Rus. племянник acquired the meaning 'nephew' in 16-17th. cc., the earlier meaing was 'tribesman; associate > relative'.";mostly East Slavic with parallels in other Slavic languages;Chernykh 1999: II/ 40
+SiblingsChildren;female speaker's brother's son;fBS;voća pi;воча пи;;0;;;;Komi-specific;KRS: 113;;;;5;;;Phrasal of voća 'towards, against etc.' and pi 'son, boy';;
+SiblingsChildren;female speaker's brother's son;fBS;vokle̮n pi;воклӧн пи;;0;;;;Komi-specific;KRS: 496;;;;5;;;Phrasal of vokle̮n 'brother's' (-le̮n genitive) and pi 'son, boy';;
+SiblingsChildren;female speaker's brother's son;fBS;dʹadʹe̮n šui̮ś;дядьӧн шуысь;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 203;;;;5;;;Phrasal dʹadʹ 'uncle' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+SiblingsChildren;female speaker's brother's daughter;fBD;plemjannića;племянница;племянница;4;;;Russian;18th century AD onwards;KRS: 502;Kalima 1990: 106;;coexistence;1;;;;mostly East Slavic with parallels in other Slavic languages;Chernykh 1999: II / 40
+SiblingsChildren;female speaker's brother's daughter;fBD;vokle̮n ni̮v;воклӧн ныв;;0;;;;Komi-specific;KRS: 435;;;;5;;;Phrasal of voke̮n 'brother's' (-le̮n genitive) and ni̮v  'daughter, girl';;
+SiblingsChildren;female speaker's brother's daughter;fBD;dʹadʹe̮n šui̮ś;дядьӧн шуысь;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 203;;;;5;;;Phrasal dʹadʹ 'uncle' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+SiblingsChildren;female speaker's sister's son;fZS;plemjannik;племянник;племянник;4;;;Russian;18th century AD onwards;KRS: 502;Kalima 1910: 106;;coexistence;1;;;;mostly East Slavic with parallels in other Slavic languages;Chernykh 1999: II / 40
+SiblingsChildren;female speaker's sister's son;fZS;voća pi;воча пи;;0;;;;Komi-specific;KRS: 113;;;;5;;;Phrasal of voća 'towards, against etc.' and pi 'son, boy';;
+SiblingsChildren;female speaker's sister's son;fZS;ćojle̮n pi;чойлӧн пи;;0;;;;Komi-specific;KRS: 496;;;;5;;;Phrasal of ćojle̮n 'sister's (-le̮n genitive) and pi 'son, boy';;
+SiblingsChildren;female speaker's sister's son;fZS;ćože̮n šui̮ś;чожӧн шуысь;;0;;;;Komi-specific;KRS: 705;;;;5;;;Phrasal ćož 'maternal uncle' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+SiblingsChildren;female speaker's sister's daughter;fZD;plemjannića;племянница;племянница;4;;;Russian;18th century AD onwards;KRS: 502;Kalima 1990: 106;;coexistence;1;;;;mostly East Slavic with parallels in other Slavic languages;Chernykh 1999: II / 40
+SiblingsChildren;female speaker's sister's daughter;fZD;ćojle̮n ni̮v;чойлӧн ныв;;0;;;;Komi-specific;KRS: 435;;;;5;;;Phrasal of ćojle̮n 'sister's '(-le̮n genitive) and ni̮v  'daughter, girl';;
+SiblingsChildren;female speaker's sister's daughter;fZD;ćože̮n šui̮ś;чожӧн шуысь;;0;;;;Komi-specific;KRS: 705;;;;5;;;Phrasal ćož 'maternal uncle' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+SiblingsChildren;female speaker's sister's daughter;fZD;dʹadʹe̮n šui̮ś;дядьӧн шуысь;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 203;;;;5;;;Phrasal dʹadʹ 'uncle' + e̮n (instrumental) and šui̮ś the present participle of šu- 'to say' .;;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's sister's daughter;fFZD;voća ćoj;воча чой;;0;;;;Komi-specific;"KRS: 113; 705";;;;5;;;;;
+Cousins;female speaker's father's brother's daughter;fFBD;voća ćoj;воча чой;;0;;;;Komi-specific;"KRS: 113; 705";;;;5;;;;;
+Cousins;female speaker's mother's brother's daughter;fMBD;voća ćoj;воча чой;;0;;;;Komi-specific;"KRS: 113; 705";;;;5;;;;;
+Cousins;female speaker's mother's sister's daughter;fMZD;voća ćoj;воча чой;;0;;;;Komi-specific;"KRS: 113; 705";;;;5;;;;;
+Cousins;female speaker's father's brother's son;fFBS;voća vok;воча вок;;0;;;;Komi-specific;KRS: 113;;;;5;;;;;
+Cousins;female speaker's father's brother's son;fFBS;bratan;братан;братан;4;;;Russian;18th century AD onwards;KRS: 55;;;coexistence;1;;;<bratan> must be a rather old borrowing. It was registered in texts in the meaning 'nephew/male cousin' since 11 c. (SRJa XI-XVII / I: 319), but does not have this meaning in the contemporary language, cf. Veps bratan 'male cousin';;
+Cousins;female speaker's father's brother's son;fFBS;vokan;вокан;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 107;;;;3;;;;;
+Cousins;female speaker's father's sister's son;fFZS;voća vok;воча вок;;0;;;;Komi-specific;KRS: 113;;;;5;;;;;
+Cousins;female speaker's father's sister's son;fFZS;bratan;братан;братан;4;;;Russian;18th century AD onwards;KRS: 55;;;coexistence;1;;;;;
+Cousins;female speaker's father's sister's son;fFZS;vokan;вокан;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 107;;;;3;;;;;
+Cousins;female speaker's mother's brother's son;fMBS;voća vok;воча вок;;0;;;;Komi-specific;KRS: 113;;;;5;;;;;
+Cousins;female speaker's mother's brother's son;fMBS;bratan;братан;братан;4;;;Russian;18th century AD onwards;KRS: 55;;;coexistence;1;;;;;
+Cousins;female speaker's mother's brother's son;fMBS;vokan;вокан;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 107;;;;3;;;;;
+Cousins;female speaker's mother's sister's son;fMZS;voća vok;воча вок;;0;;;;Komi-specific;KRS: 113;;;;5;;;;;
+Cousins;female speaker's mother's sister's son;fMZS;bratan;братан;братан;4;;;Russian;18th century AD onwards;KRS: 55;;;coexistence;1;;;;;
+Cousins;female speaker's mother's sister's son;fMZS;vokan;вокан;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 107;;;;3;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;gozja;гозя;;0;;;;Komi-specific;KRS: 142;;;;3;;;collective word;;
+Affines;female speaker's husband;fH;vere̮s;верӧс;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 89;Holopainen (2019: 308-309);;;3;;;;;
+Affines;female speaker's wife;fW;ge̮ti̮r;гӧтыр;;2;;;Old Norse;?;KRS: 153;KESKJ: 81;;;1;;;The word does bear some resemblance to Germanic words like Grm Gatte;;
+Affines;female speaker's husband's father;fHF;ajka;айка;;0;;;;Komi-specific;KRS: 22;;;;3;;;;;
+Affines;female speaker's husband's mother;fHM;eńka;энька;;0;;;;Komi-specific;KRS: 765;;;;3;;ińka;;;
+Affines;female speaker's wife's father;fWF;tʹestʹ;тесть;тесть;4;;;Russian;18th century AD onwards;KRS: 635;Kalima 1910: 145;;replacement;1;;;"No trace of PU *e̮ppə in Permic so effect inferred as ""replacement""";Proto-Slavic;Milanova 2020: 158
+Affines;female speaker's wife's mother;fWM;tʹe̮š́a;тьӧща;теща;4;;;Russian;18th century AD onwards;KRS: 671;Kalima 1910: 146;;replacement;1;;;;Proto-Slavic;Milanova 2020: 158
+Affines;female speaker's brother's wife;fBW;ońa;оня;;0;;;;Inherited, PU *ańə 'sister-in-law';KRS: 454;Aikio 2020: 18–19;;;3;;;dial. 'older brother's wife';;
+Affines;female speaker's brother's wife;fBW;kev;кев;;0;;;;Inherited, PU *käləw;KRS: 261;KESKJ: 120;;;1;;;one brother's wife to another';;
+Affines;female speaker's brother's wife;fBW;moń;монь;;0;;;;Inherited, PU *mińä;KRS: 394;KESKJ: 174;;;1;;;;;
+Affines;female speaker's sister's husband;fZH;źatʹ;зять;зять;4;;;Russian;18th century AD onwards;KRS: 233;Kalima 1910: 171;;replacement;1;;;Assumably some other word existed prior to the Russian loan;PIE or Proto-Slavic;Milanova 2020: 147-148
+Affines;female speaker's wife's brother;fWB;šurin;шурин;шурин;4;;;Russian;18th century AD onwards;KRS: 744;Kalima 1910: 142;;replacement;1;;;Assumably some other word existed prior to the Russian loan;Proto-Slavic with uncertain Indo-Aryan parallels;Milanova 2020: 159
+Affines;female speaker's wife's sister;fWZ;svestʹa;свестя;свестья;4;;;Russian;18th century AD onwards;KRS: 576;Kalima 1910: 135;;replacement;1;;;;;
+Affines;female speaker's husband's brother;fHB;piver;пивер;;0;;One of the constituents is borrowed;;Komi-specific;KRS: 497;;;;4;;;compound word, i̮ǯi̮d piver for 'older' and iće̮t piver for 'younger';;
+Affines;female speaker's husband's sister;fHZ;ajani̮v;аяныв;;0;;;;Komi-specific;KRS: 31;;;;4;;;compound, last component clearly ni̮v 'girl, daughter', first probably aj 'male, (father)', cf. ajka 'husband's father';;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);ićiń;ичинь;;0;;;;Komi-specific;KRS: 241;;;;4;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);tʹe̮t;тьӧт;тёта, тётя;4;;;Russian;18th century AD onwards;KRS: 671;Kalima 1910: 147;;;1;;;Also 'father's or mother's sister';;
+Affines;female speaker's mother's husband (not father);fMH(notF);dʹadʹ;дядь;дядя;4;;;Russian;18th century AD onwards;KRS: 203;Kalima 1910: 45;;;1;;;;;
+Affines;female speaker's son's wife;fSW;moń;монь;;0;;;;Inherited, PU *mińä;KRS: 394;KESKJ: 174;;;1;;;;;
+Affines;female speaker's son's wife's mother;fSWM;;;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife's father;fSWF;;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband;fDH;źatʹ;зять;зять;4;;;Russian;18th century AD onwards;KRS: 233;Kalima 1910: 171;;replacement;1;;;Assumably some other word existed prior to the Russian loan;PIE or Proto-Slavic;Milanova 2020: 147-148
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;dʹadʹ;дядь;;4;;;Russian;18th century AD onwards;KRS: 203;Kalima 1910: 45;;;1;;;;;
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;dʹadʹ;дядь;;4;;;Russian;18th century AD onwards;KRS: 203;Kalima 1910: 45;;;1;;;;;
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;;;

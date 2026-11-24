@@ -1,269 +1,269 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","õed-vennad",,,,,"EKSS",
-"mB","vend",,,,,"EKSS",
-"mB","veli",,,,,"EKSS",
-"mZ","õde",,,,,"EKSS",
-"mZ","sõsar",,,,,"EKSS",
-"mZ","sõts",,,,,"EKSS",
-"meB","",,,,,"",
-"myB","",,,,,"",
-"meZ","",,,,,"",
-"myZ","",,,,,"",
-"mP","vanem",,,,,"EKSS; EFI",
-"mF","isa",,,,,"EKSS; EFI",
-"mM","ema",,,,,"EKSS; EFI",
-"mC","laps",,,,,"EKSS; EFI",
-"mS","poeg",,,,,"EKSS; EFI",
-"mD","tütar",,,,,"EKSS; EFI",
-"mA","esivanemad",,,,,"EKSS; EFI",
-"mA","esiisa",,,,,"EKSS; EFI",
-"mA","esiema",,,,,"EKSS; EFI",
-"mPP","vanavanemad",,,,,"EKSS; EFI",
-"mFF","vanaisa",,,,,"EKSS; EFI",
-"mFF","isaisa",,,,,"EKSS",
-"mFM","vanaema",,,,,"EKSS;EFI",
-"mFM","isaema",,,,,"EKSS",
-"mMF","vanaisa",,,,,"EKSS; EFI",
-"mMF","emaisa",,,,,"EKSS; EFI",
-"mMM","vanaema",,,,,"EKSS; EFI",
-"mMM","emaema",,,,,"EKSS; EFI",
-"mCC","lapselaps",,,,,"EKSS; EFI",
-"mSS","pojapoeg",,,,,"EKSS; EFI",
-"mSD","pojatütar",,,,,"EKSS",
-"mDS","tütrepoeg",,,,,"EKSS",
-"mDD","tütretütar",,,,,"EKSS",
-"mFB","onu",,,,,"EKSS; EFI",
-"mFB","lell",,,,,"EKSS; EFI",
-"mFZ","tädi",,,,,"EKSS; EFI",
-"mFZ","sõtse",,,,,"EKSS",
-"mMB","onu",,,,,"EKSS; EFI",
-"mMZ","tädi",,,,,"EKSS; EFI",
-"mFeB","",,,,,"",
-"mFyB","",,,,,"",
-"mFeZ","",,,,,"",
-"mFyZ","",,,,,"",
-"mMeZ","",,,,,"",
-"mMyZ","",,,,,"",
-"mMeB","",,,,,"",
-"mMyB","",,,,,"",
-"mBS","vennapoeg",,,,,"EKSS; EFI",
-"mBD","vennatütar",,,,,"EKSS",
-"mZS","õepoeg",,,,,"EKSS; EFI",
-"mZD","õetütar",,,,,"EKSS; EFI",
-"meBS","",,,,,"",
-"myBS","",,,,,"",
-"meBD","",,,,,"",
-"myBD","",,,,,"",
-"meZS","",,,,,"",
-"myZS","",,,,,"",
-"meZD","",,,,,"",
-"myZD","",,,,,"",
-"mFZD","nõbu",,,,,"EKSS; EFI",
-"mFZD","täditütar",,,,,"EKSS; EFI",
-"mFBD","nõbu",,,,,"EKSS; EFI",
-"mFBD","onutütar",,,,,"EKSS; EFI",
-"mMBD","nõbu",,,,,"EKSS; EFI",
-"mMBD","onutütar",,,,,"EKSS; EFI",
-"mMZD","nõbu",,,,,"EKSS; EFI",
-"mMZD","täditütar",,,,,"EKSS; EFI",
-"mFBS","nõbu",,,,,"EKSS; EFI",
-"mFBS","onupoeg",,,,,"EKSS; EFI",
-"mFZS","nõbu",,,,,"EKSS; EFI",
-"mFZS","tädipoeg",,,,,"EKSS; EFI",
-"mMBS","nõbu",,,,,"EKSS; EFI",
-"mMBS","onupoeg",,,,,"EKSS; EFI",
-"mMZS","nõbu",,,,,"EKSS; EFI",
-"mMZS","tädipoeg",,,,,"EKSS; EFI",
-"mFeBS","",,,,,"",
-"mFyBS","",,,,,"",
-"mFeZS","",,,,,"",
-"mFyZS","",,,,,"",
-"mFeBD","",,,,,"",
-"mFyBD","",,,,,"",
-"mFeZD","",,,,,"",
-"mFyZD","",,,,,"",
-"mMeBS","",,,,,"",
-"mMyBS","",,,,,"",
-"mMeZS","",,,,,"",
-"mMyZS","",,,,,"",
-"mMeBD","",,,,,"",
-"mMyBD","",,,,,"",
-"mMeZD","",,,,,"",
-"mMyZD","",,,,,"",
-"mFBeS","",,,,,"",
-"mFByS","",,,,,"",
-"mFZeS","",,,,,"",
-"mFZyS","",,,,,"",
-"mFBeD","",,,,,"",
-"mFByD","",,,,,"",
-"mFZeD","",,,,,"",
-"mFZyD","",,,,,"",
-"mMBeS","",,,,,"",
-"mMByS","",,,,,"",
-"mMZeS","",,,,,"",
-"mMZyS","",,,,,"",
-"mMBeD","",,,,,"",
-"mMByD","",,,,,"",
-"mMZeD","",,,,,"",
-"mMZyD","",,,,,"",
-"mE","abikaasa",,,,,"EKSS; EFI",
-"mH","mees",,,,,"EKSS; EFI",
-"mW","naine",,,,,"EKSS; EFI",
-"mHF","äi",,,,,"EKSS; EFI",
-"mHM","ämm",,,,,"EKSS; EFI",
-"mWF","äi",,,,,"EKSS; EFI",
-"mWM","ämm",,,,,"EKSS; EFI",
-"mBW","vennanaine",,,,,"EKSS;EFI",
-"mZH","õemees",,,,,"EKSS; EFI",
-"mWB","nääl",,,,,"EKSS",
-"mWZ","käli",,,,,"EKSS; EFI",
-"mHB","küdi",,,,,"EKSS; EFI",
-"mHZ","nadu",,,,,"EKSS; EFI",
-"mco-W","",,,,,"",
-"mco-H","",,,,,"",
-"mFW(notM)","võõrasema",,,,,"EKSS; EFI",
-"mMH(notF)","võõrasisa",,,,,"EKSS; EFI",
-"mSW","minia",,,,,"EKSS; EFI",
-"mSWM","",,,,,"",
-"mSWF","",,,,,"",
-"mDH","väimees",,,,,"EKSS; EFI",
-"mDHM","",,,,,"",
-"mDHF","",,,,,"",
-"mFZH","",,,,,"",
-"mFBW","",,,,,"",
-"mMZH","",,,,,"",
-"mMBW","",,,,,"",
-"fG","õed-vennad",,,,,"EKSS",
-"fB","vend",,,,,"EKSS",
-"fB","veli",,,,,"EKSS",
-"fZ","õde",,,,,"EKSS",
-"fZ","sõsar",,,,,"EKSS",
-"fZ","sõts",,,,,"EKSS",
-"feB","",,,,,"",
-"fyB","",,,,,"",
-"feZ","",,,,,"",
-"fyZ","",,,,,"",
-"fP","vanem",,,,,"EKSS; EFI",
-"fF","isa",,,,,"EKSS; EFI",
-"fM","ema",,,,,"EKSS; EFI",
-"fC","laps",,,,,"EKSS; EFI",
-"fS","poeg",,,,,"EKSS; EFI",
-"fD","tütar",,,,,"EKSS; EFI",
-"fA","esivanemad",,,,,"EKSS; EFI",
-"fA","esiisa",,,,,"EKSS; EFI",
-"fA","esiema",,,,,"EKSS; EFI",
-"fPP","vanavanemad",,,,,"EKSS; EFI",
-"fFF","vanaisa",,,,,"EKSS; EFI",
-"fFF","isaisa",,,,,"EKSS",
-"fFM","vanaema",,,,,"EKSS;EFI",
-"fFM","isaema",,,,,"EKSS",
-"fMF","vanaisa",,,,,"EKSS; EFI",
-"fMF","emaisa",,,,,"EKSS; EFI",
-"fMM","vanaema",,,,,"EKSS; EFI",
-"fMM","emaema",,,,,"EKSS; EFI",
-"fCC","lapselaps",,,,,"EKSS; EFI",
-"fSS","pojapoeg",,,,,"EKSS; EFI",
-"fSD","pojatütar",,,,,"EKSS",
-"fDS","tütrepoeg",,,,,"EKSS",
-"fDD","tütretütar",,,,,"EKSS",
-"fFB","onu",,,,,"EKSS; EFI",
-"fFB","lell",,,,,"EKSS; EFI",
-"fFZ","tädi",,,,,"EKSS; EFI",
-"fFZ","sõtse",,,,,"EKSS",
-"fMB","onu",,,,,"EKSS; EFI",
-"fMZ","tädi",,,,,"EKSS; EFI",
-"fFeB","",,,,,"",
-"fFyB","",,,,,"",
-"fFeZ","",,,,,"",
-"fFyZ","",,,,,"",
-"fMeZ","",,,,,"",
-"fMyZ","",,,,,"",
-"fMeB","",,,,,"",
-"fMyB","",,,,,"",
-"fBS","vennapoeg",,,,,"EKSS; EFI",
-"fBD","vennatütar",,,,,"EKSS",
-"fZS","õepoeg",,,,,"EKSS; EFI",
-"fZD","õetütar",,,,,"EKSS; EFI",
-"feBS","",,,,,"",
-"fyBS","",,,,,"",
-"feBD","",,,,,"",
-"fyBD","",,,,,"",
-"feZS","",,,,,"",
-"fyZS","",,,,,"",
-"feZD","",,,,,"",
-"fyZD","",,,,,"",
-"fFZD","nõbu",,,,,"EKSS; EFI",
-"fFZD","täditütar",,,,,"EKSS; EFI",
-"fFBD","nõbu",,,,,"EKSS; EFI",
-"fFBD","onutütar",,,,,"EKSS; EFI",
-"fMBD","nõbu",,,,,"EKSS; EFI",
-"fMBD","onutütar",,,,,"EKSS; EFI",
-"fMZD","nõbu",,,,,"EKSS; EFI",
-"fMZD","täditütar",,,,,"EKSS; EFI",
-"fFBS","nõbu",,,,,"EKSS; EFI",
-"fFBS","onupoeg",,,,,"EKSS; EFI",
-"fFZS","nõbu",,,,,"EKSS; EFI",
-"fFZS","tädipoeg",,,,,"EKSS; EFI",
-"fMBS","nõbu",,,,,"EKSS; EFI",
-"fMBS","onupoeg",,,,,"EKSS; EFI",
-"fMZS","nõbu",,,,,"EKSS; EFI",
-"fMZS","tädipoeg",,,,,"EKSS; EFI",
-"fFeBS","",,,,,"",
-"fFyBS","",,,,,"",
-"fFeZS","",,,,,"",
-"fFyZS","",,,,,"",
-"fFeBD","",,,,,"",
-"fFyBD","",,,,,"",
-"fFeZD","",,,,,"",
-"fFyZD","",,,,,"",
-"fMeBS","",,,,,"",
-"fMyBS","",,,,,"",
-"fMeZS","",,,,,"",
-"fMyZS","",,,,,"",
-"fMeBD","",,,,,"",
-"fMyBD","",,,,,"",
-"fMeZD","",,,,,"",
-"fMyZD","",,,,,"",
-"fFBeS","",,,,,"",
-"fFByS","",,,,,"",
-"fFZeS","",,,,,"",
-"fFZyS","",,,,,"",
-"fFBeD","",,,,,"",
-"fFByD","",,,,,"",
-"fFZeD","",,,,,"",
-"fFZyD","",,,,,"",
-"fMBeS","",,,,,"",
-"fMByS","",,,,,"",
-"fMZeS","",,,,,"",
-"fMZyS","",,,,,"",
-"fMBeD","",,,,,"",
-"fMByD","",,,,,"",
-"fMZeD","",,,,,"",
-"fMZyD","",,,,,"",
-"fE","abikaasa",,,,,"EKSS; EFI",
-"fH","mees",,,,,"EKSS; EFI",
-"fW","naine",,,,,"EKSS; EFI",
-"fHF","äi",,,,,"EKSS; EFI",
-"fHM","ämm",,,,,"EKSS; EFI",
-"fWF","äi",,,,,"EKSS; EFI",
-"fWM","ämm",,,,,"EKSS; EFI",
-"fBW","vennanaine",,,,,"EKSS;EFI",
-"fZH","õemees",,,,,"EKSS; EFI",
-"fWB","nääl",,,,,"EKSS",
-"fWZ","käli",,,,,"EKSS; EFI",
-"fHB","küdi",,,,,"EKSS; EFI",
-"fHZ","nadu",,,,,"EKSS; EFI",
-"fco-W","",,,,,"",
-"fco-H","",,,,,"",
-"fFW(notM)","võõrasema",,,,,"EKSS; EFI",
-"fMH(notF)","võõrasisa",,,,,"EKSS; EFI",
-"fSW","minia",,,,,"EKSS; EFI",
-"fSWM","",,,,,"",
-"fSWF","",,,,,"",
-"fDH","väimees",,,,,"EKSS; EFI",
-"fDHM","",,,,,"",
-"fDHF","",,,,,"",
-"fFZH","",,,,,"",
-"fFBW","",,,,,"",
-"fMZH","",,,,,"",
-"fMBW","",,,,,"",
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments;Deeper donor language;Ref. for deeper donor language
+Siblings;male speaker's sibling;mG;õed-vennad;;;0;;;;Estonian-specific;SES;;;;4;;;Copulative compound of õde 'sister' and vend 'brother' (in plural);;
+Siblings;male speaker's brother;mB;vend;;;0;;Contains perhaps a borrowed base;;Estonian-specific;EKSS;ETY;;;2;;;Usually thought to be a derivation of veli, the spesifics are murky though;;
+Siblings;male speaker's brother;mB;veli;;*sweljan-;2;;;Proto-Germanic;1st millennium BCE;EKSS;"LägLoS: 386–387; Metsäranta 2023";;replacement;1;;;;PIE;Olsen (2020: 133-134), Milanova (2020: 160)
+Siblings;male speaker's sister;mZ;õde;;;0;;;;Estonian-specific;EKSS;ETY;;;2;;;Thought to be a derivation of sõtse, but this seems unproven;;
+Siblings;male speaker's sister;mZ;sõsar;;*ses-(e)r;4;;;Baltic;1st millennium BCE;EKSS;SSA: 187;;replacement;1;;;;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Siblings;male speaker's sister;mZ;sõts;;;0;;;;Estonian-specific;EKSS;;;;2;;;"Dialectal; From sõsar, cf. also sõtse 'father's sister'";;
+Siblings;male speaker's elder brother;meB;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's younger brother;myB;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's elder sister;meZ;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's younger sister;myZ;;;;;;;;;;;;;;;;;;
+Parents;male speaker's parent;mP;vanem;;elderen;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";Milanova et al. 2024: 328–330;;;3;;;"Lexicalized comparative of vanha 'old', ""olders"" = parents (same occurs in Finnish, vanhemmat = parents), usually pluralized = vanemad";;
+Parents;male speaker's father;mF;isa;;;0;;;;Inherited, PU *ić(ć)ä;"EKSS; EFI";Aikio 2020: 30–31;;;1;;;;;
+Parents;male speaker's mother;mM;ema;;;0;;;;Inherited, PU *emä;"EKSS; EFI";Aikio 2020: 44–45;;;1;;;;;
+Children;male speaker's child;mC;laps;;;0;;;;Inherited, PU *lëpćə 'craddle';"EKSS; EFI";Aikio 2015: 58;;;1;;;;;
+Children;male speaker's son;mS;poeg;;;0;;;;Inherited, PU *pojka;"EKSS; EFI";;;;1;;;;;
+Children;male speaker's daughter;mD;tütar;;*duktēr-;4;;;Baltic;1st millennium BCE;"EKSS; EFI";SSA: 349;;replacement;1;;;;PIE;Olsen (2020: 60-62), Milanova (2020: 94-95, 167-175)
+Grandparents;male speaker's ancestor;mA;esivanemad;;vȫreldern ;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";Milanova et al. 2024: 328–330 and appendix 2.9;;;4;;;A compound, esi 'pre-, fore-' and vanemad 'parents';;
+Grandparents;male speaker's ancestor;mA;esiisa;;vȫrvāder;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";cf. esivanemad, Köbler, MLG s.v;;;4;;;A compound of esi 'pre-, fore-' and isa 'father', 'paternal ancestor';;
+Grandparents;male speaker's ancestor;mA;esiema;;;0;;;;Finnic-specific;"EKSS; EFI";cf.esiisa;;;4;;;A compound, esi 'pre-, fore-' and ema 'mother', 'maternal ancestor', possibly analogous to esiisa;;
+Grandparents;male speaker's grandparent;mPP;vanavanemad;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound, vana 'old' and vanemad 'parents', areal micro-convergence with Latvian and Livonian (Milanova 2024: 332–333);;
+Grandparents;male speaker's father's father;mFF;vanaisa;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";Milanova et al. 2024: 330–331;;;4;;;A compound of vana 'old' and isa 'father', similar formations in IE Baltic languages: Latv. vec(ais)tēvs 'grandfather' (lit. 'old father');;
+Grandparents;male speaker's father's father;mFF;isaisa;;farfar;3;1;;Swedish;recent centuries ;EKSS;;;;4;X.GEN-X.NOM;;A compound of isa 'father' and isa 'father' (note the first isa is formally a genitive, but in some noun categories nominative and genitive have largely coincided in Estonian);;
+Grandparents;male speaker's father's mother;mFM;vanaema;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"EKSS;EFI";Milanova et al. 2024: 330–331;;;4;;;A compound of vana 'old' and ema 'mother', similarly as in IE Baltic languages: Lith. sénmotė 'grandmother', Latv. vecāmāte 'id.' (lit. 'old mother');;
+Grandparents;male speaker's father's mother;mFM;isaema;;farmor;3;1;;Swedish;recent centuries ;EKSS;;;;4;X.GEN-X.NOM;;A compound of isa 'father' and ema 'mother';;
+Grandparents;male speaker's mother's father;mMF;vanaisa;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";Milanova et al. 2024: 330–331;;;4;;;;;
+Grandparents;male speaker's mother's father;mMF;emaisa;;morfar;3;1;;Swedish;recent centuries ;"EKSS; EFI";;;;4;X.GEN-X.NOM;;;;
+Grandparents;male speaker's mother's mother;mMM;vanaema;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";Milanova et al. 2024: 330–331;;;4;;;;;
+Grandparents;male speaker's mother's mother;mMM;emaema;;mormor;3;1;;Swedish;recent centuries ;"EKSS; EFI";;;;4;X.GEN-X.NOM;;;;
+Grandchildren;male speaker's grandchild;mCC;lapselaps;;barnbarn;3;1;;Swedish;recent centuries ;"EKSS; EFI";;;;4;X.GEN-X.NOM;;A compound of laps 'child' (gen. lapse) and laps 'child';;
+Grandchildren;male speaker's son's son;mSS;pojapoeg;;sonson;3;1;;Swedish;recent centuries ;"EKSS; EFI";;;;4;X.GEN-X.NOM;;"A compound of poeg 'boy; son' (gen. poja) and poeg 'son'";;
+Grandchildren;male speaker's son's daughter;mSD;pojatütar;;sondotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;EKSS;;;;4;X.GEN-X.NOM;;;;
+Grandchildren;male speaker's daughter's son;mDS;tütrepoeg;;dotterson;3;1;One of the constituents is borrowed;Swedish;recent centuries ;EKSS;;;;4;X.GEN-X.NOM;;A compound of tütar 'daughter' (gen. tütre) and poeg 'son';;
+Grandchildren;male speaker's daughter's daughter;mDD;tütretütar;;dotterdotter ;3;1;One of the constituents is borrowed;Swedish;recent centuries ;EKSS;;;;4;X.GEN-X.NOM;;;;
+ParentsSiblings;male speaker's father's brother;mFB;onu;;;0;;;;Finnic-specific, PF *ënoi;"EKSS; EFI";"SSA: 105; Aikio 2020: 45–46";;;3;;;A derivation of *enä 'big';;
+ParentsSiblings;male speaker's father's brother;mFB;lell;;;0;;;;Estonian-specific/Inherited;"EKSS; EFI";ETY;;;1;;;Erzya lʹelʹa usually cited as a cognate, this is unlikely, however;;
+ParentsSiblings;male speaker's father's sister;mFZ;tädi;;;0;;;;Finnic-specific;"EKSS; EFI";ETY;;;1;;;Probably a Lallwort;;
+ParentsSiblings;male speaker's father's sister;mFZ;sõtse;;;0;;;;Estonian-specific;EKSS;ETY;;;2;;;"Dialectal; The idea floating around is that this is in some irregular relation to sõsar 'sister'";;
+ParentsSiblings;male speaker's mother's brother;mMB;onu;;;0;;;;Finnic-specific, PF *ënoi;"EKSS; EFI";"SSA: 105; Aikio 2020: 45–46";;;3;;;A derivation of *enä 'big';;
+ParentsSiblings;male speaker's mother's sister;mMZ;tädi;;;0;;;;Finnic-specific;"EKSS; EFI";ETY;;;1;;;Probably a Lallwort;;
+ParentsSiblings;male speaker's father's older brother;mFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older brother;mMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;vennapoeg;;brorson;3;1;;;recent centuries;"EKSS; EFI";;;;4;X.GEN-X.NOM;;A compound of vend 'brother' (gen. venna) and poeg 'son';;
+SiblingsChildren;male speaker's brother's daughter;mBD;vennatütar;;brorsdotter;3;1;One of the constituents is borrowed;;recent centuries;EKSS;Milanova et al. 2024: 341;;;4;X.GEN-X.NOM;;A compound of vend 'brother' (gen. venna) and tütar 'daughter';;
+SiblingsChildren;male speaker's sister's son;mZS;õepoeg;;systerson;3;1;;;recent centuries;"EKSS; EFI";;;;4;X.GEN-X.NOM;;A compound of õde 'sister' (gen. õe) and poeg 'son';;
+SiblingsChildren;male speaker's sister's daughter;mZD;õetütar;;systerdotter;3;1;One of the constituents is borrowed;;recent centuries;"EKSS; EFI";Milanova et al. 2024: 343;;;4;X.GEN-X.NOM;;A compound of õde 'sister' (gen, õe) and tütar 'daughter';;
+SiblingsChildren;male speaker's older brother's son;meBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's son;meZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;male speaker's father's sister daughter;mFZD;täditütar;;;0;;One of the constituents is borrowed;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of tädi 'father's/mother's sister' + poeg 'son';;
+Cousins;male speaker's father's brother's daughter;mFBD;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;male speaker's father's brother's daughter;mFBD;onutütar;;;0;;One of the constituents is borrowed;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of onu 'father's/mother's brother' + tütar 'daughter';;
+Cousins;male speaker's mother's brother's daughter;mMBD;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;male speaker's mother's brother's daughter;mMBD;onutütar;;;0;;One of the constituents is borrowed;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of onu 'father's/mother's brother' + tütar 'daughter';;
+Cousins;male speaker's mother's sister's daughter;mMZD;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;male speaker's mother's sister's daughter;mMZD;täditütar;;;0;;One of the constituents is borrowed;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of tädi 'father's/mother's sister' + poeg 'son';;
+Cousins;male speaker's father's brother's son;mFBS;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;male speaker's father's brother's son;mFBS;onupoeg;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of onu 'father's/mother's brother' + poeg 'son';;
+Cousins;male speaker's father's sister's son;mFZS;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;male speaker's father's sister's son;mFZS;tädipoeg;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of tädi 'father's/mother's sister' + poeg 'son';;
+Cousins;male speaker's mother's brother's son;mMBS;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;male speaker's mother's brother's son;mMBS;onupoeg;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of onu 'father's/mother's brother' + poeg 'son';;
+Cousins;male speaker's mother's sister's son;mMZS;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;male speaker's mother's sister's son;mMZS;tädipoeg;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of tädi 'father's/mother's sister' + poeg 'son';;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;abikaasa;;;0;;One of the constituents is borrowed;;Estonian-specific;"EKSS; EFI";ETY;;;4;;;A compound of abi 'help' and kaasa 'spouse' < PGerm. *hansō 'troop' (cf. Kroonen 2013, s.v.);;
+Affines;male speaker's husband;mH;mees;;*mēǥa-z;2;;;Proto-Germanic;Finnic-specific, PF *mees;"EKSS; EFI";LägLoS: 263;angeheirateter;replacament;1;;;According to Kroonen (2009, s.v. mēga-), the meaning in Proto-Germanic was 'son-in-law', in Old Norse it denoted all kinds of male affinals, in West Germanic all kinds of relatives (Milanova 2020: 144).;West European word of obscure origin;Kroonen 2013, s.v. magu- and mēga-
+Affines;male speaker's wife;mW;naine;;;0;;;;Finnic-specific, *naicë-;"EKSS; EFI";ETY;;;1;;;Possibly derived from PU *näjV;;
+Affines;male speaker's husband's father;mHF;äi;;;0;;;;Inherited, PU *äjjä;"EKSS; EFI";Aikio 2020: 33;;;1;;;"Originally probably 'old man; grandfather'";;
+Affines;male speaker's husband's mother;mHM;ämm;;;0;;;;Finnic-specific, *ämmä;"EKSS; EFI";SSA: 497–498;;;1;;;In Estonian and Votic replaced Uralic anoppi, the Finnish cognate ämmä has acquired a derogatory meaning 'hag', but the word was probably originally more neutral in meaning, Lallwort;;
+Affines;male speaker's wife's father;mWF;äi;;;0;;;;Inherited, PU *äjjä;"EKSS; EFI";Aikio 2020: 33;;;1;;;"Originally probably 'old man; grandfather'";;
+Affines;male speaker's wife's mother;mWM;ämm;;;0;;;;Finnic-specific, *ämmä;"EKSS; EFI";SSA: 497–498;;;1;;;In Estonian and Votic replaced Uralic anoppi, the Finnish cognate ämmä has acquired a derogatory meaning 'hag', but the word was probably originally more neutral in meaning, Lallwort;;
+Affines;male speaker's brother's wife;mBW;vennanaine;;;0;;;;Estonian-specific;"EKSS;EFI";;;;4;;;A compound of vend 'brother' and naine 'wife';;
+Affines;male speaker's sister's husband;mZH;õemees;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of õde 'sister' and mees 'husband';;
+Affines;male speaker's wife's brother;mWB;nääl;;;0;;;;Finnic-specific;EKSS;ETY;;;1;;;;;
+Affines;male speaker's wife's sister;mWZ;käli;;;0;;;;Inherited, PU *käləw;"EKSS; EFI";UEW: 135–136;;;1;;;;;
+Affines;male speaker's husband's brother;mHB;küdi;;;0;;;;Finnic-specific, PF *kütü;"EKSS; EFI";;;;1;;;;;
+Affines;male speaker's husband's sister;mHZ;nadu;;;0;;;;Inherited, PU *nataw;"EKSS; EFI";Aikio 2015:  55;;;1;;;;;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);võõrasema;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;"A compound of võõras 'stranger; (dated) guest' and ema 'mother'";;
+Affines;male speaker's mother's husband (not father);mMH(notF);võõrasisa;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;;;
+Affines;male speaker's son's wife;mSW;minia;;;0;;;;Inherited, PU *mińä;"EKSS; EFI";UEW: 276;;;1;;;;;
+Affines;male speaker's son's wife's mother;mSWM;;;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife's father;mSWF;;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband;mDH;väimees;;;0;;;;Inherited, PU *wäŋəw;"EKSS; EFI";UEW: 565–566;;;4;;;A compound of väi 'son-in-law' and mees 'man';;
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's sibling;fG;õed-vennad;;;0;;;;Estonian-specific;SES;;;;4;;;Copulative compound of õde 'sister' and vend 'brother' (in plural);;
+Siblings;female speaker's brother;fB;vend;;;0;;Contains perhaps a borrowed base;;Estonian-specific;EKSS;ETY;;;2;;;Usually thought to be a derivation of veli, the spesifics are murky though;;
+Siblings;female speaker's brother;fB;veli;;*sweljan-;2;;;Proto-Germanic;1st millennium BCE;EKSS;"LägLoS: 386–387; Metsäranta 2023";;replacement;1;;;;PIE;Olsen (2020: 133-134), Milanova (2020: 160)
+Siblings;female speaker's sister;fZ;õde;;;0;;;;Estonian-specific;EKSS;ETY;;;2;;;Thought to be a derivation of sõtse, but this seems unproven;;
+Siblings;female speaker's sister;fZ;sõsar;;*ses-(e)r;4;;;Baltic;1st millennium BCE;EKSS;SSA: 187;;replacement;1;;;;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Siblings;female speaker's sister;fZ;sõts;;;0;;;;Estonian-specific;EKSS;;;;2;;;"Dialectal; From sõsar, cf. also sõtse 'father's sister'";;
+Siblings;female speaker's elder brother;feB;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's younger brother;fyB;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's elder sister;feZ;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's younger sister;fyZ;;;;;;;;;;;;;;;;;;
+Parents;female speaker's parent;fP;vanem;;elderen;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";Milanova et al. 2024: 328–330;;;3;;;"Lexicalized comparative of vanha 'old', ""olders"" = parents (same occurs in Finnish, vanhemmat = parents), usually pluralized = vanemad";;
+Parents;female speaker's father;fF;isa;;;0;;;;Inherited, PU *ić(ć)ä;"EKSS; EFI";Aikio 2020: 30–31;;;1;;;;;
+Parents;female speaker's mother;fM;ema;;;0;;;;Inherited, PU *emä;"EKSS; EFI";Aikio 2020: 44–45;;;1;;;;;
+Children;female speaker's child;fC;laps;;;0;;;;Inherited, PU *lëpćə 'craddle';"EKSS; EFI";Aikio 2015: 58;;;1;;;;;
+Children;female speaker's son;fS;poeg;;;0;;;;Inherited, PU *pojka;"EKSS; EFI";;;;1;;;;;
+Children;female speaker's daughter;fD;tütar;;*duktēr-;4;;;Baltic;1st millennium BCE;"EKSS; EFI";SSA: 349;;replacement;1;;;;PIE;Olsen (2020: 60-62), Milanova (2020: 94-95, 167-175)
+Grandparents;female speaker's ancestor;fA;esivanemad;;vȫreldern ;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";Milanova et al. 2024: 328–330 and appendix 2.9;;;4;;;A compound, esi 'pre-, fore-' and vanemad 'parents';;
+Grandparents;female speaker's ancestor;fA;esiisa;;vȫrvāder;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";cf. esivanemad, Köbler, MLG s.v;;;4;;;A compound of esi 'pre-, fore-' and isa 'father', 'paternal ancestor';;
+Grandparents;female speaker's ancestor;fA;esiema;;;0;;;;Finnic-specific;"EKSS; EFI";cf.esiisa;;;4;;;A compound, esi 'pre-, fore-' and ema 'mother', 'maternal ancestor', possibly analogous to esiisa;;
+Grandparents;female speaker's grandparent;fPP;vanavanemad;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound, vana 'old' and vanemad 'parents', areal micro-convergence with Latvian and Livonian (Milanova 2024: 332–333);;
+Grandparents;female speaker's father's father;fFF;vanaisa;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";Milanova et al. 2024: 330–331;;;4;;;A compound of vana 'old' and isa 'father', similar formations in IE Baltic languages: Latv. vec(ais)tēvs 'grandfather' (lit. 'old father');;
+Grandparents;female speaker's father's father;fFF;isaisa;;farfar;3;1;;Swedish;recent centuries ;EKSS;;;;4;X.GEN-X.NOM;;A compound of isa 'father' and isa 'father' (note the first isa is formally a genitive, but in some noun categories nominative and genitive have largely coincided in Estonian);;
+Grandparents;female speaker's father's mother;fFM;vanaema;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"EKSS;EFI";Milanova et al. 2024: 330–331;;;4;;;A compound of vana 'old' and ema 'mother', similarly as in IE Baltic languages: Lith. sénmotė 'grandmother', Latv. vecāmāte 'id.' (lit. 'old mother');;
+Grandparents;female speaker's father's mother;fFM;isaema;;farmor;3;1;;Swedish;recent centuries ;EKSS;;;;4;X.GEN-X.NOM;;A compound of isa 'father' and ema 'mother';;
+Grandparents;female speaker's mother's father;fMF;vanaisa;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";Milanova et al. 2024: 330–331;;;4;;;;;
+Grandparents;female speaker's mother's father;fMF;emaisa;;morfar;3;1;;Swedish;recent centuries ;"EKSS; EFI";;;;4;X.GEN-X.NOM;;;;
+Grandparents;female speaker's mother's mother;fMM;vanaema;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"EKSS; EFI";Milanova et al. 2024: 330–331;;;4;;;;;
+Grandparents;female speaker's mother's mother;fMM;emaema;;mormor;3;1;;Swedish;recent centuries ;"EKSS; EFI";;;;4;X.GEN-X.NOM;;;;
+Grandchildren;female speaker's grandchild;fCC;lapselaps;;barnbarn;3;1;;Swedish;recent centuries ;"EKSS; EFI";;;;4;X.GEN-X.NOM;;A compound of laps 'child' (gen. lapse) and laps 'child';;
+Grandchildren;female speaker's son's son;fSS;pojapoeg;;sonson;3;1;;Swedish;recent centuries ;"EKSS; EFI";;;;4;X.GEN-X.NOM;;"A compound of poeg 'boy; son' (gen. poja) and poeg 'son'";;
+Grandchildren;female speaker's son's daughter;fSD;pojatütar;;sondotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;EKSS;;;;4;X.GEN-X.NOM;;;;
+Grandchildren;female speaker's daughter's son;fDS;tütrepoeg;;dotterson;3;1;One of the constituents is borrowed;Swedish;recent centuries ;EKSS;;;;4;X.GEN-X.NOM;;A compound of tütar 'daughter' (gen. tütre) and poeg 'son';;
+Grandchildren;female speaker's daughter's daughter;fDD;tütretütar;;dotterdotter ;3;1;One of the constituents is borrowed;Swedish;recent centuries ;EKSS;;;;4;X.GEN-X.NOM;;;;
+ParentsSiblings;female speaker's father's brother;fFB;onu;;;0;;;;Finnic-specific, PF *ënoi;"EKSS; EFI";"SSA: 105; Aikio 2020: 45–46";;;3;;;A derivation of *enä 'big';;
+ParentsSiblings;female speaker's father's brother;fFB;lell;;;0;;;;Estonian-specific/Inherited;"EKSS; EFI";ETY;;;1;;;Erzya lʹelʹa usually cited as a cognate, this is unlikely, however;;
+ParentsSiblings;female speaker's father's sister;fFZ;tädi;;;0;;;;Finnic-specific;"EKSS; EFI";ETY;;;1;;;Probably a Lallwort;;
+ParentsSiblings;female speaker's father's sister;fFZ;sõtse;;;0;;;;Estonian-specific;EKSS;ETY;;;2;;;"Dialectal; The idea floating around is that this is in some irregular relation to sõsar 'sister'";;
+ParentsSiblings;female speaker's mother's brother;fMB;onu;;;0;;;;Finnic-specific, PF *ënoi;"EKSS; EFI";"SSA: 105; Aikio 2020: 45–46";;;3;;;A derivation of *enä 'big';;
+ParentsSiblings;female speaker's mother's sister;fMZ;tädi;;;0;;;;Finnic-specific;"EKSS; EFI";ETY;;;1;;;Probably a Lallwort;;
+ParentsSiblings;female speaker's father's older brother;fFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older brother;fMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;vennapoeg;;brorson;3;1;;;recent centuries;"EKSS; EFI";;;;4;X.GEN-X.NOM;;A compound of vend 'brother' (gen. venna) and poeg 'son';;
+SiblingsChildren;female speaker's brother's daughter;fBD;vennatütar;;brorsdotter;3;1;One of the constituents is borrowed;;recent centuries;EKSS;Milanova et al. 2024: 341;;;4;X.GEN-X.NOM;;A compound of vend 'brother' (gen. venna) and tütar 'daughter';;
+SiblingsChildren;female speaker's sister's son;fZS;õepoeg;;systerson;3;1;;;recent centuries;"EKSS; EFI";;;;4;X.GEN-X.NOM;;A compound of õde 'sister' (gen. õe) and poeg 'son';;
+SiblingsChildren;female speaker's sister's daughter;fZD;õetütar;;systerdotter;3;1;One of the constituents is borrowed;;recent centuries;"EKSS; EFI";Milanova et al. 2024: 343;;;4;X.GEN-X.NOM;;A compound of õde 'sister' (gen, õe) and tütar 'daughter';;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's sister's daughter;fFZD;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;female speaker's father's sister's daughter;fFZD;täditütar;;;0;;One of the constituents is borrowed;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of tädi 'father's/mother's sister' + poeg 'son';;
+Cousins;female speaker's father's brother's daughter;fFBD;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;female speaker's father's brother's daughter;fFBD;onutütar;;;0;;One of the constituents is borrowed;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of onu 'father's/mother's brother' + tütar 'daughter';;
+Cousins;female speaker's mother's brother's daughter;fMBD;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;female speaker's mother's brother's daughter;fMBD;onutütar;;;0;;One of the constituents is borrowed;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of onu 'father's/mother's brother' + tütar 'daughter';;
+Cousins;female speaker's mother's sister's daughter;fMZD;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;female speaker's mother's sister's daughter;fMZD;täditütar;;;0;;One of the constituents is borrowed;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of tädi 'father's/mother's sister' + poeg 'son';;
+Cousins;female speaker's father's brother's son;fFBS;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;female speaker's father's brother's son;fFBS;onupoeg;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of onu 'father's/mother's brother' + poeg 'son';;
+Cousins;female speaker's father's sister's son;fFZS;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;female speaker's father's sister's son;fFZS;tädipoeg;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of tädi 'father's/mother's sister' + poeg 'son';;
+Cousins;female speaker's mother's brother's son;fMBS;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;female speaker's mother's brother's son;fMBS;onupoeg;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of onu 'father's/mother's brother' + poeg 'son';;
+Cousins;female speaker's mother's sister's son;fMZS;nõbu;;*nep(ō)t;4;;;Baltic;1st millennium BCE;"EKSS; EFI";"ETY; SSA: 213";grandson, granddaughter;replacement?;1;;;;PIE;Olsen 2020:82-93, Milanova 2020: 126-133
+Cousins;female speaker's mother's sister's son;fMZS;tädipoeg;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of tädi 'father's/mother's sister' + poeg 'son';;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;abikaasa;;;0;;One of the constituents is borrowed;;Estonian-specific;"EKSS; EFI";ETY;;;4;;;A compound of abi 'help' and kaasa 'spouse' < PGerm. *hansō 'troop' (cf. Kroonen 2013, s.v.);;
+Affines;female speaker's husband;fH;mees;;*mēǥa-z;2;;;Proto-Germanic;Finnic-specific, PF *mees;"EKSS; EFI";LägLoS: 263;angeheirateter;replacament;1;;;According to Kroonen (2009, s.v. mēga-), the meaning in Proto-Germanic was 'son-in-law', in Old Norse it denoted all kinds of male affinals, in West Germanic all kinds of relatives (Milanova 2020: 144).;West European word of obscure origin;Kroonen 2013, s.v. magu- and mēga-
+Affines;female speaker's wife;fW;naine;;;0;;;;Finnic-specific, *naicë-;"EKSS; EFI";ETY;;;1;;;Possibly derived from PU *näjV;;
+Affines;female speaker's husband's father;fHF;äi;;;0;;;;Inherited, PU *äjjä;"EKSS; EFI";Aikio 2020: 33;;;1;;;"Originally probably 'old man; grandfather'";;
+Affines;female speaker's husband's mother;fHM;ämm;;;0;;;;Finnic-specific, *ämmä;"EKSS; EFI";SSA: 497–498;;;1;;;In Estonian and Votic replaced Uralic anoppi, the Finnish cognate ämmä has acquired a derogatory meaning 'hag', but the word was probably originally more neutral in meaning, Lallwort;;
+Affines;female speaker's wife's father;fWF;äi;;;0;;;;Inherited, PU *äjjä;"EKSS; EFI";Aikio 2020: 33;;;1;;;"Originally probably 'old man; grandfather'";;
+Affines;female speaker's wife's mother;fWM;ämm;;;0;;;;Finnic-specific, *ämmä;"EKSS; EFI";SSA: 497–498;;;1;;;In Estonian and Votic replaced Uralic anoppi, the Finnish cognate ämmä has acquired a derogatory meaning 'hag', but the word was probably originally more neutral in meaning, Lallwort;;
+Affines;female speaker's brother's wife;fBW;vennanaine;;;0;;;;Estonian-specific;"EKSS;EFI";;;;4;;;A compound of vend 'brother' and naine 'wife';;
+Affines;female speaker's sister's husband;fZH;õemees;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;A compound of õde 'sister' and mees 'husband';;
+Affines;female speaker's wife's brother;fWB;nääl;;;0;;;;Finnic-specific;EKSS;ETY;;;1;;;;;
+Affines;female speaker's wife's sister;fWZ;käli;;;0;;;;Inherited, PU *käləw;"EKSS; EFI";UEW: 135–136;;;1;;;;;
+Affines;female speaker's husband's brother;fHB;küdi;;;0;;;;Finnic-specific, PF *kütü;"EKSS; EFI";;;;1;;;;;
+Affines;female speaker's husband's sister;fHZ;nadu;;;0;;;;Inherited, PU *nataw;"EKSS; EFI";Aikio 2015:  55;;;1;;;;;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);võõrasema;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;"A compound of võõras 'stranger; (dated) guest' and ema 'mother'";;
+Affines;female speaker's mother's husband (not father);fMH(notF);võõrasisa;;;0;;;;Estonian-specific;"EKSS; EFI";;;;4;;;;;
+Affines;female speaker's son's wife;fSW;minia;;;0;;;;Inherited, PU *mińä;"EKSS; EFI";UEW: 276;;;1;;;;;
+Affines;female speaker's son's wife's mother;fSWM;;;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife's father;fSWF;;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband;fDH;väimees;;;0;;;;Inherited, PU *wäŋəw;"EKSS; EFI";UEW: 565–566;;;4;;;A compound of väi 'son-in-law' and mees 'man';;
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;;;

@@ -1,283 +1,285 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","vi̮n-apajjos",,,,,"URS",
-"mB","brat",,,,,"URS",
-"mB","agaj-vi̮n",,,,,"URS",
-"mZ","",,,,,"",
-"meB","agaj",,,,,"URS",
-"meB","ńuńu",,,,,"URS",
-"myB","vi̮n",,,,,"URS",
-"meZ","apaj",,,,,"URS",
-"meZ","aka",,,,,"URS",
-"myZ","suzer",,,,,"URS",
-"mP","anaj-ataj",,,,,"URS",
-"mP","aji̮-mumi̮",,,,,"URS",
-"mP","mumi̮-bubi̮",,,,,"URS",
-"mF","ataj",,,,,"URS",
-"mF","bubi̮",,,,,"URS",
-"mF","dʹadʹa",,,,,"URS",
-"mF","ajï",,,,,"URS",
-"mM","anaj",,,,,"URS",
-"mM","memej",,,,,"URS",
-"mM","mumi̮",,,,,"URS",
-"mC","ni̮lpi",,,,,"URS",
-"mC","pinal",,,,,"URS",
-"mC","nuni̮",,,,,"URS",
-"mS","pi",,,,,"URS",
-"mD","ni̮l",,,,,"URS",
-"mA","dińataj",,,,,"URS",
-"mPP","pereś anaj-ataj",,,,,"URS",
-"mFF","peśataj",,,,,"URS",
-"mFM","peśanaj",,,,,"URS",
-"mMF","čužataj",,,,,"URS",
-"mMM","čužanaj",,,,,"URS",
-"mCC","nunok",,,,,"URS",
-"mSS","pijezlen pijez",,,,,"URS",
-"mSD","pijezlen nïliz",,,,,"",
-"mDS","ni̮li̮zlen pijez",,,,,"URS",
-"mDD","ni̮li̮len ni̮li̮z",,,,,"URS",
-"mFB","agaj",,,,,"URS",
-"mFZ","aka",,,,,"URS",
-"mMB","čužmurt",,,,,"URS",
-"mMZ","čužapaj",,,,,"URS",
-"mMZ","čužkenak",,,,,"URS",
-"mFeB","",,,,,"",
-"mFyB","",,,,,"",
-"mFeZ","",,,,,"",
-"mFyZ","",,,,,"",
-"mMeZ","",,,,,"",
-"mMyZ","",,,,,"",
-"mMeB","",,,,,"",
-"mMyB","",,,,,"",
-"mBS","vi̮nmurt",,,,,"URS",
-"mBS","vi̮npi",,,,,"URS",
-"mBD","vi̮nni̮l",,,,,"URS",
-"mZS","vi̮nmurt",,,,,"URS",
-"mZS","vi̮npi",,,,,"URS",
-"mZD","vi̮nni̮l",,,,,"URS",
-"meBS","agajezlen pijez",,,,,"URS",
-"myBS","vi̮ni̮zlen pijez",,,,,"URS",
-"meBD","agajezlen ni̮li̮z",,,,,"",
-"myBD","vi̮ni̮zlen ni̮li̮z",,,,,"",
-"meZS","apajezlen pijez",,,,,"URS",
-"myZS","suzerezlen pijez",,,,,"URS",
-"meZD","apajezlen nïlïz",,,,,"",
-"myZD","suzerezlen nïlïz",,,,,"",
-"mFZD","",,,,,"",
-"mFBD","",,,,,"",
-"mMBD","čužodig",,,,,"URS",
-"mMZD","čužodig",,,,,"URS",
-"mFBS","",,,,,"",
-"mFZS","vi̮nmurt",,,,,"URS",
-"mMBS","čužodig",,,,,"URS",
-"mMZS","čužodig",,,,,"URS",
-"mFeBS","",,,,,"",
-"mFyBS","",,,,,"",
-"mFeZS","",,,,,"",
-"mFyZS","",,,,,"",
-"mFeBD","",,,,,"",
-"mFyBD","",,,,,"",
-"mFeZD","",,,,,"",
-"mFyZD","",,,,,"",
-"mMeBS","",,,,,"",
-"mMyBS","",,,,,"",
-"mMeZS","",,,,,"",
-"mMyZS","",,,,,"",
-"mMeBD","",,,,,"",
-"mMyBD","",,,,,"",
-"mMeZD","",,,,,"",
-"mMyZD","",,,,,"",
-"mFBeS","",,,,,"",
-"mFByS","",,,,,"",
-"mFZeS","",,,,,"",
-"mFZyS","",,,,,"",
-"mFBeD","",,,,,"",
-"mFByD","",,,,,"",
-"mFZeD","",,,,,"",
-"mFZyD","",,,,,"",
-"mMBeS","",,,,,"",
-"mMByS","",,,,,"",
-"mMZeS","",,,,,"",
-"mMZyS","",,,,,"",
-"mMBeD","",,,,,"",
-"mMByD","",,,,,"",
-"mMZeD","",,,,,"",
-"mMZyD","",,,,,"",
-"mE","kuzpal",,,,,"URS",
-"mH","kart",,,,,"URS",
-"mW","ki̮šno",,,,,"URS",
-"mHF","aji̮murt",,,,,"URS",
-"mHF","atajzi̮",,,,,"URS",
-"mHM","anajzi̮",,,,,"URS",
-"mWF","varmaj",,,,,"URS",
-"mWM","varmumi̮",,,,,"URS",
-"mWM","varmaka",,,,,"URS",
-"mBW","",,,,,"",
-"meBW","kenak",,,,,"URS",
-"myBW","ićimeń",,,,,"URS",
-"mZH","",,,,,"",
-"meZH","ki̮rśi",,,,,"URS",
-"mWB","varmajpi",,,,,"URS",
-"mWZ","bulti̮r",,,,,"URS",
-"mWeZ","varmaka",,,,,"URS",
-"mHB","ši̮dnar",,,,,"URS",
-"mHeB","agajzi̮",,,,,"URS",
-"mHeB","ńuńuzi̮",,,,,"URS",
-"mHZ","",,,,,"",
-"mHeZ","alʹč́ika",,,,,"URS",
-"mHyZ","uźi̮",,,,,"URS",
-"mco-W","",,,,,"",
-"mco-H","",,,,,"",
-"mFW(notM)","śuranaj",,,,,"URS",
-"mMH(notF)","śurataj",,,,,"URS",
-"mSW","ken",,,,,"URS",
-"mSWM","tuklʹaći",,,,,"URS",
-"mSWF","kudo",,,,,"URS",
-"mDH","emespi",,,,,"URS",
-"mDHM","tuklʹaći",,,,,"URS",
-"mDHF","kudo",,,,,"URS",
-"mFZH","",,,,,"",
-"mFBW","aka",,,,,"URS",
-"mMZH","",,,,,"",
-"mMBW","aka",,,,,"URS",
-"mWZH","buśon",,,,,"URS",
-"fG","vi̮n-apajjos",,,,,"URS",
-"fB","brat",,,,,"URS",
-"fB","agaj-vi̮n",,,,,"URS",
-"fZ","",,,,,"",
-"feB","agaj",,,,,"URS",
-"feB","ńuńu",,,,,"URS",
-"fyB","vi̮n",,,,,"URS",
-"feZ","apaj",,,,,"URS",
-"feZ","aka",,,,,"URS",
-"fyZ","suzer",,,,,"URS",
-"fP","anaj-ataj",,,,,"URS",
-"fP","aji̮-mumi̮",,,,,"URS",
-"fP","mumi̮-bubi̮",,,,,"URS",
-"fF","ataj",,,,,"URS",
-"fF","bubi̮",,,,,"URS",
-"fF","dʹadʹa",,,,,"URS",
-"fF","ajï",,,,,"URS",
-"fM","anaj",,,,,"URS",
-"fM","memej",,,,,"URS",
-"fM","mumi̮",,,,,"URS",
-"fC","ni̮lpi",,,,,"URS",
-"fC","pinal",,,,,"URS",
-"fC","nuni̮",,,,,"URS",
-"fS","pi",,,,,"URS",
-"fD","ni̮l",,,,,"URS",
-"fA","dińataj",,,,,"URS",
-"fPP","pereś anaj-ataj",,,,,"URS",
-"fFF","peśataj",,,,,"URS",
-"fFM","peśanaj",,,,,"URS",
-"fMF","čužataj",,,,,"URS",
-"fMM","čužanaj",,,,,"URS",
-"fCC","nunok",,,,,"URS",
-"fSS","pijezlen pijez",,,,,"URS",
-"fSD","pijezlen nïliz",,,,,"",
-"fDS","ni̮li̮zlen pijez",,,,,"URS",
-"fDD","ni̮li̮len ni̮li̮z",,,,,"URS",
-"fFB","agaj",,,,,"URS",
-"fFZ","aka",,,,,"URS",
-"fMB","čužmurt",,,,,"URS",
-"fMZ","čužapaj",,,,,"URS",
-"fMZ","čužkenak",,,,,"URS",
-"fFeB","",,,,,"",
-"fFyB","",,,,,"",
-"fFeZ","",,,,,"",
-"fFyZ","",,,,,"",
-"fMeZ","",,,,,"",
-"fMyZ","",,,,,"",
-"fMeB","",,,,,"",
-"fMyB","",,,,,"",
-"fBS","vi̮nmurt",,,,,"URS",
-"fBS","vi̮npi",,,,,"URS",
-"fBD","vi̮nni̮l",,,,,"URS",
-"fZS","vi̮nmurt",,,,,"URS",
-"fZS","vi̮npi",,,,,"URS",
-"fZD","vi̮nni̮l",,,,,"URS",
-"feBS","agajezlen pijez",,,,,"URS",
-"fyBS","vi̮ni̮zlen pijez",,,,,"URS",
-"feBD","agajezlen ni̮li̮z",,,,,"",
-"fyBD","vi̮ni̮zlen ni̮li̮z",,,,,"",
-"feZS","apajezlen pijez",,,,,"URS",
-"fyZS","suzerezlen pijez",,,,,"URS",
-"feZD","apajezlen nïlïz",,,,,"",
-"fyZD","suzerezlen nïlïz",,,,,"",
-"fFZD","",,,,,"",
-"fFBD","",,,,,"",
-"fMBD","čužodig",,,,,"URS",
-"fMZD","čužodig",,,,,"URS",
-"fFBS","",,,,,"",
-"fFZS","vi̮nmurt",,,,,"URS",
-"fMBS","čužodig",,,,,"URS",
-"fMZS","čužodig",,,,,"URS",
-"fFeBS","",,,,,"",
-"fFyBS","",,,,,"",
-"fFeZS","",,,,,"",
-"fFyZS","",,,,,"",
-"fFeBD","",,,,,"",
-"fFyBD","",,,,,"",
-"fFeZD","",,,,,"",
-"fFyZD","",,,,,"",
-"fMeBS","",,,,,"",
-"fMyBS","",,,,,"",
-"fMeZS","",,,,,"",
-"fMyZS","",,,,,"",
-"fMeBD","",,,,,"",
-"fMyBD","",,,,,"",
-"fMeZD","",,,,,"",
-"fMyZD","",,,,,"",
-"fFBeS","",,,,,"",
-"fFByS","",,,,,"",
-"fFZeS","",,,,,"",
-"fFZyS","",,,,,"",
-"fFBeD","",,,,,"",
-"fFByD","",,,,,"",
-"fFZeD","",,,,,"",
-"fFZyD","",,,,,"",
-"fMBeS","",,,,,"",
-"fMByS","",,,,,"",
-"fMZeS","",,,,,"",
-"fMZyS","",,,,,"",
-"fMBeD","",,,,,"",
-"fMByD","",,,,,"",
-"fMZeD","",,,,,"",
-"fMZyD","",,,,,"",
-"fE","kuzpal",,,,,"URS",
-"fH","kart",,,,,"URS",
-"fW","ki̮šno",,,,,"URS",
-"fHF","aji̮murt",,,,,"URS",
-"fHF","atajzi̮",,,,,"URS",
-"fHM","anajzi̮",,,,,"URS",
-"fWF","varmaj",,,,,"URS",
-"fWM","varmumi̮",,,,,"URS",
-"fWM","varmaka",,,,,"URS",
-"fBW","",,,,,"",
-"feBW","kenak",,,,,"URS",
-"fyBW","ićimeń",,,,,"URS",
-"fZH","",,,,,"",
-"feZH","ki̮rśi",,,,,"URS",
-"fWB","varmajpi",,,,,"URS",
-"fWZ","bulti̮r",,,,,"URS",
-"fWeZ","varmaka",,,,,"URS",
-"fHB","ši̮dnar",,,,,"URS",
-"fHeB","agajzi̮",,,,,"URS",
-"fHeB","ńuńuzi̮",,,,,"URS",
-"fHZ","",,,,,"",
-"fHeZ","alʹč́ika",,,,,"URS",
-"fHyZ","uźi̮",,,,,"URS",
-"fco-W","",,,,,"",
-"fco-H","",,,,,"",
-"fFW(notM)","śuranaj",,,,,"URS",
-"fMH(notF)","śurataj",,,,,"URS",
-"fSW","ken",,,,,"URS",
-"fSWM","tuklʹaći",,,,,"URS",
-"fSWF","kudo",,,,,"URS",
-"fDH","emespi",,,,,"URS",
-"fDHM","tuklʹaći",,,,,"URS",
-"fDHF","kudo",,,,,"URS",
-"fFZH","",,,,,"",
-"fFBW","aka",,,,,"URS",
-"fMZH","",,,,,"",
-"fMBW","aka",,,,,"URS",
-"fWZH","buśon",,,,,"URS",
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script ;Source word;Certainty of borrowing (0-4);Calques (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon ;Analyzability;Gloss;Alternative;Comments;Deeper donor language;Ref. for deeper donor language
+Siblings;male speaker's sibling;mG;vi̮n-apajjos;вын-апайёс;;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 153;;;;4;;;a collective copulative compound + plural marker on the latter word;;
+Siblings;male speaker's brother;mB;brat;брат;брат;4;;;Russian;15th century AD onwards;URS: 77;;;coexistence;1;;;;;
+Siblings;male speaker's brother;mB;agaj-vi̮n;агай-вын;;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 25;;;;4;;;compounds 'elder brother - younger brother = brothers' seems to be common for other languages with the relative age distinction too: Chinese xiong-di 'brothers' and jiě-mèi 'sisters' has the same structure (e.g., Kornilov 2003: 182);;
+Siblings;male speaker's sister;mZ;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's elder brother;meB;agaj;агай;agaj;4;;;Tatar;13th century AD onwards;URS: 25;Csúcs 1990: 95;;replacement;1;;;;Mongolian;Rykin 2011: 32ff., Doerfer (?), Milanova 2020: 195ff. with earlier sources
+Siblings;male speaker's elder brother;meB;ńuńu;нюню;;0;;;;Udmurt-specific, Lallwort?;URS: 479;;;;1;;;;;
+Siblings;male speaker's younger brother;myB;vi̮n;вын;;0;;;;Inherited PP *von, cognate in Komi-Permyak von;URS: 153;SSA: 485;;;1;;;Comparison to the Uralic word is rejected in UEW;;
+Siblings;male speaker's elder sister;meZ;apaj;апай;apaj;4;;;Tatar;13th century AD onwards;URS: 44;Csúcs 1990: 105–106;;coexistence;1;;apa;;Proto-Turkic;Stachowski 2019: 51, Ansari et al. 2015, Milanova & Holopainen & Bradley 2020: 356, Milanova 2020: 195, 212, 237
+Siblings;male speaker's elder sister;meZ;aka;ака;aGi, aGï, akka;4;;;Chuvash;9th century AD onwards;URS: 36;Wichmann 1903: 38;;coexistence;1;;;;;
+Siblings;male speaker's younger sister;myZ;suzer;сузэр;*swasar-;4;;;Proto-Indo-Iranian;Bronze Age;URS: 613;Holopainen 2019: 222–224;;replacement;1;;;;Proto-Indo-European;Olsen 2020: 72-76, Milanova 2020: 113-117
+Parents;male speaker's parent;mP;anaj-ataj;анай-атай;;0;;Constituents are borrowed;Tatar;13th century AD onwards;URS: 42;;;;4;;ataj-anaj;Collective copulative compound. Copulative formation itself probably took place in Udmurt;;
+Parents;male speaker's parent;mP;aji̮-mumi̮;айы-мумы;;0;;;;Udmurt-specific;URS: 36;;;;4;;mumï-ajï;collective copulative compound;;
+Parents;male speaker's parent;mP;mumi̮-bubi̮;мумы-бубы;;0;;;;Udmurt-specific;URS: 442;;;;4;;bubï-mumï;collective copulative compound;;
+Parents;male speaker's father;mF;ataj;атай;ätej, ataj;4;;;Tatar;13th century AD onwards;URS: 50;Csúcs 1990: 112;;coexistence;1;;diminutive ati;;Proto-Turkic or Eurasian wander word;
+Parents;male speaker's father;mF;bubi̮;бубы;;2;;;?;?;URS: 77;;;;1;;;Similar words are common in world's languages, no clear source exists, however;;
+Parents;male speaker's father;mF;dʹadʹa;дядя;дядя;4;;;Russian;15th century AD onwards;URS: 199;;;coexistence;1;;dʹadʹa, tʹatʹa;;;
+Parents;male speaker's father;mF;aji̮;айы;;0;;;;Inherited, PU *äjjä;URS: 36;Aikio 2015: 62;;;1;;;;;
+Parents;male speaker's mother;mM;anaj;анай;ana, änej;4;;;Tatar;13th century AD onwards;URS: 42;Csúcs 1990: 104;;coexistence;1;;diminutive ani, diminutive nene, diminutive memi;;Proto-Turkic or Eurasian wander word;
+Parents;male speaker's mother;mM;memej;мемей;;0;;;;Udmurt-specific;URS: 429;;;;1;;;;;
+Parents;male speaker's mother;mM;mumi̮;мумы;;0;;;;Inherited PP *måm, cognate in Komi mam;URS: 442;KESKJ: 169;;;1;;;Similar words are common in world's languages;;
+Children;male speaker's child;mC;ni̮lpi;нылпи;;0;;;;Inherited PP *nïl-pi, same copulative compound exists in Komi;URS: 473;;;;4;;;;;
+Children;male speaker's child;mC;pinal;пинал;;0;;;;Udmurt-specfic;URS: 526;;;;2;;;probably a copulative compound like nïlpi, but with the components reversed (Udm ïm-nïr 'face' (ïm 'mouth' + nïr 'nose') ~ Komi nïr-vom 'face' (nïr 'nose' + vom 'mouth'));;
+Children;male speaker's child;mC;nuni̮;нуны;;0;;;;Udmurt-specific;URS: 471;;;;1;;;;;
+Children;male speaker's son;mS;pi;пи;;0;;;;Inherited, PU *pojka;URS: 524;;;;1;;;inherited word;;
+Children;male speaker's daughter;mD;ni̮l;ныл;;0;;;;Inherited, PU *näjδə;URS: 473;;;;1;;;inherited word;;
+Grandparents;male speaker's ancestor;mA;dińataj;дӥньатай;;0;;One of the constituents is borrowed;Tatar;Udmurt-specific;URS: 184;;;;4;;;A compound of diń 'stem, root' and ataj 'father';;
+Grandparents;male speaker's grandparent;mPP;pereś anaj-ataj;пересь анай-атай;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 522;Holopainen 2019: 189;;;5;;pereś mumï-bubï;;;
+Grandparents;male speaker's father's father;mFF;peśataj;песятай;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 523;;;;2;;;compound word, first component pereś 'old';;
+Grandparents;male speaker's father's mother;mFM;peśanaj;песянай;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 523;;;;2;;;;;
+Grandparents;male speaker's mother's father;mMF;čužataj;ӵужатай;cf. mF;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 750;Csúcs 1990: 112;;;4;;čužajï;Could be marked as semi-analyzable, since čuž doesn't exist in most dialects as an independent word, generally denotes relatives of the mother's side;;
+Grandparents;male speaker's mother's mother;mMM;čužanaj;ӵужанай;cf. mM;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 750;Csúcs 1990: 104;;;4;;;;;
+Grandchildren;male speaker's grandchild;mCC;nunok;нунок;;0;;;;Udmurt-specific;URS: 471;;;;3;;;A diminutive derivation on nunï 'child';;
+Grandchildren;male speaker's son's son;mSS;pijezlen pijez;пиезлэн пиез;;0;;;;Udmurt-specific;URS: 524;;;;5;X-3SG.POSS.GEN X-3SG.POSS;;;;
+Grandchildren;male speaker's son's daughter;mSD;pijezlen nïliz;пиезлэн нылыз;;0;;;;Udmurt-specific;;;;;5;X-3SG.POSS.GEN X-3SG.POSS;;The omission of pijezlen nïliz from the dictionary is likely to be an oversight.;;
+Grandchildren;male speaker's daughter's son;mDS;ni̮li̮zlen pijez;нылызлэн пиез;;0;;;;Udmurt-specific;URS: 524;;;;5;X-3SG.POSS.GEN X-3SG.POSS;;;;
+Grandchildren;male speaker's daughter's daughter;mDD;ni̮li̮len ni̮li̮z;нылызлэн нылыз;;0;;;;Udmurt-specific;URS: 473;;;;5;X-1SG.POSS.GEN X-3SG.POSS;;;;
+ParentsSiblings;male speaker's father's brother;mFB;agaj;агай;;4;;;Tatar;13th century AD onwards;URS: 25;Csúcs 1990: 95;;replacement;1;;ńuńu, dʹadʹa;cf. meB, polysemy. ;;
+ParentsSiblings;male speaker's father's sister;mFZ;apaj;апай;apaj;4;;;Tatar;13th century AD onwards;URS: 44;Csúcs 1990: 105–106;;coexistence;1;;apa;;Proto-Turkic;Stachowski 2019: 51, Ansari et al. 2015, Milanova & Holopainen & Bradley 2020: 356, Milanova 2020: 195, 212, 237
+ParentsSiblings;male speaker's father's sister;mFZ;aka;ака;aGi, aGï, akka;4;;;Chuvash;9th century AD onwards;URS: 36;Wichmann 1903: 38;;coexistence;1;;;dial.;;
+ParentsSiblings;male speaker's mother's brother;mMB;čužmurt;ӵужмурт;PII *mr̥tá- or Pre-II / PIE *mérto-;0;;One of the constituents is borrowed;Indo-Iranian;Udmurt-specific;URS: 751;Holopainen 2019: 143–146;;;4;;;The word murt is an Iranian loanword, but the kinship term in itself is not a borrowing as per WOLD's guidelines.;;
+ParentsSiblings;male speaker's mother's sister;mMZ;čužapaj;ӵужапай;cf. apaj;0;;One of the constituents is borrowed;Tatar;Udmurt-specific;URS: 750;;;;4;;čužapa;;;
+ParentsSiblings;male speaker's mother's sister;mMZ;čužkenak;ӵужкенак;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 751;;;;4;;;A compound of čuž- 'relative on the mother's side' and kenak 'aunt';;
+ParentsSiblings;male speaker's father's older brother;mFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older brother;mMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;vi̮nmurt;вынмурт;PII *mr̥tá- or Pre-II / PIE *mérto-;0;;One of the constituents is borrowed;Indo-Iranian;Udmurt-specific;URS: 153;;;;4;;;A compound of vïn '(younger) brother' and murt 'human, man';;
+SiblingsChildren;male speaker's brother's son;mBS;vi̮npi;вынпи;;0;;;;Udmurt-specific;URS: 153;;;;4;;;A compound of vïn '(younger) brother' and pi 'son';;
+SiblingsChildren;male speaker's brother's daughter;mBD;vi̮nni̮l;вынныл;;0;;;;Udmurt-specific;URS: 153;;;;4;;;A compound of vïn '(younger) brother' and nïl 'daughter';;
+SiblingsChildren;male speaker's sister's son;mZS;vi̮nmurt;вынмурт;PII *mr̥tá- or Pre-II / PIE *mérto-;0;;One of the constituents is borrowed;Indo-Iranian;Udmurt-specfic;URS: 153;;;;4;;;A compound of vïn '(younger) brother' and murt 'human, man';;
+SiblingsChildren;male speaker's sister's son;mZS;vi̮npi;вынпи;;0;;;;Udmurt-specific;URS: 153;;;;4;;;;;
+SiblingsChildren;male speaker's sister's daughter;mZD;vi̮nni̮l;вынныл;;0;;;;Udmurt-specific;URS: 153;;;;4;;;;;
+SiblingsChildren;male speaker's older brother's son;meBS;agajezlen pijez;агаезлэн пиез;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 524;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;vi̮ni̮zlen pijez;вынызлэн пиез;;0;;;;Udmurt-specific;URS: 524;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;agajezlen ni̮li̮z;агаезлэн нылыз;;0;;One of the constituents is borrowed;;Udmurt-specific;;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;vi̮ni̮zlen ni̮li̮z;вынызлэн пиез;;0;;;;Udmurt-specific;;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's older sister's son;meZS;apajezlen pijez;апаезлэн пиез;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 524;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;suzerezlen pijez;сузэрезлэн пиез;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 524;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;apajezlen nïlïz;апаезлэн нылыз;;0;;One of the constituents is borrowed;;Udmurt-specific;;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;suzerezlen nïlïz;сузэрезлэн нылыз;;0;;One of the constituents is borrowed;;Udmurt-specific;;;;;5;X-GEN X-3SG.POSS;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's brother's daughter;mFBD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's mother's brother's daughter;mMBD;čužodig;ӵужодӥг;;0;;;;Udmurt-specific;URS: 751;;;;4;;;compound word, čuž 'relative of the mother's side' and odig 'one';;
+Cousins;male speaker's mother's sister's daughter;mMZD;čužodig;ӵужодӥг;;0;;;;Udmurt-specific;URS: 751;;;;4;;;compound word, čuž 'relative of the mother's side' and odig 'one';;
+Cousins;male speaker's father's brother's son;mFBS;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's son;mFZS;vi̮nmurt;вынмурт;PII *mr̥tá- or Pre-II / PIE *mérto-;0;;One of the constituents is borrowed;Indo-Iranian;Udmurt-specific;URS: 153;;;;4;;;A compound of vïn '(younger) brother' and murt 'human, man'. The meaning 'father's sister's son(s)' is marked dialectal.;;
+Cousins;male speaker's mother's brother's son;mMBS;čužodig;ӵужодӥг;;0;;;;Udmurt-specific;URS: 751;;;;4;;;compound word, čuž 'relative of the mother's side' and odig 'one';;
+Cousins;male speaker's mother's sister's son;mMZS;čužodig;ӵужодӥг;;0;;;;Udmurt-specific;URS: 751;;;;4;;;compound word, čuž 'relative of the mother's side' and odig 'one';;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;kuzpal;кузпал;;0;;;;Udmurt-specific, kuz is PP and pal is PU *pälä 'half';URS: 344;;;;4;;;compound word kuz 'pair' and pal 'half';;
+Affines;male speaker's husband;mH;kart;карт;kart;4;;;Tatar;13th century AD onwards;URS: 283;Csúcs 1990: 207;;;1;;;;;
+Affines;male speaker's wife;mW;ki̮šno;кышно;;0;;;;Udmurt-specific;URS: 384;Napolskikh 2002;;;3;;;;;
+Affines;male speaker's husband's father;mHF;aji̮murt;айымурт;PII *mr̥tá- or Pre-II / PIE *mérto-;0;;One of the constituents is borrowed;Indo-Iranian ;Udmurt-specific;"URS: 35; 36";Holopainen 2019: 143–146;;;4;;ajmurt;compound of ajï 'father, male' and murt 'human';;
+Affines;male speaker's husband's father;mHF;atajzi̮;атайзы;;0;;One of the constituents is borrowed;Tatar;13 the century AD onwards;URS: 50;Csúcs 1990: 112;;;3;ataj-zï [mother-3PL.POSS};;cf. mF;;
+Affines;male speaker's husband's mother;mHM;anajzi̮;анайзы;cf. anaj;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 42;;;;3;anaj-zï [mother-3PL.POSS];;cf. mM;;
+Affines;male speaker's wife's father;mWF;varmaj;вармай;arəm;0;;One of the constituents is borrowed;Chuvash;Udmurt-specific;URS: 109;Wichmann 1903: 126–128;source meaning in Chuvash 'Frau, Gattin';;4;;varmataj;"varm- doesn't exist as an independent lexeme, much like čuž it seems to have become to denote relatives on the wife's side and aj 'father; male'";;
+Affines;male speaker's wife's mother;mWM;varmumi̮;вармумы;arəm;0;;One of the constituents is borrowed;Chuvash;Udmurt-specific;URS: 109;Wichmann 1903: 126–128;source meaning in Chuvash 'Frau, Gattin';;4;;varmanaj;varm- doesn't exist as an independent lexeme, much like čuž it seems to have become to denote relatives on the wife's side;;
+Affines;male speaker's wife's mother;mWM;varmaka;вармака;arəm and aka;0;;Constituents are borrowed;Chuvash;Udmurt-specific;URS: 109;"Wichmann 1903: 126–128; 38";source meaning in Chuvash 'Frau, Gattin';;4;;;varm- doesn't exist as an independent lexeme, much like čuž it seems to have become to denote relatives on the wife's side;;
+Affines;male speaker's brother's wife;mBW;;;;;;;;;;;;;;;;;;
+Affines;male speaker's older brother's wife;meBW;kenak;кенак;kin;0;;One of the constituents is borrowed;Chuvash;9th century AD onwards;URS;Wichmann 1903: 71–72;;;3;;;derivate of ken 'daughter-in-law', or possibly a compound with -ak < aka 'elder sister';;
+Affines;male speaker's younger brother's wife;myBW;ićimeń;ичимень;;0;;;;PP;URS: 257;KESKJ: 110;;;4;;;compound consisting of the same elements exists in Komi ićmoń 'young bride';;
+Affines;male speaker's sister's husband;mZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's older sister's husband;meZH;ki̮rśi;кырси;kʹərü, kərü;0;;One of the constituents is borrowed;Chuvash;9th century AD onwards;URS: 379;Wichmann 1903: 74–75;;insertion;2;;;;;
+Affines;male speaker's wife's brother;mWB;varmajpi;вармайпи;arəm;0;;One of the constituents is borrowed;Chuvash;Udmurt-specific;URS: 109;"Wichmann 1903: 126–128; 59";source meaning in Chuvash 'Frau, Gattin';;4;;;a compound of varmaj 'father-in-law', in plural also 'relatives on the wife's side' and pi 'son';;
+Affines;male speaker's wife's sister;mWZ;bulti̮r;бултыр;pulDər, polDər;4;;;Chuvash;9th century AD onwards;URS: 82;Wichmann 1903: 49;;replacement;1;;;wife's sister', also 'second wife (after the death of the first wife)';;
+Affines;male speaker's wife's older sister;mWeZ;varmaka;вармака;arəm and aka;0;;Constituents are borrowed;Chuvash;Udmurt-specific;URS: 109;"Wichmann 1903: 126–128; 38";source meaning in Chuvash 'Frau, Gattin';;4;;;mother-in-law', 'wife's older sister';;
+Affines;male speaker's husband's brother;mHB;ši̮dnar;шыднар;;4;;;? Chuvash;9th century AD onwards;URS: 786;;;;1;;;dial.;;
+Affines;male speaker's husband's older brother;mHeB;agajzi̮;агайзы;cf. agaj;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 25;Csúcs 1990: 95;;;3;agaj-zï [older brother-3PL.POSS];;husband's older brother';;
+Affines;male speaker's husband's older brother;mHeB;ńuńuzi̮;нюнюзы;;0;;;;Udmurt-specific;URS: 479;;;;3;ńuńu-zï [older brother-3PL.POSS];;husband's older brother';;
+Affines;male speaker's husband's sister;mHZ;;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's older sister;mHeZ;alʹč́ika;альчика;;0;;;;Udmurt-specific;URS: 41;;;;1;;;;;
+Affines;male speaker's husband's younger sister;mHyZ;uźi̮;узьы;;0;;;;Udmurt-specific;URS: 686;UEW: 70–71;;;1;;;;;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);śuranaj;сюранай;śurə and anaj;0;;Constituents are borrowed;Chuvash/Tatar;Udmurt-specific;URS: 628;Wichmann 1903: 101–102;;;4;;śur-mumï;Exists also in Komi, one of the few borrowings that is probably from Volga-Bulgarian rather than Chuvash;;
+Affines;male speaker's mother's husband (not father);mMH(notF);śurataj;сюратай;śurə and ataj;0;;Constituents are borrowed;Chuvash/Tatar;Udmurt-specific;URS: 628;;;;4;;śur-bubï;;;
+Affines;male speaker's son's wife;mSW;ken;кен;kin;4;;;Chuvash;9th century AD onwards;URS: 292;Wichmann 1903: 71–72;;replacement of PU *mińä?;1;;;;;
+Affines;male speaker's son's wife's mother;mSWM;tuklʹaći;тукльачи;toχlåč́;4;;;Chuvash;9th century AD onwards;URS: 659;Wichmann 1903: 109;;replacement of PU *ëna-ëppə;1;;svatʹa < Russian;;;
+Affines;male speaker's son's wife's father;mSWF;kudo;кудо;χoDa;4;;;Chuvash;9th century AD onwards;URS: 342;Wichmann 1903: 77–78;;replacement of PU *ëppə;1;;svat < Russian;;;
+Affines;male speaker's daughter's husband;mDH;emespi;эмеспи;;0;;;;Udmurt-specific;URS: 801;;;;2;;;probably a compound word, emes is of unknown origin, for pi cf. mS;;
+Affines;male speaker's daughter's husband's mother;mDHM;tuklʹaći;тукльачи;toχlåč́;4;;;Chuvash;9th century AD onwards;URS: 659;Wichmann 1903: 109;;;1;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;kudo;кудо;χoDa;4;;;Chuvash;9th century AD onwards;URS: 324;Wichmann 1903: 77–78;;;1;;;;;
+Affines;male speaker's father's sister's husband;mFZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's brother's wife;mFBW;aka;ака;aGi, aGï, akka;4;;;Chuvash;9th century AD onwards;URS: 36;Wichmann 1903: 38;;coexistence;1;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's brother's wife;mMBW;aka;ака;aGi, aGï, akka;4;;;Chuvash;9th century AD onwards;URS: 36;Wichmann 1903: 38;;coexistence;1;;;;;
+Affines;male speaker's wife's sister's husband;mWZH;buśon;бусён;poźana, puźana;4;;;Chuvash;9th century AD onwards;URS: 85;Wichmann 1903: 52;;;1;;buśono;;;
+Siblings;female speaker's sibling;fG;vi̮n-apajjos;вын-апайёс;;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 153;;;;4;;;a collective copulative compound + plural marker on the latter word;;
+Siblings;female speaker's brother;fB;brat;брат;брат;4;;;Russian;15th century AD onwards;URS: 77;;;coexistence;1;;;;;
+Siblings;female speaker's brother;fB;agaj-vi̮n;агай-вын;;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 25;;;;4;;;compounds 'elder brother - younger brother = brothers' seems to be common for other languages with the relative age distinction too: Chinese xiong-di 'brothers' and jiě-mèi 'sisters' has the same structure (e.g., Kornilov 2003: 182);;
+Siblings;female speaker's sister;fZ;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's elder brother;feB;agaj;агай;agaj;4;;;Tatar;13th century AD onwards;URS: 25;Csúcs 1990: 95;;replacement;1;;;;Mongolian;Rykin 2011: 32ff., Doerfer (?), Milanova 2020: 195ff. with earlier sources
+Siblings;female speaker's elder brother;feB;ńuńu;нюню;;0;;;;Udmurt-specific, Lallwort?;URS: 479;;;;1;;;;;
+Siblings;female speaker's younger brother;fyB;vi̮n;вын;;0;;;;Inherited PP *von, cognate in Komi-Permyak von;URS: 153;SSA: 485;;;1;;;Comparison to the Uralic word is rejected in UEW;;
+Siblings;female speaker's elder sister;feZ;apaj;апай;apaj;4;;;Tatar;13th century AD onwards;URS: 44;Csúcs 1990: 105–106;;coexistence;1;;apa;;Proto-Turkic;Stachowski 2019: 51, Ansari et al. 2015, Milanova & Holopainen & Bradley 2020: 356, Milanova 2020: 195, 212, 237
+Siblings;female speaker's elder sister;feZ;aka;ака;aGi, aGï, akka;4;;;Chuvash;9th century AD onwards;URS: 36;Wichmann 1903: 38;;coexistence;1;;;;;
+Siblings;female speaker's younger sister;fyZ;suzer;сузэр;*swasar-;4;;;Proto-Indo-Iranian;Bronze Age;URS: 613;Holopainen 2019: 222–224;;replacement;1;;;;Proto-Indo-European;Olsen 2020: 72-76, Milanova 2020: 113-117
+Parents;female speaker's parent;fP;anaj-ataj;анай-атай;;0;;Constituents are borrowed ;Tatar;13th century AD onwards;URS: 42;;;;4;;ataj-anaj;Collective copulative compound. Copulative formation itself probably took place in Udmurt;;
+Parents;female speaker's parent;fP;aji̮-mumi̮;айы-мумы;;0;;;;Udmurt-specific;URS: 36;;;;4;;mumï-ajï;collective copulative compound;;
+Parents;female speaker's parent;fP;mumi̮-bubi̮;мумы-бубы;;0;;;;Udmurt-specific;URS: 442;;;;4;;bubï-mumï;collective copulative compound;;
+Parents;female speaker's father;fF;ataj;атай;ätej, ataj;4;;;Tatar;13th century AD onwards;URS: 50;Csúcs 1990: 112;;coexistence;1;;diminutive ati;;Proto-Turkic or Eurasian wander word;
+Parents;female speaker's father;fF;bubi̮;бубы;;2;;;?;?;URS: 77;;;;1;;;Similar words are common in world's languages, no clear source exists, however;;
+Parents;female speaker's father;fF;dʹadʹa;дядя;дядя;4;;;Russian;15th century AD onwards;URS: 199;;;coexistence;1;;dʹadʹa, tʹatʹa;;;
+Parents;female speaker's father;fF;aji̮;айы;;0;;;;Inherited, PU *äjjä;URS: 36;Aikio 2015: 62;;;1;;;;;
+Parents;female speaker's mother;fM;anaj;анай;ana, änej;4;;;Tatar;13th century AD onwards;URS: 42;Csúcs 1990: 104;;coexistence;1;;diminutive ani, diminutive nene, diminutive memi;;Proto-Turkic or Eurasian wander word;
+Parents;female speaker's mother;fM;memej;мемей;;0;;;;Udmurt-specific;URS: 429;;;;1;;;;;
+Parents;female speaker's mother;fM;mumi̮;мумы;;0;;;;Inherited, PP *måm, cognate in Komi mam;URS: 442;KESKJ: 169;;;1;;;Similar words are common in world's languages;;
+Children;female speaker's child;fC;ni̮lpi;нылпи;;0;;;;Inherited PP *nïl-pi, same copulative compound exists in Komi;URS: 473;;;;4;;;;;
+Children;female speaker's child;fC;pinal;пинал;;0;;;;Udmurt-specfic;URS: 526;;;;2;;;probably a copulative compound like nïlpi, but with the components reversed (Udm ïm-nïr 'face' (ïm 'mouth' + nïr 'nose') ~ Komi nïr-vom 'face' (nïr 'nose' + vom 'mouth'));;
+Children;female speaker's child;fC;nuni̮;нуны;;0;;;;Udmurt-specific;URS: 471;;;;1;;;;;
+Children;female speaker's son;fS;pi;пи;;0;;;;Inherited, PU *pojka;URS: 524;;;;1;;;inherited word;;
+Children;female speaker's daughter;fD;ni̮l;ныл;;0;;;;Inherited, PU *näjδə;URS: 473;;;;1;;;inherited word;;
+Grandparents;female speaker's ancestor;fA;dińataj;дӥньатай;;0;;One of the constituents is borrowed;Tatar;Udmurt-specific;URS: 184;;;;4;;;A compound of diń 'stem, root' and ataj 'father';;
+Grandparents;female speaker's grandparent;fPP;pereś anaj-ataj;пересь анай-атай;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 522;Holopainen 2019: 189;;;5;;pereś mumï-bubï;;;
+Grandparents;female speaker's father's father;fFF;peśataj;песятай;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 523;;;;2;;;compound word, first component pereś 'old';;
+Grandparents;female speaker's father's mother;fFM;peśanaj;песянай;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 523;;;;2;;;;;
+Grandparents;female speaker's mother's father;fMF;čužataj;ӵужатай;cf. mF;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 750;Csúcs 1990: 112;;;4;;čužajï;Could be marked as semi-analyzable, since čuž doesn't exist in most dialects as an independent word, generally denotes relatives of the mother's side;;
+Grandparents;female speaker's mother's mother;fMM;čužanaj;ӵужанай;cf. mM;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 750;Csúcs 1990: 104;;;4;;;;;
+Grandchildren;female speaker's grandchild;fCC;nunok;нунок;;0;;;;Udmurt-specific;URS: 471;;;;3;;;A diminutive derivation on nunï 'child';;
+Grandchildren;female speaker's son's son;fSS;pijezlen pijez;пиезлэн пиез;;0;;;;Udmurt-specific;URS: 524;;;;5;X-3SG.POSS.GEN X-3SG.POSS;;;;
+Grandchildren;female speaker's son's daughter;fSD;pijezlen nïliz;пиезлэн нылыз;;0;;;;Udmurt-specific;;;;;5;X-3SG.POSS.GEN X-3SG.POSS;;The omission of pijezlen nïliz from the dictionary is likely to be an oversight.;;
+Grandchildren;female speaker's daughter's son;fDS;ni̮li̮zlen pijez;нылызлэн пиез;;0;;;;Udmurt-specific;URS: 524;;;;5;X-3SG.POSS.GEN X-3SG.POSS;;;;
+Grandchildren;female speaker's daughter's daughter;fDD;ni̮li̮len ni̮li̮z;нылызлэн нылыз;;0;;;;Udmurt-specific;URS: 473;;;;5;X-1SG.POSS.GEN X-3SG.POSS;;;;
+ParentsSiblings;female speaker's father's brother;fFB;agaj;агай;cf. meB;4;;;Tatar;13th century AD onwards;URS: 25;Csúcs 1990: 95;;replacement;1;;ńuńu, dʹadʹa;cf. meB, polysemy.;;
+ParentsSiblings;female speaker's father's sister;fFZ;apaj;апай;apaj;4;;;Tatar;13th century AD onwards;URS: 44;Csúcs 1990: 105–106;;coexistence;1;;apa;;Proto-Turkic;Stachowski 2019: 51, Ansari et al. 2015, Milanova & Holopainen & Bradley 2020: 356, Milanova 2020: 195, 212, 237
+ParentsSiblings;female speaker's father's sister;fFZ;aka;ака;aGi, aGï, akka;4;;;Chuvash;9th century AD onwards;URS: 36;Wichmann 1903: 38;;coexistence;1;;;dial.;;
+ParentsSiblings;female speaker's mother's brother;fMB;čužmurt;ӵужмурт;PII *mr̥tá- or Pre-II / PIE *mérto-;0;;One of the constituents is borrowed;Indo-Iranian;Udmurt-specific;URS: 751;Holopainen 2019: 143–146;;;4;;;The word murt is an Iranian loanword, but the kinship term in itself is not a borrowing as per WOLD's guidelines.;;
+ParentsSiblings;female speaker's mother's sister;fMZ;čužapaj;ӵужапай;cf. apaj;0;;One of the constituents is borrowed;Tatar;Udmurt-specific;URS: 750;;;;4;;čužapa;;;
+ParentsSiblings;female speaker's mother's sister;fMZ;čužkenak;ӵужкенак;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 751;;;;4;;;A compound of čuž- 'relative on the mother's side' and kenak 'aunt';;
+ParentsSiblings;female speaker's father's older brother;fFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older brother;fMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;vi̮nmurt;вынмурт;PII *mr̥tá- or Pre-II / PIE *mérto-;0;;One of the constituents is borrowed;Indo-Iranian;Udmurt-specific;URS: 153;;;;4;;;A compound of vïn '(younger) brother' and murt 'human, man';;
+SiblingsChildren;female speaker's brother's son;fBS;vi̮npi;вынпи;;0;;;;Udmurt-specific;URS: 153;;;;4;;;A compound of vïn '(younger) brother' and pi 'son';;
+SiblingsChildren;female speaker's brother's daughter;fBD;vi̮nni̮l;вынныл;;0;;;;Udmurt-specific;URS: 153;;;;4;;;A compound of vïn '(younger) brother' and nïl 'daughter';;
+SiblingsChildren;female speaker's sister's son;fZS;vi̮nmurt;вынмурт;PII *mr̥tá- or Pre-II / PIE *mérto-;0;;One of the constituents is borrowed;Indo-Iranian;Udmurt-specfic;URS: 153;;;;4;;;A compound of vïn '(younger) brother' and murt 'human, man';;
+SiblingsChildren;female speaker's sister's son;fZS;vi̮npi;вынпи;;0;;;;Udmurt-specific;URS: 153;;;;4;;;;;
+SiblingsChildren;female speaker's sister's daughter;fZD;vi̮nni̮l;вынныл;;0;;;;Udmurt-specific;URS: 153;;;;4;;;;;
+SiblingsChildren;female speaker's older brother's son;feBS;agajezlen pijez;агаезлэн пиез;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 524;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;vi̮ni̮zlen pijez;вынызлэн пиез;;0;;;;Udmurt-specific;URS: 524;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;agajezlen ni̮li̮z;агаезлэн нылыз;;0;;One of the constituents is borrowed;;Udmurt-specific;;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;vi̮ni̮zlen ni̮li̮z;вынызлэн пиез;;0;;;;Udmurt-specific;;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;apajezlen pijez;апаезлэн пиез;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 524;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;suzerezlen pijez;сузэрезлэн пиез;;0;;One of the constituents is borrowed;;Udmurt-specific;URS: 524;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;apajezlen nïlïz;апаезлэн нылыз;;0;;One of the constituents is borrowed;;Udmurt-specific;;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;suzerezlen nïlïz;сузэрезлэн нылыз;;0;;One of the constituents is borrowed;;Udmurt-specific;;;;;5;X-GEN X-3SG.POSS;;;;
+Cousins;female speaker's father's sister's daughter;fFZD;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's brother's daughter;fFBD;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's mother's brother's daughter;fMBD;čužodig;ӵужодӥг;;0;;;;Udmurt-specific;URS: 751;;;;4;;;compound word, čuž 'relative of the mother's side' and odig 'one';;
+Cousins;female speaker's mother's sister's daughter;fMZD;čužodig;ӵужодӥг;;0;;;;Udmurt-specific;URS: 751;;;;4;;;compound word, čuž 'relative of the mother's side' and odig 'one';;
+Cousins;female speaker's father's brother's son;fFBS;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's sister's son;fFZS;vi̮nmurt;вынмурт;PII *mr̥tá- or Pre-II / PIE *mérto-;0;;One of the constituents is borrowed;Indo-Iranian;Udmurt-specific;URS: 153;;;;4;;;A compound of vïn '(younger) brother' and murt 'human, man'. The meaning 'father's sister's son(s)' is marked dialectal.;;
+Cousins;female speaker's mother's brother's son;fMBS;čužodig;ӵужодӥг;;0;;;;Udmurt-specific;URS: 751;;;;4;;;compound word, čuž 'relative of the mother's side' and odig 'one';;
+Cousins;female speaker's mother's sister's son;fMZS;čužodig;ӵужодӥг;;0;;;;Udmurt-specific;URS: 751;;;;4;;;compound word, čuž 'relative of the mother's side' and odig 'one';;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;kuzpal;кузпал;;0;;;;Udmurt-specific, kuz is PP and pal is PU *pälä 'half';URS: 344;;;;4;;;compound word kuz 'pair' and pal 'half';;
+Affines;female speaker's husband;fH;kart;карт;kart;4;;;Tatar;13th century AD onwards;URS: 283;Csúcs 1990: 207;;;1;;;;;
+Affines;female speaker's wife;fW;ki̮šno;кышно;;0;;;;Udmurt-specific;URS: 384;Napolskikh 2002;;;3;;;;;
+Affines;female speaker's husband's father;fHF;aji̮murt;айымурт;PII *mr̥tá- or Pre-II / PIE *mérto-;0;;One of the constituents is borrowed;Indo-Iranian ;Udmurt-specific;"URS: 35; 36";Holopainen 2019: 143–146;;;4;;ajmurt;compound of ajï 'father, male' and murt 'human';;
+Affines;female speaker's husband's father;fHF;atajzi̮;атайзы;;0;;One of the constituents is borrowed;Tatar;13 the century AD onwards;URS: 50;Csúcs 1990: 112;;;3;ataj-zï [mother-3PL.POSS};;cf. mF;;
+Affines;female speaker's husband's mother;fHM;anajzi̮;анайзы;cf. anaj;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 42;;;;3;anaj-zï [mother-3PL.POSS];;cf. mM;;
+Affines;female speaker's wife's father;fWF;varmaj;вармай;arəm;0;;One of the constituents is borrowed;Chuvash;Udmurt-specific;URS: 109;Wichmann 1903: 126–128;source meaning in Chuvash 'Frau, Gattin';;4;;varmataj;"varm- doesn't exist as an independent lexeme, much like čuž it seems to have become to denote relatives on the wife's side and aj 'father; male'";;
+Affines;female speaker's wife's mother;fWM;varmumi̮;вармумы;arəm;0;;One of the constituents is borrowed;Chuvash;Udmurt-specific;URS: 109;Wichmann 1903: 126–128;source meaning in Chuvash 'Frau, Gattin';;4;;varmanaj;varm- doesn't exist as an independent lexeme, much like čuž it seems to have become to denote relatives on the wife's side;;
+Affines;female speaker's wife's mother;fWM;varmaka;вармака;arəm and aka;0;;Constituents are borrowed;Chuvash;Udmurt-specific;URS: 109;"Wichmann 1903: 126–128; 38";source meaning in Chuvash 'Frau, Gattin';;4;;;varm- doesn't exist as an independent lexeme, much like čuž it seems to have become to denote relatives on the wife's side;;
+Affines;female speaker's brother's wife;fBW;;;;;;;;;;;;;;;;;;
+Affines;female speaker's older brother's wife;feBW;kenak;кенак;kin;0;;One of the constituents is borrowed;Chuvash;9th century AD onwards;URS;Wichmann 1903: 71–72;;;3;;;derivate of ken 'daughter-in-law', or possibly a compound with -ak < aka 'elder sister';;
+Affines;female speaker's younger brother's wife;fyBW;ićimeń;ичимень;;0;;;;PP;URS: 257;KESKJ: 110;;;4;;;compound consisting of the same elements exists in Komi ićmoń 'young bride';;
+Affines;female speaker's sister's husband;fZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's older sister's husband;feZH;ki̮rśi;кырси;kʹərü, kərü;0;;One of the constituents is borrowed;Chuvash;9th century AD onwards;URS: 379;Wichmann 1903: 74–75;;insertion;2;;;;;
+Affines;female speaker's wife's brother;fWB;varmajpi;вармайпи;arəm;0;;One of the constituents is borrowed;Chuvash;Udmurt-specific;URS: 109;"Wichmann 1903: 126–128; 59";source meaning in Chuvash 'Frau, Gattin';;4;;;a compound of varmaj 'father-in-law', in plural also 'relatives on the wife's side' and pi 'son';;
+Affines;female speaker's wife's sister;fWZ;bulti̮r;бултыр;pulDər, polDər;4;;;Chuvash;9th century AD onwards;URS: 82;Wichmann 1903: 49;;replacement;1;;;wife's sister', also 'second wife (after the death of the first wife)';;
+Affines;female speaker's wife's older sister;fWeZ;varmaka;вармака;arəm and aka;0;;Constituents are borrowed;Chuvash;Udmurt-specific;URS: 109;"Wichmann 1903: 126–128; 38";source meaning in Chuvash 'Frau, Gattin';;4;;;mother-in-law', 'wife's older sister';;
+Affines;female speaker's husband's brother;fHB;ši̮dnar;шыднар;;4;;;? Chuvash;9th century AD onwards;URS: 786;;;;1;;;dial.;;
+Affines;female speaker's husband's older brother;fHeB;agajzi̮;агайзы;cf. agaj;0;;One of the constituents is borrowed;Tatar;13th century AD onwards;URS: 25;Csúcs 1990: 95;;;3;agaj-zï [older brother-3PL.POSS];;husband's older brother';;
+Affines;female speaker's husband's older brother;fHeB;ńuńuzi̮;нюнюзы;;0;;;;Udmurt-specific;URS: 479;;;;3;ńuńu-zï [older brother-3PL.POSS];;husband's older brother';;
+Affines;female speaker's husband's sister;fHZ;;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's older sister;fHeZ;alʹč́ika;альчика;;0;;;;Udmurt-specific;URS: 41;;;;1;;;;;
+Affines;female speaker's husband's younger sister;fHyZ;uźi̮;узьы;;0;;;;Udmurt-specific;URS: 686;UEW: 70–71;;;1;;;;;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);śuranaj;сюранай;śurə and anaj;0;;Constituents are borrowed;Chuvash/Tatar;Udmurt-specific;URS: 628;Wichmann 1903: 101–102;;;4;;śur-mumï;Exists also in Komi, one of the few borrowings that is probably from Volga-Bulgarian rather than Chuvash;;
+Affines;female speaker's mother's husband (not father);fMH(notF);śurataj;сюратай;śurə and ataj;0;;Constituents are borrowed;Chuvash/Tatar;Udmurt-specific;URS: 628;;;;4;;śur-bubï;;;
+Affines;female speaker's son's wife;fSW;ken;кен;kin;4;;;Chuvash;9th century AD onwards;URS: 292;Wichmann 1903: 71–72;;replacement of PU *mińä?;1;;;;;
+Affines;female speaker's son's wife's mother;fSWM;tuklʹaći;тукльачи;toχlåč́;4;;;Chuvash;9th century AD onwards;URS: 659;Wichmann 1903: 109;;replacement of PU *ëna-ëppə;1;;svatʹa < Russian;;;
+Affines;female speaker's son's wife's father;fSWF;kudo;кудо;χoDa;4;;;Chuvash;9th century AD onwards;URS: 342;Wichmann 1903: 77–78;;replacement of PU *ëppə;1;;svat < Russian;;;
+Affines;female speaker's daughter's husband;fDH;emespi;эмеспи;;0;;;;Udmurt-specific;URS: 801;;;;2;;;probably a compound word, emes is of unknown origin, for pi cf. mS;;
+Affines;female speaker's daughter's husband's mother;fDHM;tuklʹaći;тукльачи;toχlåč́;4;;;Chuvash;9th century AD onwards;URS: 659;Wichmann 1903: 109;;;1;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;kudo;кудо;χoDa;4;;;Chuvash;9th century AD onwards;URS: 324;Wichmann 1903: 77–78;;;1;;;;;
+Affines;female speaker's father's sister's husband;fFZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's brother's wife;fFBW;aka;ака;aGi, aGï, akka;4;;;Chuvash;9th century AD onwards;URS: 36;Wichmann 1903: 38;;coexistence;1;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's brother's wife;fMBW;aka;ака;aGi, aGï, akka;4;;;Chuvash;9th century AD onwards;URS: 36;Wichmann 1903: 38;;coexistence;1;;;;;
+Affines;female speaker's wife's sister's husband;fWZH;buśon;бусён;poźana, puźana;4;;;Chuvash;9th century AD onwards;URS: 85;Wichmann 1903: 52;;;1;;buśono;;;

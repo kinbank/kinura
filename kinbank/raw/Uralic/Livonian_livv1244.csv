@@ -1,271 +1,271 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","",,,,,"",""
-"mB","ve’ļ",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","477"
-"mZ","sõzār",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","361"
-"meB","",,,,,"",""
-"myB","",,,,,"",""
-"meZ","",,,,,"",""
-"myZ","",,,,,"",""
-"mP","va’nbizt",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"mF","izā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","78"
-"mF","tǭți",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","430"
-"mM","jemā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","88"
-"mM","ǟma",,,,,"kettunen_livisches_1938; ul_livonian_institute_liv-ee-lv_nodate","515–516"
-"mC","läpš",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","212"
-"mS","pūoga",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","315"
-"mD","tidār",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","417"
-"mA","muinizva’nbi",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"mPP","vanāva’nbizt",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"mFF","vanāizā",,,,,"kettunen_livisches_1938","78"
-"mFF","vanātǭți",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"mFF","izāizā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","78"
-"mFM","va'njemā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"mFM","vanǟma",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"mMF","vanāizā",,,,,"kettunen_livisches_1938","78"
-"mMF","vanātǭți",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"mMF","jemāizā",,,,,"kettunen_livisches_1938","88"
-"mMM","va'njemā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"mMM","vanǟma",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"mMM","jemājemā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","88"
-"mCC","lapsläpš",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","212"
-"mSS","pūogapūoga",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","315"
-"mSD","pūogatidār",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"mDS","tidārpūoga",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"mDD","tidārtidār",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"mFB","sūrve’ļki",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","389"
-"mFB","izā sūrve’ļki",,,,,"kettunen_livisches_1938","389"
-"mFB","izāve’ļ",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"mFZ","izā sušā",,,,,"kettunen_livisches_1938","387"
-"mFZ","sūrsušā",,,,,"kettunen_livisches_1938","389"
-"mMB","sūrve’ļki",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","389"
-"mMB","jemā sūrve’ļki",,,,,"kettunen_livisches_1938","389"
-"mMB","jemāve’ļ",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"mMZ","jemā sušā",,,,,"kettunen_livisches_1938","387"
-"mMZ","sūrsušā",,,,,"kettunen_livisches_1938","389"
-"mFeB","",,,,,"",""
-"mFyB","",,,,,"",""
-"mFeZ","",,,,,"",""
-"mFyZ","",,,,,"",""
-"mMeZ","",,,,,"",""
-"mMyZ","",,,,,"",""
-"mMeB","",,,,,"",""
-"mMyB","",,,,,"",""
-"mBS","veļīpūoga, ve’ļpūoga",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","477"
-"mBD","veļītidār",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"mZS","sõzārpūoga",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","361"
-"mZD","sõzārtidār",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","361"
-"meBS","",,,,,"",""
-"myBS","",,,,,"",""
-"meBD","",,,,,"",""
-"myBD","",,,,,"",""
-"meZS","",,,,,"",""
-"myZS","",,,,,"",""
-"meZD","",,,,,"",""
-"myZD","",,,,,"",""
-"mFZD","",,,,,"",""
-"mFBD","veļīläpš",,,,,"kettunen_livisches_1938","477"
-"mMBD","veļīläpš",,,,,"kettunen_livisches_1938","477"
-"mMZD","",,,,,"",""
-"mFBS","veļīläpš",,,,,"kettunen_livisches_1938","477"
-"mFZS","",,,,,"",""
-"mMBS","veļīläpš",,,,,"kettunen_livisches_1938","477"
-"mMZS","",,,,,"",""
-"mFeBS","",,,,,"",""
-"mFyBS","",,,,,"",""
-"mFeZS","",,,,,"",""
-"mFyZS","",,,,,"",""
-"mFeBD","",,,,,"",""
-"mFyBD","",,,,,"",""
-"mFeZD","",,,,,"",""
-"mFyZD","",,,,,"",""
-"mMeBS","",,,,,"",""
-"mMyBS","",,,,,"",""
-"mMeZS","",,,,,"",""
-"mMyZS","",,,,,"",""
-"mMeBD","",,,,,"",""
-"mMyBD","",,,,,"",""
-"mMeZD","",,,,,"",""
-"mMyZD","",,,,,"",""
-"mFBeS","",,,,,"",""
-"mFByS","",,,,,"",""
-"mFZeS","",,,,,"",""
-"mFZyS","",,,,,"",""
-"mFBeD","",,,,,"",""
-"mFByD","",,,,,"",""
-"mFZeD","",,,,,"",""
-"mFZyD","",,,,,"",""
-"mMBeS","",,,,,"",""
-"mMByS","",,,,,"",""
-"mMZeS","",,,,,"",""
-"mMZyS","",,,,,"",""
-"mMBeD","",,,,,"",""
-"mMByD","",,,,,"",""
-"mMZeD","",,,,,"",""
-"mMZyD","",,,,,"",""
-"mE","a’bpūol",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"mH","mīez",,,,,"kettunen_livisches_1938","223"
-"mW","nai",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","241"
-"mHF","mī’eizā",,,,,"kettunen_livisches_1938","223"
-"mHM","mī’ejemā",,,,,"kettunen_livisches_1938","223"
-"mWF","naizizā",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"mWM","naizjemā",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"mBW","veļīnai",,,,,"kettunen_livisches_1938","477"
-"mZH","sõzārmīez",,,,,"kettunen_livisches_1938","361"
-"mWB","",,,,,"",""
-"mWZ","",,,,,"",""
-"mHB","",,,,,"",""
-"mHZ","",,,,,"",""
-"mco-W","",,,,,"",""
-"mco-H","",,,,,"",""
-"mFW(notM)","vȭrõzjemā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","484"
-"mMH(notF)","vȭrõzizā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","484"
-"mMH(notF)","pūolizā",,,,,"kettunen_livisches_1938","78"
-"mSW","mīņa",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","226"
-"mSW","pūoganai",,,,,"kettunen_livisches_1938","315"
-"mSW","mārš̆ša",,,,,"kettunen_livisches_1938","218"
-"mSWM","",,,,,"",""
-"mSWF","",,,,,"",""
-"mDH","znūot",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","401"
-"mDH","tidārmīez",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","471"
-"mDH","väu mies",,,,,"kettunen_livisches_1938","509"
-"mDHM","",,,,,"",""
-"mDHF","",,,,,"",""
-"mFZH","",,,,,"",""
-"mFBW","",,,,,"",""
-"mMZH","",,,,,"",""
-"mMBW","",,,,,"",""
-"fG","",,,,,"",""
-"fB","ve’ļ",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","477"
-"fZ","sõzār",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","361"
-"feB","",,,,,"",""
-"fyB","",,,,,"",""
-"feZ","",,,,,"",""
-"fyZ","",,,,,"",""
-"fP","va’nbizt",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"fF","izā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","78"
-"fF","tǭți",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","430"
-"fM","jemā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","88"
-"fM","ǟma",,,,,"kettunen_livisches_1938; ul_livonian_institute_liv-ee-lv_nodate","515–516"
-"fC","läpš",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","212"
-"fS","pūoga",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","315"
-"fD","tidār",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","417"
-"fA","muinizva’nbi",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"fPP","vanāva’nbizt",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"fFF","vanāizā",,,,,"kettunen_livisches_1938","78"
-"fFF","vanātǭți",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"fFF","izāizā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","78"
-"fFM","va'njemā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"fFM","vanǟma",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"fMF","vanāizā",,,,,"kettunen_livisches_1938","78"
-"fMF","vanātǭți",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"fMF","jemāizā",,,,,"kettunen_livisches_1938","88"
-"fMM","va'njemā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"fMM","vanǟma",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","469"
-"fMM","jemājemā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","88"
-"fCC","lapsläpš",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","212"
-"fSS","pūogapūoga",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","315"
-"fSD","pūogatidār",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"fDS","tidārpūoga",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"fDD","tidārtidār",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"fFB","sūrve’ļki",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","389"
-"fFB","izā sūrve’ļki",,,,,"kettunen_livisches_1938","389"
-"fFB","izāve’ļ",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"fFZ","izā sušā",,,,,"kettunen_livisches_1938","387"
-"fFZ","sūrsušā",,,,,"kettunen_livisches_1938","389"
-"fMB","sūrve’ļki",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","389"
-"fMB","jemā sūrve’ļki",,,,,"kettunen_livisches_1938","389"
-"fMB","jemāve’ļ",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"fMZ","jemā sušā",,,,,"kettunen_livisches_1938","387"
-"fMZ","sūrsušā",,,,,"kettunen_livisches_1938","389"
-"fFeB","",,,,,"",""
-"fFyB","",,,,,"",""
-"fFeZ","",,,,,"",""
-"fFyZ","",,,,,"",""
-"fMeZ","",,,,,"",""
-"fMyZ","",,,,,"",""
-"fMeB","",,,,,"",""
-"fMyB","",,,,,"",""
-"fBS","veļīpūoga, ve’ļpūoga",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","477"
-"fBD","veļītidār",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"fZS","sõzārpūoga",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","361"
-"fZD","sõzārtidār",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","361"
-"feBS","",,,,,"",""
-"fyBS","",,,,,"",""
-"feBD","",,,,,"",""
-"fyBD","",,,,,"",""
-"feZS","",,,,,"",""
-"fyZS","",,,,,"",""
-"feZD","",,,,,"",""
-"fyZD","",,,,,"",""
-"fFZD","",,,,,"",""
-"fFBD","veļīläpš",,,,,"kettunen_livisches_1938","477"
-"fMBD","veļīläpš",,,,,"kettunen_livisches_1938","477"
-"fMZD","",,,,,"",""
-"fFBS","veļīläpš",,,,,"kettunen_livisches_1938","477"
-"fFZS","",,,,,"",""
-"fMBS","veļīläpš",,,,,"kettunen_livisches_1938","477"
-"fMZS","",,,,,"",""
-"fFeBS","",,,,,"",""
-"fFyBS","",,,,,"",""
-"fFeZS","",,,,,"",""
-"fFyZS","",,,,,"",""
-"fFeBD","",,,,,"",""
-"fFyBD","",,,,,"",""
-"fFeZD","",,,,,"",""
-"fFyZD","",,,,,"",""
-"fMeBS","",,,,,"",""
-"fMyBS","",,,,,"",""
-"fMeZS","",,,,,"",""
-"fMyZS","",,,,,"",""
-"fMeBD","",,,,,"",""
-"fMyBD","",,,,,"",""
-"fMeZD","",,,,,"",""
-"fMyZD","",,,,,"",""
-"fFBeS","",,,,,"",""
-"fFByS","",,,,,"",""
-"fFZeS","",,,,,"",""
-"fFZyS","",,,,,"",""
-"fFBeD","",,,,,"",""
-"fFByD","",,,,,"",""
-"fFZeD","",,,,,"",""
-"fFZyD","",,,,,"",""
-"fMBeS","",,,,,"",""
-"fMByS","",,,,,"",""
-"fMZeS","",,,,,"",""
-"fMZyS","",,,,,"",""
-"fMBeD","",,,,,"",""
-"fMByD","",,,,,"",""
-"fMZeD","",,,,,"",""
-"fMZyD","",,,,,"",""
-"fE","a’bpūol",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"fH","mīez",,,,,"kettunen_livisches_1938","223"
-"fW","nai",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","241"
-"fHF","mī’eizā",,,,,"kettunen_livisches_1938","223"
-"fHM","mī’ejemā",,,,,"kettunen_livisches_1938","223"
-"fWF","naizizā",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"fWM","naizjemā",,,,,"ul_livonian_institute_liv-ee-lv_nodate",""
-"fBW","veļīnai",,,,,"kettunen_livisches_1938","477"
-"fZH","sõzārmīez",,,,,"kettunen_livisches_1938","361"
-"fWB","",,,,,"",""
-"fWZ","",,,,,"",""
-"fHB","",,,,,"",""
-"fHZ","",,,,,"",""
-"fco-W","",,,,,"",""
-"fco-H","",,,,,"",""
-"fFW(notM)","vȭrõzjemā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","484"
-"fMH(notF)","vȭrõzizā",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","484"
-"fMH(notF)","pūolizā",,,,,"kettunen_livisches_1938","78"
-"fSW","mīņa",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","226"
-"fSW","pūoganai",,,,,"kettunen_livisches_1938","315"
-"fSW","mārš̆ša",,,,,"kettunen_livisches_1938","218"
-"fSWM","",,,,,"",""
-"fSWF","",,,,,"",""
-"fDH","znūot",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","401"
-"fDH","tidārmīez",,,,,"kettunen_livisches_1938;ul_livonian_institute_liv-ee-lv_nodate","471"
-"fDH","väu mies",,,,,"kettunen_livisches_1938","509"
-"fDHM","",,,,,"",""
-"fDHF","",,,,,"",""
-"fFZH","",,,,,"",""
-"fFBW","",,,,,"",""
-"fMZH","",,,,,"",""
-"fMBW","",,,,,"",""
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments;Deeper donor language;Ref. for deeper donor language
+Siblings;male speaker's sibling;mG;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's brother;mB;ve’ļ;;*sweljan-;2;;;Proto-Germanic;1st millennium BCE;"LW: 477; Livones";"LägLoS: 386–387; Metsäranta 2023";;replacement;1;;;;Late PIE;Olsen (2020: 133-134), Milanova (2020: 160)
+Siblings;male speaker's sister;mZ;sõzār;;*ses-(e)r;4;;;Baltic;1st millennium BCE;"LW: 361; Livones";"SSA: 187; Milanova 2024: 324";;replacement;1;;;;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Siblings;male speaker's elder brother;meB;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's younger brother;myB;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's elder sister;meZ;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's younger sister;myZ;;;;;;;;;;;;;;;;;;
+Parents;male speaker's parent;mP;va’nbizt;;elderen;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 328–330 and appendix 2.8;;;3;;;Although based on vanā 'old' (< LPF *vanha) like Finnish vanhemmat and Estonian vanemad (< LPF *vanhëmpi: vanhëmmat), Livonian reflects a different formation (< LPF *vanhapaisët?), plural form.;;
+Parents;male speaker's father;mF;izā;;;0;;;;Inherited, PU *ić(ć)ä;"LW: 78; Livones";Aikio 2020: 30–31;;;1;;;;;
+Parents;male speaker's father;mF;tǭți;;;0;;;;Finnic-specific;"LW: 430; Livones";SSA: 350;;;1;;;Similar words for 'father' exist in other Finnic languages, Fi taata, taatto, Veps tata, Est taat. According to SSA these are originally Lallwort as similar words are found throughout the world.;;
+Parents;male speaker's mother;mM;jemā;;;0;;;;Inherited, PU *emä 'mother';"LW: 88; Livones";Aikio 2020: 44–45;;;1;;;;;
+Parents;male speaker's mother;mM;ǟma;;;0;;;;Inherited, PF *ämmä;"LW: 515–516; Livones";;;;1;;;It seems that the difference between jemā and ǟma is dialectal, the latter being used in West Courland. Meaning 'mother' of PF *ämmä is also only found in Livonian, Fi ämmä 'old woman' (in literary Finnish pejorative) Kar ämmö 'grandmother', Est ämm 'mother-in-law' etc.;;
+Children;male speaker's child;mC;läpš;;;0;;;;Inherited, PU *lëpćə 'craddle';"LW: 212; Livones";Aikio 2015: 58;;;1;;;;;
+Children;male speaker's son;mS;pūoga;;;0;;;;Inherited, PU *pojka;"LW: 315; Livones";;;;1;;;;;
+Children;male speaker's daughter;mD;tidār;;*duktēr-;4;;;Baltic;1st millennium BCE;"LW: 417; Livones";"SSA: 349; Milanova 2024: 324";;replacement;1;;;;PIE;Olsen (2020: 60-62), Milanova (2020: 94-95, 167-175)
+Grandparents;male speaker's ancestor;mA;muinizva’nbi;;vȫreldern ;3;1;;Middle Low German;12th–16th c. CE;Livones;Milanova et al. 2024: 328–330 and appendix 2.9;;;4;;;A compound of muiniz 'vorjährig, vorig, vergangen' (~ Fi muinainen: muinais- 'ancient') and va’nbi 'parent', cf. mP;;
+Grandparents;male speaker's grandparent;mPP;vanāva’nbizt;;;0;;;;South Finnic?;Livones;;;;4;;;A compound of 'vanā 'old' and va’nbizt 'parents' (the word is plural), areal micro-convergence with Latvian and Livonian (Milanova 2024: 332–333).;;
+Grandparents;male speaker's father's father;mFF;vanāizā;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;LW: 78;Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and izā 'father', cf. Est vanaisa 'grandfather';;
+Grandparents;male speaker's father's father;mFF;vanātǭți;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and tǭți 'father';;
+Grandparents;male speaker's father's father;mFF;izāizā;;farfar;3;1;;Swedish;recent centuries ;"LW: 78; Livones";;;;4;X.GEN-X.NOM;;A compound of izā 'father' and izā (note that nominative and genitive largely overlap in Livonian, so formally probably originally 'father's father';;
+Grandparents;male speaker's father's mother;mFM;va'njemā;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and jemā 'mother', cf. Est vanaema. LW gives the meaning as 'midwife', Livones as 'grandmother';;
+Grandparents;male speaker's father's mother;mFM;vanǟma;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and ǟma 'mother';;
+Grandparents;male speaker's mother's father;mMF;vanāizā;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;LW: 78;Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and izā 'father', cf. Est vanaisa 'grandfather';;
+Grandparents;male speaker's mother's father;mMF;vanātǭți;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and tǭți 'father';;
+Grandparents;male speaker's mother's father;mMF;jemāizā;;morfar;3;1;;Swedish;recent centuries ;LW: 88;;;;4;X.GEN-X.NOM;;A compound of jemā 'mother' and izā 'father' (jemā is both the nominative and genitive hence probably 'mother's father';;
+Grandparents;male speaker's mother's mother;mMM;va'njemā;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and jemā 'mother', cf. Est vanaema. LW gives the meaning as 'midwife', Livones as 'grandmother';;
+Grandparents;male speaker's mother's mother;mMM;vanǟma;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and ǟma 'mother';;
+Grandparents;male speaker's mother's mother;mMM;jemājemā;;mormor;3;1;;Swedish;recent centuries ;"LW: 88; Livones";Milanova et al. 2024: 330–331;;;4;X.GEN-X.NOM;;A compound of jemā 'mother' and jemā;;
+Grandchildren;male speaker's grandchild;mCC;lapsläpš;;barnbarn;3;1;;Swedish;recent centuries ;"LW: 212; Livones";;;;4;X.GEN-X.NOM;;A compound of laps (genitive of läpš) and läpš 'child';;
+Grandchildren;male speaker's son's son;mSS;pūogapūoga;;sonson;3;1;;Swedish;recent centuries ;"LW: 315; Livones";;;;4;X.GEN-X.NOM;;A compound pūoga 'son' and pūoga;;
+Grandchildren;male speaker's son's daughter;mSD;pūogatidār;;sondotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;Livones;;;;4;X.GEN-X.NOM;;A compound of pūoga 'son' and tidār 'daughter';;
+Grandchildren;male speaker's daughter's son;mDS;tidārpūoga;;dotterson;3;1;One of the constituents is borrowed;Swedish;recent centuries ;Livones;;;;4;X.GEN-X.NOM;;A compound of tidār 'daughter' and pūoga 'son';;
+Grandchildren;male speaker's daughter's daughter;mDD;tidārtidār;;dotterdotter;3;1;Constituents are borrowed;Swedish;recent centuries ;Livones;;;;4;X.GEN-X.NOM;;A compound of tidār 'daughter' and tidār;;
+ParentsSiblings;male speaker's father's brother;mFB;sūrve’ļki;;;0;;One of the constituents is borrowed;;Livonian-specific;"LW: 389; Livones";;;;4;;;"A compound sūr 'gross; sehr' and ve’ļki 'brother' (diminutive)";;
+ParentsSiblings;male speaker's father's brother;mFB;izā sūrve’ļki;;;0;;Some of the constituents are borrowed;;Livonian-specific;LW: 389;;;;5;;;Phrasal izā 'father's' and sūrve’ļki, cf. the previous row;;
+ParentsSiblings;male speaker's father's brother;mFB;izāve’ļ;;farbror;3;1;;Swedish;recent centuries ;Livones;;;;4;;;A of izā 'father' and ve’ļ 'brother';;
+ParentsSiblings;male speaker's father's sister;mFZ;izā sušā;;faster;3;1;;Swedish;recent centuries ;LW: 387;;;;5;;;Phrasal izā 'father's' and sušā 'sister' (diminutive), originally a term of endearment originating from Kindersprache according to Kettunen in LW, cf. Est sõtse 'father's sister';;
+ParentsSiblings;male speaker's father's sister;mFZ;sūrsušā;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 389;;;;4;;;"A compound of sūr 'gross; sehr and sušā 'sister' (diminutive)";;
+ParentsSiblings;male speaker's mother's brother;mMB;sūrve’ļki;;;0;;One of the constituents is borrowed;;Livonian-specific;"LW: 389; Livones";;;;4;;;"A compound sūr 'gross; sehr' and ve’ļki 'brother' (diminutive)";;
+ParentsSiblings;male speaker's mother's brother;mMB;jemā sūrve’ļki;;;0;;Some of the constituents are borrowed;;Livonian-specific;LW: 389;;;;5;;;Phrasal  jemā 'mother's' and sūrve’ļki;;
+ParentsSiblings;male speaker's mother's brother;mMB;jemāve’ļ;;morbror;3;1;;Swedish;recent centuries ;Livones;;;;4;;;A compound of jemā 'mother' and ve’ļ 'brother';;
+ParentsSiblings;male speaker's mother's sister;mMZ;jemā sušā;;moster;3;1;;Swedish;recent centuries ;LW: 387;;;;5;;;Phrasal  jemā 'mother's' and sušā 'sister' (diminutive);;
+ParentsSiblings;male speaker's mother's sister;mMZ;sūrsušā;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 389;;;;4;;;"A compound of sūr 'gross; sehr and sušā 'sister' (diminutive)";;
+ParentsSiblings;male speaker's father's older brother;mFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older brother;mMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;veļīpūoga, ve’ļpūoga;;brorson;3;1;;;recent centuries ;"LW: 477; Livones";;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and pūoga 'son';;
+SiblingsChildren;male speaker's brother's daughter;mBD;veļītidār;;brorsdotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;Livones;;;;4;X.GEN-X.NOM;;A compound veļī 'brother' and tidār 'daughter';;
+SiblingsChildren;male speaker's sister's son;mZS;sõzārpūoga;;systerson;3;1;Constituents are borrowed;;recent centuries ;"LW: 361; Livones";;;;4;X.GEN-X.NOM;;A compound of sõzār 'sister' and pūoga 'son';;
+SiblingsChildren;male speaker's sister's daughter;mZD;sõzārtidār;;systerdotter;3;1;Constituents are borrowed;Swedish;recent centuries ;"LW: 361; Livones";;;;4;X.GEN-X.NOM;;A compound of sõzār 'sister' and tidār 'daughter';;
+SiblingsChildren;male speaker's older brother's son;meBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's son;meZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's brother's daughter;mFBD;veļīläpš;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 477;;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and läpš 'child';;
+Cousins;male speaker's mother's brother's daughter;mMBD;veļīläpš;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 477;;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and läpš 'child';;
+Cousins;male speaker's mother's sister's daughter;mMZD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's brother's son;mFBS;veļīläpš;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 477;;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and läpš 'child';;
+Cousins;male speaker's father's sister's son;mFZS;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's mother's brother's son;mMBS;veļīläpš;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 477;;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and läpš 'child';;
+Cousins;male speaker's mother's sister's son;mMZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;a’bpūol;;;0;;;;Livonian-specific;Livones;SSA: 92;;;4;;;Seems to be a compound of a’b 'Ehe' (~ Fi avio- 'Ehe', aviopuoliso 'Ehepartner') and pūol 'half' (~ Fi puoli), cf. also Livonian a’b-jelāmi 'marriage' perhaps borrowed from Estonian abielu 'id.'. ;;
+Affines;male speaker's husband;mH;mīez;;*mēǥa-z;2;;;Proto-Germanic;Finnic-specific, PF *mees;LW: 223;LägLoS: 263;angeheirateter;replacament;1;;;;;
+Affines;male speaker's wife;mW;nai;;;0;;;;Finnic-specific, *naicë-;"LW: 241; Livones";ETY;;;1;;;Possibly derived from PU *näjV;;
+Affines;male speaker's husband's father;mHF;mī’eizā;;;0;;;;Livonian-specific;LW: 223;;;;4;X.GEN-X.NOM;;A compound of mī’e 'husband' (genitive of mīez) and izā 'father';;
+Affines;male speaker's husband's mother;mHM;mī’ejemā;;;0;;;;Livonian-specific;LW: 223;;;;4;X.GEN-X.NOM;;A compound of mī’e 'husband' (genitive of mīez) and jemā 'mother';;
+Affines;male speaker's wife's father;mWF;naizizā;;;0;;;;Livonian-specific;Livones;;;;4;X.GEN-X.NOM;;A compound of naiz (genitive of nai 'wife') and izā 'father', calqued from Latvian?;;
+Affines;male speaker's wife's mother;mWM;naizjemā;;;0;;;;Livonian-specific;Livones;;;;4;X.GEN-X.NOM;;A compound of naiz (genitive of nai 'wife') and jemā 'mother', calqued from Latvian?;;
+Affines;male speaker's brother's wife;mBW;veļīnai;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 477;;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and nai 'wife';;
+Affines;male speaker's sister's husband;mZH;sõzārmīez;;;0;;Constituents are borrowed;;Livonian-specific;LW: 361;;;;4;X.GEN-X.NOM;;A compound of sõzār 'sister' and mīez 'husband';;
+Affines;male speaker's wife's brother;mWB;;;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's sister;mWZ;;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's brother;mHB;;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's sister;mHZ;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);vȭrõzjemā;;;0;;;;South Finnic?;"LW: 484; Livones";;;;4;;;A compound of vȭrõz 'fremd' and jemā 'mother', cf. Estonian võõrasema;;
+Affines;male speaker's mother's husband (not father);mMH(notF);vȭrõzizā;;;0;;;;South Finnic?;"LW: 484; Livones";;;;4;;;A compound of vȭrõz 'fremd' and izā 'father';;
+Affines;male speaker's mother's husband (not father);mMH(notF);pūolizā;;;0;;;;Livonian-specific;LW: 78;;;;4;;;A compound of pūol 'half' and izā 'father', a similar compound with the order reversed exists in Finnish, isäpuoli 'stepfather';;
+Affines;male speaker's son's wife;mSW;mīņa;;;0;;;;Inherited, PU *mińä;"LW: 226; Livones";SSA: 167;;;1;;;;;
+Affines;male speaker's son's wife;mSW;pūoganai;;;0;;;;Livonian-specific;LW: 315;;;;4;X.GEN-X.NOM;;A compound of pūoga 'son' and nai 'wife';;
+Affines;male speaker's son's wife;mSW;mārš̆ša;;mārša;4;;;Latvian;Livonian-specific;LW: 218;;;;1;;;;Baltic with similar formations in other IE languages;Derksen 2015: 306
+Affines;male speaker's son's wife's mother;mSWM;;;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife's father;mSWF;;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband;mDH;znūot;;znuōts;4;;;Latvian;Middle Ages;"LW: 401; Livones";LW: 401;;;1;;;;Balto-Slavic with debated IE parallels;Derksen 2008: 543–544, 2015: 516–517, Milanova 2020: 148
+Affines;male speaker's daughter's husband;mDH;tidārmīez;;;0;;Constituents are/might be borrowed;;Livonian-specific;"LW: 471; Livones";LW: 471;;;4;X.GEN-X.NOM;;A compound of tidār 'daughter' and mīez 'husband';;
+Affines;male speaker's daughter's husband;mDH;väu mies;;;0;;;;Inherited, PU *wäŋəw;LW: 509;SSA: 485;;;1;;;"Dialectal; Salaca Livonian, not considered a loanword in traditional sources, but considering the dialectal distribution in Livonian perhaps from Estonian väimees?";;
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's sibling;fG;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's brother;fB;ve’ļ;;*sweljan-;2;;;Proto-Germanic;1st millennium BCE;"LW: 477; Livones";"LägLoS: 386–387; Metsäranta 2023";;replacement;1;;;;Late PIE;Olsen (2020: 133-134), Milanova (2020: 160)
+Siblings;female speaker's sister;fZ;sõzār;;*ses-(e)r;4;;;Baltic;1st millennium BCE;"LW: 361; Livones";"SSA: 187; Milanova 2024: 324";;replacement;1;;;;PIE;Olsen (2020: 72-76), Milanova (2020: 113-117)
+Siblings;female speaker's elder brother;feB;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's younger brother;fyB;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's elder sister;feZ;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's younger sister;fyZ;;;;;;;;;;;;;;;;;;
+Parents;female speaker's parent;fP;va’nbizt;;elderen;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 328–330 and appendix 2.8;;;3;;;Although based on vanā 'old' (< LPF *vanha) like Finnish vanhemmat and Estonian vanemad (< LPF *vanhëmpi: vanhëmmat), Livonian reflects a different formation (< LPF *vanhapaisët?), plural form.;;
+Parents;female speaker's father;fF;izā;;;0;;;;Inherited, PU *ić(ć)ä;"LW: 78; Livones";Aikio 2020: 30–31;;;1;;;;;
+Parents;female speaker's father;fF;tǭți;;;0;;;;Finnic-specific;"LW: 430; Livones";SSA: 350;;;1;;;Similar words for 'father' exist in other Finnic languages, Fi taata, taatto, Veps tata, Est taat. According to SSA these are originally Lallwort as similar words are found throughout the world.;;
+Parents;female speaker's mother;fM;jemā;;;0;;;;Inherited, PU *emä 'mother';"LW: 88; Livones";Aikio 2020: 44–45;;;1;;;;;
+Parents;female speaker's mother;fM;ǟma;;;0;;;;Inherited, PF *ämmä;"LW: 515–516; Livones";;;;1;;;It seems that the difference between jemā and ǟma is dialectal, the latter being used in West Courland. Meaning 'mother' of PF *ämmä is also only found in Livonian, Fi ämmä 'old woman' (in literary Finnish pejorative) Kar ämmö 'grandmother', Est ämm 'mother-in-law' etc.;;
+Children;female speaker's child;fC;läpš;;;0;;;;Inherited, PU *lëpćə 'craddle';"LW: 212; Livones";Aikio 2015: 58;;;1;;;;;
+Children;female speaker's son;fS;pūoga;;;0;;;;Inherited, PU *pojka;"LW: 315; Livones";;;;1;;;;;
+Children;female speaker's daughter;fD;tidār;;*duktēr-;4;;;Baltic;1st millennium BCE;"LW: 417; Livones";"SSA: 349; Milanova 2024: 324";;replacement;1;;;;PIE;Olsen (2020: 60-62), Milanova (2020: 94-95, 167-175)
+Grandparents;female speaker's ancestor;fA;muinizva’nbi;;vȫreldern ;3;1;;Middle Low German;12th–16th c. CE;Livones;Milanova et al. 2024: 328–330 and appendix 2.9;;;4;;;A compound of muiniz 'vorjährig, vorig, vergangen' (~ Fi muinainen: muinais- 'ancient') and va’nbi 'parent', cf. mP;;
+Grandparents;female speaker's grandparent;fPP;vanāva’nbizt;;;0;;;;South Finnic?;Livones;;;;4;;;A compound of 'vanā 'old' and va’nbizt 'parents' (the word is plural),  areal micro-convergence with Latvian and Livonian (Milanova 2024: 332–333).;;
+Grandparents;female speaker's father's father;fFF;vanāizā;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;LW: 78;Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and izā 'father', cf. Est vanaisa 'grandfather';;
+Grandparents;female speaker's father's father;fFF;vanātǭți;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and tǭți 'father';;
+Grandparents;female speaker's father's father;fFF;izāizā;;farfar;3;1;;Swedish;recent centuries ;"LW: 78; Livones";;;;4;X.GEN-X.NOM;;A compound of izā 'father' and izā (note that nominative and genitive largely overlap in Livonian, so formally probably originally 'father's father';;
+Grandparents;female speaker's father's mother;fFM;va'njemā;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and jemā 'mother', cf. Est vanaema. LW gives the meaning as 'midwife', Livones as 'grandmother';;
+Grandparents;female speaker's father's mother;fFM;vanǟma;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and ǟma 'mother';;
+Grandparents;female speaker's mother's father;fMF;vanāizā;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;LW: 78;Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and izā 'father', cf. Est vanaisa 'grandfather';;
+Grandparents;female speaker's mother's father;fMF;vanātǭți;;eldervā̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and tǭți 'father';;
+Grandparents;female speaker's mother's father;fMF;jemāizā;;morfar;3;1;;Swedish;recent centuries ;LW: 88;;;;4;X.GEN-X.NOM;;A compound of jemā 'mother' and izā 'father' (jemā is both the nominative and genitive hence probably 'mother's father';;
+Grandparents;female speaker's mother's mother;fMM;va'njemā;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and jemā 'mother', cf. Est vanaema. LW gives the meaning as 'midwife', Livones as 'grandmother';;
+Grandparents;female speaker's mother's mother;fMM;vanǟma;;eldermō̆der;3;1;;Middle Low German;12th–16th c. CE;"LW: 469; Livones";Milanova et al. 2024: 330–331;;;4;;;A compound of vanā 'old' and ǟma 'mother';;
+Grandparents;female speaker's mother's mother;fMM;jemājemā;;mormor;3;1;;Swedish;recent centuries ;"LW: 88; Livones";;;;4;X.GEN-X.NOM;;A compound of jemā 'mother' and jemā;;
+Grandchildren;female speaker's grandchild;fCC;lapsläpš;;barnbarn;3;1;;Swedish;recent centuries ;"LW: 212; Livones";;;;4;X.GEN-X.NOM;;A compound of laps (genitive of läpš) and läpš 'child';;
+Grandchildren;female speaker's son's son;fSS;pūogapūoga;;sonson;3;1;;Swedish;recent centuries ;"LW: 315; Livones";;;;4;X.GEN-X.NOM;;A compound pūoga 'son' and pūoga;;
+Grandchildren;female speaker's son's daughter;fSD;pūogatidār;;sondotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;Livones;;;;4;X.GEN-X.NOM;;A compound of pūoga 'son' and tidār 'daughter';;
+Grandchildren;female speaker's daughter's son;fDS;tidārpūoga;;dotterson;3;1;One of the constituents is borrowed;Swedish;recent centuries ;Livones;;;;4;X.GEN-X.NOM;;A compound of tidār 'daughter' and pūoga 'son';;
+Grandchildren;female speaker's daughter's daughter;fDD;tidārtidār;;dotterdotter;3;1;Constituents are borrowed;Swedish;recent centuries ;Livones;;;;4;X.GEN-X.NOM;;A compound of tidār 'daughter' and tidār;;
+ParentsSiblings;female speaker's father's brother;fFB;sūrve’ļki;;;0;;One of the constituents is borrowed;;Livonian-specific;"LW: 389; Livones";;;;4;;;"A compound sūr 'gross; sehr' and ve’ļki 'brother' (diminutive)";;
+ParentsSiblings;female speaker's father's brother;fFB;izā sūrve’ļki;;;0;;Some of the constituents are borrowed;;Livonian-specific;LW: 389;;;;5;;;Phrasal izā 'father's' and sūrve’ļki, cf. the previous row;;
+ParentsSiblings;female speaker's father's brother;fFB;izāve’ļ;;farbror;3;1;;Swedish;recent centuries ;Livones;;;;4;;;A of izā 'father' and ve’ļ 'brother';;
+ParentsSiblings;female speaker's father's sister;fFZ;izā sušā;;faster;3;1;;Swedish;recent centuries ;LW: 387;;;;5;;;Phrasal izā 'father's' and sušā 'sister' (diminutive), originally a term of endearment originating from Kindersprache according to Kettunen in LW, cf. Est sõtse 'father's sister';;
+ParentsSiblings;female speaker's father's sister;fFZ;sūrsušā;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 389;;;;4;;;"A compound of sūr 'gross; sehr and sušā 'sister' (diminutive)";;
+ParentsSiblings;female speaker's mother's brother;fMB;sūrve’ļki;;;0;;One of the constituents is borrowed;;Livonian-specific;"LW: 389; Livones";;;;4;;;"A compound sūr 'gross; sehr' and ve’ļki 'brother' (diminutive)";;
+ParentsSiblings;female speaker's mother's brother;fMB;jemā sūrve’ļki;;;0;;Some of the constituents are borrowed;;Livonian-specific;LW: 389;;;;5;;;Phrasal  jemā 'mother's' and sūrve’ļki;;
+ParentsSiblings;female speaker's mother's brother;fMB;jemāve’ļ;;morbror;3;1;;Swedish;recent centuries ;Livones;;;;4;;;A compound of jemā 'mother' and ve’ļ 'brother';;
+ParentsSiblings;female speaker's mother's sister;fMZ;jemā sušā;;moster;3;1;;Swedish;recent centuries ;LW: 387;;;;5;;;Phrasal  jemā 'mother's' and sušā 'sister' (diminutive);;
+ParentsSiblings;female speaker's mother's sister;fMZ;sūrsušā;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 389;;;;4;;;"A compound of sūr 'gross; sehr and sušā 'sister' (diminutive)";;
+ParentsSiblings;female speaker's father's older brother;fFeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older brother;fMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;veļīpūoga, ve’ļpūoga;;brorson;3;1;;;recent centuries ;"LW: 477; Livones";;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and pūoga 'son';;
+SiblingsChildren;female speaker's brother's daughter;fBD;veļītidār;;brorsdotter;3;1;One of the constituents is borrowed;Swedish;recent centuries ;Livones;;;;4;X.GEN-X.NOM;;A compound veļī 'brother' and tidār 'daughter';;
+SiblingsChildren;female speaker's sister's son;fZS;sõzārpūoga;;systerson;3;1;Constituents are borrowed;;recent centuries ;"LW: 361; Livones";;;;4;X.GEN-X.NOM;;A compound of sõzār 'sister' and pūoga 'son';;
+SiblingsChildren;female speaker's sister's daughter;fZD;sõzārtidār;;systerdotter;3;1;Constituents are borrowed;Swedish;recent centuries ;"LW: 361; Livones";;;;4;X.GEN-X.NOM;;A compound of sõzār 'sister' and tidār 'daughter';;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's sister's daughter;fFZD;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's brother's daughter;fFBD;veļīläpš;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 477;;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and läpš 'child';;
+Cousins;female speaker's mother's brother's daughter;fMBD;veļīläpš;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 477;;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and läpš 'child';;
+Cousins;female speaker's mother's sister's daughter;fMZD;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's brother's son;fFBS;veļīläpš;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 477;;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and läpš 'child';;
+Cousins;female speaker's father's sister's son;fFZS;;;;;;;;;;;;;;;;;;
+Cousins;female speaker's mother's brother's son;fMBS;veļīläpš;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 477;;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and läpš 'child';;
+Cousins;female speaker's mother's sister's son;fMZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;a’bpūol;;;0;;;;Livonian-specific;Livones;SSA: 92;;;4;;;Seems to be a compound of a’b 'Ehe' (~ Fi avio- 'Ehe', aviopuoliso 'Ehepartner') and pūol 'half' (~ Fi puoli), cf. also Livonian a’b-jelāmi 'marriage' perhaps borrowed from Estonian abielu 'id.'. ;;
+Affines;female speaker's husband;fH;mīez;;*mēǥa-z;2;;;Proto-Germanic;Finnic-specific, PF *mees;LW: 223;LägLoS: 263;angeheirateter;replacament;1;;;;;
+Affines;female speaker's wife;fW;nai;;;0;;;;Finnic-specific, *naicë-;"LW: 241; Livones";ETY;;;1;;;Possibly derived from PU *näjV;;
+Affines;female speaker's husband's father;fHF;mī’eizā;;;0;;;;Livonian-specific;LW: 223;;;;4;X.GEN-X.NOM;;A compound of mī’e 'husband' (genitive of mīez) and izā 'father';;
+Affines;female speaker's husband's mother;fHM;mī’ejemā;;;0;;;;Livonian-specific;LW: 223;;;;4;X.GEN-X.NOM;;A compound of mī’e 'husband' (genitive of mīez) and jemā 'mother';;
+Affines;female speaker's wife's father;fWF;naizizā;;;0;;;;Livonian-specific;Livones;;;;4;X.GEN-X.NOM;;A compound of naiz (genitive of nai 'wife') and izā 'father', calqued from Latvian?;;
+Affines;female speaker's wife's mother;fWM;naizjemā;;;0;;;;Livonian-specific;Livones;;;;4;X.GEN-X.NOM;;A compound of naiz (genitive of nai 'wife') and jemā 'mother', calqued from Latvian?;;
+Affines;female speaker's brother's wife;fBW;veļīnai;;;0;;One of the constituents is borrowed;;Livonian-specific;LW: 477;;;;4;X.GEN-X.NOM;;A compound of veļī 'brother' and nai 'wife';;
+Affines;female speaker's sister's husband;fZH;sõzārmīez;;;0;;Constituents are borrowed;;Livonian-specific;LW: 361;;;;4;X.GEN-X.NOM;;A compound of sõzār 'sister' and mīez 'husband';;
+Affines;female speaker's wife's brother;fWB;;;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's sister;fWZ;;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's brother;fHB;;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's sister;fHZ;;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);vȭrõzjemā;;;0;;;;South Finnic?;"LW: 484; Livones";;;;4;;;A compound of vȭrõz 'fremd' and jemā 'mother', cf. Estonian võõrasema;;
+Affines;female speaker's mother's husband (not father);fMH(notF);vȭrõzizā;;;0;;;;South Finnic?;"LW: 484; Livones";;;;4;;;A compound of vȭrõz 'fremd' and izā 'father';;
+Affines;female speaker's mother's husband (not father);fMH(notF);pūolizā;;;0;;;;Livonian-specific;LW: 78;;;;4;;;A compound of pūol 'half' and izā 'father', a similar compound with the order reversed exists in Finnish, isäpuoli 'stepfather';;
+Affines;female speaker's son's wife;fSW;mīņa;;;0;;;;Inherited, PU *mińä;"LW: 226; Livones";SSA: 167;;;1;;;;;
+Affines;female speaker's son's wife;fSW;pūoganai;;;0;;;;Livonian-specific;LW: 315;;;;4;X.GEN-X.NOM;;A compound of pūoga 'son' and nai 'wife';;
+Affines;female speaker's son's wife;fSW;mārš̆ša;;mārša;4;;;Latvian;Livonian-specific;LW: 218;;;;1;;;;Baltic with similar formations in other IE languages;Derksen 2015: 306
+Affines;female speaker's son's wife's mother;fSWM;;;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife's father;fSWF;;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband;fDH;znūot;;znuōts;4;;;Latvian;Middle Ages;"LW: 401; Livones";LW: 401;;;1;;;;Balto-Slavic with debated IE parallels;Derksen 2008: 543–544, 2015: 516–517, Milanova 2020: 148
+Affines;female speaker's daughter's husband;fDH;tidārmīez;;;0;;Constituents are/might be borrowed;;Livonian-specfic;"LW: 471; Livones";LW: 471;;;4;X.GEN-X.NOM;;A compound of tidār 'daughter' and mīez 'husband';;
+Affines;female speaker's daughter's husband;fDH;väu mies;;;0;;;;Inherited, PU *wäŋəw;LW: 509;SSA: 485;;;1;;;"Dialectal; Salaca Livonian, not considered a loanword in traditional sources, but considering the dialectal distribution in Livonian perhaps from Estonian väimees?";;
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;;;

@@ -1,301 +1,301 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","ńa",,,"",,"Teresenko_1965 ",""
-"mB","ńa",,,"",,"Teresenko_1965 ",""
-"mZ","ńa",,,"",,"Teresenko_1965 ",""
-"mZ","ńeńa",,,"ńe na",,"Teresenko_1965",""
-"meB","ńeəka",,,"ńaəka",,"Teresenko_1965",""
-"meB","ńińeka",,,"",,"Teresenko_1965",""
-"myB","ńudʹa ńa",,,"",,"Teresenko_1965 ",""
-"myB","papa",,,"",,"Teresenko_1965 ",""
-"myB","ṕeb́a",,,"",,"Teresenko_1965","according to Tereshchenko both 'younger brother', 'younger sister'. Lehtisalo (1956: 380) 'jüngerer Bruder'"
-"meZ","ńabako",,,"",,"Teresenko_1965",""
-"myZ","ńudʹa ńe ńa",,,"",,"Teresenko_1965 ",""
-"myZ","papa",,,"",,"Teresenko_1965 ",""
-"myZ","ńe papa",,,"",,"Teresenko_1965 ",""
-"myZ","ṕeb́a",,,"",,"Teresenko_1965","according to Tereshchenko both 'younger brother', 'younger sister'. Lehtisalo (1956: 380) 'jüngerer Bruder'"
-"mP","sojaptawiʔ",,,"",,"Teresenko_1965",""
-"mF","ńīśa",,,"",,"Teresenko_1965",""
-"mF","ŋæća",,,"",,"Teresenko_1965",""
-"mM","ńeb́a",,,"",,"Teresenko_1965",""
-"mC","ńū",,,"",,"Teresenko_1965",""
-"mC","ŋəćekiə",,,"",,"Teresenko_1965",""
-"mS","xasawa ńū",,,"",,"Teresenko_1965",""
-"mD","ńe ńū",,,"",,"Teresenko_1965",""
-"mA","",,,"",,"",""
-"mPP","",,,"",,"",""
-"mFF","jiŕi",,,"",,"Teresenko_1965",""
-"mFM","xada",,,"",,"Teresenko_1965","also 'great grandmother', 'husband's mother', 'husband's older brother's wife', 'all female relatives older than the speaker's parents'"
-"mMF","jiŕi",,,"",,"Teresenko_1965",""
-"mMM","xada",,,"",,"Teresenko_1965",""
-"mCC","ńūh ńū",,,"",,"Teresenko_1965",""
-"mCC","ńū",,,"",,"Teresenko_1965",""
-"mSS","",,,"",,"",""
-"mSD","",,,"",,"",""
-"mDS","",,,"",,"",""
-"mDD","",,,"",,"",""
-"mFB","ńeəka",,,"",,"Teresenko_1965",""
-"mFZ","",,,"",,"",""
-"mMB","ńeəka",,,"",,"Teresenko_1965",""
-"mMZ","",,,"",,"",""
-"mFeB","jiŕi",,,"",,"Teresenko_1965",""
-"mFyB","ńińeka",,,"",,"Teresenko_1965",""
-"mFyB","ńaəka",,,"",,"Teresenko_1965",""
-"mFeZ","",,,"",,"",""
-"mFyZ","ńabako",,,"",,"Teresenko_1965",""
-"mMeZ","ńeb́ah ńabako",,,"",,"Teresenko_1965",""
-"mMyZ","ńeja",,,"",,"Teresenko_1965","also 'every female relative on the mother's side that is younger than her (the mother)'"
-"mMeB","jiŕi",,,"",,"Teresenko_1965",""
-"mMyB","tʹidʹa",,,"",,"Teresenko_1965","also 'every male relative on the mother's side that is younger than her (the mother)'"
-"mBS","",,,"",,"",""
-"mBD","",,,"",,"",""
-"mZS","",,,"",,"",""
-"mZD","",,,"",,"",""
-"meBS","papa",,,"",,"Teresenko_1965 ",""
-"myBS","ńū",,,"",,"Teresenko_1965",""
-"myBS","papah ńū",,,"",,"Teresenko_1965 ",""
-"meBD","papa",,,"",,"Teresenko_1965 ",""
-"meBD","ńe papa",,,"",,"Teresenko_1965 ",""
-"myBD","ńū",,,"",,"Teresenko_1965",""
-"myBD","ńe ńū",,,"",,"Teresenko_1965",""
-"meZS","ḿaŋkə",,,"",,"Teresenko_1965",""
-"myZS","ńū",,,"",,"Teresenko_1965",""
-"meZD","ḿaŋkə",,,"",,"Teresenko_1965",""
-"meZD","ńe ḿaŋkə",,,"",,"Teresenko_1965",""
-"myZD","ńū",,,"",,"Teresenko_1965",""
-"myZD","ńe ńū",,,"",,"Teresenko_1965",""
-"mFZD","",,,"",,"",""
-"mFBD","ńabako",,,"",,"Teresenko_1965","older than ego"
-"mMBD","ńe ḿaŋkə",,,"",,"Teresenko_1965",""
-"mMZD","ńe ḿaŋkə",,,"",,"Teresenko_1965",""
-"mFBS","ńińeka",,,"",,"Teresenko_1965","cousin (father's brother's son, older than ego)'"
-"mFZS","",,,"",,"",""
-"mMBS","",,,"",,"",""
-"mMZS","",,,"",,"",""
-"mFeBS","",,,"",,"",""
-"mFyBS","",,,"",,"",""
-"mFeZS","",,,"",,"",""
-"mFyZS","",,,"",,"",""
-"mFeBD","",,,"",,"",""
-"mFyBD","",,,"",,"",""
-"mFeZD","",,,"",,"",""
-"mFyZD","",,,"",,"",""
-"mMeBS","",,,"",,"",""
-"mMyBS","",,,"",,"",""
-"mMeZS","",,,"",,"",""
-"mMyZS","",,,"",,"",""
-"mMeBD","",,,"",,"",""
-"mMyBD","",,,"",,"",""
-"mMeZD","",,,"",,"",""
-"mMyZD","",,,"",,"",""
-"mFBeS","",,,"",,"",""
-"mFByS","",,,"",,"",""
-"mFZeS","",,,"",,"",""
-"mFZyS","",,,"",,"",""
-"mFBeD","",,,"",,"",""
-"mFByD","",,,"",,"",""
-"mFZeD","",,,"",,"",""
-"mFZyD","",,,"",,"",""
-"mMBeS","",,,"",,"",""
-"mMByS","",,,"",,"",""
-"mMZeS","",,,"",,"",""
-"mMZyS","",,,"",,"",""
-"mMBeD","",,,"",,"",""
-"mMByD","",,,"",,"",""
-"mMZeD","",,,"",,"",""
-"mMZyD","",,,"",,"",""
-"mE","ńes",,,"",,"Teresenko_1965",""
-"mE","xasawasəʔ",,,"",,"Teresenko_1965","collective plural"
-"mH","wæsuʔ",,,"",,"Teresenko_1965",""
-"mH","wæsako",,,"",,"Teresenko_1965",""
-"mW","ńenejə ńe",,,"",,"Teresenko_1965",""
-"mHF","ŋinabə",,,"",,"Teresenko_1965",""
-"mHF","jiŕi",,,"",,"Teresenko_1965",""
-"mHM","xada",,,"",,"Teresenko_1965","also 'great grandmother', 'husband's mother', 'husband's older brother's wife', 'all female relatives older than the speaker's parents'"
-"mWF","ŋinabə",,,"",,"Teresenko_1965",""
-"mWM","ńe ŋinabə",,,"",,"Teresenko_1965 ",""
-"mBW","",,,"",,"",""
-"meBW","ńaba",,,"",,"Teresenko_1965",""
-"myBW","́ḿeja",,,"",,"Teresenko_1965","son's wife, younger brother's wife, husband's younger brother's wife'"
-"mZH","",,,"",,"",""
-"meZH","ńińadi",,,"",,"Teresenko_1965","older sister's husband', also 'father's younger sister's husband' and 'female cousin's husband (older than ego)'"
-"myZH","jīj ",,,"",,"Teresenko_1965","younger sister's husband, daughter's husband, female cousin's husband (younger than ego)'"
-"mWB","",,,"",,"",""
-"mWeB","ŋinabə",,,"",,"Teresenko_1965","wife's older brother', synchronically opaque, but historically probably a copulative compound."
-"mWyB","nado",,,"",,"Teresenko_1965","wife's younger brother'"
-"mWZ","",,,"",,"",""
-"mWeZ","ńe ŋinabə",,,"",,"Teresenko_1965 ","wife's older sister', compound of ńe 'woman, female' and ŋinabə 'father-in-law'"
-"mWyZ","ńe nado",,,"",,"Teresenko_1965 ","wife's younger sister', compound of ńe 'woman, wife' and nado 'brother-in-law', 'wife's younger sister'"
-"mHB","",,,"",,"",""
-"mHeB","ŋinabə",,,"",,"Teresenko_1965","husband's older brother', synchronically opaque, but historically probably a copulative compound."
-"mHeB","jiŕi",,,"",,"Teresenko_1965","husband's older brother'"
-"mHyB","nado",,,"",,"Teresenko_1965","husband's younger brother'"
-"mHZ","",,,"",,"",""
-"mHyZ","ńe nado",,,"",,"Teresenko_1965 ","husband's younger sister', compound of ńe 'woman, wife' and nado 'brother-in-law', 'wife's younger sister'"
-"mco-W","",,,"",,"",""
-"mco-H","",,,"",,"",""
-"mFW(notM)","ńaba",,,"",,"Teresenko_1965 ",""
-"mFW(notM)","ńīśah ńab́i ńe",,,"",,"Teresenko_1965 ",""
-"mMH(notF)","ńeb́ah ńab́imdejə xasawa",,,"",,"Teresenko_1965 ",""
-"mSW","́ḿeja",,,"",,"Teresenko_1965","son's wife, younger brother's wife, husband's younger brother's wife'"
-"mSWM","",,,"",,"",""
-"mSWF","",,,"",,"",""
-"mDH","jīj ",,,"",,"Teresenko_1965","younger sister's husband, daughter's husband, female cousin's husband (younger than ego)'"
-"mDHM","",,,"",,"",""
-"mDHF","",,,"",,"",""
-"mFZH","",,,"",,"",""
-"mFyZH","ńińadi",,,"",,"Teresenko_1965","older sister's husband', also 'father's younger sister's husband' and 'female cousin's husband (older than ego)'"
-"mFBW","",,,"",,"",""
-"mFyBW","ńaba",,,"",,"Teresenko_1965","father's younger brother's wife', also 'stepmother; older brother's wife'"
-"mMZH","",,,"",,"",""
-"mMBW","",,,"",,"",""
-"mHyBW","́ḿeja",,,"",,"Teresenko_1965","son's wife, younger brother's wife, husband's younger brother's wife'"
-"fG","ńa",,,"",,"Teresenko_1965 ",""
-"fB","ńa",,,"",,"Teresenko_1965 ",""
-"fZ","ńa",,,"",,"Teresenko_1965 ",""
-"fZ","ńeńa",,,"ńe na",,"Teresenko_1965",""
-"feB","ńeəka",,,"ńaəka",,"Teresenko_1965",""
-"feB","ńińeka",,,"",,"Teresenko_1965",""
-"fyB","ńudʹa ńa",,,"",,"Teresenko_1965 ",""
-"fyB","papa",,,"",,"Teresenko_1965 ",""
-"fyB","ṕeb́a",,,"",,"Teresenko_1965","according to Tereshchenko both 'younger brother', 'younger sister'. Lehtisalo (1956: 380) 'jüngerer Bruder'"
-"feZ","ńabako",,,"",,"Teresenko_1965",""
-"fyZ","ńudʹa ńe ńa",,,"",,"Teresenko_1965 ",""
-"fyZ","papa",,,"",,"Teresenko_1965 ",""
-"fyZ","ńe papa",,,"",,"Teresenko_1965 ",""
-"fyZ","ṕeb́a",,,"",,"Teresenko_1965","according to Tereshchenko both 'younger brother', 'younger sister'. Lehtisalo (1956: 380) 'jüngerer Bruder'"
-"fP","sojaptawiʔ",,,"",,"Teresenko_1965",""
-"fF","ńīśa",,,"",,"Teresenko_1965",""
-"fF","ŋæća",,,"",,"Teresenko_1965",""
-"fM","ńeb́a",,,"",,"Teresenko_1965",""
-"fC","ńū",,,"",,"Teresenko_1965",""
-"fC","ŋəćekiə",,,"",,"Teresenko_1965",""
-"fS","xasawa ńū",,,"",,"Teresenko_1965",""
-"fD","ńe ńū",,,"",,"Teresenko_1965",""
-"fA","",,,"",,"",""
-"fPP","",,,"",,"",""
-"fFF","jiŕi",,,"",,"Teresenko_1965",""
-"fFM","xada",,,"",,"Teresenko_1965","also 'great grandmother', 'husband's mother', 'husband's older brother's wife', 'all female relatives older than the speaker's parents'"
-"fMF","jiŕi",,,"",,"Teresenko_1965",""
-"fMM","xada",,,"",,"Teresenko_1965",""
-"fCC","ńūh ńū",,,"",,"Teresenko_1965",""
-"fCC","ńū",,,"",,"Teresenko_1965",""
-"fSS","",,,"",,"",""
-"fSD","",,,"",,"",""
-"fDS","",,,"",,"",""
-"fDD","",,,"",,"",""
-"fFB","ńeəka",,,"",,"Teresenko_1965",""
-"fFZ","",,,"",,"",""
-"fMB","ńeəka",,,"",,"Teresenko_1965",""
-"fMZ","",,,"",,"",""
-"fFeB","jiŕi",,,"",,"Teresenko_1965",""
-"fFyB","ńińeka",,,"",,"Teresenko_1965",""
-"fFyB","ńaəka",,,"",,"Teresenko_1965",""
-"fFeZ","",,,"",,"",""
-"fFyZ","ńabako",,,"",,"Teresenko_1965",""
-"fMeZ","ńeb́ah ńabako",,,"",,"Teresenko_1965",""
-"fMyZ","ńeja",,,"",,"Teresenko_1965","also 'every female relative on the mother's side that is younger than her (the mother)'"
-"fMeB","jiŕi",,,"",,"Teresenko_1965",""
-"fMyB","tʹidʹa",,,"",,"Teresenko_1965","also 'every male relative on the mother's side that is younger than her (the mother)'"
-"fBS","",,,"",,"",""
-"fBD","",,,"",,"",""
-"fZS","",,,"",,"",""
-"fZD","",,,"",,"",""
-"feBS","papa",,,"",,"Teresenko_1965 ",""
-"fyBS","ńū",,,"",,"Teresenko_1965",""
-"fyBS","papah ńū",,,"",,"Teresenko_1965 ",""
-"feBD","papa",,,"",,"Teresenko_1965 ",""
-"feBD","ńe papa",,,"",,"Teresenko_1965 ",""
-"fyBD","ńū",,,"",,"Teresenko_1965",""
-"fyBD","ńe ńū",,,"",,"Teresenko_1965",""
-"feZS","ḿaŋkə",,,"",,"Teresenko_1965",""
-"fyZS","ńū",,,"",,"Teresenko_1965",""
-"feZD","ḿaŋkə",,,"",,"Teresenko_1965",""
-"feZD","ńe ḿaŋkə",,,"",,"Teresenko_1965",""
-"fyZD","ńū",,,"",,"Teresenko_1965",""
-"fyZD","ńe ńū",,,"",,"Teresenko_1965",""
-"fFZD","",,,"",,"",""
-"fFBD","ńabako",,,"",,"Teresenko_1965","older than ego"
-"fMBD","ńe ḿaŋkə",,,"",,"Teresenko_1965",""
-"fMZD","ńe ḿaŋkə",,,"",,"Teresenko_1965",""
-"fFBS","ńińeka",,,"",,"Teresenko_1965","cousin (father's brother's son, older than ego)'"
-"fFZS","",,,"",,"",""
-"fMBS","",,,"",,"",""
-"fMZS","",,,"",,"",""
-"fFeBS","",,,"",,"",""
-"fFyBS","",,,"",,"",""
-"fFeZS","",,,"",,"",""
-"fFyZS","",,,"",,"",""
-"fFeBD","",,,"",,"",""
-"fFyBD","",,,"",,"",""
-"fFeZD","",,,"",,"",""
-"fFyZD","",,,"",,"",""
-"fMeBS","",,,"",,"",""
-"fMyBS","",,,"",,"",""
-"fMeZS","",,,"",,"",""
-"fMyZS","",,,"",,"",""
-"fMeBD","",,,"",,"",""
-"fMyBD","",,,"",,"",""
-"fMeZD","",,,"",,"",""
-"fMyZD","",,,"",,"",""
-"fFBeS","",,,"",,"",""
-"fFByS","",,,"",,"",""
-"fFZeS","",,,"",,"",""
-"fFZyS","",,,"",,"",""
-"fFBeD","",,,"",,"",""
-"fFByD","",,,"",,"",""
-"fFZeD","",,,"",,"",""
-"fFZyD","",,,"",,"",""
-"fMBeS","",,,"",,"",""
-"fMByS","",,,"",,"",""
-"fMZeS","",,,"",,"",""
-"fMZyS","",,,"",,"",""
-"fMBeD","",,,"",,"",""
-"fMByD","",,,"",,"",""
-"fMZeD","",,,"",,"",""
-"fMZyD","",,,"",,"",""
-"fE","ńes",,,"",,"Teresenko_1965",""
-"fE","xasawasəʔ",,,"",,"Teresenko_1965","collective plural"
-"fH","wæsuʔ",,,"",,"Teresenko_1965",""
-"fH","wæsako",,,"",,"Teresenko_1965",""
-"fW","ńenejə ńe",,,"",,"Teresenko_1965",""
-"fHF","ŋinabə",,,"",,"Teresenko_1965",""
-"fHF","jiŕi",,,"",,"Teresenko_1965",""
-"fHM","xada",,,"",,"Teresenko_1965","also 'great grandmother', 'husband's mother', 'husband's older brother's wife', 'all female relatives older than the speaker's parents'"
-"fWF","ŋinabə",,,"",,"Teresenko_1965",""
-"fWM","ńe ŋinabə",,,"",,"Teresenko_1965 ",""
-"fBW","",,,"",,"",""
-"feBW","ńaba",,,"",,"Teresenko_1965",""
-"fyBW","́ḿeja",,,"",,"Teresenko_1965","son's wife, younger brother's wife, husband's younger brother's wife'"
-"fZH","",,,"",,"",""
-"feZH","ńińadi",,,"",,"Teresenko_1965","older sister's husband', also 'father's younger sister's husband' and 'female cousin's husband (older than ego)'"
-"fyZH","jīj ",,,"",,"Teresenko_1965","younger sister's husband, daughter's husband, female cousin's husband (younger than ego)'"
-"fWB","",,,"",,"",""
-"fWeB","ŋinabə",,,"",,"Teresenko_1965","wife's older brother', synchronically opaque, but historically probably a copulative compound."
-"fWyB","nado",,,"",,"Teresenko_1965","wife's younger brother'"
-"fWZ","",,,"",,"",""
-"fWeZ","ńe ŋinabə",,,"",,"Teresenko_1965 ","wife's older sister', compound of ńe 'woman, female' and ŋinabə 'father-in-law'"
-"fWyZ","ńe nado",,,"",,"Teresenko_1965 ","wife's younger sister', compound of ńe 'woman, wife' and nado 'brother-in-law', 'wife's younger sister'"
-"fHB","",,,"",,"",""
-"fHeB","ŋinabə",,,"",,"Teresenko_1965","husband's older brother', synchronically opaque, but historically probably a copulative compound."
-"fHeB","jiŕi",,,"",,"Teresenko_1965","husband's older brother'"
-"fHyB","nado",,,"",,"Teresenko_1965","husband's younger brother'"
-"fHZ","",,,"",,"",""
-"fHyZ","ńe nado",,,"",,"Teresenko_1965 ","husband's younger sister', compound of ńe 'woman, wife' and nado 'brother-in-law', 'wife's younger sister'"
-"fco-W","",,,"",,"",""
-"fco-H","",,,"",,"",""
-"fFW(notM)","ńaba",,,"",,"Teresenko_1965 ",""
-"fFW(notM)","ńīśah ńab́i ńe",,,"",,"Teresenko_1965 ",""
-"fMH(notF)","ńeb́ah ńab́imdejə xasawa",,,"",,"Teresenko_1965 ",""
-"fSW","́ḿeja",,,"",,"Teresenko_1965","son's wife, younger brother's wife, husband's younger brother's wife'"
-"fSWM","",,,"",,"",""
-"fSWF","",,,"",,"",""
-"fDH","jīj ",,,"",,"Teresenko_1965","younger sister's husband, daughter's husband, female cousin's husband (younger than ego)'"
-"fDHM","",,,"",,"",""
-"fDHF","",,,"",,"",""
-"fFZH","",,,"",,"",""
-"fFyZH","ńińadi",,,"",,"Teresenko_1965","older sister's husband', also 'father's younger sister's husband' and 'female cousin's husband (older than ego)'"
-"fFBW","",,,"",,"",""
-"fFyBW","ńaba",,,"",,"Teresenko_1965","father's younger brother's wife', also 'stepmother; older brother's wife'"
-"fMZH","",,,"",,"",""
-"fMBW","",,,"",,"",""
-"fHyBW","́ḿeja",,,"",,"Teresenko_1965","son's wife, younger brother's wife, husband's younger brother's wife'"
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments
+Siblings;male speaker's sibling;mG;ńa;ня;;0;;;;Samoyedic, PS *ńä 'Kamerad, Bruder, Schwester';Tereshchenko 1965 ;SW: 106;;;1;;;
+Siblings;male speaker's brother;mB;ńa;ня;;0;;;;Samoyedic, PS *ńä 'Kamerad, Bruder, Schwester';Tereshchenko 1965 ;SW: 106;;;1;;;
+Siblings;male speaker's sister;mZ;ńa;ня;;0;;;;Samoyedic, PS *ńä 'Kamerad, Bruder, Schwester';Tereshchenko 1965 ;SW: 106;;;1;;;
+Siblings;male speaker's sister;mZ;ńeńa;неня;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;не ня;A compound of ńe 'woman' and ńa 'brother, sister'
+Siblings;male speaker's elder brother;meB;ńeəka;нека;;0;;;;Inherited, PU *enä 'big';Tereshchenko 1965;"Aikio 2020: 43; 45-46";;;2;;няка;A haplological variant of ńińeka 'elder brother'. Ultimately from PU *enä 'big'
+Siblings;male speaker's elder brother;meB;ńińeka;нинека;;0;;;;Inherited, PU *enä 'big';Tereshchenko 1965;"Aikio 2020: 43; 45-46";;;2;;;Ultimately from PU *enä 'big', Nenets reflects a PS derivation *enäkkå.
+Siblings;male speaker's younger brother;myB;ńudʹa ńa;нюдя ня;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;5;;;Phrasal of ńudʹa 'little, small' (< PS *ücä 'klein') and ńa 'brother, sister'
+Siblngs;male speaker's younger brother;myB;papa;папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;1;;;No etymology found in standard etymological dictionaries. Perhaps a Lallwort given its phonology.
+Siblings;male speaker's younger brother;myB;ṕeb́a;пебя;;0;;;;Inherited, PS *pepä 'jüngerer Bruder, jungere Schwester';Tereshchenko 1965;SW: 121–122;;;1;;;According to Tereshchenko both 'younger brother', 'younger sister'. Lehtisalo (1956: 380) 'jüngerer Bruder'
+Siblings;male speaker's elder sister;meZ;ńabako;нябако;;0;;;;Inherited, PS *äpå 'ältere Schwester';Tereshchenko 1965; SW: 21;;;3;;;"A diminutive derivation on няба 'stepmother; older brother's wife'."
+Siblings;male speaker's younger sister;myZ;ńudʹa ńe ńa;нюдя не ня;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;5;;;Phrasal of ńudʹa 'little, small' (< PS *ücä 'klein') and ńe ńa 'sister'
+Siblings;male speaker's younger sister;myZ;papa;папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;1;;;No etymology found in standard etymological dictionaries. Perhaps a Lallwort given its phonology.
+Siblings;male speaker's younger sister;myZ;ńe papa;не папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;Compound of ńe 'woman' and papa 'younger brother or sister'
+Siblings;male speaker's younger sister;myZ;ṕeb́a;пебя;;0;;;;Samoyedic, PS *pepä 'jüngerer Bruder, jungere Schwester';Tereshchenko 1965;SW: 121–122;;;1;;;According to Tereshchenko both 'younger brother', 'younger sister'. Lehtisalo (1956: 380) 'jüngerer Bruder'
+Parents;male speaker's parent;mP;sojaptawiʔ;соябтавыˮ;;3;1;;;Nenets-specific;Tereshchenko 1965;;;;3;;;Undoubtedly connected to соябта(ся) 'родить'. Perhaps a calque from Russian?
+Parents;male speaker's father;mF;ńīśa;нися;;0;;;;Inherited, PU *äjćä 'father';Tereshchenko 1965;Aikio 2020: 30–32;;;1;;;
+Parents;male speaker's father;mF;ŋæća;ңэця;;0;;;;Nenets/Enets;Tereshchenko 1965;Aikio 2020: 30–32;;;1;;;Sometimes connected to ńīśa 'father', but show no regular correspondence with it. A Lallwort?
+Parents;male speaker's mother;mM;ńeb́a;небя;;0;;;;Inherited, PU *emä / *ämä 'mother';Tereshchenko 1965;Aikio 2020: 44-45;;;1;;;
+Children;male speaker's child;mC;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;SW: 111;;;1;;;
+Children;male speaker's child;mC;ŋəćekiə;ңӑцекы;;0;;;;Samoyedic, PS *ə̑tsɜ 'Kind';Tereshchenko 1965;SW: 16;;;3;;;Derived of наць 'young'
+Children;male speaker's son;mS;xasawa ńū;хасава ню;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of xasawa 'man, male' and ńū 'child'
+Children;male speaker's daughter;mD;ńe ńū;не ню;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and ńū 'child'
+Grandparents;male speaker's ancestor;mA;;;;;;;;;;;;;;;;
+Grandparents;male speaker's grandparent;mPP;;;;;;;;;;;;;;;;
+Grandparents;male speaker's father's father;mFF;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;
+Grandparents;male speaker's father's mother;mFM;xada;хада;;0;;;;Inherited, PU *koska 'older female relative';Tereshchenko 1965;"Sammallahti 1988: 537; Zhivlov 2014: 137";;;1;;;Also 'great grandmother', 'husband's mother', 'husband's older brother's wife', 'all female relatives older than the speaker's parents'
+Grandparents;male speaker's mother's father;mMF;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;
+Grandparents;male speaker's mother's mother;mMM;xada;хада;;0;;;;Inherited, PU *koska 'older female relative';Tereshchenko 1965;"Sammallahti 1988: 537; Zhivlov 2014: 137";;;1;;;
+Grandchildren;male speaker's grandchild;mCC;ńūh ńū;ню' ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;;;;5;;;Phrasal 'child's child'
+Grandchildren;male speaker's grandchild;mCC;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965; SW: 111;;;1;;;
+Grandchildren;male speaker's son's son;mSS;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's son's daughter;mSD;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's son;mDS;;;;;;;;;;;;;;;;
+Grandchildren;male speaker's daughter's daughter;mDD;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's brother;mFB;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's brother;mMB;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's sister;mMZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;ńińeka;нинека;;0;;;;Inherited, PU *enä 'big';Tereshchenko 1965;"Aikio 2020: 43; 45-46";;;2;;;Ultimately from PU *enä 'big', Nenets reflects a PS derivation *enäkkå.
+ParentsSiblings;male speaker's father's younger brother;mFyB;ńaəka;няка;;0;;;;Inherited, PU *enä 'big';Tereshchenko 1965;"Aikio 2020: 43; 45-46";;;2;;;A haplological variant of ńińeka 'elder brother'. Ultimately from PU *enä 'big'
+ParentsSiblings;male speaker's father's older sister;mFeZ;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;ńabako;нябако;;0;;;;Samoyedic, PS *äpå 'ältere Schwester';Tereshchenko 1965; SW: 21;;;3;;;"A diminutive derivation on няба 'stepmother; older brother's wife'."
+ParentsSiblings;male speaker's mother's older sister;mMeZ;ńeb́ah ńabako;небя' нябако;;0;;;;Nenets-specific;Tereshchenko 1965;;;;5;;;Phrasal of ńeb́a 'mother' and ńabako 'older sister' 
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;ńeja;нея̆;;0;;;;Samoyedic, PS *äńa 'aunt (mother's younger sister)';Tereshchenko 1965;Aikio 2020: 19;;;1;;;Also 'every female relative on the mother's side that is younger than her (the mother)'. The Samoyed word could perhaps even belong together with Mansi *ǟńǟ 'grandmother reflect PU *äńä, this according to Aikio is questionable due to anomalous vowel combination *ä-a in PS.
+ParentsSiblings;male speaker's mother's older brother;mMeB;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;tʹidʹa;тидя;;0;;;;Inherited, PU *čečä 'uncle';Tereshchenko 1965;UEW: 34-35;;;1;;;Also 'every male relatives on the mother's side that is younger than her (the mother)'
+SiblingsChildren;male speaker's brother's son;mBS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's daughter;mBD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's son;mZS;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's daughter;mZD;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older brother's son;meBS;papa;папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;1;;;No etymology found in standard etymological dictionaries. Perhaps a Lallwort given its phonology.
+SiblingsChildren;male speaker's younger brother's son;myBS;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;SW: 111;;;1;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;papah ńū;папа' ню;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;5;;;Phrasal of papa 'younger brother or sister' and ńū 'child'
+SiblingsChildren;male speaker's older brother's daughter;meBD;papa;папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;1;;;No etymology found in standard etymological dictionaries. Perhaps a Lallwort given its phonology.
+SiblingsChildren;male speaker's older brother's daughter;meBD;ńe papa;не папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;Compound of ńe 'woman' and papa 'younger brother or sister'
+SiblingsChildren;male speaker's younger brother's daughter;myBD;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;SW: 111;;;1;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;ńe ńū;не ню;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and ńū 'child'
+SiblingsChildren;male speaker's older sister's son;meZS;ḿaŋkə;мяңг;;0;;;;Samoyedic, PS *mäŋkə̑ 'Schwestersohn';Tereshchenko 1965;SW: 90;;;1;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;SW: 111;;;1;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;ḿaŋkə;мяңг;;0;;;;Samoyedic, PS *mäŋkə̑ 'Schwestersohn';Tereshchenko 1965;SW: 90;;;1;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;ńe ḿaŋkə;не мяңг;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and мяңг 'older sister's son'
+SiblingsChildren;male speaker's younger sister's daughter;myZD;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;SW: 111;;;1;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;ńe ńū;не ню;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and ńū 'child'
+Cousins;male speaker's father's sister's daughter;mFZD;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's brother's daughter;mFBD;ńabako;нябако;;0;;;;Samoyedic, PS *äpå 'ältere Schwester';Tereshchenko 1965; SW: 21;;;3;;;"Older than ego. A diminutive derivation on няба 'stepmother; older brother's wife'. "
+Cousins;male speaker's mother's brother's daughter;mMBD;ńe ḿaŋkə;не мяңг;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and мяңг 'older sister's son'
+Cousins;male speaker's mother's sister's daughter;mMZD;ńe ḿaŋkə;не мяңг;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and мяңг 'older sister's son'
+Cousins;male speaker's father's brother's son;mFBS;ńińeka;нинека;;0;;;;Inherited, PU *enä 'big';Tereshchenko 1965;"Aikio 2020: 43; 45-46";;;2;;;cousin (father's brother's son, older than ego)', ultimately from PU *enä 'big', Nenets reflects a PS derivation *enäkkå.
+Cousins;male speaker's father's sister's son;mFZS;;;;;;;;;;;;;;;;
+Cousins;male speaker's mother's brother's son;mMBS;;;;;;;;;;;;;;;;
+Cousins;male speaker's mother's sister's son;mMZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;ńes;нес;;0;;;;Nenets-specific;Tereshchenko 1965;;;;3;;;
+Affines;male speaker's spouse;mE;xasawasəʔ;хасавасˮ;;0;;;;Nenets-specific;Tereshchenko 1965;;;;3;;;collective plural
+Affines;male speaker's husband;mH;wæsuʔ;вэсуˮ;;0;;;;Samoyedic, PS *wåjs- 'Greis, Ehemann';Tereshchenko 1965;SW: 169–170;;;3;;;According to SW a derivation, but this is not elaborated further.
+Affines;male speaker's husband;mH;wæsako;вэсако;;0;;;;Nenets-specific;Tereshchenko 1965;;;;3;;;A diminutive derivation on вэсуˮ(с) 'husband'
+Affines;male speaker's wife;mW;ńenejə ńe;ненэй не;;0;;;;Nenets-specific;Tereshchenko 1965;;;;5;;;A compound of ńenej 'настоящий, подлинный' and ńe 'woman'
+Affines;male speaker's husband's father;mHF;ŋinabə;ңынаб;;0;;;;Inherited, PU *ëna-ëppə, *ana-ëppə 'parents-in-law';Tereshchenko 1965;Aikio 2020: 54 ;;;2;;;Synchronically opaque, but historically probably a copulative compound.
+Affines;male speaker's husband's father;mHF;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;
+Affines;male speaker's husband's mother;mHM;xada;хада;;0;;;;Inherited, PU *koska 'older female relative';Tereshchenko 1965;"Sammallahti 1988: 537; Zhivlov 2014: 137";;;1;;;Also 'great grandmother', 'husband's mother', 'husband's older brother's wife', 'all female relatives older than the speaker's parents'
+Affines;male speaker's wife's father;mWF;ŋinabə;ңынаб;;0;;;;Inherited, PU *ëna-ëppə, *ana-ëppə 'parents-in-law';Tereshchenko 1965;Aikio 2020: 54 ;;;2;;;Synchronically opaque, but historically probably a copulative compound.
+Affines;male speaker's wife's mother;mWM;ńe ŋinabə;не ңынаб;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;Compound ńe 'woman, female' and ŋinabə 'father-in-law'
+Affines;male speaker's brother's wife;mBW;;;;;;;;;;;;;;;;
+Affines;male speaker's older brother's wife;meBW;ńaba;няба;;0;;;;Samoyedic, PS *äpå 'ältere Schwester';Tereshchenko 1965;SW: 21;;;1;;;older brother's wife'
+Affines;male speaker's younger brother's wife;myBW;́ḿeja;мея;;0;;;;Inherited, PU *mińä 'daughter-in-law';Tereshchenko 1965;UEW: 276;;;1;;;son's wife, younger brother's wife, husband's younger brother's wife'
+Affines;male speaker's sister's husband;mZH;;;;;;;;;;;;;;;;
+Affines;male speaker's older sister's husband;meZH;ńińadi;ниняды;;0;;;;Nenets-specific;Tereshchenko 1965;;;;1;;;older sister's husband', also 'father's younger sister's husband' and 'female cousin's husband (older than ego)'
+Affines;male speaker's younger sister's husband;myZH;jīj ;ий;;0;;;;Inherited, PU *wäŋəw 'son-in-law';Tereshchenko 1965;"SW: 176; UEW: 565–566";;;1;;;younger sister's husband, daughter's husband, female cousin's husband (younger than ego)'
+Affines;male speaker's wife's brother;mWB;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's older brother;mWeB;ŋinabə;ңынаб;;0;;;;Inherited, PU *ëna-ëppə, *ana-ëppə 'parents-in-law';Tereshchenko 1965;Aikio 2020: 54 ;;;2;;;wife's older brother', synchronically opaque, but historically probably a copulative compound.
+Affines;male speaker's wife's younger brother;mWyB;nado;надо;;0;;;;Inherited, PU *nataw 'in-law';Tereshchenko 1965;Aikio 2015: 55;;;1;;;wife's younger brother'
+Affines;male speaker's wife's sister;mWZ;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's older sister;mWeZ;ńe ŋinabə;не ңынаб;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;wife's older sister', compound of ńe 'woman, female' and ŋinabə 'father-in-law'
+Affines;male speaker's wife's younger sister;mWyZ;ńe nado;не надо;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;wife's younger sister', compound of ńe 'woman, wife' and nado 'brother-in-law', 'wife's younger sister'
+Affines;male speaker's husband's brother;mHB;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's older brother;mHeB;ŋinabə;ңынаб;;0;;;;Inherited, PU *ëna-ëppə, *ana-ëppə 'parents-in-law';Tereshchenko 1965;Aikio 2020: 54 ;;;2;;;husband's older brother', synchronically opaque, but historically probably a copulative compound.
+Affines;male speaker's husband's older brother;mHeB;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;husband's older brother'
+Affines;male speaker's husband's younger brother;mHyB;nado;надо;;0;;;;Inherited, PU *nataw 'in-law';Tereshchenko 1965;Aikio 2015: 55;;;1;;;husband's younger brother'
+Affines;male speaker's husband's sister;mHZ;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's younger sister;mHyZ;ńe nado;не надо;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;husband's younger sister', compound of ńe 'woman, wife' and nado 'brother-in-law', 'wife's younger sister'
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);ńaba;няба;;0;;;;Samoyedic, PS *äpå 'ältere Schwester';Tereshchenko 1965 ; SW: 21;;;1;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);ńīśah ńab́i ńe;нися' няби не;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;5;;;Phrasal 'father's second wife'
+Affines;male speaker's mother's husband (not father);mMH(notF);ńeb́ah ńab́imdejə xasawa;небя' нябимдей хасава;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;5;;;Phrasal 'mother's second man'
+Affines;male speaker's son's wife;mSW;́ḿeja;мея;;0;;;;Inherited, PU *mińä 'daughter-in-law';Tereshchenko 1965;UEW: 276;;;1;;;son's wife, younger brother's wife, husband's younger brother's wife'
+Affines;male speaker's son's wife's mother;mSWM;;;;;;;;;;;;;;;;
+Affines;male speaker's son's wife's father;mSWF;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband;mDH;jīj ;ий;;0;;;;Inherited, PU *wäŋəw 'son-in-law';Tereshchenko 1965;"SW: 176; UEW: 565–566";;;1;;;younger sister's husband, daughter's husband, female cousin's husband (younger than ego)'
+Affines;male speaker's daughter's husband's mother;mDHM;;;;;;;;;;;;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;;;;;;;;;;;;;;;;
+Affines;male speaker's father's sister's husband;mFZH;;;;;;;;;;;;;;;;
+Affines;male speaker's father's younger sister's husband;mFyZH;ńińadi;ниняды;;0;;;;Nenets-specific;Tereshchenko 1965;;;;1;;;older sister's husband', also 'father's younger sister's husband' and 'female cousin's husband (older than ego)'
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;
+Affines;male speaker's father's younger brother's wife;mFyBW;ńaba;няба;;0;;;;Samoyedic, PS *äpå 'ältere Schwester';Tereshchenko 1965; SW: 21;;;1;;;"father's younger brother's wife', also 'stepmother; older brother's wife'"
+Affines;male speaker's mother's sister's husband;mMZH;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's brother's wife;mMBW;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's younger brother's wife;mHyBW;́ḿeja;мея;;0;;;;Inherited, PU *mińä 'daughter-in-law';Tereshchenko 1965;UEW: 276;;;1;;;son's wife, younger brother's wife, husband's younger brother's wife'
+Siblings;female speaker's sibling;fG;ńa;ня;;0;;;;Samoyedic, PS *ńä 'Kamerad, Bruder, Schwester';Tereshchenko 1965 ;SW: 106;;;1;;;
+Siblings;female speaker's brother;fB;ńa;ня;;0;;;;Samoyedic, PS *ńä 'Kamerad, Bruder, Schwester';Tereshchenko 1965 ;SW: 106;;;1;;;
+Siblings;female speaker's sister;fZ;ńa;ня;;0;;;;Samoyedic, PS *ńä 'Kamerad, Bruder, Schwester';Tereshchenko 1965 ;SW: 106;;;1;;;
+Siblings;female speaker's sister;fZ;ńeńa;неня;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;не ня;A compound of ńe 'woman' and ńa 'brother, sister'
+Siblings;female speaker's elder brother;feB;ńeəka;нека, няка;;0;;;;Inherited, PU *enä 'big';Tereshchenko 1965;"Aikio 2020: 43; 45-46";;;2;;няка;A haplological variant of ńińeka 'elder brother'. Ultimately from PU *enä 'big'
+Siblings;female speaker's elder brother;feB;ńińeka;нинека;;0;;;;Inherited, PU *enä 'big';Tereshchenko 1965;"Aikio 2020: 43; 45-46";;;2;;;Ultimately from PU *enä 'big', Nenets reflects a PS derivation *enäkkå.
+Siblings;female speaker's younger brother;fyB;ńudʹa ńa;нюдя ня;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;5;;;Phrasal of ńudʹa 'little, small' (< PS *ücä 'klein') and ńa 'brother, sister'
+Siblings;female speaker's younger brother;fyB;papa;папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;1;;;No etymology found in standard etymological dictionaries. Perhaps a Lallwort given its phonology.
+Siblings;female speaker's younger brother;fyB;ṕeb́a;пебя;;0;;;;Inherited, PS *pepä 'jüngerer Bruder, jungere Schwester';Tereshchenko 1965;SW: 121–122;;;1;;;According to Tereshchenko both 'younger brother', 'younger sister'. Lehtisalo (1956: 380) 'jüngerer Bruder'
+Siblings;female speaker's elder sister;feZ;ńabako;нябако;;0;;;;Inherited, PS *äpå 'ältere Schwester';Tereshchenko 1965; SW: 21;;;3;;;"A diminutive derivation on няба 'stepmother; older brother's wife'."
+Siblings;female speaker's younger sister;fyZ;ńudʹa ńe ńa;нюдя не ня;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;5;;;Phrasal of ńudʹa 'little, small' (< PS *ücä 'klein') and ńe ńa 'sister'
+Siblings;female speaker's younger sister;fyZ;papa;папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;1;;;No etymology found in standard etymological dictionaries. Perhaps a Lallwort given its phonology.
+Siblings;female speaker's younger sister;fyZ;ńe papa;не папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;Compound of ńe 'woman' and papa 'younger brother or sister'
+Siblings;female speaker's younger sister;fyZ;ṕeb́a;пебя;;0;;;;Samoyedic, PS *pepä 'jüngerer Bruder, jungere Schwester';Tereshchenko 1965;SW: 121–122;;;1;;;According to Tereshchenko both 'younger brother', 'younger sister'. Lehtisalo (1956: 380) 'jüngerer Bruder'
+Parents;female speaker's parent;fP;sojaptawiʔ;соябтавыˮ;;3;1;;;Nenets-specific;Tereshchenko 1965;;;;3;;;Undoubtedly connected to соябта(ся) 'родить'. Perhaps a calque from Russian?
+Parents;female speaker's father;fF;ńīśa;нися;;0;;;;Inherited, PU *äjćä 'father';Tereshchenko 1965;Aikio 2020: 30–32;;;1;;;
+Parents;female speaker's father;fF;ŋæća;ңэця;;0;;;;Nenets/Enets;Tereshchenko 1965;Aikio 2020: 30–32;;;1;;;Sometimes connected to ńīśa 'father', but show no regular correspondence with it. A Lallwort?
+Parents;female speaker's mother;fM;ńeb́a;небя;;0;;;;Inherited, PU *emä / *ämä 'mother';Tereshchenko 1965;Aikio 2020: 44-45;;;1;;;
+Children;female speaker's child;fC;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;SW: 111;;;1;;;
+Children;female speaker's child;fC;ŋəćekiə;ңӑцекы;;0;;;;Samoyedic, PS *ə̑tsɜ 'Kind';Tereshchenko 1965;SW: 16;;;3;;;Derived of наць 'young'
+Children;female speaker's son;fS;xasawa ńū;хасава ню;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of xasawa 'man, male' and ńū 'child'
+Children;female speaker's daughter;fD;ńe ńū;не ню;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and ńū 'child'
+Grandparents;female speaker's ancestor;fA;;;;;;;;;;;;;;;;
+Grandparents;female speaker's grandparent;fPP;;;;;;;;;;;;;;;;
+Grandparents;female speaker's father's father;fFF;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;
+Grandparents;female speaker's father's mother;fFM;xada;хада;;0;;;;Inherited, PU *koska 'older female relative';Tereshchenko 1965;"Sammallahti 1988: 537; Zhivlov 2014: 137";;;1;;;Also 'great grandmother', 'husband's mother', 'husband's older brother's wife', 'all female relatives older than the speaker's parents'
+Grandparents;female speaker's mother's father;fMF;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;
+Grandparents;female speaker's mother's mother;fMM;xada;хада;;0;;;;Inherited, PU *koska 'older female relative';Tereshchenko 1965;"Sammallahti 1988: 537; Zhivlov 2014: 137";;;1;;;
+Grandchildren;female speaker's grandchild;fCC;ńūh ńū;ню' ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;;;;5;;;Phrasal 'child's child'
+Grandchildren;female speaker's grandchild;fCC;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965; SW: 111;;;1;;;
+Grandchildren;female speaker's son's son;fSS;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's son's daughter;fSD;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's son;fDS;;;;;;;;;;;;;;;;
+Grandchildren;female speaker's daughter's daughter;fDD;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's brother;fFB;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's brother;fMB;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's sister;fMZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;ńińeka;нинека;;0;;;;Inherited, PU *enä 'big';Tereshchenko 1965;"Aikio 2020: 43; 45-46";;;2;;;Ultimately from PU *enä 'big', Nenets reflects a PS derivation *enäkkå.
+ParentsSiblings;female speaker's father's younger brother;fFyB;ńaəka;няка;;0;;;;Inherited, PU *enä 'big';Tereshchenko 1965;"Aikio 2020: 43; 45-46";;;2;;;A haplological variant of ńińeka 'elder brother'. Ultimately from PU *enä 'big'
+ParentsSiblings;female speaker's father's older sister;fFeZ;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;ńabako;нябако;;0;;;;Samoyedic, PS *äpå 'ältere Schwester';Tereshchenko 1965; SW: 21;;;3;;;"A diminutive derivation on няба 'stepmother; older brother's wife'."
+ParentsSiblings;female speaker's mother's older sister;fMeZ;ńeb́ah ńabako;небя' нябако;;0;;;;Nenets-specific;Tereshchenko 1965;;;;5;;;Phrasal of ńeb́a 'mother' and ńabako 'older sister' 
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;ńeja;нея̆;;0;;;;Samoyedic, PS *äńa 'aunt (mother's younger sister)';Tereshchenko 1965;Aikio 2020: 19;;;1;;;Also 'every female relative on the mother's side that is younger than her (the mother)'. The Samoyed word could perhaps even belong together with Mansi *ǟńǟ 'grandmother reflect PU *äńä, this according to Aikio is questionable due to anomalous vowel combination *ä-a in PS.
+ParentsSiblings;female speaker's mother's older brother;fMeB;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;tʹidʹa;тидя;;0;;;;Inherited, PU *čečä 'uncle';Tereshchenko 1965;UEW: 34-35;;;1;;;Also 'every male relatives on the mother's side that is younger than her (the mother)'
+SiblingsChildren;female speaker's brother's son;fBS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's daughter;fBD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's son;fZS;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's daughter;fZD;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's son;feBS;papa;папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;1;;;No etymology found in standard etymological dictionaries. Perhaps a Lallwort given its phonology.
+SiblingsChildren;female speaker's younger brother's son;fyBS;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;SW: 111;;;1;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;papah ńū;папа' ню;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;5;;;Phrasal of papa 'younger brother or sister' and ńū 'child'
+SiblingsChildren;female speaker's older brother's daughter;feBD;papa;папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;1;;;No etymology found in standard etymological dictionaries. Perhaps a Lallwort given its phonology.
+SiblingsChildren;female speaker's older brother's daughter;feBD;ńe papa;не папа;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;Compound of ńe 'woman' and papa 'younger brother or sister'
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;SW: 111;;;1;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;ńe ńū;не ню;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and ńū 'child'
+SiblingsChildren;female speaker's older sister's son;feZS;ḿaŋkə;мяңг;;0;;;;Samoyedic, PS *mäŋkə̑ 'Schwestersohn';Tereshchenko 1965;SW: 90;;;1;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;SW: 111;;;1;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;ḿaŋkə;мяңг;;0;;;;Samoyedic, PS *mäŋkə̑ 'Schwestersohn';Tereshchenko 1965;SW: 90;;;1;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;ńe ḿaŋkə;не мяңг;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and мяңг 'older sister's son'
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;ńū;ню;;0;;;;"Samoyedic, PS *ńuə̑ 'Kind; Junges'";Tereshchenko 1965;SW: 111;;;1;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;ńe ńū;не ню;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and ńū 'child'
+Cousins;female speaker's father's sister's daughter;fFZD;;;;;;;;;;;;;;;;
+Cousins;female speaker's father's brother's daughter;fFBD;ńabako;нябако;;0;;;;Samoyedic, PS *äpå 'ältere Schwester';Tereshchenko 1965; SW: 21;;;3;;;"Older than ego. A diminutive derivation on няба 'stepmother; older brother's wife'. "
+Cousins;female speaker's mother's brother's daughter;fMBD;ńe ḿaŋkə;не мяңг;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and мяңг 'older sister's son'
+Cousins;female speaker's mother's sister's daughter;fMZD;ńe ḿaŋkə;не мяңг;;0;;;;Nenets-specific;Tereshchenko 1965;;;;4;;;Compound of ńe 'woman, female' and мяңг 'older sister's son'
+Cousins;female speaker's father's brother's son;fFBS;ńińeka;нинека;;0;;;;Inherited, PU *enä 'big';Tereshchenko 1965;"Aikio 2020: 43; 45-46";;;2;;;cousin (father's brother's son, older than ego)', ultimately from PU *enä 'big', Nenets reflects a PS derivation *enäkkå.
+Cousins;female speaker's father's sister's son;fFZS;;;;;;;;;;;;;;;;
+Cousins;female speaker's mother's brother's son;fMBS;;;;;;;;;;;;;;;;
+Cousins;female speaker's mother's sister's son;fMZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;ńes;нес;;0;;;;Nenets-specific;Tereshchenko 1965;;;;3;;;
+Affines;female speaker's spouse;fE;xasawasəʔ;хасавасˮ;;0;;;;Nenets-specific;Tereshchenko 1965;;;;3;;;collective plural
+Affines;female speaker's husband;fH;wæsuʔ;вэсуˮ;;0;;;;Samoyedic, PS *wåjs- 'Greis, Ehemann';Tereshchenko 1965;SW: 169–170;;;3;;;According to SW a derivation, but this is not elaborated further.
+Affines;female speaker's husband;fH;wæsako;вэсако;;0;;;;Nenets-specific;Tereshchenko 1965;;;;3;;;A diminutive derivation on вэсуˮ(с) 'husband'
+Affines;female speaker's wife;fW;ńenejə ńe;ненэй не;;0;;;;Nenets-specific;Tereshchenko 1965;;;;5;;;A compound of ńenej 'настоящий, подлинный' and ńe 'woman'
+Affines;female speaker's husband's father;fHF;ŋinabə;ңынаб;;0;;;;Inherited, PU *ëna-ëppə, *ana-ëppə 'parents-in-law';Tereshchenko 1965;Aikio 2020: 54 ;;;2;;;Synchronically opaque, but historically probably a copulative compound.
+Affines;female speaker's husband's father;fHF;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;
+Affines;female speaker's husband's mother;fHM;xada;хада;;0;;;;Inherited, PU *koska 'older female relative';Tereshchenko 1965;"Sammallahti 1988: 537; Zhivlov 2014: 137";;;1;;;Also 'great grandmother', 'husband's mother', 'husband's older brother's wife', 'all female relatives older than the speaker's parents'
+Affines;female speaker's wife's father;fWF;ŋinabə;ңынаб;;0;;;;Inherited, PU *ëna-ëppə, *ana-ëppə 'parents-in-law';Tereshchenko 1965;Aikio 2020: 54 ;;;2;;;Synchronically opaque, but historically probably a copulative compound.
+Affines;female speaker's wife's mother;fWM;ńe ŋinabə;не ңынаб;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;Compound ńe 'woman, female' and ŋinabə 'father-in-law'
+Affines;female speaker's brother's wife;fBW;;;;;;;;;;;;;;;;
+Affines;female speaker's older brother's wife;feBW;ńaba;няба;;0;;;;Samoyedic, PS *äpå 'ältere Schwester';Tereshchenko 1965;SW: 21;;;1;;;older brother's wife'
+Affines;female speaker's younger brother's wife;fyBW;́ḿeja;мея;;0;;;;Inherited, PU *mińä 'daughter-in-law';Tereshchenko 1965;UEW: 276;;;1;;;son's wife, younger brother's wife, husband's younger brother's wife'
+Affines;female speaker's sister's husband;fZH;;;;;;;;;;;;;;;;
+Affines;female speaker's older sister's husband;feZH;ńińadi;ниняды;;0;;;;Nenets-specific;Tereshchenko 1965;;;;1;;;older sister's husband', also 'father's younger sister's husband' and 'female cousin's husband (older than ego)'
+Affines;female speaker's younger sister's husband;fyZH;jīj ;ий;;0;;;;Inherited, PU *wäŋəw 'son-in-law';Tereshchenko 1965;"SW: 176; UEW: 565–566";;;1;;;younger sister's husband, daughter's husband, female cousin's husband (younger than ego)'
+Affines;female speaker's wife's brother;fWB;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's older brother;fWeB;ŋinabə;ңынаб;;0;;;;Inherited, PU *ëna-ëppə, *ana-ëppə 'parents-in-law';Tereshchenko 1965;Aikio 2020: 54 ;;;2;;;wife's older brother', synchronically opaque, but historically probably a copulative compound.
+Affines;female speaker's wife's younger brother;fWyB;nado;надо;;0;;;;Inherited, PU *nataw 'in-law';Tereshchenko 1965;Aikio 2015: 55;;;1;;;wife's younger brother'
+Affines;female speaker's wife's sister;fWZ;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's older sister;fWeZ;ńe ŋinabə;не ңынаб;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;wife's older sister', compound of ńe 'woman, female' and ŋinabə 'father-in-law'
+Affines;female speaker's wife's younger sister;fWyZ;ńe nado;не надо;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;wife's younger sister', compound of ńe 'woman, wife' and nado 'brother-in-law', 'wife's younger sister'
+Affines;female speaker's husband's brother;fHB;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's older brother;fHeB;ŋinabə;ңынаб;;0;;;;Inherited, PU *ëna-ëppə, *ana-ëppə 'parents-in-law';Tereshchenko 1965;Aikio 2020: 54 ;;;2;;;husband's older brother', synchronically opaque, but historically probably a copulative compound.
+Affines;female speaker's husband's older brother;fHeB;jiŕi;ири;;0;;;;Inherited, PU *ürä- 'big, old';Tereshchenko 1965;Aikio 2020: 96-97;;;1;;;husband's older brother'
+Affines;female speaker's husband's younger brother;fHyB;nado;надо;;0;;;;Inherited, PU *nataw 'in-law';Tereshchenko 1965;Aikio 2015: 55;;;1;;;husband's younger brother'
+Affines;female speaker's husband's brother;fHZ;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's younger sister;fHyZ;ńe nado;не надо;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;4;;;husband's younger sister', compound of ńe 'woman, wife' and nado 'brother-in-law', 'wife's younger sister'
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);ńaba;няба;;0;;;;Samoyedic, PS *äpå 'ältere Schwester';Tereshchenko 1965 ; SW: 21;;;1;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);ńīśah ńab́i ńe;нися' няби не;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;5;;;Phrasal 'father's second wife'
+Affines;female speaker's mother's husband (not father);fMH(notF);ńeb́ah ńab́imdejə xasawa;небя' нябимдей хасава;;0;;;;Nenets-specific;Tereshchenko 1965 ;;;;5;;;Phrasal 'mother's second man'
+Affines;female speaker's son's wife;fSW;́ḿeja;мея;;0;;;;Inherited, PU *mińä 'daughter-in-law';Tereshchenko 1965;UEW: 276;;;1;;;son's wife, younger brother's wife, husband's younger brother's wife'
+Affines;female speaker's son's wife's mother;fSWM;;;;;;;;;;;;;;;;
+Affines;female speaker's son's wife's father;fSWF;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband;fDH;jīj ;ий;;0;;;;Inherited, PU *wäŋəw 'son-in-law';Tereshchenko 1965;"SW: 176; UEW: 565–566";;;1;;;younger sister's husband, daughter's husband, female cousin's husband (younger than ego)'
+Affines;female speaker's daughter's husband's mother;fDHM;;;;;;;;;;;;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;;;;;;;;;;;;;;;;
+Affines;female speaker's father's sister's husband;fFZH;;;;;;;;;;;;;;;;
+Affines;female speaker's father's younger sister's husband;fFyZH;ńińadi;ниняды;;0;;;;Nenets-specific;Tereshchenko 1965;;;;1;;;older sister's husband', also 'father's younger sister's husband' and 'female cousin's husband (older than ego)'
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;
+Affines;female speaker's father's younger brother's wife;fFyBW;ńaba;няба;;0;;;;Samoyedic, PS *äpå 'ältere Schwester';Tereshchenko 1965; SW: 21;;;1;;;"father's younger brother's wife', also 'stepmother; older brother's wife'"
+Affines;female speaker's mother's sister's husband;fMZH;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's brother's wife;fMBW;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's younger brother's wife;fHyBW;́ḿeja;мея;;0;;;;Inherited, PU *mińä 'daughter-in-law';Tereshchenko 1965;UEW: 276;;;1;;;son's wife, younger brother's wife, husband's younger brother's wife'

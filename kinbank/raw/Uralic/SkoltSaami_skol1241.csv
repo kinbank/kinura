@@ -1,283 +1,283 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","vueʹbbež",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 "
-"mB","villj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 "
-"mZ","vuäʹbb",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","338 "
-"meB","",,,,,"",""
-"myB","",,,,,"",""
-"meZ","",,,,,"",""
-"myZ","",,,,,"",""
-"mP","puärraz",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","414 "
-"mF","eʹčč",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
-"mM","jeäʹnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","449 "
-"mC","päärnaž",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 "
-"mS","âʹlǧǧ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","273 "
-"mS","päʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","273 "
-"mD","nijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
-"mA","maaddârpuärraz",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
-"mA","maaddârruåđ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
-"mA","maaddâreʹčč",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","36 "
-"mA","maaddâräʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","36 "
-"mA","maaddâräkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
-"mPP","",,,,,"",""
-"mFF","äʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","76 "
-"mFM","äkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
-"mMF","äʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","76 "
-"mMM","äkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
-"mMM","jieʹnnjeäʹnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","448 "
-"mCC","äʹjjev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 to their grandfather"
-"mCC","pääʹrnpäärnaž",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 "
-"mSS","pääʹrnpäʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","274 "
-"mSD","pääʹrn-nijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","274 "
-"mDS","niõđpäʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
-"mDD","niõđnijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
-"mFB","",,,,,"",""
-"mFZ","sieʹss",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
-"mMB","jään",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","34 "
-"mMZ","",,,,,"",""
-"mFeB","jieʹǩǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","331 "
-"mFyB","čieʹcc",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","331 "
-"mFeZ","",,,,,"",""
-"mFyZ","",,,,,"",""
-"mMeZ","kuäʹsǩǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
-"mMyZ","mueʹđđ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
-"mMeB","",,,,,"",""
-"mMyB","",,,,,"",""
-"mBS","",,,,,"",""
-"mBD","",,,,,"",""
-"mZS","jännav",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to their mother's brother"
-"mZD","jännav",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to their mother's brother"
-"meBS","čieʹccev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's younger brother"
-"myBS","jieʹǩǩev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's older brother"
-"meBD","čieʹccev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's younger brother"
-"myBD","jieʹǩǩev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's older brother"
-"meZS","",,,,,"",""
-"myZS","",,,,,"",""
-"meZD","",,,,,"",""
-"myZD","",,,,,"",""
-"mFZD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
-"mFBD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
-"mMBD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
-"mMZD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
-"mFBS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
-"mFZS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
-"mMBS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
-"mMZS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
-"mFeBS","",,,,,"",""
-"mFyBS","",,,,,"",""
-"mFeZS","",,,,,"",""
-"mFyZS","",,,,,"",""
-"mFeBD","",,,,,"",""
-"mFyBD","",,,,,"",""
-"mFeZD","",,,,,"",""
-"mFyZD","",,,,,"",""
-"mMeBS","",,,,,"",""
-"mMyBS","",,,,,"",""
-"mMeZS","",,,,,"",""
-"mMyZS","",,,,,"",""
-"mMeBD","",,,,,"",""
-"mMyBD","",,,,,"",""
-"mMeZD","",,,,,"",""
-"mMyZD","",,,,,"",""
-"mFBeS","",,,,,"",""
-"mFByS","",,,,,"",""
-"mFZeS","",,,,,"",""
-"mFZyS","",,,,,"",""
-"mFBeD","",,,,,"",""
-"mFByD","",,,,,"",""
-"mFZeD","",,,,,"",""
-"mFZyD","",,,,,"",""
-"mMBeS","",,,,,"",""
-"mMByS","",,,,,"",""
-"mMZeS","",,,,,"",""
-"mMZyS","",,,,,"",""
-"mMBeD","",,,,,"",""
-"mMByD","",,,,,"",""
-"mMZeD","",,,,,"",""
-"mMZyD","",,,,,"",""
-"mE","pieʹllkueiʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","26 "
-"mH","kuõjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","26 "
-"mH","kääʹlles",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","26 not young'"
-"mW","äʹǩǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","409 "
-"mW","kaav",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021"," 26; 409"
-"mWF","vuõpp",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"mWM","vueʹn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","19 "
-"mHF","vuõpp",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"mHM","vueʹn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","19 "
-"mBW","",,,,,"",""
-"meBW","eʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 150; 68–69"
-"myBW","mââʹnnj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
-"mZH","",,,,,"",""
-"meZH","maakk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
-"myZH","vivv",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
-"mWB","",,,,,"",""
-"mWeB","vuõppbieʹll",,,,,"pelto_individualism_1962"," 68–69"
-"mWyB","maakkâv",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","169 "
-"mWZ","",,,,,"",""
-"mWeZ","vueʹnbieʹll",,,,,"pelto_individualism_1962"," 68–69"
-"mWyZ","maakkâv",,,,,"pelto_individualism_1962"," 68–69"
-"mHB","",,,,,"",""
-"mHeB","vuõppbieʹll",,,,,"pelto_individualism_1962"," 68–69"
-"mHyB","maakkâv",,,,,"pelto_individualism_1962"," 68–69"
-"mHZ","",,,,,"",""
-"mHeZ","vueʹnbieʹll",,,,,"pelto_individualism_1962","68–69"
-"mHyZ","maakkâv",,,,,"pelto_individualism_1962","68–69"
-"mco-W","",,,,,"",""
-"mco-H","",,,,,"",""
-"mFW(notM)","jeäʹnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","449 "
-"mMH(notF)","eʹččpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","78 "
-"mSW","mââʹnnj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
-"mSW","neeʹvesǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","209 "
-"mSWM","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"mSWF","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"mDH","vivv",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","442 "
-"mDH","zeeʹtt",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","442 "
-"mDHM","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"mDHF","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"mFZH","maakk",,,,,"pelto_individualism_1962"," 68–69"
-"mFBW","eʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 159; 68–69"
-"mMZH","maakäʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","169 "
-"mMZH","jeäʹnnbieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","34 "
-"mMBW","eʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 159; 68–69"
-"mWZH","svaaik",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 169; 68–69"
-"mHBW","kääljeäʹnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","159 "
-"fG","vueʹbbež",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 "
-"fB","villj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 "
-"fZ","vuäʹbb",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","338 "
-"feB","",,,,,"",""
-"fyB","",,,,,"",""
-"feZ","",,,,,"",""
-"fyZ","",,,,,"",""
-"fP","puärraz",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","414 "
-"fF","eʹčč",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
-"fM","jeäʹnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","449 "
-"fC","päärnaž",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 "
-"fS","âʹlǧǧ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","273 "
-"fS","päʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","273 "
-"fD","nijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
-"fA","maaddârpuärraz",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
-"fA","maaddârruåđ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
-"fA","maaddâreʹčč",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","36 "
-"fA","maaddâräʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","36 "
-"fA","maaddâräkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","37 "
-"fPP","",,,,,"",""
-"fFF","äʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","76 "
-"fFM","äkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
-"fMF","äʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","76 "
-"fMM","äkk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","77 "
-"fMM","jieʹnnjeäʹnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","448 "
-"fCC","äkkav",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 grandchild to their grandmother"
-"fCC","pääʹrnpäärnaž",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","170 "
-"fSS","pääʹrnpäʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","274 "
-"fSD","pääʹrn-nijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","274 "
-"fDS","niõđpäʹrnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
-"fDD","niõđnijdd",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","394 "
-"fFB","",,,,,"",""
-"fFZ","sieʹss",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
-"fMB","jään",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","34 "
-"fMZ","",,,,,"",""
-"fFeB","jieʹǩǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","331 "
-"fFyB","čieʹcc",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","331 "
-"fFeZ","",,,,,"",""
-"fFyZ","",,,,,"",""
-"fMeZ","kuäʹsǩǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
-"fMyZ","mueʹđđ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","397 "
-"fMeB","",,,,,"",""
-"fMyB","",,,,,"",""
-"fBS","sieʹssev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's sister"
-"fBD","sieʹssev",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","421 nephew/niece to their father's sister"
-"fZS","",,,,,"",""
-"fZD","",,,,,"",""
-"feBS","",,,,,"",""
-"fyBS","",,,,,"",""
-"feBD","",,,,,"",""
-"fyBD","",,,,,"",""
-"feZS","mue´đđev  ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to mother's younger sister"
-"fyZS","kuä´sǩǩev  ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to mother's older sister"
-"feZD","mue´đđev  ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to mother's younger sister"
-"fyZD","kuä´sǩǩev  ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","337 nephew/niece to mother's older sister"
-"fFZD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
-"fFBD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
-"fMBD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
-"fMZD","vuäʹrnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","221 "
-"fFBS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
-"fFZS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
-"fMBS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
-"fMZS","villjpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","208 "
-"fFeBS","",,,,,"",""
-"fFyBS","",,,,,"",""
-"fFeZS","",,,,,"",""
-"fFyZS","",,,,,"",""
-"fFeBD","",,,,,"",""
-"fFyBD","",,,,,"",""
-"fFeZD","",,,,,"",""
-"fFyZD","",,,,,"",""
-"fMeBS","",,,,,"",""
-"fMyBS","",,,,,"",""
-"fMeZS","",,,,,"",""
-"fMyZS","",,,,,"",""
-"fMeBD","",,,,,"",""
-"fMyBD","",,,,,"",""
-"fMeZD","",,,,,"",""
-"fMyZD","",,,,,"",""
-"fFBeS","",,,,,"",""
-"fFByS","",,,,,"",""
-"fFZeS","",,,,,"",""
-"fFZyS","",,,,,"",""
-"fFBeD","",,,,,"",""
-"fFByD","",,,,,"",""
-"fFZeD","",,,,,"",""
-"fFZyD","",,,,,"",""
-"fMBeS","",,,,,"",""
-"fMByS","",,,,,"",""
-"fMZeS","",,,,,"",""
-"fMZyS","",,,,,"",""
-"fMBeD","",,,,,"",""
-"fMByD","",,,,,"",""
-"fMZeD","",,,,,"",""
-"fMZyD","",,,,,"",""
-"fE","pieʹllkueiʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","26 "
-"fH","kuõjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","26 "
-"fH","kääʹlles",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","26 not young'"
-"fW","äʹǩǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","409 "
-"fW","kaav",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021"," 26; 409"
-"fWF","vuõpp",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"fWM","vueʹn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","19 "
-"fHF","vuõpp",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"fHM","vueʹn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","19 "
-"fBW","",,,,,"",""
-"feBW","eʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 150; 68–69"
-"fyBW","mââʹnnj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
-"fZH","",,,,,"",""
-"feZH","maakk",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
-"fyZH","vivv",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
-"fWB","",,,,,"",""
-"fWeB","vuõppbieʹll",,,,,"pelto_individualism_1962"," 68–69"
-"fWyB","maakkâv",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","169 "
-"fWZ","",,,,,"",""
-"fWeZ","vueʹnbieʹll",,,,,"pelto_individualism_1962"," 68–69"
-"fWyZ","maakkâv",,,,,"pelto_individualism_1962"," 68–69"
-"fHB","",,,,,"",""
-"fHeB","vuõppbieʹll",,,,,"pelto_individualism_1962"," 68–69"
-"fHyB","maakkâv",,,,,"pelto_individualism_1962"," 68–69"
-"fHZ","",,,,,"",""
-"fHeZ","vueʹnbieʹll",,,,,"pelto_individualism_1962","68–69"
-"fHyZ","maakkâv",,,,,"pelto_individualism_1962","68–69"
-"fco-W","",,,,,"",""
-"fco-H","",,,,,"",""
-"fFW(notM)","jeäʹnnpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","449 "
-"fMH(notF)","eʹččpieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","78 "
-"fSW","mââʹnnj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 209; 68–69"
-"fSW","neeʹvesǩ",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","209 "
-"fSWM","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"fSWF","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"fDH","vivv",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","442 "
-"fDH","zeeʹtt",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","442 "
-"fDHM","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"fDHF","laajj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","20 "
-"fFZH","maakk",,,,,"pelto_individualism_1962"," 68–69"
-"fFBW","eʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 159; 68–69"
-"fMZH","maakäʹjj",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","169 "
-"fMZH","jeäʹnnbieʹll",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","34 "
-"fMBW","eʹmm",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 159; 68–69"
-"fWZH","svaaik",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021; pelto_individualism_1962"," 169; 68–69"
-"fHBW","kääljeäʹnn",,,,,"moshnikoff_suomi-koltansaame-sanakirjalaadd-saam_2021","159 "
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments;Deeper donor language;Ref. for deeper donor language
+Siblings;male speaker's sibling;mG;vueʹbbež;;sisarukset / syskon;3;1;One of the constituents is borrowed;Finnish/Swedish ;recent centuries ;Moshnikoff & Moshnikoff 2022: 337;"Lehtiranta 2001: 92–93; Holopainen 2019: 168–170; Milanova et al. 2024: 332–333";;;3;;;plural of vuäʹbb,  the ultimate source of the calque may be NHG Geschwister (DWDS s.v);;
+Siblings;male speaker's brother;mB;villj;;*velji-;3;;;Proto-Finnic;?;Moshnikoff & Moshnikoff 2022: 421;Metsäranta 2023: 172–177;;;1;;;;;
+Siblings;male speaker's sister;mZ;vuäʹbb;;*Hárbha-;0;;One of the constituents might be borrowed;Proto-Indo-Iranian;Bronze Age;Moshnikoff & Moshnikoff 2022: 338;"Lehtiranta 2001: 92–93; Holopainen 2019: 168–170";;;2;;;Possibly a derivation of PS *oarpēnē 'female cousin' (> Skolt vuäʹrben-) (Lehtiranta 2001: 94–95) ~ Finnish orpana and as such ultimately a loan from PII *Hárbha- 'small, weak, young' (Holopainen 2019: 168–170).;PIE;Olsen 2020: 153-156, Milanova 2020: 165-166
+Siblings;male speaker's elder brother;meB;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's younger brother;myB;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's elder sister;meZ;;;;;;;;;;;;;;;;;;
+Siblings;male speaker's younger sister;myZ;;;;;;;;;;;;;;;;;;
+Parents;male speaker's parent;mP;puärraz;;vanhemmat;3;1;One of the constituents might be borrowed;Finnish;after 12th century ;Moshnikoff & Moshnikoff 2022: 414;"Lehtiranta 2001: 106–107; Holopainen 2019: 189; Milanova et al. 2024";;;3;;;"A derivative of puäʹres 'old' (< PS *poarēs 'old'), which itself has been thought to be a Indo-Iranian borrowing, cf. PII *parHa-s 'ferner; jenseitig; früher; später; fremd, feinlich' (Holopainen 2019: 189). Front vocalic Udm. pereś and Komi përïś are parallel borrowings (Pre-Permic *pärä-). Perhaps Skolt is a calque of Finnic vanhemmat 'parents' (lit. ""olders""), which is eventually a calque of Middle Low German elderen. ";;
+Parents;male speaker's father;mF;eʹčč;;;0;;;;Inherited, PU *äććä 'father';Moshnikoff & Moshnikoff 2022: 77;Aikio 2020: 30–32;;;1;;;;;
+Parents;male speaker's mother;mM;jeäʹnn;;;0;;;;Inherited, PS *eannē 'mother';Moshnikoff & Moshnikoff 2022: 449;"Lehtiranta 2001: 32–32; Sammallahti 1998: 240";;;1;;;As a kinship term a PS innovation;;
+Children;male speaker's child;mC;päärnaž;;barn;0;;One of the constituents is borrowed;Proto-Norse;Mid 1st millennium CE;Moshnikoff & Moshnikoff 2022: 170;Sammallahti 1998: 230;;replacement;3;;;"A diminutive derivative of päʹrnn 'son; child'";Proto-Germanic;Milanova 2020: 112-113
+Children;male speaker's son;mS;âʹlǧǧ;;;0;;;;Inherited, ? PU *ülkä  'son, boy';Moshnikoff & Moshnikoff 2022: 273;Aikio 2020: 95;;replacement;1;;;"Cognate with Finnish ylkä 'young man; groom' (obsolete).";;
+Children;male speaker's son;mS;päʹrnn;;barn;4;;;Proto-Norse;Mid 1st millennium CE;Moshnikoff & Moshnikoff 2022: 273;Sammallahti 1998: 230;;coexistence;1;;;;Proto-Germanic;Milanova 2020: 112-113
+Children;male speaker's daughter;mD;nijdd;;;0;;;;Inherited, PU *näjδə 'daughter, girl';Moshnikoff & Moshnikoff 2022: 394;UEW: 302–303;;;1;;;Reconstructed as *nejδe in UEW, but based on Permic (and Saami as well) the first-syllable vowel was clearly *ä.;;
+Grandparents;male speaker's ancestor;mA;maaddârpuärraz;;;0;;Constituents are borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 37;;;;4;;;A compound of maaddâr (unclear if this word exists as an independent lexeme in Skolt, cognate of North Sámi máttar 'forefather', Sami words are ultimately loans from PF *mandër 'continent, mainland', although the semantic relationship is peculiar) and puärraz 'parents';;
+Grandparents;male speaker's ancestor;mA;maaddârruåđ;;;0;;Constituents are borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 37;;;;4;;;A compound of maaddâr (unclear if this word exists as an independent lexeme in Skolt, cognate of North Sámi máttar 'forefather', Sami words are ultimately loans from PF *mandër 'continent, mainland', although the semantic relationship is peculia)r and ruåđ (plural of ruått 'relative', most likely a loan from Russian род);;
+Grandparents;male speaker's ancestor;mA;maaddâreʹčč;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 36;;;;4;;;forefather', a compound of maaddâr (unclear if this word exists as an independent lexeme in Skolt, cognate of North Sámi máttar 'forefather', Sami words are ultimately loans from PF *mandër 'continent, mainland', although the semantic relationship is peculiar) and eʹčč 'father'.;;
+Grandparents;male speaker's ancestor;mA;maaddâräʹjj;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 36;Pelto 1962: 68–69;;;4;;;forefather, great grandfather', a compound of maaddâr (unclear if this word exists as an independent lexeme in Skolt, cognate of North Sámi máttar 'forefather') and äʹjj 'grandfather';;
+Grandparents;male speaker's ancestor;mA;maaddâräkk;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 37;Pelto 1962: 68–69;;;4;;;foremother, great grandmother', a compound of maaddâr (unclear if this word exists as an independent lexeme in Skolt, cognate of North Sámi máttar 'forefather') and äkk 'grandmother';;
+Grandparents;male speaker's grandparent;mPP;;;;;;;;;;;;;;;;;;
+Grandparents;male speaker's father's father;mFF;äʹjj;;;0;;;;Inherited, PU *äjjä 'old man';Moshnikoff & Moshnikoff 2022: 76;Aikio 2015: 62;;;1;;;;;
+Grandparents;male speaker's father's mother;mFM;äkk;;*akka;0;;One of the constituents is borrowed;Finnic;Sami-specific;Moshnikoff & Moshnikoff 2022: 77;Lehtiranta 2001: 14–15;;;3;;;"PS *ākkō 'grandmother' is a derivative of PS *ākkē 'old woman' that is in traditional sources thought to be a cognate with Finnic *akka 'old woman' (Lehtiranta 2001: 12–13; SSA: 64–65). The vowel correspondence is atypical of inherited vocabulary, PU *a-a yields PS *uo-ē. As such the underlying Sami word has to be Finnic borrowing (Aikio 2009: 244). Similar words denoting female relatives are common in world's languages.";;
+Grandparents;male speaker's mother's father;mMF;äʹjj;;;0;;;;Inherited, PU *äjjä 'old man';Moshnikoff & Moshnikoff 2022: 76;Aikio 2015: 62;;;1;;;;;
+Grandparents;male speaker's mother's mother;mMM;äkk;;*akka;0;;One of the constituents is borrowed;Finnic;Sami-specific;Moshnikoff & Moshnikoff 2022: 77;Lehtiranta 2001: 14–15;;;3;;;"PS *ākkō 'grandmother' is a derivative of PS *ākkē 'old woman' that is in traditional sources thought to be a cognate with Finnic *akka 'old woman' (Lehtiranta 2001: 12–13; SSA: 64–65). The vowel correspondence is atypical of inherited vocabulary, PU *a-a yields PS *uo-ē. As such the underlying Sami word has to be Finnic borrowing (Aikio 2009: 244). Similar words denoting female relatives are common in world's languages.";;
+Grandparents;male speaker's mother's mother;mMM;jieʹnnjeäʹnn;;mormor;3;1;;Swedish (via Finnish?);recent centuries ;Moshnikoff & Moshnikoff 2022: 448;;;;4;X-GEN X-NOM;;A compound of jiẹʹnn (genitive of jeäʹnˈn 'mother') and jeäʹnˈn 'mother'. Possibly a calque of Finnish äidinäiti 'mother's mother'.;;
+Grandchildren;male speaker's grandchild;mCC;äʹjjev;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 170;;;;3;;;A derivative of  äʹjj 'grandfather', cf. North Sami áddjut 'grandchild'  < áddjá 'grandfather';;
+Grandchildren;male speaker's grandchild;mCC;pääʹrnpäärnaž;;barnbarn ;0;;Constituents are borrowed;Swedish (via Finnish?);Skolt-specific;Moshnikoff & Moshnikoff 2022: 170;;;;4;;;"A compound of pääʹrn (genitive of päʹrnn 'child; son') and päärnaž (a diminutive of päʹrnn)";;
+Grandchildren;male speaker's son's son;mSS;pääʹrnpäʹrnn;;sonson;3;Finnish calque?;Constituents are borrowed;Swedish (via Finnish?);recent centuries ;Moshnikoff & Moshnikoff 2022: 274;;;;4;X-GEN X-NOM;;"A compound of pääʹrn (genitive of päʹrnn 'child; son') and päʹrnn";;
+Grandchildren;male speaker's son's daughter;mSD;pääʹrn-nijdd;;sondotter ;3;1;One of the constituents is borrowed;Swedish (via Finnish?);recent centuries ;Moshnikoff & Moshnikoff 2022: 274;;;;4;X-GEN X-NOM;;"A compound of pääʹrn (genitive of päʹrnn 'child; son') and nijdd 'daughter'";;
+Grandchildren;male speaker's daughter's son;mDS;niõđpäʹrnn;;dotterson;3;1;One of the constituents is borrowed;Swedish (via Finnish?);recent centuries ;Moshnikoff & Moshnikoff 2022: 394;;;;4;X-GEN X-NOM;;A compound niõđ (genitive of nijdd 'daughter') and päʹrnn 'son';;
+Grandchildren;male speaker's daughter's daughter;mDD;niõđnijdd;;dotterdotter ;3;1;One of the constituents is borrowed;Swedish (via Finnish?);recent centuries ;Moshnikoff & Moshnikoff 2022: 394;;;;4;X-GEN X-NOM;;A compound of niõđ (genitive of nijdd 'daughter') and nijdd 'daughter';;
+ParentsSiblings;male speaker's father's brother;mFB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;sieʹss;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 397;"UEW: 432–433; Lehtiranta 2001: 124–125";;;1;;;Comparison in UEW is irregular to the extent that it should probably be discarded. The word can be used also of 'father's female cousin' (Pelto 1962: 68–69).;;
+ParentsSiblings;male speaker's mother's brother;mMB;jään;;*enoi;3;;;Proto-Finnic;?;Moshnikoff & Moshnikoff 2022: 34;Kuokkala 2018: 39;;;1;;jeän;The word can be used of 'mother's male cousin' (Pelto 1962: 68–69).;;
+ParentsSiblings;male speaker's mother's sister;mMZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;jieʹǩǩ;;;0;;;;Inherited, PU *ekä 'older male relative';Moshnikoff & Moshnikoff 2022: 331;Aikio 2020: 42–43;;;1;;;Also 'father's older male cousin' (Pelto 1962: 68–69).;;
+ParentsSiblings;male speaker's father's younger brother;mFyB;čieʹcc;;;0;;;;Inherited, PU *čečä;Moshnikoff & Moshnikoff 2022: 331;UEW: 34–35;;;1;;;Also 'father's younger male cousin' (Pelto 1962: 68–69).;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;kuäʹsǩǩ;;;0;;;;Inherited, PU *koska 'grandmother, older female relative';Moshnikoff & Moshnikoff 2022: 397;Sammallahti 1998: 118;;;1;;;Also 'mother's older female cousin' (Pelto 1962: 68–69).;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;mueʹđđ;;*mōþō(n);3;;;Proto-Germanic;700 BCE–500 CE;Moshnikoff & Moshnikoff 2022: 397;Kümmel 2015;;replacement;1;;;Also 'mother's younger female cousin' (Pelto 1962: 68–69).;PIE;Kümmel 2015
+ParentsSiblings;male speaker's mother's older brother;mMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's brother's daughter;mBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's sister's son;mZS;jännav;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 337;;;;3;;jeännav;sister's child to his/her uncle', a derivative of jään '(maternal) uncle';;
+SiblingsChildren;male speaker's sister's daughter;mZD;jännav;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 337;;;;3;;jeännav;sister's child to his/her uncle', a derivative of jään '(maternal) uncle';;
+SiblingsChildren;male speaker's older brother's son;meBS;čieʹccev;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 421;;;;3;;;A derivative of čieʹcc 'father's younger brother';;
+SiblingsChildren;male speaker's younger brother's son;myBS;jieʹǩǩev;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 421;;;;3;;;A derivative of jieʹǩǩ 'father's older brother', ;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;čieʹccev;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 421;;;;3;;;A derivative of čieʹcc 'father's younger brother';;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;jieʹǩǩev;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 421;;;;3;;;A derivative of jieʹǩǩ 'father's older brother', ;;
+SiblingsChildren;male speaker's older sister's son;meZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;;;;;;;;;;;;;;;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;vuäʹrnnpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 221;;;;4;;vuäʹrnnbieʹll;A compound of vuäʹrben- 'female cousin', for origins cf. mZ and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;male speaker's father's brother's daughter;mFBD;vuäʹrnnpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 221;;;;4;;vuäʹrnnbieʹll;A compound of vuäʹrben- 'female cousin', for origins cf. mZ and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;male speaker's mother's brother's daughter;mMBD;vuäʹrnnpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 221;;;;4;;vuäʹrnnbieʹll;A compound of vuäʹrben- 'female cousin', for origins cf. mZ and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;male speaker's mother's sister's daughter;mMZD;vuäʹrnnpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 221;;;;4;;vuäʹrnnbieʹll;A compound of vuäʹrben- 'female cousin', for origins cf. mZ and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;male speaker's father's brother's son;mFBS;villjpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 208;;;;4;;villjbieʹll;A compound of villj 'brother' and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;male speaker's father's sister's son;mFZS;villjpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 208;;;;4;;villjbieʹll;A compound of villj 'brother' and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;male speaker's mother's brother's son;mMBS;villjpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 208;;;;4;;villjbieʹll;A compound of villj 'brother' and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;male speaker's mother's sister's son;mMZS;villjpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 208;;;;4;;villjbieʹll;A compound of villj 'brother' and pieʹll 'half', similar constructions are found in North Sami;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;pieʹllkueiʹmm;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 26;;;;4;;;A compound of pieʹll 'half' and kueiʹmm (< PS *kuoimē 'comrade, companion, spouse' ← PF *kaima 'namesake' ← Baltic);PIE;Derksen 2015, s.v. kiemas
+Affines;male speaker's husband;mH;kuõjj;;;0;;;;Inherited, PU *kojə 'man';Moshnikoff & Moshnikoff 2022: 26;UEW: 168;;;1;;;;;
+Affines;male speaker's husband;mH;kääʹlles;;*karlaz;3;;;Old Norse;800–1000 CE;Moshnikoff & Moshnikoff 2022: 26;Sammallahti 1998: 129;;;1;;;not young';PIE;Kroonen 2013 s.v. *kerla-
+Affines;male speaker's wife;mW;äʹǩǩ;;*akka;4;;One of the constituents is borrowed;Proto-Finnic;?;Moshnikoff & Moshnikoff 2022: 409;"Lehtiranta 2001: 12–13; SSA: 64–65; Aikio 2009: 244";old woman;;2;;;cf. mFM and mMM;;
+Affines;male speaker's wife;mW;kaav;;kave;2;;;Proto-Finnic;?;"Moshnikoff & Moshnikoff 2022: 26; 409";"Pelto 1962: 68–69; SSA: 334";"created being; human; girl, maiden";coexistence;1;;;"According to SSA Skolt kaav (and related Sami words) is a borrowing from Finnish kave 'created being; human; girl, maiden', which in turn has been thought to be a Germanic borrowing *skapi-z (OHG skaf) (LägLoS: 68–69). The Finnish kave is obsolete. The discrepancy in meaning between Finnish and Sami is striking.";;
+Affines;male speaker's husband's father;mHF;vuõpp;;;0;;;;Inherited, PU *ëppə 'father-in-law';Moshnikoff & Moshnikoff 2022: 20;Aikio 2020: 55–56;;;1;;;;;
+Affines;male speaker's husband's mother;mHM;vueʹn;;;0;;;;Inherited, PU *ë/ana(mə) 'mother-in-law';Moshnikoff & Moshnikoff 2022: 19;Aikio 2020: 53–54;;;1;;;The Sami word is thought to include an obscure derivational suffix. It is perhaps noteworthy that PU *ana/ëna 'mother-in-law' is not attested as such anywhere in Uralic, only in derivations like this Sami item or in the copulative compound *a/ëna-ëppə 'parents-in-law'.;;
+Affines;male speaker's wife's father;mWF;vuõpp;;;0;;;;Inherited, PU *ëppə 'father-in-law';Moshnikoff & Moshnikoff 2022: 20;Aikio 2020: 55–56;;;1;;;;;
+Affines;male speaker's wife's mother;mWM;vueʹn;;;0;;;;Inherited, PU *ë/ana(mə) 'mother-in-law';Moshnikoff & Moshnikoff 2022: 19;Aikio 2020: 53–54;;;1;;;The Sami word is thought to include an obscure derivational suffix. It is perhaps noteworthy that PU *ana/ëna 'mother-in-law' is not attested as such anywhere in Uralic, only in derivations like this Sami item or in the copulative compound *a/ëna-ëppə 'parents-in-law'.;;
+Affines;male speaker's brother's wife;mBW;;;;;;;;;;;;;;;;;;
+Affines;male speaker's older brother's wife;meBW;eʹmm;;;0;;;;Inherited, PU *ijmä 'older female relative';"Moshnikoff & Moshnikoff 2022: 159; Pelto 1962: 68–69";"Pelto 1962: 68–69; Aikio 2020: 58–59";;;1;;;Moshnikoff 2021 defines the word as 'brother's wife, paternal/maternal uncle's wife', according to Pelto 1962 the word is of older brother's wife.;;
+Affines;male speaker's younger brother's wife;myBW;mââʹnnj;;;0;;;;"Inherited, PU *mińä 'daughter-in-law; young wife'";"Moshnikoff & Moshnikoff 2022: 209; Pelto 1962: 68–69";"Pelto 1962: 68–69; UEW: 276";;;1;;;According to Pelto 1962 vivv is also 'younger brother's wife';;
+Affines;male speaker's sister's husband;mZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's older sister's husband;meZH;maakk;;māgr;3;;;Proto-Norse;Mid 1st millennium CE;"Moshnikoff & Moshnikoff 2022: 169; Pelto 1962: 68–69";Sammallahti 1998: 128;;;1;;;older sister's husband', self-reciprocal pair with maakkâv;;
+Afifines;male speaker's younger sister's husband;myZH;vivv;;*vävy;2;;;;Proto-Finnic;"Moshnikoff & Moshnikoff 2022: 442; Pelto 1962: 68–69";SSA: 485;;replacement;1;;;Sometimes also regarded as inherited from PU *wäŋəw, PS *vivvë, however, points to PU *wejwə/*wijwə. According to Moshnikoff 2021 'son-in-law', in Pelto 2021 also 'younger sister's/cousin's husband';;
+Affines;male speaker's wife's brother;mWB;;;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's older brother;mWeB;vuõppbieʹll;;;0;;;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;4;;;wife's older brother', a compound of vuõpp 'father-in-law' and bieʹll 'half';;
+Affines;male speaker's wife's younger brother;mWyB;maakkâv;;;0;;One of the constituents is borrowed;;Skolt-specific?;Moshnikoff & Moshnikoff 2022: 169;Pelto 1962: 68–69;;;3;;;wife's younger brother', a derivative of maakk 'older sister's husband' (reciprocal);;
+Affines;male speaker's wife's sister;mWZ;;;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's older sister;mWeZ;vueʹnbieʹll;;;0;;;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;4;;;wife's older sister', a compound of vueʹn 'mother-in-law' and biẹʹll 'half';;
+Affines;male speaker's wife's younger sister;mWyZ;maakkâv;;;0;;One of the constituents is borrowed;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;3;;;a derivative of maakk 'older sister's husband' (reciprocal);;
+Affines;male speaker's husband's brother;mHB;;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's older brother;mHeB;vuõppbieʹll;;;0;;;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;4;;;wife's older brother', a compound of vuõpp 'father-in-law' and bieʹll 'half';;
+Affines;male speaker's husband's younger brother;mHyB;maakkâv;;;0;;One of the constituents is borrowed;;Skolt-specific?;Moshnikoff & Moshnikoff 2022: 169;Pelto 1962: 68–69;;;3;;;wife's younger brother', a derivative of maakk 'older sister's husband' (reciprocal);;
+Affines;male speaker's husband's sister;mHZ;;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's older sister;mHeZ;vueʹnbieʹll;;;0;;;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;4;;;wife's older sister', a compound of vueʹn 'mother-in-law' and biẹʹll 'half';;
+Affines;male speaker's husband's younger sister;mHyZ;maakkâv;;;0;;One of the constituents is borrowed;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;3;;;a derivative of maakk 'older sister's husband' (reciprocal);;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);jeäʹnnpieʹll;;;0;Calque from Finnic?;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 449;;;;4;;;A compound of jeäʹnˈn 'mother' and biẹʹll 'half';;
+Affines;male speaker's mother's husband (not father);mMH(notF);eʹččpieʹll;;;0;Calque from Finnic?;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 78;;;;4;;;A compound of eʹčč 'father' and piẹʹll 'half';;
+Affines;male speaker's son's wife;mSW;mââʹnnj;;;0;;;;"Inherited, PU *mińä 'daughter-in-law; young wife'";"Moshnikoff & Moshnikoff 2022: 209; Pelto 1962: 68–69";"Pelto 1962: 68–69; UEW: 276";;;1;;;cf. also myBW;;
+Affines;male speaker's son's wife;mSW;neeʹvesǩ;;ńeveskä;4;;;Karelian;recent centuries ;Moshnikoff & Moshnikoff 2022: 209;"Itkonen, T. I. 1942: 52; Korhonen 1977: 80";;coexistence;1;;;According to Korhonen the word is a Karelian loan, the Karelian word in turn is a borrowing from Russian невеста.;Proto-Slavic with debated IE parallels;ESSJa XXV / 70
+Affines;male speaker's son's wife's mother;mSWM;laajj;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 20;;;;1;;;;;
+Affines;male speaker's son's wife's father;mSWF;laajj;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 20;;;;1;;;;;
+Affines;male speaker's daughter's husband;mDH;vivv;;*vävy;2;;;;Proto-Finnic;Moshnikoff & Moshnikoff 2022: 442;SSA: 485;;replacement;1;;;Sometimes also regarded as inherited from PU *wäŋəw, PS *vivvë, however, points to PU *wejwə/*wijwə, cf. also myZH;;
+Affines;male speaker's daughter's husband;mDH;zeeʹtt;;зять;4;;;Russian;recent centuries ;Moshnikoff & Moshnikoff 2022: 442;;;coexistence;1;;;;Proto-Slavic with debated IE parallels;Milanova 2020: 147-149
+Affines;male speaker's daughter's husband's mother;mDHM;laajj;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 20;;;;1;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;laajj;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 20;;;;1;;;;;
+Affines;male speaker's father's sister's husband;mFZH;maakk;;māgr;3;;;Proto-Norse;Mid 1st millennium CE;Pelto 1962: 68–69;Sammallahti 1998: 128;;;1;;;;;
+Affines;male speaker's father's brother's wife;mFBW;eʹmm;;;0;;;;Inherited, PU *ijmä 'older female relative';"Moshnikoff & Moshnikoff 2022: 159; Pelto 1962: 68–69";"Pelto 1962: 68–69; Aikio 2020: 58–59";;;1;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;maakäʹjj;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 169;;;;4;;;A compound of maakk 'older sister's husband' and äʹjj 'grandfather';;
+Affines;male speaker's mother's sister's husband;mMZH;jeäʹnnbieʹll;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 34;;;;4;;;A compound of jeäʹnn 'maternal uncle' and bieʹll 'half'  ;;
+Affines;male speaker's mother's brother's wife;mMBW;eʹmm;;;0;;;;Inherited, PU *ijmä 'older female relative';"Moshnikoff & Moshnikoff 2022: 159; Pelto 1962: 68–69";"Pelto 1962: 68–69; Aikio 2020: 58–59";;;1;;;;;
+Affines;male speaker's wife's sister's husband;mWZH;svaaik;;свояк;4;;;Russian;recent centuries ;"Moshnikoff & Moshnikoff 2022: 169; Pelto 1962: 68–69";;;;1;;svaajâk;;;
+Affines;male speaker's husband's brother's wife;mHBW;kääljeäʹnn;;;0;;;;Inherited, PU *käliw;Moshnikoff & Moshnikoff 2022: 159;;;;4;;;;;
+Siblings;female speaker's sibling;fG;vueʹbbež;;sisarukset / syskon;3;1;One of the constituents is borrowed;Finnish/Swedish ;recent centuries ;Moshnikoff & Moshnikoff 2022: 337;"Lehtiranta 2001: 92–93; Holopainen 2019: 168–170; Milanova et al. 2024: 332–333";;;3;;;plural of vuäʹbb,  the ultimate source of the calque may be NHG Geschwister (DWDS s.v);;
+Siblings;female speaker's brother;fB;villj;;*velji-;3;;;Proto-Finnic;?;Moshnikoff & Moshnikoff 2022: 421;Metsäranta 2023: 172–177;;;1;;;;;
+Siblings;female speaker's sister;fZ;vuäʹbb;;*Hárbha-;0;;One of the constituents might be borrowed;Proto-Indo-Iranian;Bronze Age;Moshnikoff & Moshnikoff 2022: 338;"Lehtiranta 2001: 92–93; Holopainen 2019: 168–170";;;2;;;Possibly a derivation of PS *oarpēnē 'female cousin' (> Skolt vuäʹrben-) (Lehtiranta 2001: 94–95) ~ Finnish orpana and as such ultimately a loan from PII *Hárbha- 'small, weak, young' (Holopainen 2019: 168–170).;PIE;Olsen 2020: 153-156, Milanova 2020: 165-166
+Siblings;female speaker's elder brother;feB;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's younger brother;fyB;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's elder sister;feZ;;;;;;;;;;;;;;;;;;
+Siblings;female speaker's younger sister;fyZ;;;;;;;;;;;;;;;;;;
+Parents;female speaker's parent;fP;puärraz;;vanhemmat;3;1;One of the constituents might be borrowed;Finnish;after 12th century CE;Moshnikoff & Moshnikoff 2022: 414;"Lehtiranta 2001: 106–107; Holopainen 2019: 189; Milanova et al. 2024";;;3;;;"A derivative of puäʹres 'old' (< PS *poarēs 'old'), which itself has been thought to be a Indo-Iranian borrowing, cf. PII *parHa-s 'ferner; jenseitig; früher; später; fremd, feinlich' (Holopainen 2019: 189). Front vocalic Udm. pereś and Komi përïś are parallel borrowings (Pre-Permic *pärä-). Perhaps Skolt is a calque of Finnic vanhemmat 'parents' (lit. ""olders""), which is eventually a calque of Middle Low German elderen. ";;
+Parents;female speaker's father;fF;eʹčč;;;0;;;;Inherited, PU *äććä 'father';Moshnikoff & Moshnikoff 2022: 77;Aikio 2020: 30–32;;;1;;;;;
+Parents;female speaker's mother;fM;jeäʹnn;;;0;;;;Inherited, PS *eannē 'mother';Moshnikoff & Moshnikoff 2022: 449;"Lehtiranta 2001: 32–32; Sammallahti 1998: 240";;;1;;;As a kinship term a PS innovation;;
+Children;female speaker's child;fC;päärnaž;;barn;0;;One of the constituents is borrowed;Proto-Norse;Mid 1st millennium CE;Moshnikoff & Moshnikoff 2022: 170;Sammallahti 1998: 230;;replacement;3;;;"A diminutive derivative of päʹrnn 'son; child'";Proto-Germanic;Milanova 2020: 112-113
+Children;female speaker's son;fS;âʹlǧǧ;;;0;;;;Inherited, ? PU *ülkä  'son, boy';Moshnikoff & Moshnikoff 2022: 273;Aikio 2020: 95;;replacement;1;;;"Cognate with Finnish ylkä 'young man; groom' (obsolete).";;
+Children;female speaker's son;fS;päʹrnn;;barn;4;;;Proto-Norse;Mid 1st millennium CE;Moshnikoff & Moshnikoff 2022: 273;Sammallahti 1998: 230;;coexistence;1;;;;Proto-Germanic;Milanova 2020: 112-113
+Children;female speaker's daughter;fD;nijdd;;;0;;;;Inherited, PU *näjδə 'daughter, girl';Moshnikoff & Moshnikoff 2022: 394;UEW: 302–303;;;1;;;Reconstructed as *nejδe in UEW, but based on Permic (and Saami as well) the first-syllable vowel was clearly *ä.;;
+Grandparents;female speaker's ancestor;fA;maaddârpuärraz;;;0;;Constituents are borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 37;;;;4;;;A compound of maaddâr (unclear if this word exists as an independent lexeme in Skolt, cognate of North Sámi máttar 'forefather', Sami words are ultimately loans from PF *mandër 'continent, mainland', although the semantic relationship is peculiar) and puärraz 'parents';;
+Grandparents;female speaker's ancestor;fA;maaddârruåđ;;;0;;Constituents are borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 37;;;;4;;;A compound of maaddâr (unclear if this word exists as an independent lexeme in Skolt, cognate of North Sámi máttar 'forefather', Sami words are ultimately loans from PF *mandër 'continent, mainland', although the semantic relationship is peculia)r and ruåđ (plural of ruått 'relative', most likely a loan from Russian род);;
+Grandparents;female speaker's ancestor;fA;maaddâreʹčč;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 36;;;;4;;;forefather', a compound of maaddâr (unclear if this word exists as an independent lexeme in Skolt, cognate of North Sámi máttar 'forefather', Sami words are ultimately loans from PF *mandër 'continent, mainland', although the semantic relationship is peculiar) and eʹčč 'father'.;;
+Grandparents;female speaker's ancestor;fA;maaddâräʹjj;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 36;Pelto 1962: 68–69;;;4;;;forefather, great grandfather', a compound of maaddâr (unclear if this word exists as an independent lexeme in Skolt, cognate of North Sámi máttar 'forefather') and äʹjj 'grandfather';;
+Grandparents;female speaker's ancestor;fA;maaddâräkk;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 37;Pelto 1962: 68–69;;;4;;;foremother, great grandmother', a compound of maaddâr (unclear if this word exists as an independent lexeme in Skolt, cognate of North Sámi máttar 'forefather') and äkk 'grandmother';;
+Grandparents;female speaker's grandparent;fPP;;;;;;;;;;;;;;;;;;
+Grandparents;female speaker's father's father;fFF;äʹjj;;;0;;;;Inherited, PU *äjjä 'old man';Moshnikoff & Moshnikoff 2022: 76;Aikio 2015: 62;;;1;;;;;
+Grandparents;female speaker's father's mother;fFM;äkk;;*akka;0;;One of the constituents is borrowed;Finnic;Sami-specific;Moshnikoff & Moshnikoff 2022: 77;Lehtiranta 2001: 14–15;;;3;;;"PS *ākkō 'grandmother' is a derivative of PS *ākkē 'old woman' that is in traditional sources thought to be a cognate with Finnic *akka 'old woman' (Lehtiranta 2001: 12–13; SSA: 64–65). The vowel correspondence is atypical of inherited vocabulary, PU *a-a yields PS *uo-ē. As such the underlying Sami word has to be Finnic borrowing (Aikio 2009: 244). Similar words denoting female relatives are common in world's languages.";;
+Grandparents;female speaker's mother's father;fMF;äʹjj;;;0;;;;Inherited, PU *äjjä 'old man';Moshnikoff & Moshnikoff 2022: 76;Aikio 2015: 62;;;1;;;;;
+Grandparents;female speaker's mother's mother;fMM;äkk;;*akka;0;;One of the constituents is borrowed;Finnic;Sami-specific;Moshnikoff & Moshnikoff 2022: 77;Lehtiranta 2001: 14–15;;;3;;;"PS *ākkō 'grandmother' is a derivative of PS *ākkē 'old woman' that is in traditional sources thought to be a cognate with Finnic *akka 'old woman' (Lehtiranta 2001: 12–13; SSA: 64–65). The vowel correspondence is atypical of inherited vocabulary, PU *a-a yields PS *uo-ē. As such the underlying Sami word has to be Finnic borrowing (Aikio 2009: 244). Similar words denoting female relatives are common in world's languages.";;
+Grandparents;female speaker's mother's mother;fMM;jieʹnnjeäʹnn;;mormor;3;1;;Swedish (via Finnish?);recent centuries ;Moshnikoff & Moshnikoff 2022: 448;;;;4;X-GEN X-NOM;;A compound of jiẹʹnn (genitive of jeäʹnˈn 'mother') and jeäʹnˈn 'mother'. Possibly a calque of Finnish äidinäiti 'mother's mother'.;;
+Grandchildren;female speaker's grandchild;fCC;äkkav;;*akka;0;;One of the constituents is borrowed;Finnic;Sami-specific;Moshnikoff & Moshnikoff 2022: 170;;;;3;;;A derivative of äkk 'grandmother', the underlying word is ultimately a borrowing from Finnic;;
+Grandchildren;female speaker's grandchild;fCC;pääʹrnpäärnaž;;barnbarn ;0;;Constituents are borrowed;Swedish (via Finnish?);Skolt-specific;Moshnikoff & Moshnikoff 2022: 170;;;;4;;;"A compound of pääʹrn (genitive of päʹrnn 'child; son') and päärnaž (a diminutive of päʹrnn)";;
+Grandchildren;female speaker's son's son;fSS;pääʹrnpäʹrnn;;sonson;3; Finnish calque?;Constituents are borrowed;Swedish (via Finnish?);recent centuries ;Moshnikoff & Moshnikoff 2022: 274;;;;4;X-GEN X-NOM;;"A compound of pääʹrn (genitive of päʹrnn 'child; son') and päʹrnn";;
+Grandchildren;female speaker's son's daughter;fSD;pääʹrn-nijdd;;sondotter ;3;1;One of the constituents is borrowed;Swedish (via Finnish?);recent centuries ;Moshnikoff & Moshnikoff 2022: 274;;;;4;X-GEN X-NOM;;"A compound of pääʹrn (genitive of päʹrnn 'child; son') and nijdd 'daughter'";;
+Grandchildren;female speaker's daughter's son;fDS;niõđpäʹrnn;;dotterson;3;1;One of the constituents is borrowed;Swedish (via Finnish?);recent centuries ;Moshnikoff & Moshnikoff 2022: 394;;;;4;X-GEN X-NOM;;A compound niõđ (genitive of nijdd 'daughter') and päʹrnn 'son';;
+Grandchildren;female speaker's daughter's daughter;fDD;niõđnijdd;;dotterdotter ;3;1;One of the constituents is borrowed;Swedish (via Finnish?);recent centuries ;Moshnikoff & Moshnikoff 2022: 394;;;;4;X-GEN X-NOM;;A compound of niõđ (genitive of nijdd 'daughter') and nijdd 'daughter';;
+ParentsSiblings;female speaker's father's brother;fFB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;sieʹss;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 397;"UEW: 432–433; Lehtiranta 2001: 124–125";;;1;;;Comparison in UEW is irregular to the extent that it should probably be discarded. The word can be used also of 'father's female cousin' (Pelto 1962: 68–69).;;
+ParentsSiblings;female speaker's mother's brother;fMB;jään;;*enoi;3;;;Proto-Finnic;?;Moshnikoff & Moshnikoff 2022: 34;Kuokkala 2018: 39;;;1;;jeän;The word can be used of 'mother's male cousin' (Pelto 1962: 68–69).;;
+ParentsSiblings;female speaker's mother's sister;fMZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;jieʹǩǩ;;;0;;;;Inherited, PU *ekä 'older male relative';Moshnikoff & Moshnikoff 2022: 331;Aikio 2020: 42–43;;;1;;;Also 'father's older male cousin' (Pelto 1962: 68–69).;;
+ParentsSiblings;female speaker's father's younger brother;fFyB;čieʹcc;;;0;;;;Inherited, PU *čečä;Moshnikoff & Moshnikoff 2022: 331;UEW: 34–35;;;1;;;Also 'father's younger male cousin' (Pelto 1962: 68–69).;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;kuäʹsǩǩ;;;0;;;;Inherited, PU *koska 'grandmother, older female relative';Moshnikoff & Moshnikoff 2022: 397;Sammallahti 1998: 118;;;1;;;Also 'mother's older female cousin' (Pelto 1962: 68–69).;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;mueʹđđ;;*mōþō(n);3;;;Proto-Germanic;700 BCE–500 CE;Moshnikoff & Moshnikoff 2022: 397;Kümmel 2015;;replacement;1;;;Also 'mother's younger female cousin' (Pelto 1962: 68–69).;PIE;Kümmel 2015
+ParentsSiblings;female speaker's mother's older brother;fMeB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;sieʹssev;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 421;;;;3;;;A derivative of sieʹss 'father's sister';;
+SiblingsChildren;female speaker's brother's daughter;fBD;sieʹssev;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 421;;;;3;;;A derivative of sieʹss 'father's sister';;
+SiblingsChildren;female speaker's sister's son;fZS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's sister's daughter;fZD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's son;feBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;;;;;;;;;;;;;;;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;mue´đđev  ;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 337;;;;3;;;A derivative of mueʹđđ 'mother's younger sister';;
+SiblingsChildren;female speaker's younger sister's son;fyZS;kuä´sǩǩev  ;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 337;;;;3;;;A derivative of kuäʹsǩǩ 'mother's older sister';;
+SiblingsChildren;female speaker's older sister's daughter;feZD;mue´đđev  ;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 337;;;;3;;;A derivative of mueʹđđ 'mother's younger sister';;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;kuä´sǩǩev  ;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 337;;;;3;;;A derivative of kuäʹsǩǩ 'mother's older sister';;
+Cousins;female speaker's father's sister's daughter;fFZD;vuäʹrnnpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 221;;;;4;;vuäʹrnnbieʹll;A compound of vuäʹrben- 'female cousin', for origins cf. mZ and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;female speaker's father's brother's daughter;fFBD;vuäʹrnnpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 221;;;;4;;vuäʹrnnbieʹll;A compound of vuäʹrben- 'female cousin', for origins cf. mZ and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;female speaker's mother's brother's daughter;fMBD;vuäʹrnnpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 221;;;;4;;vuäʹrnnbieʹll;A compound of vuäʹrben- 'female cousin', for origins cf. mZ and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;female speaker's mother's sister's daughter;fMZD;vuäʹrnnpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 221;;;;4;;vuäʹrnnbieʹll;A compound of vuäʹrben- 'female cousin', for origins cf. mZ and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;female speaker's father's brother's son;fFBS;villjpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 208;;;;4;;villjbieʹll;A compound of villj 'brother' and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;female speaker's father's sister's son;fFZS;villjpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 208;;;;4;;villjbieʹll;A compound of villj 'brother' and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;female speaker's mother's brother's son;fMBS;villjpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 208;;;;4;;villjbieʹll;A compound of villj 'brother' and pieʹll 'half', similar constructions are found in North Sami;;
+Cousins;female speaker's mother's sister's son;fMZS;villjpieʹll;;;0;;One of the constituents is borrowed;;Sami-specific;Moshnikoff & Moshnikoff 2022: 208;;;;4;;villjbieʹll;A compound of villj 'brother' and pieʹll 'half', similar constructions are found in North Sami;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;pieʹllkueiʹmm;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 26;;;;4;;;A compound of pieʹll 'half' and kueiʹmm (< PS *kuoimē 'comrade, companion, spouse' ← PF *kaima 'namesake' ← Baltic);PIE;Derksen 2015, s.v. kiemas
+Affines;female speaker's husband;fH;kuõjj;;;0;;;;Inherited, PU *kojə 'man';Moshnikoff & Moshnikoff 2022: 26;UEW: 168;;;1;;;;;
+Affines;female speaker's husband;fH;kääʹlles;;*karlaz;3;;;Old Norse;800–1000 CE;Moshnikoff & Moshnikoff 2022: 26;Sammallahti 1998: 129;;;1;;;not young';PIE;Kroonen 2013 s.v. *kerla-
+Affines;female speaker's wife;fW;äʹǩǩ;;*akka;4;;One of the constituents is borrowed;Proto-Finnic;?;Moshnikoff & Moshnikoff 2022: 409;"Lehtiranta 2001: 12–13; SSA: 64–65; Aikio 2009: 244";old woman;;2;;;cf. mFM and mMM;;
+Affines;female speaker's wife;fW;kaav;;kave;2;;;Proto-Finnic;?;"Moshnikoff & Moshnikoff 2022: 26; 409";"Pelto 1962: 68–69; SSA: 334";"created being; human; girl, maiden";coexistence;1;;;"According to SSA Skolt kaav (and related Sami words) is a borrowing from Finnish kave 'created being; human; girl, maiden', which in turn has been thought to be a Germanic borrowing *skapi-z (OHG skaf) (LägLoS: 68–69). The Finnish kave is obsolete. The discrepancy in meaning between Finnish and Sami is striking.";;
+Affines;female speaker's husband's father;fHF;vuõpp;;;0;;;;Inherited, PU *ëppə 'father-in-law';Moshnikoff & Moshnikoff 2022: 20;Aikio 2020: 55–56;;;1;;;;;
+Affines;female speaker's husband's mother;fHM;vueʹn;;;0;;;;Inherited, PU *ë/ana(mə) 'mother-in-law';Moshnikoff & Moshnikoff 2022: 19;Aikio 2020: 53–54;;;1;;;The Sami word is thought to include an obscure derivational suffix. It is perhaps noteworthy that PU *ana/ëna 'mother-in-law' is not attested as such anywhere in Uralic, only in derivations like this Sami item or in the copulative compound *a/ëna-ëppə 'parents-in-law'.;;
+Affines;female speaker's wife's father;fWF;vuõpp;;;0;;;;Inherited, PU *ëppə 'father-in-law';Moshnikoff & Moshnikoff 2022: 20;Aikio 2020: 55–56;;;1;;;;;
+Affines;female speaker's wife's mother;fWM;vueʹn;;;0;;;;Inherited, PU *ë/ana(mə) 'mother-in-law';Moshnikoff & Moshnikoff 2022: 19;Aikio 2020: 53–54;;;1;;;The Sami word is thought to include an obscure derivational suffix. It is perhaps noteworthy that PU *ana/ëna 'mother-in-law' is not attested as such anywhere in Uralic, only in derivations like this Sami item or in the copulative compound *a/ëna-ëppə 'parents-in-law'.;;
+Affines;female speaker's brother's wife;fBW;;;;;;;;;;;;;;;;;;
+Affines;female speaker's older brother's wife;feBW;eʹmm;;;0;;;;Inherited, PU *ijmä 'older female relative';"Moshnikoff & Moshnikoff 2022: 159; Pelto 1962: 68–69";"Pelto 1962: 68–69; Aikio 2020: 58–59";;;1;;;Moshnikoff 2021 defines the word as 'brother's wife, paternal/maternal uncle's wife', according to Pelto 1962 the word is of older brother's wife.;;
+Affines;female speaker's younger brother's wife;fyBW;mââʹnnj;;;0;;;;"Inherited, PU *mińä 'daughter-in-law; young wife'";"Moshnikoff & Moshnikoff 2022: 209; Pelto 1962: 68–69";"Pelto 1962: 68–69; UEW: 276";;;1;;;According to Pelto 1962 vivv is also 'younger brother's wife';;
+Affines;female speaker's sister's husband;fZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's older sister's husband;feZH;maakk;;māgr;3;;;Proto-Norse;Mid 1st millennium CE;"Moshnikoff & Moshnikoff 2022: 169; Pelto 1962: 68–69";Sammallahti 1998: 128;;;1;;;older sister's husband', self-reciprocal pair with maakkâv;;
+Affines;female speaker's younger sister's husband;fyZH;vivv;;*vävy;2;;;;Proto-Finnic;"Moshnikoff & Moshnikoff 2022: 442; Pelto 1962: 68–69";SSA: 485;;replacement;1;;;Sometimes also regarded as inherited from PU *wäŋəw, PS *vivvë, however, points to PU *wejwə/*wijwə. According to Moshnikoff 2021 'son-in-law', in Pelto 2021 also 'younger sister's/cousin's husband';;
+Affines;female speaker's wife's brother;fWB;;;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's older brother;fWeB;vuõppbieʹll;;;0;;;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;4;;;wife's older brother', a compound of vuõpp 'father-in-law' and bieʹll 'half';;
+Affines;female speaker's wife's younger brother;fWyB;maakkâv;;;0;;One of the constituents is borrowed;;Skolt-specific?;Moshnikoff & Moshnikoff 2022: 169;Pelto 1962: 68–69;;;3;;;wife's younger brother', a derivative of maakk 'older sister's husband' (reciprocal);;
+Affines;female speaker's wife's sister;fWZ;;;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's older sister;fWeZ;vueʹnbieʹll;;;0;;;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;4;;;wife's older sister', a compound of vueʹn 'mother-in-law' and biẹʹll 'half';;
+Affines;female speaker's wife's younger sister;fWyZ;maakkâv;;;0;;One of the constituents is borrowed;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;3;;;a derivative of maakk 'older sister's husband' (reciprocal);;
+Affines;female speaker's husband's brother;fHB;;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's older brother;fHeB;vuõppbieʹll;;;0;;;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;4;;;wife's older brother', a compound of vuõpp 'father-in-law' and bieʹll 'half';;
+Affines;female speaker's husband's younger brother;fHyB;maakkâv;;;0;;One of the constituents is borrowed;;Skolt-specific?;Moshnikoff & Moshnikoff 2022: 169;Pelto 1962: 68–69;;;3;;;wife's younger brother', a derivative of maakk 'older sister's husband' (reciprocal);;
+Affines;female speaker's husband's sister;fHZ;;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's older sister;fHeZ;vueʹnbieʹll;;;0;;;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;4;;;wife's older sister', a compound of vueʹn 'mother-in-law' and biẹʹll 'half';;
+Affines;female speaker's husband's younger sister;fHyZ;maakkâv;;;0;;One of the constituents is borrowed;;Skolt-specific?;Pelto 1962: 68–69;Pelto 1962: 68–69;;;3;;;a derivative of maakk 'older sister's husband' (reciprocal);;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);jeäʹnnpieʹll;;;0;Calque from Finnic?;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 449;;;;4;;;A compound of jeäʹnˈn 'mother' and biẹʹll 'half';;
+Affines;female speaker's mother's husband (not father);fMH(notF);eʹččpieʹll;;;0;Calque from Finnic?;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 78;;;;4;;;A compound of eʹčč 'father' and piẹʹll 'half';;
+Affines;female speaker's son's wife;fSW;mââʹnnj;;;0;;;;"Inherited, PU *mińä 'daughter-in-law; young wife'";"Moshnikoff & Moshnikoff 2022: 209; Pelto 1962: 68–69";"Pelto 1962: 68–69; UEW: 276";;;1;;;cf. also myBW;;
+Affines;female speaker's son's wife;fSW;neeʹvesǩ;;ńeveskä;4;;;Karelian;recent centuries;Moshnikoff & Moshnikoff 2022: 209;"Itkonen, T. I. 1942: 52; Korhonen 1977: 80";;coexistence;1;;;According to Korhonen the word is a Karelian loan, the Karelian word in turn is a borrowing from Russian невеста.;Proto-Slavic with debated IE parallels;ESSJa XXV / 70
+Affines;female speaker's son's wife's mother;fSWM;laajj;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 20;;;;1;;;;;
+Affines;female speaker's son's wife's father;fSWF;laajj;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 20;;;;1;;;;;
+Affines;female speaker's daughter's husband;fDH;vivv;;*vävy;2;;;;Proto-Finnic;Moshnikoff & Moshnikoff 2022: 442;SSA: 485;;replacement;1;;;Sometimes also regarded as inherited from PU *wäŋəw, PS *vivvë, however, points to PU *wejwə/*wijwə, cf. also myZH;;
+Affines;female speaker's daughter's husband;fDH;zeeʹtt;;зять;4;;;Russian;recent centuries;Moshnikoff & Moshnikoff 2022: 442;;;coexistence;1;;;;Proto-Slavic with debated IE parallels;Milanova 2020: 147-149
+Affines;female speaker's daughter's husband's mother;fDHM;laajj;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 20;;;;1;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;laajj;;;0;;;;Sami-specific;Moshnikoff & Moshnikoff 2022: 20;;;;1;;;;;
+Affines;female speaker's father's sister's husband;fFZH;maakk;;māgr;3;;;Proto-Norse;Mid 1st millennium CE;Pelto 1962: 68–69;Sammallahti 1998: 128;;;1;;;;;
+Affines;female speaker's father's brother's wife;fFBW;eʹmm;;;0;;;;Inherited, PU *ijmä 'older female relative';"Moshnikoff & Moshnikoff 2022: 159; Pelto 1962: 68–69";"Pelto 1962: 68–69; Aikio 2020: 58–59";;;1;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;maakäʹjj;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 169;;;;4;;;A compound of maakk 'older sister's husband' and äʹjj 'grandfather';;
+Affines;female speaker's mother's sister's husband;fMZH;jeäʹnnbieʹll;;;0;;One of the constituents is borrowed;;Skolt-specific;Moshnikoff & Moshnikoff 2022: 34;;;;4;;;A compound of jeäʹnn 'maternal uncle' and bieʹll 'half'  ;;
+Affines;female speaker's mother's brother's wife;fMBW;eʹmm;;;0;;;;Inherited, PU *ijmä 'older female relative';"Moshnikoff & Moshnikoff 2022: 159; Pelto 1962: 68–69";"Pelto 1962: 68–69; Aikio 2020: 58–59";;;1;;;;;
+Affines;female speaker's wife's sister's husband;fWZH;svaaik;;свояк;4;;;Russian;recent centuries;"Moshnikoff & Moshnikoff 2022: 169; Pelto 1962: 68–69";;;;1;;svaajâk;;;
+Affines;female speaker's husband's brother's wife;fHBW;kääljeäʹnn;;;0;;;;Inherited, PU *käliw;Moshnikoff & Moshnikoff 2022: 159;;;;4;;;;;

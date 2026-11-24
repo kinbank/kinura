@@ -1,315 +1,315 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mG","izak-šüžarak",,,,,"SMJ",
-"mB","izak-šolʹak",,,,,"SMJ",
-"mZ","akak-šüžarak",,,,,"SMJ",
-"meB","iza",,,,,"SMJ",
-"myB","šolʹo",,,,,"SMJ",
-"meZ","aka",,,,,"SMJ",
-"myZ","šüžar",,,,,"SMJ",
-"mP","ača-aβa",,,,,"SMJ",
-"mP","aβa-ača",,,,,"SMJ",
-"mF","ača",,,,,"SMJ",
-"mM","aβa",,,,,"SMJ",
-"mC","aza",,,,,"SMJ",
-"mC","ikšə̑βe",,,,,"SMJ",
-"mC","joča",,,,,"SMJ",
-"mC","ńoγa",,,,,"SMJ",
-"mC","izijeŋ",,,,,"SMJ",
-"mS","erγe",,,,,"SMJ",
-"mD","üδə̑r",,,,,"SMJ",
-"mA","kuγeze",,,,,"SMJ",
-"mPP","koča-koβa",,,,,"SMJ",
-"mFF","koča",,,,,"SMJ",
-"mFM","koβa",,,,,"SMJ",
-"mMF","koča",,,,,"SMJ",
-"mMF","mündə̑r koča",,,,,"SMJ",
-"mMM","koβa",,,,,"SMJ",
-"mMM","mündə̑r koβa",,,,,"SMJ",
-"mCC","unə̑ka",,,,,"SMJ",
-"mSS","erγe unə̑ka",,,,,"SMJ",
-"mSD","üδə̑r unə̑ka",,,,,"SMJ",
-"mDS","erγe unə̑ka",,,,,"SMJ",
-"mDD","üδə̑r unə̑ka",,,,,"SMJ",
-"mFB","",,,,,"",
-"mFZ","",,,,,"",
-"mMB","",,,,,"",
-"mMZ","",,,,,"",
-"mFeB","kuγə̑za",,,,,"SMJ",
-"mFeB","kuγu čüčü",,,,,"SMJ",
-"mFyB","iza",,,,,"SMJ",
-"mFeZ","koka",,,,,"SMJ",
-"mFyZ","aka",,,,,"SMJ",
-"mMeZ","koka",,,,,"SMJ",
-"mMyZ","aka",,,,,"SMJ",
-"mMyZ","akalijše",,,,,"SMJ",
-"mMeB","kuγə̑za",,,,,"SMJ",
-"mMeB","kuγu čüčü",,,,,"SMJ",
-"mMyB","čüčü",,,,,"SMJ",
-"mBS","tukə̑mšolʹo",,,,,"Russko-marijskij_slovar",
-"mBD","tukə̑mšüžar",,,,,"Russko-marijskij_slovar",
-"mZS","tukə̑mšolʹo",,,,,"Russko-marijskij_slovar",
-"mZD","tukə̑mšüžar",,,,,"Russko-marijskij_slovar",
-"meBS","izan erγə̑že",,,,,"Russko-marijskij_slovar",
-"myBS","šolʹə̑n erγə̑že",,,,,"Russko-marijskij_slovar",
-"meBD","izan üδə̑ržö",,,,,"Russko-marijskij_slovar",
-"myBD","šolʹə̑n üδə̑ržö",,,,,"Russko-marijskij_slovar",
-"meZS","akan erγə̑že",,,,,"Russko-marijskij_slovar",
-"myZS","šüžarə̑n erγə̑že",,,,,"Russko-marijskij_slovar",
-"meZD","akan üδə̑ržö",,,,,"Russko-marijskij_slovar",
-"myZD","šüžarə̑n üδə̑ržö",,,,,"Russko-marijskij_slovar",
-"mFZD","urlə̑k aka",,,,,"Russko-marijskij_slovar",
-"mFZD","urlə̑k šüžar",,,,,"Russko-marijskij_slovar",
-"mFBD","urlə̑k aka",,,,,"Russko-marijskij_slovar",
-"mFBD","urlə̑k šüžar",,,,,"Russko-marijskij_slovar",
-"mMBD","urlə̑k aka",,,,,"Russko-marijskij_slovar",
-"mMBD","urlə̑k šüžar",,,,,"Russko-marijskij_slovar",
-"mMZD","urlə̑k aka",,,,,"Russko-marijskij_slovar",
-"mMZD","urlə̑k šüžar",,,,,"Russko-marijskij_slovar",
-"mFBS","urlə̑k iza",,,,,"Russko-marijskij_slovar",
-"mFBS","urlə̑k šolʹo",,,,,"Russko-marijskij_slovar",
-"mFZS","urlə̑k iza",,,,,"Russko-marijskij_slovar",
-"mFZS","urlə̑k šolʹo",,,,,"Russko-marijskij_slovar",
-"mMBS","urlə̑k iza",,,,,"Russko-marijskij_slovar",
-"mMBS","urlə̑k šolʹo",,,,,"Russko-marijskij_slovar",
-"mMZS","urlə̑k iza",,,,,"Russko-marijskij_slovar",
-"mMZS","urlə̑k šolʹo",,,,,"Russko-marijskij_slovar",
-"mFeBS","",,,,,"",
-"mFyBS","",,,,,"",
-"mFeZS","",,,,,"",
-"mFyZS","",,,,,"",
-"mFeBD","",,,,,"",
-"mFyBD","",,,,,"",
-"mFeZD","",,,,,"",
-"mFyZD","",,,,,"",
-"mMeBS","",,,,,"",
-"mMyBS","",,,,,"",
-"mMeZS","",,,,,"",
-"mMyZS","",,,,,"",
-"mMeBD","",,,,,"",
-"mMyBD","",,,,,"",
-"mMeZD","",,,,,"",
-"mMyZD","",,,,,"",
-"mFBeS","",,,,,"",
-"mFByS","",,,,,"",
-"mFZeS","",,,,,"",
-"mFZyS","",,,,,"",
-"mFBeD","",,,,,"",
-"mFByD","",,,,,"",
-"mFZeD","",,,,,"",
-"mFZyD","",,,,,"",
-"mMBeS","",,,,,"",
-"mMByS","",,,,,"",
-"mMZeS","",,,,,"",
-"mMZyS","",,,,,"",
-"mMBeD","",,,,,"",
-"mMByD","",,,,,"",
-"mMZeD","",,,,,"",
-"mMZyD","",,,,,"",
-"mE","pelaš",,,,,"SMJ",
-"mH","marij",,,,,"SMJ",
-"mW","βate",,,,,"SMJ",
-"mHF","ońo",,,,,"SMJ",
-"mHF","ońača",,,,,"SMJ",
-"mHM","kuγo",,,,,"SMJ",
-"mHM","aβalijše",,,,,"SMJ",
-"mHM","ońaβa",,,,,"SMJ",
-"mWF","ońo",,,,,"SMJ",
-"mWF","ońə̑kuγə̑za",,,,,"SMJ",
-"mWM","aβalijše",,,,,"SMJ",
-"mWM","kuγo",,,,,"SMJ",
-"mWM","ońə̑kuwa",,,,,"SMJ",
-"mBW","",,,,,"",
-"meBW","jeŋga",,,,,"SMJ",
-"myBW","šeške",,,,,"SMJ",
-"mZH","",,,,,"",
-"meZH","kurska",,,,,"SMJ",
-"myZH","βeŋe",,,,,"SMJ",
-"mWB","",,,,,"",
-"mWeB","ońə̑ska",,,,,"SMJ",
-"mWyB","pörə̑ž",,,,,"SMJ",
-"mWZ","",,,,,"",
-"mWeZ","ońaka",,,,,"SMJ",
-"mWyZ","nuδo",,,,,"SMJ",
-"mHB","",,,,,"",
-"mHeB","ońə̑ska",,,,,"SMJ",
-"mHyB","pörə̑ž",,,,,"SMJ",
-"mHZ","",,,,,"",
-"mHeZ","ońaka",,,,,"SMJ",
-"mHyZ","nuδo",,,,,"SMJ",
-"mHyZ","izüδə̑r",,,,,"SMJ",
-"mco-W","",,,,,"",
-"mco-H","",,,,,"",
-"mFW(notM)","izaβa",,,,,"SMJ",
-"mFW(notM)","aβaβel",,,,,"SMJ",
-"mMH(notF)","ačaβel",,,,,"SMJ",
-"mMH(notF)","ačalijše",,,,,"SMJ",
-"mMH(notF)","izača",,,,,"SMJ",
-"mSW","šeške",,,,,"SMJ",
-"mSWM","tulače",,,,,"SMJ",
-"mSWF","tular",,,,,"SMJ",
-"mDH","βeŋe",,,,,"SMJ",
-"mDHM","tulače",,,,,"SMJ",
-"mDHF","tular",,,,,"SMJ",
-"mFZH","kurska",,,,,"SMJ",
-"mFBW","",,,,,"",
-"mMZH","kurska",,,,,"SMJ",
-"mMBW","čüčüńö",,,,,"SMJ",
-"mWZH","posana",,,,,"SMJ",
-"mHBW","akaβel",,,,,"SMJ",
-"fG","izak-šüžarak",,,,,"SMJ",
-"fB","izak-šolʹak",,,,,"SMJ",
-"fZ","akak-šüžarak",,,,,"SMJ",
-"feB","iza",,,,,"SMJ",
-"fyB","šolʹo",,,,,"SMJ",
-"feZ","aka",,,,,"SMJ",
-"fyZ","šüžar",,,,,"SMJ",
-"fP","ača-aβa",,,,,"SMJ",
-"fP","aβa-ača",,,,,"SMJ",
-"fF","ača",,,,,"SMJ",
-"fM","aβa",,,,,"SMJ",
-"fC","aza",,,,,"SMJ",
-"fC","ikšə̑βe",,,,,"SMJ",
-"fC","joča",,,,,"SMJ",
-"fC","ńoγa",,,,,"SMJ",
-"fC","izijeŋ",,,,,"SMJ",
-"fS","erγe",,,,,"SMJ",
-"fD","üδə̑r",,,,,"SMJ",
-"fA","kuγeze",,,,,"SMJ",
-"fPP","koča-koβa",,,,,"SMJ",
-"fFF","koča",,,,,"SMJ",
-"fFM","koβa",,,,,"SMJ",
-"fMF","koča",,,,,"SMJ",
-"fMF","mündə̑r koča",,,,,"SMJ",
-"fMM","koβa",,,,,"SMJ",
-"fMM","mündə̑r koβa",,,,,"SMJ",
-"fCC","unə̑ka",,,,,"SMJ",
-"fSS","erγe unə̑ka",,,,,"SMJ",
-"fSD","üδə̑r unə̑ka",,,,,"SMJ",
-"fDS","erγe unə̑ka",,,,,"SMJ",
-"fDD","üδə̑r unə̑ka",,,,,"SMJ",
-"fFB","",,,,,"",
-"fFZ","",,,,,"",
-"fMB","",,,,,"",
-"fMZ","",,,,,"",
-"fFeB","kuγə̑za",,,,,"SMJ",
-"fFeB","kuγu čüčü",,,,,"SMJ",
-"fFyB","iza",,,,,"SMJ",
-"fFeZ","koka",,,,,"SMJ",
-"fFyZ","aka",,,,,"SMJ",
-"fMeZ","koka",,,,,"SMJ",
-"fMyZ","aka",,,,,"SMJ",
-"fMyZ","akalijše",,,,,"SMJ",
-"fMeB","kuγə̑za",,,,,"SMJ",
-"fMeB","kuγu čüčü",,,,,"SMJ",
-"fMyB","čüčü",,,,,"SMJ",
-"fBS","tukə̑mšolʹo",,,,,"Russko-marijskij_slovar",
-"fBD","tukə̑mšüžar",,,,,"Russko-marijskij_slovar",
-"fZS","tukə̑mšolʹo",,,,,"Russko-marijskij_slovar",
-"fZD","tukə̑mšüžar",,,,,"Russko-marijskij_slovar",
-"feBS","izan erγə̑že",,,,,"Russko-marijskij_slovar",
-"fyBS","šolʹə̑n erγə̑že",,,,,"Russko-marijskij_slovar",
-"feBD","izan üδə̑ržö",,,,,"Russko-marijskij_slovar",
-"fyBD","šolʹə̑n üδə̑ržö",,,,,"Russko-marijskij_slovar",
-"feZS","akan erγə̑že",,,,,"Russko-marijskij_slovar",
-"fyZS","šüžarə̑n erγə̑že",,,,,"Russko-marijskij_slovar",
-"feZD","akan üδə̑ržö",,,,,"Russko-marijskij_slovar",
-"fyZD","šüžarə̑n üδə̑ržö",,,,,"Russko-marijskij_slovar",
-"fFZD","urlə̑k aka",,,,,"Russko-marijskij_slovar",
-"fFZD","urlə̑k šüžar",,,,,"Russko-marijskij_slovar",
-"fFBD","urlə̑k aka",,,,,"Russko-marijskij_slovar",
-"fFBD","urlə̑k šüžar",,,,,"Russko-marijskij_slovar",
-"fMBD","urlə̑k aka",,,,,"Russko-marijskij_slovar",
-"fMBD","urlə̑k šüžar",,,,,"Russko-marijskij_slovar",
-"fMZD","urlə̑k aka",,,,,"Russko-marijskij_slovar",
-"fMZD","urlə̑k šüžar",,,,,"Russko-marijskij_slovar",
-"fFBS","urlə̑k iza",,,,,"Russko-marijskij_slovar",
-"fFBS","urlə̑k šolʹo",,,,,"Russko-marijskij_slovar",
-"fFZS","urlə̑k iza",,,,,"Russko-marijskij_slovar",
-"fFZS","urlə̑k šolʹo",,,,,"Russko-marijskij_slovar",
-"fMBS","urlə̑k iza",,,,,"Russko-marijskij_slovar",
-"fMBS","urlə̑k šolʹo",,,,,"Russko-marijskij_slovar",
-"fMZS","urlə̑k iza",,,,,"Russko-marijskij_slovar",
-"fMZS","urlə̑k šolʹo",,,,,"Russko-marijskij_slovar",
-"fFeBS","",,,,,"",
-"fFyBS","",,,,,"",
-"fFeZS","",,,,,"",
-"fFyZS","",,,,,"",
-"fFeBD","",,,,,"",
-"fFyBD","",,,,,"",
-"fFeZD","",,,,,"",
-"fFyZD","",,,,,"",
-"fMeBS","",,,,,"",
-"fMyBS","",,,,,"",
-"fMeZS","",,,,,"",
-"fMyZS","",,,,,"",
-"fMeBD","",,,,,"",
-"fMyBD","",,,,,"",
-"fMeZD","",,,,,"",
-"fMyZD","",,,,,"",
-"fFBeS","",,,,,"",
-"fFByS","",,,,,"",
-"fFZeS","",,,,,"",
-"fFZyS","",,,,,"",
-"fFBeD","",,,,,"",
-"fFByD","",,,,,"",
-"fFZeD","",,,,,"",
-"fFZyD","",,,,,"",
-"fMBeS","",,,,,"",
-"fMByS","",,,,,"",
-"fMZeS","",,,,,"",
-"fMZyS","",,,,,"",
-"fMBeD","",,,,,"",
-"fMByD","",,,,,"",
-"fMZeD","",,,,,"",
-"fMZyD","",,,,,"",
-"fE","pelaš",,,,,"SMJ",
-"fH","marij",,,,,"SMJ",
-"fW","βate",,,,,"SMJ",
-"fHF","ońo",,,,,"SMJ",
-"fHF","ońača",,,,,"SMJ",
-"fHM","kuγo",,,,,"SMJ",
-"fHM","aβalijše",,,,,"SMJ",
-"fHM","ońaβa",,,,,"SMJ",
-"fWF","ońo",,,,,"SMJ",
-"fWF","ońə̑kuγə̑za",,,,,"SMJ",
-"fWM","aβalijše",,,,,"SMJ",
-"fWM","kuγo",,,,,"SMJ",
-"fWM","ońə̑kuwa",,,,,"SMJ",
-"fBW","",,,,,"",
-"feBW","jeŋga",,,,,"SMJ",
-"fyBW","šeške",,,,,"SMJ",
-"fZH","",,,,,"",
-"feZH","kurska",,,,,"SMJ",
-"fyZH","βeŋe",,,,,"SMJ",
-"fWB","",,,,,"",
-"fWeB","ońə̑ska",,,,,"SMJ",
-"fWyB","pörə̑ž",,,,,"SMJ",
-"fWZ","",,,,,"",
-"fWeZ","ońaka",,,,,"SMJ",
-"fWyZ","nuδo",,,,,"SMJ",
-"fHB","",,,,,"",
-"fHeB","ońə̑ska",,,,,"SMJ",
-"fHyB","pörə̑ž",,,,,"SMJ",
-"fHZ","",,,,,"",
-"fHeZ","ońaka",,,,,"SMJ",
-"fHyZ","nuδo",,,,,"SMJ",
-"fHyZ","izüδə̑r",,,,,"SMJ",
-"fco-W","",,,,,"",
-"fco-H","",,,,,"",
-"fFW(notM)","izaβa",,,,,"SMJ",
-"fFW(notM)","aβaβel",,,,,"SMJ",
-"fMH(notF)","ačaβel",,,,,"SMJ",
-"fMH(notF)","ačalijše",,,,,"SMJ",
-"fMH(notF)","izača",,,,,"SMJ",
-"fSW","šeške",,,,,"SMJ",
-"fSWM","tulače",,,,,"SMJ",
-"fSWF","tular",,,,,"SMJ",
-"fDH","βeŋe",,,,,"SMJ",
-"fDHM","tulače",,,,,"SMJ",
-"fDHF","tular",,,,,"SMJ",
-"fFZH","kurska",,,,,"SMJ",
-"fFBW","",,,,,"",
-"fMZH","kurska",,,,,"SMJ",
-"fMBW","čüčüńö",,,,,"SMJ",
-"fWZH","posana",,,,,"SMJ",
-"fHBW","akaβel",,,,,"SMJ",
+﻿Kin category;Description;Parameter;Word;Word in non-Latin script;Source word;Certainty of borrowing (0-4);Calque (1);Words with borrowed elements;Borrowing source lang.;Borrowed when?/Age for non-borrowed;Lexical references;Etymological references;Semantic scope;Effect on the lexicon;Analyzability;Gloss;Alternative;Comments;Deeper donor language;Ref. for deeper donor language
+Siblings;male speaker's sibling;mG;izak-šüžarak;изак-шӱжарак;;0;;One of the constituents is borrowed;Proto-Indo-Iranian;Mari-specific;SMJ2: 16;;;;4;;;copulative compound;;
+Siblings;male speaker's brother;mB;izak-šolʹak;изак-шоляк;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ2: 15;;;;4;;iza-šolʹo;copulative compound, cf. Udm. agaj-vïn 'brothers';;
+Siblings;male speaker's sister;mZ;akak-šüžarak;акак-шӱжарак;;0;;Constituents are borrowed;;Mari-specific;SMJ1: 53;;;;4;;aka-šüžar;copulative compound;;
+Siblings;male speaker's elder brother;meB;iza;иза;;0;;;;Inherited, PM *ĭćä, perhaps PU *eććä, *iććä;SMJ2: 15;Aikio 2020: 30–32;;;1;;;;;
+Siblings;male speaker's younger brother;myB;šolʹo;шольо;šə̑llə̑m, šə̑llu, šə̑lʹlə;4;;;Chuvash;13th century AD onwards;SMJ9: 213;Räsänen 1920: 211;;;1;;;;;
+Siblings;male speaker's elder sister;meZ;aka;ака;aGaj;4;;;Chuvash;13th century AD onwards;SMJ1: 53;Räsänen 1920: 112;;replacement;1;;;cf. Udm.aka 'id.';;
+Siblings;male speaker's younger sister;myZ;šüžar;шӱжар;*swasar-;4;;;Proto-Indo-Iranian;Bronze Age;SMJ9: 382;Holopainen 2019: 222–224;broader 'sister';replacement;1;;;;Proto-Indo-European;Milanova 2020: 113-117
+Parents;male speaker's parent;mP;ača-aβa;ача-ава;;0;;Constituents are borrowed ;Chuvash;Mari-specific;SMJ1: 120;;;;4;;;Copulative compound. Copulative formation itself probably took place in Mari;;
+Parents;male speaker's parent;mP;aβa-ača;ава-ача;;0;;Constituents are borrowed ;Chuvash;Mari-specific;SMJ1: 21;;;;4;;;Copulative compound. Copulative formation itself probably took place in Mari;;
+Parents;male speaker's father;mF;ača;ача;attʹɛ;3;;;Chuvash;13th century AD onwards;SMJ1: 120;Räsänen 1920: 239;;replacement;1;;;;;
+Parents;male speaker's mother;mM;aβa;ава;aBi, aBaj;4;;;Chuvash;13th century AD onwards;SMJ1: 21;Räsänen 1920: 109;;replacement;1;;;;;
+Parents;male speaker's child;mC;aza;аза;aDž́a;4;;;Chuvash;13th century AD onwards;SMJ1: 43;Räsänen 1920: 111;;;1;;;;;
+Children;male speaker's child;mC;ikšə̑βe;икшыве;;0;;;;Mari-specific;SMJ2: 41;;;;2;;šočšo 'one's own children' (derived from šoča- 'be born'), erγe-üδə̑r 'son and daughter, children' (copulative compound);compound, 1st component iγe 'baby animal';;
+Children;male speaker's child;mC;joča;йоча;;0;;;;Mari-specific;SMJ2: 130;;;;1;;;;;
+Children;male speaker's child;mC;ńoγa;ньога;;4;;;Tatar;14th century AD onwards;SMJ4: 234;Räsänen 1923: 47;;;1;;;;;
+Children;male speaker's child;mC;izijeŋ;изиеҥ;;0;;;;Mari-specific;SMJ2: 22;;;;4;;;compound of izi 'small' and jeŋ 'human, people';;
+Children;male speaker's son;mS;erγe;эрге;*ir-;0;;Contains perhaps a borrowed base;Iranian;Mari-specific;SMJ10: 108;Metsäranta 2020: 206–207;;;2;;;;;
+Children;male speaker's daughter;mD;üδə̑r;ӱдыр;;0;;;;Mari-specific;SMJ8: 159;;;;1;;;;;
+Grandparents;male speaker's ancestor;mA;kuγeze;кугезе;;0;;;;Mari-specific;SMJ3: 70;;;;2;;;compound, 1st component kuγu 'big, great' and second?;;
+Grandparents;male speaker's grandparent;mPP;koča-koβa;коча-кова;;0;;;;Mari-specific;SMJ3:12;;;;4;;;compound of koča 'grandfather' and kowa 'grandmother';;
+Grandparents;male speaker's father's father;mFF;koča;коча;;0;;One of the constituents is borrowed;;Mari-specific;SMJ3: 11;;;;2;;;compound, 1st component kuγu 'big, great' and second ača, cf. mF;;
+Grandparents;male speaker's father's mother;mFM;koβa;кова;;0;;One of the constituents is borrowed;;Mari-specific;SMJ2: 354;;;;2;;;compound, 1st component kuγu 'big, great' and second aβa, cf. mM;;
+Grandparents;male speaker's mother's father;mMF;koča;коча;;0;;One of the constituents is borrowed;;Mari-specific;SMJ3: 11;;;;2;;;compound, 1st component kuγu 'big, great' and second ača, cf. mF;;
+Grandparents;male speaker's mother's father;mMF;mündə̑r koča;мӱндыр коча;;0;;;;Mari-specific;SMJ4: 118;;;;5;;;"phrasal of mündə̑r ' fern; weit weg' and koča 'grandfather', cf. Md vasolbodʹa 'maternal grandfather', vasolo 'distant, far away'";;
+Grandparents;male speaker's mother's mother;mMM;koβa;кова;;0;;One of the constituents is borrowed;;Mari-specific;SMJ2: 354;;;;2;;;compound, 1st component kuγu 'big, great' and second aβa, cf. mM;;
+Grandparents;male speaker's mother's mother;mMM;mündə̑r koβa;мӱндыр кова;;0;;;;Mari-specific;"SMJ2: 354; SMJ4: 118";;;;5;;;"phrasal of mündə̑r 'fern; weit weg' and koβa 'grandmother', cf. MdE vasolbaba 'maternal grandmother', vasolo 'distant, far away'";;
+Grandchildren;male speaker's grandchild;mCC;unə̑ka;уныка;внук;4;;;Russian;late 16th century AD onwards;SMJ8: 80;;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;male speaker's son's son;mSS;erγe unə̑ka;эрге уныка;внук;0;;One of the constituents is borrowed;Russian;late 16th century AD onwards;SMJ8: 80;;;;5;;;phrasal of erγe 'boy, son' and unə̑ka 'grandchild';Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;male speaker's son's daughter;mSD;üδə̑r unə̑ka;уныка;внук;0;;One of the constituents is borrowed;Russian;late 16th century AD onwards;SMJ8: 80;;;;5;;;phrasal of üδə̑r 'daughter, girl' and unə̑ka 'grandchild';Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;male speaker's daughter's son;mDS;erγe unə̑ka;эрге уныка;внук;0;;One of the constituents is borrowed;Russian;late 16th century AD onwards;SMJ8: 80;;;;5;;;phrasal of erγe 'boy, son' and unə̑ka 'grandchild';Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;male speaker's daughter's daughter;mDD;üδə̑r unə̑ka;ӱдыр уныка;внук;0;;One of the constituents is borrowed;Russian;late 16th century AD onwards;SMJ8: 80;;;;5;;;phrasal of üδə̑r 'daughter, girl' and unə̑ka 'grandchild';Proto-Slavic;Milanova 2020: 137-140
+ParentsSiblings;male speaker's father's brother;mFB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's sister;mFZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's brother;mMB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's mother's sister;mMZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;male speaker's father's older brother;mFeB;kuγə̑za;кугыза;;0;;;;Mari-specific;SMJ3: 81;;;;4;;;Colloquial. Compound, 1st component kuγu 'big, great', second iza 'elder brother', cf. meB;;
+ParentsSiblings;male speaker's father's older brother;mFeB;kuγu čüčü;кугу чӱчӱ;;0;;;;Mari-specific;SMJ3: 77;;;;5;;;phrasal kuγu 'big' and čüčü '(maternal) uncle';;
+ParentsSiblings;male speaker's father's younger brother;mFyB;iza;иза;;0;;;;Mari-specific;SMJ2:15;;;;1;;;;;
+ParentsSiblings;male speaker's father's older sister;mFeZ;koka;кока;;0;;One of the constituents is borrowed;;Mari-specific;SMJ2: 381;;;;2;;;compound, 1st component kuγu 'big, great', second aka 'elder sister', cf. meZ;;
+ParentsSiblings;male speaker's father's younger sister;mFyZ;aka;ака;aGaj;4;;;Chuvash;13th century AD onwards;SMJ1: 53;Räsänen 1920: 112;;replacement;1;;;;;
+ParentsSiblings;male speaker's mother's older sister;mMeZ;koka;кока;;0;;One of the constituents is borrowed;;Mari-specific;SMJ2: 381;;;;2;;;compound, 1st component kuγu 'big, great', second aka 'elder sister', cf. meZ;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;aka;ака;aGaj;4;;;Chuvash;13th century AD onwards;SMJ1: 53;Räsänen 1920: 112;;replacement;1;;;;;
+ParentsSiblings;male speaker's mother's younger sister;mMyZ;akalijše;акалийше;;0;;One of the constituents is borrowed;;Mari-specific;SMJ1: 53;;;;4;;;"compound of aka 'older sister; mother's or father's younger sister' and lijše 'being'";;
+ParentsSiblings;male speaker's mother's older brother;mMeB;kuγə̑za;кугыза;;0;;;;Mari-specific;SMJ3: 81;;;;4;;;Colloquial. Compound, 1st component kuγu 'big, great', second iza 'elder brother', cf. meB;;
+ParentsSiblings;male speaker's mother's older brother;mMeB;kuγu čüčü;кугу чӱчӱ;;0;;;;Mari-specific;SMJ3: 77;;;;5;;;phrasal kuγu 'big' and čüčü '(maternal) uncle';;
+ParentsSiblings;male speaker's mother's younger brother;mMyB;čüčü;чӱчӱ;;0;;;;Inherited, PU *čečä;SMJ8: 457;;;;1;;;;;
+SiblingsChildren;male speaker's brother's son;mBS;tukə̑mšolʹo;тукымшольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 72;;;4;;;"compound of tukə̑m 'род; ряд поколений, происходящих от одного предка' and šolʹo 'younger brother'";;
+SiblingsChildren;male speaker's brother's daughter;mBD;tukə̑mšüžar;тукымшӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 72;;;4;;;"compound of tukə̑m 'род; ряд поколений, происходящих от одного предка' and šüžar 'younger sister'";;
+SiblingsChildren;male speaker's sister's son;mZS;tukə̑mšolʹo;тукымшольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 72;;;4;;;"compound of tukə̑m 'род; ряд поколений, происходящих от одного предка' and šolʹo 'younger brother'";;
+SiblingsChildren;male speaker's sister's daughter;mZD;tukə̑mšüžar;тукымшӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 72;;;4;;;"compound of tukə̑m 'род; ряд поколений, происходящих от одного предка' and šüžar 'younger sister'";;
+SiblingsChildren;male speaker's older brother's son;meBS;izan erγə̑že;изан эргыже;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's younger brother's son;myBS;šolʹə̑n erγə̑že;шольын эргыже;;0;;Constituents are borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's older brother's daughter;meBD;izan üδə̑ržö;изан ӱдыржӧ;;0;;;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's younger brother's daughter;myBD;šolʹə̑n üδə̑ržö;шольын ӱдыржӧ;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's older sister's son;meZS;akan erγə̑že;акан эргыже;;0;;Constituents are borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's younger sister's son;myZS;šüžarə̑n erγə̑že;шӱжарын эргыже;;0;;Constituents are borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's older sister's daughter;meZD;akan üδə̑ržö;акан ӱдыржӧ;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;male speaker's younger sister's daughter;myZD;šüžarə̑n üδə̑ržö;шӱжарын ӱдыржӧ;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+Cousins;male speaker's father's sister's daughter;mFZD;urlə̑k aka;урлык ака;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m aka;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and aka 'older sister'";;
+Cousins;male speaker's father's sister's daughter;mFZD;urlə̑k šüžar;урлык шӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šüžar;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šüžar 'younger sister'";;
+Cousins;male speaker's father's brother's daughter;mFBD;urlə̑k aka;урлык ака;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m aka;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and aka 'older sister'";;
+Cousins;male speaker's father's brother's daughter;mFBD;urlə̑k šüžar;урлык шӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šüžar;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šüžar 'younger sister'";;
+Cousins;male speaker's mother's brother's daughter;mMBD;urlə̑k aka;урлык ака;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m aka;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and aka 'older sister'";;
+Cousins;male speaker's mother's brother's daughter;mMBD;urlə̑k šüžar;урлык шӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šüžar;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šüžar 'younger sister'";;
+Cousins;male speaker's mother's sister's daughter;mMZD;urlə̑k aka;урлык ака;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m aka;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and aka 'older sister'";;
+Cousins;male speaker's mother's sister's daughter;mMZD;urlə̑k šüžar;урлык шӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šüžar;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šüžar 'younger sister'";;
+Cousins;male speaker's father's brother's son;mFBS;urlə̑k iza;урлык иза;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m iza;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and iza 'older brother'";;
+Cousins;male speaker's father's brother's son;mFBS;urlə̑k šolʹo;урлык шольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šolʹo;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šolʹo 'younger brother'";;
+Cousins;male speaker's father's sister's son;mFZS;urlə̑k iza;урлык иза;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m iza;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and iza 'older brother'";;
+Cousins;male speaker's father's sister's son;mFZS;urlə̑k šolʹo;урлык шольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šolʹo;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šolʹo 'younger brother'";;
+Cousins;male speaker's mother's brother's son;mMBS;urlə̑k iza;урлык иза;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m iza;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and iza 'older brother'";;
+Cousins;male speaker's mother's brother's son;mMBS;urlə̑k šolʹo;урлык шольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šolʹo;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šolʹo 'younger brother'";;
+Cousins;male speaker's mother's sister's son;mMZS;urlə̑k iza;урлык иза;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m iza;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and iza 'older brother'";;
+Cousins;male speaker's mother's sister's son;mMZS;urlə̑k šolʹo;урлык шольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šolʹo;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šolʹo 'younger brother'";;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's son;mFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's son;mFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's son;mFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's son;mFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older brother's daughter;mFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger brother's daughter;mFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's older sister's daughter;mFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's father's younger sister's daughter;mFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's son;mMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's son;mMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's son;mMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's son;mMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older brother's daughter;mMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger brother's daughter;mMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's older sister's daughter;mMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;male speaker's mother's younger sister's daughter;mMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older son;mFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger son;mFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older son;mFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger son;mFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's older daughter;mFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's brother's younger daughter;mFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's older daughter;mFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's father's sister's younger daughter;mFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older son;mMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger son;mMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older son;mMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger son;mMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's older daughter;mMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's brother's younger daughter;mMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's older daughter;mMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;male speaker's mother's sister's younger daughter;mMZyD;;;;;;;;;;;;;;;;;;
+Affines;male speaker's spouse;mE;pelaš;пелаш;;0;;;;Mari-specific;SMJ5: 64;;;;3;;;derived from pel(e) 'half' < PU *pälä;;
+Affines;male speaker's husband;mH;marij;марий;;4;;;Iranian;?;SMJ4: 22;;? 'young man';;1;;ulʹmo (arch.);Iranian origin seems likely. Based on the vocalism the word is surpringly recent addition to Mari lexicon, which is difficult to explain;;
+Affines;male speaker's wife;mW;βate;вате;vaDə̑;3;;;Chuvash;13th century AD onwards;SMJ1: 189;Räsänen 1920: 120;source means 'old';replacement;1;;;Loanword status is somewhat dubious because the proposed original in Chuvash means 'old'. Superficial similarity with II, cf. OI vadhú- and Av. vaδu-, is probably coincidental, although 'husband' is most likely of Iranian origin;;
+Affines;male speaker's husband's father;mHF;ońo;оньо;χonə̑m;4;;;Chuvash;13th century AD onwards;SMJ4: 315;Räsänen 1920: 166;;replacement of PU *ëppə;1;;;;;
+Affines;male speaker's husband's father;mHF;ońača;оньача;;0;;Constituents are borrowed;;Mari-specific;SMJ4: 315;;;;4;;;compound of ońo 'father-in-law' and ača 'father';;
+Affines;male speaker's husband's mother;mHM;kuγo;куго;;0;;;;Mari-specific;SMJ3: 74–75;;;;2;;;the 1st component possibly kuγu;;
+Affines;male speaker's husband's mother;mHM;aβalijše;авалийше;;0;;One of the constituents is borrowed;;Mari-specific;SMJ1: 22;;;;4;;;compound of awa 'mother' and lijše 'being';;
+Affines;male speaker's husband's mother;mHM;ońaβa;оньава;;0;;Constituents are borrowed;;Mari-specific;SMJ4:315;;;;4;;;compound of ońo 'father-in-law' and awa 'mother';;
+Affines;male speaker's wife's father;mWF;ońo;оньо;χonə̑m;4;;;Chuvash;13th century AD onwards;SMJ4: 315;Räsänen 1920: 166;;replacement of PU *ëppə;1;;;;;
+Affines;male speaker's wife's father;mWF;ońə̑kuγə̑za;оньыкугыза;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ4: 316;;;;4;;;;;
+Affines;male speaker's wife's mother;mWM;aβalijše;авалийше;;0;;One of the constituents is borrowed;;Mari-specific;SMJ1: 22;;;;4;;;compound of awa 'mother' and lijše 'being';;
+Affines;male speaker's wife's mother;mWM;kuγo;куго;;0;;;;Mari-specific;SMJ3: 74–75;;;;2;;;the 1st component possibly kuγu, according to SMJ in this meaning dialectal.;;
+Affines;male speaker's wife's mother;mWM;ońə̑kuwa;оньыкува;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ4: 316;;;;4;;;compound ońo + kuβa 'old woman';;
+Affines;male speaker's brother's wife;mBW;;;;;;;;;;;;;;;;;;
+Affines;male speaker's elder brother's wife;meBW;jeŋga;еҥга;ǯiŋgä;4;;;Tatar;14th century AD onwards;SMJ1: 436;Räsänen 1923: 30;;replacement of PU *käləw?;1;;;older brother's wife', perhaps borrowed through Chuvash;;
+Affines;male speaker's younger brother's wife;myBW;šeške;шешке;;0;;;;Mari-specific;SMJ9: 111;;;;1;;;younger brother's wife', also 'daughter-in-law';;
+Affines;male speaker's sister's husband;mZH;;;;;;;;;;;;;;;;;;
+Affines;male speaker's elder sister's husband;meZH;kurska;курска;kərü;0;;One of the constituents is borrowed;Chuvash;13th century AD onwards;SMJ3: 156;Räsänen 1920: 151;;;2;;;elder sister's husband', also 'parent's younger sister's husband';;
+Affines;male speaker's younger sister's husband;myZH;βeŋe;веҥе;;0;;;;Inherited, PU *wäŋəw;SMJ1: 212;;;;1;;;younger sister's husband', also 'son-in-law';;
+Affines;male speaker's wife's brother;mWB;;;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's elder brother;mWeB;ońə̑ska;оньыска;χońə̑ska;4;;;Chuvash;13th century AD onwards;SMJ4: 316;Räsänen 1923: 166;;replacement;1;;;wife's older brother';;
+Affines;male speaker's wife's younger brother;mWyB;pörə̑ž;пӧрыж;;0;;;;Mari-specific;SMJ5: 240;;;;1;;;wife's younger brother';;
+Affines;male speaker's wife's sister;mWZ;;;;;;;;;;;;;;;;;;
+Affines;male speaker's wife's elder sister;mWeZ;ońaka;оняка;χuńaGa;4;;;Chuvash;13th century AD onwards;SMJ4: 316;Räsänen 1920: 166;;coexistence;1;;;wife's older sister',;;
+Affines;male speaker's wife's younger sister;mWyZ;nuδo;нудо;;0;;;;Inherited, PU *nataw;SMJ4: 215;Aikio 2015: 55;;;1;;;wife's younger sister';;
+Affines;male speaker's husband's brother;mHB;;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's older brother;mHeB;ońə̑ska;оньыска;χońə̑ska;4;;;Chuvash;13th century AD onwards;SMJ4: 316;Räsänen 1923: 166;;;1;;;husband's older brother';;
+Affines;male speaker's husband's younger brother;mHyB;pörə̑ž;пӧрыж;;0;;;;Mari-specific;SMJ5: 240;;;;1;;;husband's younger brother';;
+Affines;male speaker's husband's sister;mHZ;;;;;;;;;;;;;;;;;;
+Affines;male speaker's husband's older sister;mHeZ;ońaka;оняка;χuńaGa;4;;;Chuvash;13th century AD onwards;SMJ4: 316;Räsänen 1920: 166;;coexistence;1;;;husband's older sister', a compound of ońo 'father-in-law' and aka 'older sister';;
+Affines;male speaker's husband's younger sister;mHyZ;nuδo;нудо;;0;;;;Inherited, PU *nataw;SMJ4: 215;Aikio 2015: 55;;;1;;;husband's younger sister';;
+Affines;male speaker's husband's younger sister;mHyZ;izüδə̑r;изӱдыр;;0;;;;Mari-specific;SMJ2: 26;;;;4;;;husband's younger sister', 'youngest of the sister-in-laws',  a compound of izi 'small' and üδə̑r 'girl, daughter';;
+Affines;male speaker's co-wife;mco-W;;;;;;;;;;;;;;;;;;
+Affines;male speaker's co-husband;mco-H;;;;;;;;;;;;;;;;;;
+Affines;male speaker's father's wife (not mother);mFW(notM);izaβa;изава;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ2: 15;;;;4;;;compound of izi 'small' and awa 'mother';;
+Affines;male speaker's father's wife (not mother);mFW(notM);aβaβel;ававел;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ1: 22;;;;4;;;compound of awa 'mother' and wel 'half' (< pel(e));;
+Affines;male speaker's mother's husband (not father);mMH(notF);ačaβel;ачавел;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ1: 120;;;;4;;;compound of ača 'father' and wel 'half' (< pel(e));;
+Affines;male speaker's mohter's husband (not father);mMH(notF);ačalijše;ачалийше;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ1: 120;;;;4;;;compound of ača 'father' and lijše 'being';;
+Affines;male speaker's mother's husband (not father);mMH(notF);izača;изача;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ2: 16;;;;4;;;compound of izi 'small' and ača 'father';;
+Affines;male speaker's son's wife;mSW;šeške;шешке;;0;;;;Mari-specific;SMJ9: 111;;;replacement of PU *mińä;1;;;also' younger brother's wife';;
+Affines;male speaker's son's wife's mother;mSWM;tulače;тулаче;tə̑χlaǯə̑;4;;;Chuvash;13th century AD onwards;SMJ7: 243;Räsänen 1920: 225;;insertion;1;;;;;
+Affines;male speaker's son's wife's father;mSWF;tular;тулар;*tə̑χlar;4;;;Chuvash;13th century AD onwards;SMJ7: 242;Räsänen 1920: 225;;insertion;1;;;According to Räsänen tə̑χlaǯə̑ is a diminutive of an earlier *tə̑χlar that is found in Mari but not preserved in Chuvash;;
+Affines;male speaker's daughter's husband;mDH;βeŋe;веҥе;;0;;;;Inherited, PU *wäŋəw;SMJ1: 212;;;;1;;;younger sister's husband', also 'son-in-law';;
+Affines;male speaker's daughter's husband's mother;mDHM;tulače;тулаче;tə̑χlaǯə̑;4;;;Chuvash;13th century AD onwards;SMJ7: 243;Räsänen 1920: 225;;insertion;1;;;;;
+Affines;male speaker's daughter's husband's father;mDHF;tular;тулар;*tə̑χlar;4;;;Chuvash;13th century AD onwards;SMJ7: 242;Räsänen 1920: 225;;insertion;1;;;;;
+Affines;male speaker's father's sister's husband;mFZH;kurska;курска;kərü;0;;One of the constituents is borrowed;Chuvash;13th century AD onwards;SMJ3: 156;Räsänen 1920: 151;;;2;;;elder sister's husband', also 'parent's younger sister's husband';;
+Affines;male speaker's father's brother's wife;mFBW;;;;;;;;;;;;;;;;;;
+Affines;male speaker's mother's sister's husband;mMZH;kurska;курска;kərü;0;;One of the constituents is borrowed;Chuvash;13th century AD onwards;SMJ3: 156;Räsänen 1920: 151;;;2;;;elder sister's husband', also 'parent's younger sister's husband';;
+Affines;male speaker's mother's brother's wife;mMBW;čüčüńö;чӱчӱньӧ;;0;;;;Mari-specific;SMJ8: 457;;;;3;;;mother's younger brother's wife', derived from čüčü 'mother's brother';;
+Affines;male speaker's wife's sister's husband;mWZH;posana;посана;poźana, puźana;4;;;Chuvash;13th century AD onwards;SMJ5: 197;Räsänen 1920: 180;;;1;;;;;
+Affines;male speaker's husband's brother's wife;mHBW;akaβel;акавел;;0;;One of the constituents is borrowed;;Mari-specific;SMJ1: 53;;;;4;;;husband's older brother's wife' compound of aka 'elder sister' and wel 'half' (< pel(e));;
+Siblings;female speaker's sibling;fG;izak-šüžarak;изак-шӱжарак;;0;;One of the constituents is borrowed;Proto-Indo-Iranian;Mari-specific;SMJ2: 16;;;;4;;;copulative compound;;
+Siblings;female speaker's brother;fB;izak-šolʹak;изак-шоляк;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ2: 15;;;;4;;iza-šolʹo;copulative compound, cf. Udm. agaj-vïn 'brothers';;
+Siblings;female speaker's sister;fZ;akak-šüžarak;акак-шӱжарак;;0;;Constituents are borrowed;;Mari-specific;SMJ1: 53;;;;4;;aka-šüžar;copulative compound, ;;
+Siblings;female speaker's elder brother;feB;iza;иза;;0;;;;Inherited, PM *ĭćä, perhaps PU *eććä, *iććä;SMJ2: 15;Aikio 2020: 30–32;;;1;;;;;
+Siblings;female speaker's younger brother;fyB;šolʹo;шольо;šə̑llə̑m, šə̑llu, šə̑lʹlə;4;;;Chuvash;13th century AD onwards;SMJ9: 213;Räsänen 1920: 211;;;1;;;;;
+Siblings;female speaker's elder sister;feZ;aka;ака;aGaj;4;;;Chuvash;13th century AD onwards;SMJ1: 53;Räsänen 1920: 112;;replacement;1;;;cf. Udm.aka 'id.';;
+Siblings;female speaker's younger sister;fyZ;šüžar;шӱжар;*swasar-;4;;;Proto-Indo-Iranian;Bronze Age;SMJ9: 382;Holopainen 2019: 222–224;broader 'sister';replacement;1;;;;Proto-Indo-European;Milanova 2020: 113-117
+Parents;female speaker's parent;fP;ača-aβa;ача-ава;;0;;Constituents are borrowed;Chuvash;Mari-specific;SMJ1: 120;;;;4;;;Copulative compound. Copulative formation itself probably took place in Mari;;
+Parents;female speaker's parent;fP;aβa-ača;ава-ача;;0;;Constituents are borrowed ;Chuvash;Mari-specific;SMJ1: 21;;;;4;;;Copulative compound. Copulative formation itself probably took place in Mari;;
+Parents;female speaker's father;fF;ača;ача;attʹɛ;3;;;Chuvash;13th century AD onwards;SMJ1: 120;Räsänen 1920: 239;;replacement;1;;;;;
+Parents;female speaker's mother;fM;aβa;ава;aBi, aBaj;4;;;Chuvash;13th century AD onwards;SMJ1: 21;Räsänen 1920: 109;;replacement;1;;;;;
+Children;female speaker's child;fC;aza;аза;aDž́a;4;;;Chuvash;13th century AD onwards;SMJ1: 43;Räsänen 1920: 111;;;1;;;;;
+Children;female speaker's child;fC;ikšə̑βe;икшыве;;0;;;;Mari-specific;SMJ2: 41;;;;2;;šočšo 'one's own children' (derived from šoča- 'be born'), erγe-üδə̑r 'son and daughter, children' (copulative compound);compound, 1st component iγe 'baby animal';;
+Children;female speaker's child;fC;joča;йоча;;0;;;;Mari-specific;SMJ2: 130;;;;1;;;;;
+Children;female speaker's child;fC;ńoγa;ньога;;4;;;Tatar;14th century AD onwards;SMJ4: 234;Räsänen 1923: 47;;;1;;;;;
+Children;female speaker's child;fC;izijeŋ;изиеҥ;;0;;;;Mari-specific;SMJ2: 22;;;;4;;;compound of izi 'small' and jeŋ 'human, people';;
+Children;female speaker's son;fS;erγe;эрге;*ir-;0;;Contains perhaps a borrowed base;Iranian;Mari-specific;SMJ10: 108;Metsäranta 2020: 206–207;;;2;;;;;
+Children;female speaker's daughter;fD;üδə̑r;ӱдыр;;0;;;;Mari-specific;SMJ8: 159;;;;1;;;;;
+Grandparents;female speaker's ancestor;fA;kuγeze;кугезе;;0;;;;Mari-specific;SMJ3: 70;;;;2;;;compound, 1st component kuγu 'big, great' and second?;;
+Grandparents;female speaker's grandparent;fPP;koča-koβa;коча-кова;;0;;;;Mari-specific;SMJ3:12;;;;4;;;compound of koča 'grandfather' and kowa 'grandmother';;
+Grandparents;female speaker's father's father;fFF;koča;коча;;0;;One of the constituents is borrowed;;Mari-specific;SMJ3: 11;;;;2;;;compound, 1st component kuγu 'big, great' and second ača, cf. mF;;
+Grandparents;female speaker's father's mother;fFM;koβa;кова;;0;;One of the constituents is borrowed;;Mari-specific;SMJ2: 354;;;;2;;;compound, 1st component kuγu 'big, great' and second aβa, cf. mM;;
+Grandparents;female speaker's mother's father;fMF;koča;коча;;0;;One of the constituents is borrowed;;Mari-specific;SMJ3: 11;;;;2;;;compound, 1st component kuγu 'big, great' and second ača, cf. mF;;
+Grandparents;female speaker's mother's father;fMF;mündə̑r koča;мӱндыр коча;;0;;;;Mari-specific;SMJ4: 118;;;;5;;;"phrasal of mündə̑r ' fern; weit weg' and koča 'grandfather', cf. Md vasolbodʹa 'maternal grandfather', vasolo 'distant, far away'";;
+Grandparents;female speaker's mother's mother;fMM;koβa;кова;;0;;One of the constituents is borrowed;;Mari-specific;SMJ2: 354;;;;2;;;compound, 1st component kuγu 'big, great' and second aβa, cf. mM;;
+Grandparents;female speaker's mother's mother;fMM;mündə̑r koβa;мӱндыр кова;;0;;;;Mari-specific;"SMJ2: 354; SMJ4: 118";;;;5;;;"phrasal of mündə̑r 'fern; weit weg' and koβa 'grandmother', cf. MdE vasolbaba 'maternal grandmother', vasolo 'distant, far away'";;
+Grandchildren;female speaker's grandchild;fCC;unə̑ka;уныка;внук;4;;;Russian;late 16th century AD onwards;SMJ8: 80;;;replacement;1;;;;Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;female speaker's son's son;fSS;erγe unə̑ka;эрге уныка;внук;0;;One of the constituents is borrowed;Russian;late 16th century AD onwards;SMJ8: 80;;;;5;;;phrasal of erγe 'boy, son' and unə̑ka 'grandchild';Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;female speaker's son's daughter;fSD;üδə̑r unə̑ka;уныка;внук;0;;One of the constituents is borrowed;Russian;late 16th century AD onwards;SMJ8: 80;;;;5;;;phrasal of üδə̑r 'daughter, girl' and unə̑ka 'grandchild';Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;female speaker's daughter's son;fDS;erγe unə̑ka;эрге уныка;внук;0;;One of the constituents is borrowed;Russian;late 16th century AD onwards;SMJ8: 80;;;;5;;;phrasal of erγe 'boy, son' and unə̑ka 'grandchild';Proto-Slavic;Milanova 2020: 137-140
+Grandchildren;female speaker's daughter's daughter;fDD;üδə̑r unə̑ka;ӱдыр уныка;внук;0;;One of the constituents is borrowed;Russian;late 16th century AD onwards;SMJ8: 80;;;;5;;;phrasal of üδə̑r 'daughter, girl' and unə̑ka 'grandchild';Proto-Slavic;Milanova 2020: 137-140
+ParentsSiblings;female speaker's father's brother;fFB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's sister;fFZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's brother;fMB;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's mother's sister;fMZ;;;;;;;;;;;;;;;;;;
+ParentsSiblings;female speaker's father's older brother;fFeB;kuγə̑za;кугыза;;0;;;;Mari-specific;SMJ3: 81;;;;4;;;Colloquial. Compound, 1st component kuγu 'big, great', second iza 'elder brother', cf. meB;;
+ParentsSiblings;female speaker's father's older brother;fFeB;kuγu čüčü;кугу чӱчӱ;;0;;;;Mari-specific;SMJ3: 77;;;;5;;;phrasal kuγu 'big' and čüčü '(maternal) uncle';;
+ParentsSiblings;female speaker's father's younger brother;fFyB;iza;иза;;0;;;;Mari-specific;SMJ2:15;;;;1;;;;;
+ParentsSiblings;female speaker's father's older sister;fFeZ;koka;кока;;0;;One of the constituents is borrowed;;Mari-specific;SMJ2: 381;;;;2;;;compound, 1st component kuγu 'big, great', second aka 'elder sister', cf. meZ;;
+ParentsSiblings;female speaker's father's younger sister;fFyZ;aka;ака;aGaj;4;;;Chuvash;13th century AD onwards;SMJ1: 53;Räsänen 1920: 112;;replacement;1;;;;;
+ParentsSiblings;female speaker's mother's older sister;fMeZ;koka;кока;;0;;One of the constituents is borrowed;;Mari-specific;SMJ2: 381;;;;2;;;compound, 1st component kuγu 'big, great', second aka 'elder sister', cf. meZ;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;aka;ака;aGaj;4;;;Chuvash;13th century AD onwards;SMJ1: 53;Räsänen 1920: 112;;replacement;1;;;;;
+ParentsSiblings;female speaker's mother's younger sister;fMyZ;akalijše;акалийше;;0;;One of the constituents is borrowed;;Mari-specific;SMJ1: 53;;;;4;;;"compound of aka 'older sister; mother's or father's younger sister' and lijše 'being'";;
+ParentsSiblings;female speaker's mother's older brother;fMeB;kuγə̑za;кугыза;;0;;;;Mari-specific;SMJ3: 81;;;;4;;;Colloquial. Compound, 1st component kuγu 'big, great', second iza 'elder brother', cf. meB;;
+ParentsSiblings;female speaker's mother's older brother;fMeB;kuγu čüčü;кугу чӱчӱ;;0;;;;Mari-specific;SMJ3: 77;;;;5;;;phrasal kuγu 'big' and čüčü '(maternal) uncle';;
+ParentsSiblings;female speaker's mother's younger brother;fMyB;čüčü;чӱчӱ;;0;;;;Inherited, PU *čečä;SMJ8: 457;;;;1;;;;;
+SiblingsChildren;female speaker's brother's son;fBS;tukə̑mšolʹo;тукымшольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 72;;;4;;;"compound of tukə̑m 'род; ряд поколений, происходящих от одного предка' and šolʹo 'younger brother'";;
+SiblingsChildren;female speaker's brother's daughter;fBD;tukə̑mšüžar;тукымшӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 72;;;4;;;"compound of tukə̑m 'род; ряд поколений, происходящих от одного предка' and šüžar 'younger sister'";;
+SiblingsChildren;female speaker's sister's son;fZS;tukə̑mšolʹo;тукымшольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 72;;;4;;;"compound of tukə̑m 'род; ряд поколений, происходящих от одного предка' and šolʹo 'younger brother'";;
+SiblingsChildren;female speaker's sister's daughter;fZD;tukə̑mšüžar;тукымшӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 72;;;4;;;"compound of tukə̑m 'род; ряд поколений, происходящих от одного предка' and šüžar 'younger sister'";;
+SiblingsChildren;female speaker's older brother's son;feBS;izan erγə̑že;изан эргыже;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's younger brother's son;fyBS;šolʹə̑n erγə̑že;шольын эргыже;;0;;Constituents are borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's older brother's daughter;feBD;izan üδə̑ržö;изан ӱдыржӧ;;0;;;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's younger brother's daughter;fyBD;šolʹə̑n üδə̑ržö;шольын ӱдыржӧ;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's older sister's son;feZS;akan erγə̑že;акан эргыже;;0;;Constituents are borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's younger sister's son;fyZS;šüžarə̑n erγə̑že;шӱжарын эргыже;;0;;Constituents are borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's older sister's daughter;feZD;akan üδə̑ržö;акан ӱдыржӧ;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+SiblingsChildren;female speaker's younger sister's daughter;fyZD;šüžarə̑n üδə̑ržö;шӱжарын ӱдыржӧ;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;;;;5;X-GEN X-3SG.POSS;;;;
+Cousins;female speaker's father's sister's daughter;fFZD;urlə̑k aka;урлык ака;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m aka;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and aka 'older sister'";;
+Cousins;female speaker's father's sister's daughter;fFZD;urlə̑k šüžar;урлык шӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šüžar;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šüžar 'younger sister'";;
+Cousins;female speaker's father's brother's daughter;fFBD;urlə̑k aka;урлык ака;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m aka;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and aka 'older sister'";;
+Cousins;female speaker's father's brother's daughter;fFBD;urlə̑k šüžar;урлык шӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šüžar;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šüžar 'younger sister'";;
+Cousins;female speaker's mother's brother's daughter;fMBD;urlə̑k aka;урлык ака;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m aka;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and aka 'older sister'";;
+Cousins;female speaker's mother's brother's daughter;fMBD;urlə̑k šüžar;урлык шӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šüžar;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šüžar 'younger sister'";;
+Cousins;female speaker's mother's sister's daughter;fMZD;urlə̑k aka;урлык ака;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m aka;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and aka 'older sister'";;
+Cousins;female speaker's mother's sister's daughter;fMZD;urlə̑k šüžar;урлык шӱжар;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šüžar;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šüžar 'younger sister'";;
+Cousins;female speaker's father's brother's son;fFBS;urlə̑k iza;урлык иза;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m iza;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and iza 'older brother'";;
+Cousins;female speaker's father's brother's son;fFBS;urlə̑k šolʹo;урлык шольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šolʹo;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šolʹo 'younger brother'";;
+Cousins;female speaker's father's sister's son;fFZS;urlə̑k iza;урлык иза;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m iza;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and iza 'older brother'";;
+Cousins;female speaker's father's sister's son;fFZS;urlə̑k šolʹo;урлык шольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šolʹo;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šolʹo 'younger brother'";;
+Cousins;female speaker's mother's brother's son;fMBS;urlə̑k iza;урлык иза;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m iza;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and iza 'older brother'";;
+Cousins;female speaker's mother's brother's son;fMBS;urlə̑k šolʹo;урлык шольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šolʹo;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šolʹo 'younger brother'";;
+Cousins;female speaker's mother's sister's son;fMZS;urlə̑k iza;урлык иза;;0;;One of the constituents is borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m iza;"older than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and iza 'older brother'";;
+Cousins;female speaker's mother's sister's son;fMZS;urlə̑k šolʹo;урлык шольо;;0;;Constituents are borrowed;;Mari-specific;BMRS;Räsänen 1923: 82;;;5;;tukə̑m šolʹo;"younger than ego, phrasal of urlə̑k 'род; группа людей, ряд поколений, происходящих от одного предка'  and šolʹo 'younger brother'";;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's son;fFeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's son;fFyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's son;fFeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's son;fFyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older brother's daughter;fFeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger brother's daughter;fFyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's older sister's daughter;fFeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's father's younger sister's daughter;fFyZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's son;fMeBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's son;fMyBS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's son;fMeZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's son;fMyZS;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older brother's daughter;fMeBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger brother's daughter;fMyBD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's older sister's daughter;fMeZD;;;;;;;;;;;;;;;;;;
+CousinsByParentsSiblingsAge;female speaker's mother's younger sister's daughter;fMyZD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older son;fFBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger son;fFByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older son;fFZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger son;fFZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's older daughter;fFBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's brother's younger daughter;fFByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's older daughter;fFZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's father's sister's younger daughter;fFZyD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older son;fMBeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger son;fMByS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older son;fMZeS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger son;fMZyS;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's older daughter;fMBeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's brother's younger daughter;fMByD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's older daughter;fMZeD;;;;;;;;;;;;;;;;;;
+CousinsBySpeakersRelativeAge;female speaker's mother's sister's younger daughter;fMZyD;;;;;;;;;;;;;;;;;;
+Affines;female speaker's spouse;fE;pelaš;пелаш;;0;;;;Mari-specific;SMJ4: 64;;;;3;;;derived from pel(e) 'half' < PU *pälä;;
+Affines;female speaker's husband;fH;marij;марий;;4;;;Iranian;?;SMJ4: 22;;? 'young man';;1;;ulʹmo (arch.);Iranian origin seems likely. Based on the vocalism the word is surpringly recent addition to Mari lexicon, which is difficult to explain;;
+Affines;female speaker's wife;fW;βate;вате;vaDə̑;3;;;Chuvash;13th century AD onwards;SMJ1: 189;Räsänen 1920: 120;source means 'old';replacement;1;;;Loanword status is somewhat dubious because the proposed original in Chuvash means 'old'. Superficial similarity with II, cf. OI vadhú- and Av. vaδu-, is probably coincidental, although 'husband' is most likely of Iranian origin;;
+Affines;female speaker's husband's father;fHF;ońo;оньо;χonə̑m;4;;;Chuvash;13th century AD onwards;SMJ4: 315;Räsänen 1920: 166;;replacement of PU *ëppə;1;;;;;
+Affines;female speaker's husband's father;fHF;ońača;оньача;;0;;Constituents are borrowed;;Mari-specific;SMJ4: 315;;;;4;;;compound of ońo 'father-in-law' and ača 'father';;
+Affines;female speaker's husband's mother;fHM;kuγo;куго;;0;;;;Mari-specific;SMJ3: 74–75;;;;2;;;the 1st component possibly kuγu;;
+Affines;female speaker's husband's mother;fHM;aβalijše;авалийше;;0;;One of the constituents is borrowed;;Mari-specific;SMJ1: 22;;;;4;;;compound of awa 'mother' and lijše 'being';;
+Affines;female speaker's husband's mother;fHM;ońaβa;оньава;;0;;Constituents are borrowed;;Mari-specific;SMJ4:315;;;;4;;;compound of ońo 'father-in-law' and awa 'mother';;
+Affines;female speaker's wife's father;fWF;ońo;оньо;χonə̑m;4;;;Chuvash;13th century AD onwards;SMJ4: 315;Räsänen 1920: 166;;replacement of PU *ëppə;1;;;;;
+Affines;female speaker's wife's father;fWF;ońə̑kuγə̑za;оньыкугыза;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ4: 316;;;;4;;;;;
+Affines;female speaker's wife's mother;fWM;aβalijše;авалийше;;0;;One of the constituents is borrowed;;Mari-specific;SMJ1: 22;;;;4;;;compound of awa 'mother' and lijše 'being';;
+Affines;female speaker's wife's mother;fWM;kuγo;куго;;0;;;;Mari-specific;SMJ3: 74–75;;;;2;;;the 1st component possibly kuγu, according to SMJ in this meaning dialectal.;;
+Affines;female speaker's wife's mother;fWM;ońə̑kuwa;оньыкува;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ4: 316;;;;4;;;compound ońo + kuβa 'old woman';;
+Affines;female speaker's brother's wife;fBW;;;;;;;;;;;;;;;;;;
+Affines;female speaker's older brother's wife;feBW;jeŋga;еҥга;ǯiŋgä;4;;;Tatar;14th century AD onwards;SMJ1: 436;Räsänen 1923: 30;;replacement of PU *käləw?;1;;;older brother's wife', perhaps borrowed through Chuvash;;
+Affines;female speaker's younger brother's wife;fyBW;šeške;шешке;;0;;;;Mari-specific;SMJ9: 111;;;;1;;;younger brother's wife', also 'daughter-in-law';;
+Affines;female speaker's sister's husband;fZH;;;;;;;;;;;;;;;;;;
+Affines;female speaker's older sister's husband;feZH;kurska;курска;kərü;0;;One of the constituents is borrowed;Chuvash;13th century AD onwards;SMJ3: 156;Räsänen 1920: 151;;;2;;;elder sister's husband', also 'parent's younger sister's husband';;
+Affines;female speaker's younger sister's husband;fyZH;βeŋe;веҥе;;0;;;;Inherited, PU *wäŋəw;SMJ1: 212;;;;1;;;younger sister's husband', also 'son-in-law';;
+Affines;female speaker's wife's brother;fWB;;;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's older brother;fWeB;ońə̑ska;оньыска;χońə̑ska;4;;;Chuvash;13th century AD onwards;SMJ4: 316;Räsänen 1923: 166;;replacement;1;;;wife's older brother';;
+Affines;female speaker's wife's younger brother;fWyB;pörə̑ž;пӧрыж;;0;;;;Mari-specific;SMJ5: 240;;;;1;;;wife's younger brother';;
+Affines;female speaker's wife's sister;fWZ;;;;;;;;;;;;;;;;;;
+Affines;female speaker's wife's older sister;fWeZ;ońaka;оняка;χuńaGa;4;;;Chuvash;13th century AD onwards;SMJ4: 316;Räsänen 1920: 166;;coexistence;1;;;wife's older sister',;;
+Affines;female speaker's wife's younger sister;fWyZ;nuδo;нудо;;0;;;;Inherited, PU *nataw;SMJ4: 215;Aikio 2015: 55;;;1;;;wife's younger sister';;
+Affines;female speaker's husband's brother;fHB;;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's elder brother;fHeB;ońə̑ska;оньыска;χońə̑ska;4;;;Chuvash;13th century AD onwards;SMJ4: 316;Räsänen 1923: 166;;;1;;;husband's older brother';;
+Affines;female speaker's husband's younger brother;fHyB;pörə̑ž;пӧрыж;;0;;;;Mari-specific;SMJ5: 240;;;;1;;;husband's younger brother';;
+Affines;female speaker's husband's sister;fHZ;;;;;;;;;;;;;;;;;;
+Affines;female speaker's husband's elder sister;fHeZ;ońaka;оняка;χuńaGa;4;;;Chuvash;13th century AD onwards;SMJ4: 316;Räsänen 1920: 166;;coexistence;1;;;husband's older sister', a compound of ońo 'father-in-law' and aka 'older sister';;
+Affines;female speaker's husband's younger sister;fHyZ;nuδo;нудо;;0;;;;Inherited, PU *nataw;SMJ4: 215;Aikio 2015: 55;;;1;;;husband's younger sister';;
+Affines;female speaker's husband's younger sister;fHyZ;izüδə̑r;изӱдыр;;0;;;;Mari-specific;SMJ2: 26;;;;4;;;husband's younger sister', 'youngest of the sister-in-laws',  a compound of izi 'small' and üδə̑r 'girl, daughter';;
+Affines;female speaker's co-wife;fco-W;;;;;;;;;;;;;;;;;;
+Affines;female speaker's co-husband;fco-H;;;;;;;;;;;;;;;;;;
+Affines;female speaker's father's wife (not mother);fFW(notM);izaβa;изава;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ2: 15;;;;4;;;compound of izi 'small' and awa 'mother';;
+Affines;female speaker's father's wife (not mother);fFW(notM);aβaβel;ававел;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ1: 22;;;;4;;;compound of awa 'mother' and wel 'half' (< pel(e));;
+Affines;female speaker's mother's husband (not father);fMH(notF);ačaβel;ачавел;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ1: 120;;;;4;;;compound of ača 'father' and wel 'half' (< pel(e));;
+Affines;female speaker's mother's husband (not father);fMH(notF);ačalijše;ачалийше;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ1: 120;;;;4;;;compound of ača 'father' and lijše 'being';;
+Affines;female speaker's mother's husband (not father);fMH(notF);izača;изача;;0;;One of the constituents is borrowed;Chuvash;Mari-specific;SMJ2: 16;;;;4;;;compound of izi 'small' and ača 'father';;
+Affines;female speaker's son's wife;fSW;šeške;шешке;;0;;;;Mari-specific;SMJ9: 111;;;replacement of PU *mińä;1;;;also' younger brother's wife';;
+Affines;female speaker's son's wife's mother;fSWM;tulače;тулаче;tə̑χlaǯə̑;4;;;Chuvash;13th century AD onwards;SMJ7: 243;Räsänen 1920: 225;;insertion;1;;;;;
+Affines;female speaker's son's wife's father;fSWF;tular;тулар;*tə̑χlar;4;;;Chuvash;13th century AD onwards;SMJ7: 242;Räsänen 1920: 225;;insertion;1;;;According to Räsänen tə̑χlaǯə̑ is a diminutive of an earlier *tə̑χlar that is found in Mari but not preserved in Chuvash;;
+Affines;female speaker's daughter's husband;fDH;βeŋe;веҥе;;0;;;;Inherited, PU *wäŋəw;SMJ1: 212;;;;1;;;younger sister's husband', also 'son-in-law';;
+Affines;female speaker's daughter's husband's mother;fDHM;tulače;тулаче;tə̑χlaǯə̑;4;;;Chuvash;13th century AD onwards;SMJ7: 243;Räsänen 1920: 225;;insertion;1;;;;;
+Affines;female speaker's daughter's husband's father;fDHF;tular;тулар;*tə̑χlar;4;;;Chuvash;13th century AD onwards;SMJ7: 242;Räsänen 1920: 225;;insertion;1;;;;;
+Affines;female speaker's father's sister's husband;fFZH;kurska;курска;kərü;0;;One of the constituents is borrowed;Chuvash;13th century AD onwards;SMJ3: 156;Räsänen 1920: 151;;;2;;;elder sister's husband', also 'parent's younger sister's husband';;
+Affines;female speaker's father's brother's wife;fFBW;;;;;;;;;;;;;;;;;;
+Affines;female speaker's mother's sister's husband;fMZH;kurska;курска;kərü;0;;One of the constituents is borrowed;Chuvash;13th century AD onwards;SMJ3: 156;Räsänen 1920: 151;;;2;;;elder sister's husband', also 'parent's younger sister's husband';;
+Affines;female speaker's mother's brother's wife;fMBW;čüčüńö;чӱчӱньӧ;;0;;;;Mari-specific;SMJ8: 457;;;;3;;;mother's younger brother's wife', derived from čüčü 'mother's brother';;
+Affines;female speaker's wife's sister's husband;fWZH;posana;посана;poźana, puźana;4;;;Chuvash;13th century AD onwards;SMJ5: 197;Räsänen 1920: 180;;;1;;;;;
+Affines;female speaker's husband's brother's wife;fHBW;akaβel;акавел;;0;;One of the constituents is borrowed;;Mari-specific;SMJ1: 53;;;;4;;;husband's older brother's wife' compound of aka 'elder sister' and wel 'half' (< pel(e));;
