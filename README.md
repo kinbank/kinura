@@ -1,12 +1,9 @@
 Kinura
 ============================
 
-
-[![DOI](https://zenodo.org/badge/379448021.svg)](https://zenodo.org/badge/latestdoi/379448021)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7233035.svg)](https://doi.org/10.5281/zenodo.7233035)
 
 This repository contains kinship terminology from the Kinura project. 
-
 
 To add a new language:
 ----------------------
